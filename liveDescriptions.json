@@ -59,19 +59,15 @@
    "type": "none",
    "editor": {
     "en": {
-     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.",
+     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.",
      "secondary": ""
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1707148573263,
+      "lastUpdate": 1731154236855,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670255872621,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -79,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1707151025406,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2687,14 +2683,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Requires a <stasis/>Stasis Super Ability to be equipped.\n\nScoring 2? <stasis/>Stasis Kills within ? seconds of each grants a Stack of <stasis/>Frost Armor.\n\nGaining Stacks of <stasis/>Frost Armor through any source restores ? HP.\n\nReplaces Barricade with Glacial Guard with a cooldown matching Towering Barricade's.\n\nOn Glacial Guard Cast:\n• Grants you maximum <stasis/>Frost Armor Stacks\n• Applies <pve 100 /> <pvp [?] /> <stasis/>Slow Stacks to enemies within ? meters",
+     "main": "Requires a <stasis/>Stasis Super Ability to be equipped.\n\nScoring 2 <stasis/>Stasis Kills within 3 seconds of each grants a Stack of <stasis/>Frost Armor.\n\nRestores 10 HP for each Stack of <stasis/>Frost Armor you gain from any source.\n\nReplaces Barricade with Glacial Guard which has a cooldown matching Towering Barricade's. Does not work with <arc/>Thruster.\n\nOn Glacial Guard Cast:\n• Grants you maximum <stasis/>Frost Armor Stacks (restoring HP for each Stack gained)\n• Applies <pve 100 /> <pvp [40] /> <stasis/>Slow to enemies within ? meters",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729680722618,
+      "lastUpdate": 1731164690304,
       "updatedBy": "Stardust"
      }
     },
@@ -2704,7 +2700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729681695599,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5760,19 +5756,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists up to the maximum of 5 Stacks.\n\nAfter not having scored further Finisher or (Glaive) Melee Kills for 2 seconds, your Stacks start decaying one at a time over 9.5|10|4|4|3 seconds for the 1st|...|5th Stacks.\n\nDamage Buff at 1|2|3|4|5 Stacks:\n• Melee: 55%|110%|165%|220%|275%\n• Glaive Melee: 40%|80%|120%|160%|200%\n• <pve Weapon, PVE />: 0%|20%|25%|30%|35%\n• <pvp Weapon, PVP />: 0%|0%|20%|25%|25%\n\nWeapon damage increases are <link Empowering Buffs [#DamageBuffs] />.",
+     "main": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists. Maximum of 5 Stacks.\n\nAfter not having scored further Finisher or (Glaive) Melee Kills for 2 seconds, your Stacks start decaying one at a time over 9.5|10|4|4|3 seconds for the 1st|...|5th Stacks.\n\nDamage Buff at 1|2|3|4|5 Stacks:\n• Melee: 55%|110%|165%|220%|275%\n• Glaive Melee: 40%|80%|120%|160%|200%\n• <pve Weapon, PVE />: 0%|20%|25%|30%|35%\n• <pvp Weapon, PVP />: 0%|0%|20%|25%|25%\n\nWeapon damage increases are <link Empowering Buffs [#DamageBuffs] />.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715796915957,
+      "lastUpdate": 1731165210468,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670530358086,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -5781,7 +5773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10185,14 +10177,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Replaces your Class Ability with Shift if you have a <stasis/>Stasis Super equipped.\n\nShift effectively acts as a fast horizontal teleport and has a travel distance of 10 meters. Shift renders you completely invisible (except for a trail) and invulnerable for the duration of the animation.\n\nShift usage grants 4 Stacks of <arc/>Arc and <stasis/>Stasis Weapon Surge for 11 seconds.\n\nShift usage uniquely grants <yellow Lord of Wolves /> 4 Stacks of <solar/>Solar Weapon Surge for 11 seconds.\n\nClass Ability Energy is locked to 0% while the Weapon Surge buff is active.",
+     "main": "Replaces Gambler's and Marksman's Dodge with Shift if you have a <stasis/>Stasis Super equipped. (Does not work with <solar/>Acrobat's Dodge)\n\nShift effectively acts as a fast horizontal teleport and has a travel distance of 10 meters. Shift renders you completely invisible (except for a trail) and invulnerable for the duration of the animation.\n\nShift usage grants 4 Stacks of <arc/>Arc and <stasis/>Stasis Weapon Surge for 11 seconds.\n\nShift usage uniquely grants <yellow Lord of Wolves /> 4 Stacks of <solar/>Solar Weapon Surge for 11 seconds.\n\nClass Ability Energy is locked to 0% while the Weapon Surge buff is active.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723394653976,
+      "lastUpdate": 1731154801297,
       "updatedBy": "Stardust"
      }
     },
@@ -10202,7 +10194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10967,14 +10959,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Weapon Hits grant Grenade, Melee, and Class Ability Energy.\n\nIncandescent <solar/>Scorch ticks and Chain Reaction or Dragonfly elemental explosions count as hits.\n\nAbility Energy gains on hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)",
+     "main": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\n\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1696793080300,
+      "lastUpdate": 1731006037662,
       "updatedBy": "Stardust"
      }
     },
@@ -10984,7 +10976,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1696803216819,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11692,19 +11684,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or Ballistic Slam) Melee Ability charge:\nCharges up a 75 HP Overshield over 3 seconds.\n\nOvershield is instantly removed if no longer sprinting. \n\nGrants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating.",
+     "main": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or <arc/>Ballistic Slam) Melee Ability charge:\nCharges up a 75 HP Overshield over 3 seconds. This overrides <void/>Void Overshield if active.\n\nOvershield is instantly removed if no longer sprinting. \n\nGrants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1681768042918,
+      "lastUpdate": 1731165052568,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670511409117,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -11713,7 +11701,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1686224473621,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13658,14 +13646,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants <stasis/>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5?% longer and faster. \n\nDamaging an enemy with <stasis/>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\n/* Damaging an enemy with <stasis/>Coldsnap, <arc/>Storm, <strand/>Threadling, or <void/>Vortex Grenades grants Grenade Ability Energy.\n\n<void/>Vortex Grenades have a 0.8 seconds cooldown between activations.\n\nHealing yourself or allies with a <solar/>Healing Grenade grants 12% Grenade Ability Energy.\n\n<stasis/>Coldsnap | {<arc/>Storm|<strand/>Threadling|<void/>Vortex} Grenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7% | 5%\n• Tier 1 (T1) Minors: 10% | 3%\n• T2 Minors, T1 Elites: 22% | 5.7%\n• T3 Minors, T2 Elites: 34% | 8.4%\n• T4 Minors, T3 Elites, and higher: 50% | 12%\n*/",
+     "main": "Grants <stasis/>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster. \n\nDamaging an enemy with <stasis/>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\n/* Damaging an enemy with <stasis/>Coldsnap, <arc/>Storm, <strand/>Threadling, or <void/>Vortex Grenades grants Grenade Ability Energy.\n\n<void/>Vortex Grenades have a 0.8 seconds cooldown between activations.\n\nHealing yourself or allies with a <solar/>Healing Grenade grants 12% Grenade Ability Energy.\n\n<stasis/>Coldsnap | {<arc/>Storm|<strand/>Threadling|<void/>Vortex} Grenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7% | 5%\n• Tier 1 (T1) Minors: 10% | 3%\n• T2 Minors, T1 Elites: 22% | 5.7%\n• T3 Minors, T2 Elites: 34% | 8.4%\n• T4 Minors, T3 Elites, and higher: 50% | 12%\n*/",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729103086469,
+      "lastUpdate": 1729877163423,
       "updatedBy": "Stardust"
      }
     },
@@ -13675,7 +13663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15664,23 +15652,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Hits against non-Matching Element or Barrier Champion Shields deal increasingly higher damage.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\nDamage increase per Weapon Archetype:\n• Fusion Rifles: #e${29 * #d}% per hit, up to #e${435 * #d}%\n• Machine Guns, Auto/Pulse/Trace Rifles: #e${33.333 * #d}% per hit, up to #e${500 * #d}%\n• Linear Fusion Rifles: #e${150 * #d}% per hit, up to #e${450 * #d}%\n• Bows, Glaives, Hand Cannons, Scout Rifles: #e${166.6666 * #d}% per hit, up to #e${500 * #d}%\n\nenhanced (\nvar d = 1.2\n#e The damage buff is increased by 20%. (e.g. 150% 🠚 180%)\n)",
+     "main": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\nDamage increase by Weapon Archetype:\n• Fusion Rifles: #e${29 * #d}% per hit, up to #e${435 * #d}%\n• Machine Guns, Auto/Pulse/Trace Rifles: #e${33.333 * #d}% per hit, up to #e${500 * #d}%\n• Linear Fusion Rifles: #e${150 * #d}% per hit, up to #e${450 * #d}%\n• Bows, Glaives, Hand Cannons, Scout Rifles: #e${166.6666 * #d}% per hit, up to #e${500 * #d}%\n\nenhanced (\nvar d = 1.2\n#e The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712880334715,
+      "lastUpdate": 1730995398937,
       "updatedBy": "Stardust"
-     },
-     "es": {
-      "lastUpdate": 1665682073849,
-      "updatedBy": "miniatimat"
-     },
-     "zh-chs": {
-      "lastUpdate": 1674178825836,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -15689,7 +15669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712883202187,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16798,14 +16778,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Aiming Down Sights for #e${1.5-#d} seconds without firing causes your Direct Hit to apply <void/>Weaken.\n\nTimer starts as soon as ADS input is pressed.\n\nenhanced (\nvar d = 0.1\n#e Activation time is decreased by 0.1? seconds.\n)",
+     "main": "Aiming Down Sights for #e${1.5-#d} seconds without firing causes your next Direct Hit to apply <void/>Weaken.\n\nTimer starts as soon as ADS input is pressed.\n\nenhanced (\nvar d = 0.1\n#e Activation time is decreased by 0.1 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729347191687,
+      "lastUpdate": 1731005872069,
       "updatedBy": "Stardust"
      }
     },
@@ -16815,7 +16795,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17108,19 +17088,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Being within 15 meters of 3+ enemies grants the 'Biotic Enhancements' buff for 5 seconds.\n\nBiotic Enhancements benefits:\n• ? Handling and 35 Reload Speed\n• 50% increased Super damage\n• <pve 165% /> <pvp [100%] /> increased Melee damage\n• 100% increased Glaive Melee damage",
+     "main": "Being within 15 meters of 3+ enemies grants the 'Biotic Enhancements' buff for 5 seconds.\n\nBiotic Enhancements benefits:\n• 35? Handling and 35 Reload Speed\n• 50% increased Super damage\n• <pve 165% /> <pvp [100%] /> increased Melee damage\n• 100% increased Glaive Melee damage",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717532760300,
+      "lastUpdate": 1731783824767,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1664420642820,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -17129,7 +17105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17791,14 +17767,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• ? to ? Handling\n• ${5*#d}?% to ${10*#d}?% decreased Accuracy Cone Size\n//• ?% to ?% decreased <title Accuracy Cone Growth [G_conegrowth] />\n\nenhanced (\nvar d = 1 // add #e once we have more numbers\n#e Stronger effect.\n)",
+     "main": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• 30? to 50? Handling\n• 0.9x to 0.8x Handling Animation Duration Multiplier\n• ${5*#d}?% to ${10*#d}?% decreased Accuracy Cone Size\n//• ?% to ?% decreased <title Accuracy Cone Growth [G_conegrowth] />\n\nenhanced (\nvar d = 1 // add #e once we have more numbers\n#e Stronger effect.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535932988,
+      "lastUpdate": 1731002982107,
       "updatedBy": "Stardust"
      }
     },
@@ -17808,7 +17784,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -19018,14 +18994,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Explosion releases 8 Cluster Bombs.\n\nEach Cluster Bomb deals <pve 50 /> <pvp [?] /> damage.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
+     "main": "Rocket detionations release 8 Cluster Bombs.\n\nEach Cluster Bomb deals up to <pve 50 /> <pvp [11] /> damage in a 4 meter radius.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721147435042,
+      "lastUpdate": 1731003151689,
       "updatedBy": "Stardust"
      }
     },
@@ -19035,7 +19011,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20480,19 +20456,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within ? meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace.",
+     "main": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1690725237490,
+      "lastUpdate": 1731153049965,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670675899382,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -20501,7 +20473,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1690730562123,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21235,14 +21207,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "While standing in a Rift or a <solar/>Well of Radiance:\n• Grants 4 Stacks of Super-Matching Weapon Surge\n• Damaging enemies marks them for ? seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)\n• Kills grant 'Blood Magic' for 5 seconds. Maximum of 15 seconds.\n\nBlood Magic pauses the duration of Rifts for as long as it is active. Doesn't apply to Well of Radiance.",
+     "main": "While standing in a Rift or a <solar/>Well of Radiance:\n• Grants 4 Stacks of Super-Matching Weapon Surge\n• Damaging enemies marks them for 5 seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)\n• Kills grant 'Blood Magic' for 5 seconds. Maximum of 15 seconds.\n\nBlood Magic pauses the duration of Rifts for as long as it is active. Doesn't apply to Well of Radiance.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729103818377,
+      "lastUpdate": 1731153763383,
       "updatedBy": "Stardust"
      }
     },
@@ -21252,7 +21224,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21673,14 +21645,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills reduce Pellet Spread by 20% for #e${7.5+#d} seconds.\n\nBuff duration cannot be refreshed.\n\nenhanced (\nvar d = 1\nvar f = 5\n#e Buff duration is increased by 1 second.\n)",
+     "main": "Kills with the weapon reduce Pellet Spread by 20% for #e${7.5+#d} seconds.\n\nBuff duration cannot be refreshed.\n\nenhanced (\nvar d = 1\nvar f = 5\n#e Buff duration is increased by 1 second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712003804558,
+      "lastUpdate": 1731002380445,
       "updatedBy": "Stardust"
      }
     },
@@ -21690,7 +21662,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712008312346,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22472,14 +22444,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Every #e${4-#d} seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\n\nCan overfill the Magazine up to double the normal capacity. Works even while stowed.\n\nenhanced (\nvar d = 0.5\n#e Loading delay is decreased by 0.5 seconds.\n)",
+     "main": "Every #e${6-#d} seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\n\nCan overfill the Magazine up to double the normal capacity. Works even while stowed.\n\nenhanced (\nvar d = 0.5\n#e Loading delay is decreased by 0.5 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722264120521,
+      "lastUpdate": 1730995102250,
       "updatedBy": "Stardust"
      }
     },
@@ -22489,7 +22461,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -23684,19 +23656,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grants the following for #e${2+#d} seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nenhanced (\nvar d = 0.5\n#e Buff duration is increased by 0.5 seconds.\n)",
+     "main": "Grants the following for #e${2+#d} seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration.\n\nenhanced (\nvar d = 0.5\n#e Buff duration is increased by 0.5 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712878511774,
+      "lastUpdate": 1729876355035,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670501268546,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -23705,7 +23673,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712883202187,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24204,14 +24172,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Diamond Lance creates a <stasis/>Stasis Crystal on impact. Hitting an <link Elite or higher tier Combatant [#CombatantClassifications] /> creates 2 additional <stasis/>Stasis Crystals.\n\nWith a <stasis/>Stasis Super Ability and while standing behind a Rally Barricade:\nScoring a Precision Kill or 3 Precision Hits within ? seconds of each spawns a <stasis/>Diamond Lance next to you.\n\nShares a cooldown with the <stasis/>Diamond Lance Aspect but using the Aspect is not required.",
+     "main": "Diamond Lance creates a <stasis/>Stasis Crystal on impact. Hitting an <link Elite or higher tier Combatant [#CombatantClassifications] /> creates 2 additional <stasis/>Stasis Crystals.\n\nWith a <stasis/>Stasis Super Ability and while standing behind a Rally Barricade:\nScoring a Kill or 3 Precision Hits within ? seconds of each spawns a <stasis/>Diamond Lance next to you.\n\nShares a cooldown with the <stasis/>Diamond Lance Aspect but using the Aspect is not required.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535789376,
+      "lastUpdate": 1731155392953,
       "updatedBy": "Stardust"
      }
     },
@@ -24221,7 +24189,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24735,23 +24703,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Casting your Barricade restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you.\n\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\n\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• <void/>Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)",
+     "main": "Class Ability usage restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you.\n\n5 second cooldown between activations.\n\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\n\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• <void/>Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712170094490,
+      "lastUpdate": 1731155603108,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665686473705,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670529121421,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -24760,7 +24720,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712174090388,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24971,14 +24931,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for ${5.5+#d} seconds. //add #e once known\n\nStacks with all other Buffs and Debuffs (including itself).\n\nenhanced (\nvar d = 0 //placeholder\n#e Debuff Duration is increased.\n)",
+     "main": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for <pve ${5.5+#d} /> <pvp [5] /> seconds. //add #e once known\n\nStacks with all other Buffs and Debuffs (including itself).\n\nenhanced (\nvar d = 0.0 //placeholder\n#e Debuff Duration is increased in PVE.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721148875052,
+      "lastUpdate": 1731003699777,
       "updatedBy": "Stardust"
      }
     },
@@ -24988,7 +24948,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27653,14 +27613,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nKills charge up Blastwave Striders, reaching 100% charge after 10? Kills. <yellow Alethonym />'s Vestiges grant ?% charge on pickup.\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting maximum <stasis/>Frost Armor stacks.\n\nEach Projectile deals ? damage and spawns a <stasis/>Stasis Crystal on impact.",
+     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• <link Minor [#CombatantClassifications] /> PVE Combatant Kills: 7.5%\n• <link Elite or higher tier [#CombatantClassifications] /> PVE Combatant Kills: 15%\n• Collecting <yellow Alethonym />'s Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting maximum <stasis/>Frost Armor stacks.\n\nEach Projectile deals <pve 660 /> <pvp [?] /> damage and spawns a <stasis/>Stasis Crystal on impact.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729681318827,
+      "lastUpdate": 1729877429597,
       "updatedBy": "Stardust"
      }
     },
@@ -27670,7 +27630,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729681695599,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27794,14 +27754,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Enhances <stasis/>Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium <stasis/>Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a <stasis/>Stasis Storm in a ? meter radius\n\nStanding in the <stasis/>Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\n\nShooting consumes a Stack of Icicle, releasing a <stasis/>Stasis Projectile that deals <pve 50 /> <pvp [?] /> damage and applies 50 <stasis/>Slow Stacks for ? seconds.\n\nIcicle can fire every 0.2 seconds. Icicle Stacks expire within 2 seconds of leaving the <stasis/>Stasis Storm.",
+     "main": "Enhances <stasis/>Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium <stasis/>Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a <stasis/>Stasis Storm in a ? meter radius\n\nStanding in the <stasis/>Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\n\nShooting consumes a Stack of Icicle, releasing a <stasis/>Stasis Projectile that deals <pve 50 /> <pvp [?] /> damage and applies <pve 50 /> <pvp [20] /> <stasis/>Slow Stacks for ? seconds.\n\nIcicle can fire every 0.2 seconds. Icicle Stacks expire if you leave the <stasis/>Stasis Storm for more than 2 seconds.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729536004330,
+      "lastUpdate": 1731153712818,
       "updatedBy": "Stardust"
      }
     },
@@ -27811,7 +27771,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29241,23 +29201,15 @@
    "type": "Weapon Perk",
    "editor": {
     "en": {
-     "main": "Grants 5% increased damage against PvE Combatant Shields. Bullets overpenetrate enemies once.",
+     "main": "Grants 5% increased damage against Elemental and <barrier/>Barrier Champion Shields.\n\nAllows bullets to overpenetrate enemies once.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715302237545,
+      "lastUpdate": 1731002245603,
       "updatedBy": "Stardust"
-     },
-     "es": {
-      "lastUpdate": 1665683033126,
-      "updatedBy": "miniatimat"
-     },
-     "zh-chs": {
-      "lastUpdate": 1668783995013,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -29266,7 +29218,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715302249608,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30318,14 +30270,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Scoring multiple Kills with the weapon spawns a Dark Ether Charge at the target's location. ? second cooldown between Charge spawns.\n\nCharge spawning progress on Kill by <link Enemy Rank [#CombatantClassifications] />:\nMinors: 25% | Elites: ?% | Minibosses and higher: 100% | Players: ?%\n\nDark Ether Charges last 5? seconds and can be detonated by shooting or coming into contact with them.\n\nDetonations deal <pve ALot™ /> <pvp [?] /> elemental damage in a ? meter radius and match the weapon's element. Damage is always attributed to the Charge's creator regardless of who destroys them.\n\nDetonating Charges <title refills [G_refill] /> and overfills the magazines of all equipped Dark Eather Reaper weapons from reserves up to 140% capacity (rounded up).",
+     "main": "Scoring multiple Kills with the weapon spawns a Dark Ether Charge at the target's location. ? second cooldown between Charge spawns.\n\nCharge spawning progress on Kill by <link Enemy Rank [#CombatantClassifications] />:\nMinors and Players: 25% | Elites: ?% | Minibosses and higher: 100%\n\nDark Ether Charges last 5? seconds and can be detonated by shooting or coming into contact with them.\n\nDetonations deal up to <pve 386 /> <pvp [50] /> elemental damage in a 3? meter radius and match the weapon's element. Detonations inherit the weapon's <link Combatant Damage Scaling [#CombatantScaling] />.\n\nDamage is always attributed to the Charge's creator regardless of who destroys them.\n\nDetonating Charges <title refills [G_refill] /> and overfills the magazines of all equipped Dark Eather Reaper weapons from reserves up to 140% capacity (rounded up).",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729020123150,
+      "lastUpdate": 1731006435217,
       "updatedBy": "Stardust"
      }
     },
@@ -30335,9 +30287,9 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": true
+   "lastUpload": 1731783952563,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "2045123179": {
    "hash": 2045123179,
@@ -33734,14 +33686,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up). Average of a ${30*#d}% overfill.\n\nenhanced (\nvar d = 1.1\n#e Improves the average overfill amount by 10%. (30%⁠🠚⁠33%)\n)",
+     "main": "Reloading randomly overfills the Magazine from reserves by #e${10*#d}% to 50% of the base Magazine Capacity (rounded up).\n\nWorks out to a #e${30*#f}% overfill on average.\n\nenhanced (\nvar d = 1.3\nvar f = 1.05\n#e Increases the minimum overfill amount by 30%. (10%⁠🠚⁠13%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721147412546,
+      "lastUpdate": 1731781580201,
       "updatedBy": "Stardust"
      }
     },
@@ -33751,7 +33703,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33819,14 +33771,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Triggering 'Support Frame Boost' by healing allies with the weapon grants <pve 25%  /> <pvp [12.5%] /> increased damage for #e${10+#d} seconds.\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1 second.\n)",
+     "main": "Triggering 'Support Frame Boost' by healing allies with the weapon grants <pve 25% /> <pvp [12.5%] /> increased damage for #e${10+#d} seconds.\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1 second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727524688109,
+      "lastUpdate": 1731002878886,
       "updatedBy": "Stardust"
      }
     },
@@ -33836,7 +33788,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34285,14 +34237,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of High Ground for 7 seconds. Maximum of 3 Stacks.\n\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nDamage increases at 1|2|3 Stacks:\n• <pve PVE: 10% | 17.5% | 25% />\n• <pvp PVP: N/A | ? | 15% />\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
+     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<pve 10% /> <pvp [N/A] /> | <pve 17.5% /> <pvp [?%] /> | <pve 25% /> <pvp [10%] /> \n\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722179677548,
+      "lastUpdate": 1731003936834,
       "updatedBy": "Stardust"
      }
     },
@@ -34302,7 +34254,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36045,14 +35997,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "While a <stasis/>Stasis Super Ability is equipped:\nBarricade is replaced with a <stasis/>Stasis Crystal Wall.\n\nThe <stasis/>Wall is made of a Small <stasis/>Crystal in the middle and 2 Medium <stasis/>Crystals on either side of it.\n\nApplies Rally Barricade benefits to players standing behind the middle <stasis/>Crystal for 14 seconds, even if destroyed. Overrides Class Ability cooldown with Towering Barricade's.",
+     "main": "While a <stasis/>Stasis Super Ability is equipped:\nClass Abilities are replaced by a <stasis/>Stasis Crystal formation.\n\nWhen used with Rally or Towering Barricade:\n• Spawns a <stasis/>Stasis Crystal Wall made of a Small <stasis/>Crystal in the middle and 2 Medium <stasis/>Crystals on either side of it\n• Grants Rally Barricade benefits to players standing behind the middle <stasis/>Crystal for 14 seconds, even if destroyed.\n• Overrides Class Ability cooldown with Towering Barricade's\n\nWhen used with <arc/>Thruster:\n• Spawns 2 Medium <stasis/>Crystals diagonally forward to either side of you",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535847727,
+      "lastUpdate": 1731164177137,
       "updatedBy": "Stardust"
      }
     },
@@ -36062,7 +36014,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36924,19 +36876,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "After Aiming Down Sights for #e${1.5-#d} seconds without firing, for one shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\n\nTimer starts as soon as the ADS input is pressed.\n\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)\n\nenhanced (\nvar d = 0.1\n#e Activation time is reduced by 0.1 seconds.\n)",
+     "main": "After Aiming Down Sights for #e${1.5-#d} seconds without firing, for a single shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\n\nTimer starts as soon as the ADS input is pressed.\n\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)\n\nenhanced (\nvar d = 0.1\n#e Activation time is reduced by 0.1 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1709214379076,
+      "lastUpdate": 1731002518141,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670251345076,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -36945,7 +36893,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709226265485,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37203,14 +37151,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<stasis/>Withering Blade Hits and bounces spawn a Small <stasis/>Stasis Crystal and grant 7.5% Melee Ability Energy.\n\nShattering a <stasis/>Stasis Crystal or <stasis/>Frozen Enemy with <stasis/>Withering Blade releases a spread of 3 <stasis/>Withering Blades.",
+     "main": "<stasis/>Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small <stasis/>Stasis Crystal.\n\nShattering a <stasis/>Stasis Crystal or <stasis/>Frozen Enemy with <stasis/>Withering Blade releases a spread of 3 <stasis/>Withering Blades.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729680664893,
+      "lastUpdate": 1731154960702,
       "updatedBy": "Stardust"
      }
     },
@@ -37220,7 +37168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729681695599,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37702,14 +37650,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Kills with Weapons matching your Super Element grant 1.5 to 4.5% Super Energy based on <link Enemy Rank [#CombatantClassifications] />.\n\nWhile your Super is charged:\nKills with Weapons matching your Super's Element grant 4 Stacks of Subclass-Matching Weapon Surge for <pve 11 /> <pvp [6] /> seconds.",
+     "main": "Kills with Weapons matching your Super Element grant Super Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 1.5%\n• T2 Minors, T1 Elites: 2%\n• T3 Minors, T2 Elites: ?%\n• T4 Minors, T3 Elites, and higher: 2.5%\n• Players: ?%\n\nWhile your Super is charged:\nKills with Weapons matching your Super's Element grant 4 Stacks of Subclass-Matching Weapon Surge for <pve 11 /> <pvp [6] /> seconds.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723140297070,
+      "lastUpdate": 1731153436571,
       "updatedBy": "Stardust"
      }
     },
@@ -37719,7 +37667,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38672,14 +38620,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Dealing Ability Damage to an <link Elite, Miniboss, Boss, or Player [#CombatantClassifications] /> target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <pve 11 /> <pvp [6] /> seconds.\n\nWeapon Surge duration is not refreshable.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\nElemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.",
+     "main": "Dealing Ability Damage to an <link Elite, Miniboss, Boss, or Player [#CombatantClassifications] /> target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <pve 11 /> <pvp [6] /> seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with <solar/>Solar abilties.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\n#elementalPickup",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723393617251,
+      "lastUpdate": 1731154274299,
       "updatedBy": "Stardust"
      }
     },
@@ -38689,7 +38637,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39692,19 +39640,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants a Stack of Warlord's Sigil on (Glaive) Melee Kills for 5 seconds, increasing (Glaive) Melee damage.\n\n(Glaive) Melee damage increase at 1|2|3|4|5 Stacks:\n55% | 110% | 165% | 220% | 275%\n\nPVE Combatants hit by <stasis/>Penumbral Blast automatically shatter.",
+     "main": "(Glaive) Melee Kills grant a Stack of Warlord's Sigil for 5 seconds. Maximum of 5 Stacks.\n\n(Glaive) Melee damage increase at 1|2|3|4|5 Stacks:\n55% | 110% | 165% | 220% | 275%\n\nPVE Combatants hit by <stasis/>Penumbral Blast automatically shatter.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715796683506,
+      "lastUpdate": 1731153867609,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670530825062,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -39713,7 +39657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41752,14 +41696,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Kills with the weapon grant a Stack of Beacon Rounds for #e${6+#d} seconds. Maximum of 4 Stacks.\n\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\n\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\n\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% Increased Auto Aim Cone size\n\nenhanced (\nvar d = 1\n#e Buff duration is increased by 1? second.\n)",
+     "main": "Kills with the weapon grant a Stack of Beacon Rounds for #e${6+#d} seconds. Maximum of 4 Stacks.\n\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\n\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\n\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% increased Auto Aim Cone size\n\nenhanced (\nvar d = 1\n#e Buff duration is increased by 1? second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727530239365,
+      "lastUpdate": 1731002452042,
       "updatedBy": "Stardust"
      }
     },
@@ -41769,7 +41713,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42256,14 +42200,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<stasis/>Shattering enemies frozen by <stasis/>Winter's Wrath deals 100% increased damage regardless of who <stasis/>Shatters them.\n\nAllies within 30 meters receive the following for <pve 15 /> <pvp [6] /> seconds:\n• Maximum <stasis/>Frost Armor Stacks\n• 4 Stacks of <stasis/>Stasis Weapon Surge\n\nGrants maximum <stasis/>Frost Armor Stacks to you once <stasis/>Winter's Wrath ends.\n\nOn Rift Cast with the <stasis/>Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds alongside maximum <stasis/>Frost Armor Stacks\n• Grants ?% <stasis/>Winter's Wrath Super Energy for each ally that received the above benefits ",
+     "main": "Enemies frozen by <stasis/>Winter's Wrath receive 100% increased <stasis/>Shatter damage.\n\nUpon performing <stasis/>Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum <stasis/>Frost Armor Stacks and 4 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\n\nGrants maximum <stasis/>Frost Armor Stacks to you once <stasis/>Winter's Wrath ends.\n\nOn Rift Cast with the <stasis/>Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds alongside maximum <stasis/>Frost Armor Stacks\n• Grants 2% <stasis/>Winter's Wrath Super Energy for each ally that received the above benefits",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729102904699,
+      "lastUpdate": 1729876954217,
       "updatedBy": "Stardust"
      }
     },
@@ -42273,7 +42217,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -43341,14 +43285,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 50 <stasis/>Slow Stacks for <pve 4 /> <pvp [1.5] /> seconds (<pve 8 /> <pvp [2] /> with <stasis/>Whisper of Durance) to enemies within 4 meters of the target.\n\nRapid-Fire Fusion Rifles only apply 40 <stasis/>Slow Stacks.\n\nOnly activates once per shot/burst.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
+     "main": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 <stasis/>Slow Stacks for <pve 4 /> <pvp [1.5] /> seconds (<pve 8 /> <pvp [2] /> with <stasis/>Whisper of Durance) to enemies within 4 meters of the target.\n\nRapid-Fire Fusion Rifles only apply 40 <stasis/>Slow Stacks.\n\nOnly activates once per shot/burst.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721147099109,
+      "lastUpdate": 1731002788337,
       "updatedBy": "Stardust"
      }
     },
@@ -43358,7 +43302,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44845,14 +44789,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\n\nDealing damage with all 3 of your weapons without letting the timer run out grants you the 'Bait and Switch' buff for #e${10+#d} seconds, granting 30% increased damage.\n\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires.\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1 second.\n)",
+     "main": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\n\nDealing damage with all 3 of your weapons without letting the timer run out grants you 'Bait and Switch' for #e${10+#d} seconds, granting 30% increased damage.\n\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires.\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1 second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723380511301,
+      "lastUpdate": 1731002349517,
       "updatedBy": "Stardust"
      }
     },
@@ -44862,7 +44806,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46301,14 +46245,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Equipping multiple 2|3 Root of Nightmares weapons grants the following benefits:\n• <pve 3.33% /> <pvp [?%] /> | <pve 9.98% /> <pvp [?%] /> increased damage against enemies wielding Light and Darkness\n• 10 | 20 Handling\n• 0 | 20 Reload Speed\n• 0.95x Reload Duration Multiplier\n\nAffected enemies:\n• The Dread, Lucent Hive, and Nezarec\n• Enemy Players with their Super (or Transcendence?) active",
+     "main": "Equipping multiple 2|3 Root of Nightmares weapons grants the following benefits:\n• 3.33% | 10% increased damage against <pve The Dread, Lucent Hive, and Nezarec />\n• 10 | 20 Handling\n• 0 | 20 Reload Speed\n• 0.95x Reload Duration Multiplier\n\n/*Affected enemies:\n• The Dread, Lucent Hive, and Nezarec\n• Enemy Players with their Super (or Transcendence?) active*/",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722370383655,
+      "lastUpdate": 1731007145651,
       "updatedBy": "Stardust"
      }
     },
@@ -46318,7 +46262,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -47696,19 +47640,15 @@
    "type": "Weapon Perk",
    "editor": {
     "en": {
-     "main": "Increases Grenade Impact Damage:\n• 12.12% Increase on <special/>Special Grenade Launchers \n• 12.5% Increase on <heavy/>Heavy Grenade Launchers\n\nDue to the ratio of Detonation and Impact Damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase.\n\n/*Total Damage Increases:\n• Lightweight <special/>Special GLs at 95-100 BR: 10.8-10.1%\n• Double Fire <special/>Special GLs at 55-85 BR: 17.9-13.2%\n• Adaptive <heavy/>Heavy GLs at 45-100 BR: 11.2-6.3%\n• Rapid-Fire <heavy/>Heavy GLs at 15-100 BR: 13.9%-6.3%\n\nNote that these values won't necessarily be accurate if other damage perks that only affect Impact or Explosive Damage (like Explosive Light) are active.*/",
+     "main": "Increases Grenade Impact damage:\n• 12.12% increase on <special/>Special Grenade Launchers \n• 12.5% increase on <heavy/>Power Grenade Launchers\n\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase.\n\n/*Total Damage Increases:\n• Lightweight <special/>Special GLs at 95-100 BR: 10.8-10.1%\n• Double Fire <special/>Special GLs at 55-85 BR: 17.9-13.2%\n• Adaptive <heavy/>Heavy GLs at 45-100 BR: 11.2-6.3%\n• Rapid-Fire <heavy/>Heavy GLs at 15-100 BR: 13.9%-6.3%\n\nNote that these values won't necessarily be accurate if other damage perks that only affect Impact or Explosive Damage (like Explosive Light) are active.*/",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712003402339,
+      "lastUpdate": 1731782303824,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670338291735,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -47717,7 +47657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712008312346,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48533,14 +48473,14 @@
    "type": "Weapon Perk",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\n\nIncreases Destonation damage by 30% and decreases Impact damage by 85%.\n\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1676224644414,
+      "lastUpdate": 1731782511590,
       "updatedBy": "Stardust"
      }
     },
@@ -48550,7 +48490,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1676311977242,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50203,14 +50143,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Scoring a Precision Kill, 4 Weapon Kills, or scoring multiple Precision Hits grants a Stack of 'Exodus Rockets'. Maximum of 6 Stacks.\n\nClass Ability Usage consumes all Stacks, launching a homing rocket in exchange for each one. Rockets deal up to <pve 600 /> <pvp [28] /> Kinetic Damage.\n\nHits with each rocket grant a Stack of 'Enhanced Rockets' for 10 seconds, increasing \"rocket-type\" damage (<link Empowering Buff [#DamageBuffs] />).\n\nDamage increase at 1|2|…|6 Stacks:\n10% | 17% | 24% | 30% | 33% | 35%\n\nRocket-type damage includes: Rocket Launchers, Wolfpack Rounds (both Sword and Rocket versions), Rocket-Assisted Sidearms, Nanotech Tracer Rockets, <yellow Grand Overture />'s Missile Volley, <yellow Quicksilver Storm />'s Tracer Rocket\n\n'Exodus Rockets' Stack acquisition progress on Precision Hits by weapon type:\n• Trace Rifles: 10%\n• Auto Rifles and Machine Guns: 15%\n• Pulse Rifles, Sidearms, and <yellow Crimson />: 20%\n• Hand Cannons, Scout Rifles, and Shotguns: 40%\n• Bows, Linear Fusion Rifles, Rocket Sidearms, and Sniper Rifles: 67%\n\nStack acquisition progress doesn't reset upon gaining a Stack, all progress is kept until reaching 600% (max Stacks).\n",
+     "main": "Scoring a Precision Kill, 4 Weapon Kills, or scoring multiple Precision Hits grants a Stack of 'Exodus Rockets'. Maximum of 6 Stacks.\n\nClass Ability usage consumes all Stacks to launch a homing rocket per Stack consumed. Rockets deal up to <pve 600 /> <pvp [28] /> Kinetic Damage in a ? meter radius.\n\nHits with each rocket grant a Stack of 'Enhanced Rockets' for 10 seconds, increasing \"rocket-type\" damage (<link Empowering Buff [#DamageBuffs] />).\n\nDamage increase at 1|2|…|6 Stacks:\n10% | 17% | 24% | 30% | 33% | 35%\n\nRocket-type damage includes: Rocket Launchers, Wolfpack Rounds (both Sword and Rocket versions), Rocket-Assisted Sidearms, Nanotech Tracer Rockets, <yellow Grand Overture />'s Missile Volley, <yellow Quicksilver Storm />'s Tracer Rocket\n\n'Exodus Rockets' Stack acquisition progress on Precision Hits by weapon type:\n• Trace Rifles: 10%\n• Auto Rifles and Machine Guns: 15%\n• Pulse Rifles, Sidearms, and <yellow Crimson />: 20%\n• Hand Cannons, Scout Rifles, and Shotguns: 40%\n• Bows, Linear Fusion Rifles, Rocket Sidearms, and Sniper Rifles: 67%\n\nStack acquisition progress doesn't reset upon gaining a Stack, all progress is kept until reaching 600% (max Stacks).",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727528074229,
+      "lastUpdate": 1731163224242,
       "updatedBy": "Stardust"
      }
     },
@@ -50220,7 +50160,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50891,14 +50831,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "While in <arc/>Arc Staff Super:\n//• Decreases Passive Super Drain by 30%\n• Blocking doesn't consume Super Energy\n• Reflected projectiles deal 400% increased damage\n• Reflecting projectiles refunds Super Energy\n• Super can be deactivated at any time to preserve 50-75% of unspent Super Energy\n\nOn <arc/>Arc Staff deactivation:\n• Triggers a <arc/>Blinding explosion in a ? meter radius around you that deals up to <pve 575 /> <pvp [?] /> damage based the the number of projectiles reflected \n• Grants 4 Stacks of <arc/>Arc Weapon Surge for <pve 21 /> <pvp [16] /> seconds",
+     "main": "While in <arc/>Arc Staff Super:\n• Blocking doesn't consume Super Energy\n• Reflected projectiles deal 400% increased damage\n• Reflecting projectiles refunds Super Energy\n\n\n<arc/>Arc Staff can be deactivated at any time to preserve a portion of unspent Super Energy: 75% refund at 100% Super Energy and linearly scaling down to a 50% refund at 0% Super Energy.\n\nOn <arc/>Arc Staff deactivation:\n• Triggers a <arc/>Blinding explosion in a ? meter radius around you that deals <pve 300 to 575 /> <pvp [? to ?] /> damage based the the number of projectiles reflected \n• Grants 4 Stacks of <arc/>Arc Weapon Surge for <pve 21 /> <pvp [16] /> seconds",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729349608807,
+      "lastUpdate": 1731154086703,
       "updatedBy": "Stardust"
      }
     },
@@ -50908,7 +50848,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52233,14 +52173,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <void/>Void Super Ability is equipped:\nScoring a Kill at Critical Health or ? Kills within ? seconds of each grants you <void/>Devour.",
+     "main": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <void/>Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you <void/>Devour.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729372273675,
+      "lastUpdate": 1731164797491,
       "updatedBy": "Stardust"
      }
     },
@@ -52250,7 +52190,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54323,14 +54263,14 @@
    "type": "Weapon Mod",
    "editor": {
     "en": {
-     "main": "Scoring 12 Weapon Kills spawns an Elemental Pickup Matching the weapon's element. Kill counter persist through stow.\n\nKinetic Weapons spawn an Orb of Power that grants ?% Super Energy instead.\n\nSynergy ignores the global spawning cooldowns of the Elemental Pickups but each spawn will still start the global cooldown. A Kill can trigger Synergy's Pickup spawn and that of a different Pickup Spawner simultaneously.\n\nSynergy has its own Pickup spawning cooldowns separately from the global ones:\n• <arc/>Ionic Traces: 0 seconds\n• <solar/>Firesprites, <void/>Void Breaches, <stasis/>Stasis Shards: 5 seconds\n• <strand/>Tangles: 12 seconds\n\nKills during Synergy's Pickup spawning cooldown do not contribute any activation progress.",
+     "main": "Scoring <pve 12 /> <pvp [6] /> Weapon Kills spawns an Elemental Pickup matching the weapon's element. Kill counter persists through stow.\n\nKinetic Weapons spawn an Orb of Power that grants ?% Super Energy instead.\n\nSynergy ignores the global spawning cooldowns of the Elemental Pickups but each spawn will still start the global cooldown. A Kill can trigger Synergy's Pickup spawn and that of a different Pickup Spawner simultaneously.\n\nSynergy has its own Pickup spawning cooldowns separately from the global ones:\n• <arc/>Ionic Traces: 0 seconds\n• <solar/>Firesprites, <void/>Void Breaches, <stasis/>Stasis Shards: 5 seconds\n• <strand/>Tangles: 12 seconds\n\nKills during Synergy's Pickup spawning cooldown do not contribute any activation progress.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1728828497308,
+      "lastUpdate": 1731013120053,
       "updatedBy": "Stardust"
      }
     },
@@ -54340,9 +54280,9 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": true
+   "lastUpload": 1731783952563,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "3824105627": {
    "name": "Firefly",
@@ -55148,14 +55088,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an extra <arc/>Skip Grenade Charge.\n\n<arc/>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <pve 4.2% /> <pvp [1.386%] /> Grenade Ability Energy. (Each drone can hit enemies 2-3 times)",
+     "main": "Grants an extra <arc/>Skip Grenade Charge.\n\n<arc/>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <pve 4.2% /> <pvp [1.4%] /> Grenade Ability Energy. (Each drone can hit enemies 2-3 times)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715798003154,
+      "lastUpdate": 1731155333135,
       "updatedBy": "Stardust"
      }
     },
@@ -55165,7 +55105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55901,14 +55841,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring multiple Direct Hits with the Weapon within ? seconds of each applies <arc/>Jolt to the target.\n\nBeing <arc/>Amplified decreases the number of Hits required/* by 25?%*/.\n\nHits needed to activate normally | while <arc/>Amplified:\n• Auto Rifles: #e${16-#d} | <arc/>12\n• Pulse Rifles: #e${15-#d} | <arc/>11\n• Submachine Guns (theoretical): #e${19-#d}? | <arc/>14?\n• Grenade Launchers: #e${4-#d} | <arc/>3\n\nenhanced (\nvar d = 1\n#e Number of Hits required while not <arc/>Amplified is decreased by 1?.\n)",
+     "main": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply <arc/>Jolt.\n\nBeing <arc/>Amplified decreases the number of Hits required.\n\nHits needed to activate normally | while <arc/>Amplified:\n• Auto Rifles: #e${15-#d} | <arc/>11\n• Pulse Rifles: #e${14-#d} | <arc/>10\n• Submachine Guns (theoretical): #e${18-#d}? | <arc/>13?\n• Grenade Launchers: #e${3-#d} | <arc/>2\n\nenhanced (\nvar d = 1\n#e Number of Hits required while not <arc/>Amplified is decreased by 1?.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1728830095622,
+      "lastUpdate": 1731015744734,
       "updatedBy": "Stardust"
      }
     },
@@ -55918,9 +55858,9 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": true
+   "lastUpload": 1731783952563,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "3967134106": {
    "hash": 3967134106,
@@ -56374,14 +56314,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Upon scoring multiple hits within 6 seconds of each:\n• <title Refills [G_refill] /> 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against <link Constructs and Vehicles [#CombatantClassifications] /> for #e${5+#d} seconds. Additional hits refresh the buff duration.\n\nNumber of Hits Required: \n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on <primary/>Primary Weapons) of Base Magazine Capacity rounded down\n\nHits against Constructs and Vehicles provide 1.5x activation progress for <primary/>Primary weapons and 2x progress for <special/>Special weapons.\n\nPellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this.\n\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles\n\nPellet Shotguns:\n• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits\n• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk\n• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets\n\nenhanced (\nvar d = 1\n#e Buff duration is increased by 1 second.\n)",
+     "main": "Upon scoring multiple hits within 6 seconds of each:\n• <title Refills [G_refill] /> 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against <link Constructs and Vehicles [#CombatantClassifications] /> for #e${5+#d} seconds. Additional hits refresh the buff duration.\n\nNumber of Hits Required: \n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on <primary/>Primary Weapons) of Base Magazine Capacity rounded down\n\nHits against Constructs and Vehicles provide 1.5x activation progress for <primary/>Primary weapons and 2x progress for <special/>Special weapons.\n\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles\n\nenhanced (\nvar d = 1\n#e Buff duration is increased by 1 second.\n)\n\n/*Pellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this.\n\nPellet Shotguns:\n• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits\n• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk\n• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets*/",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717523187025,
+      "lastUpdate": 1731004569158,
       "updatedBy": "Stardust"
      }
     },
@@ -56391,7 +56331,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57975,19 +57915,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Melee Hits with a <void/>Smoke Bomb ability charge instantly cast it on the meleed enemy.\n\nSmoke Bombs deal 50% increased damage. <void/>Quickfall does not receive this damage increase.\n\nDealing damage with <void/>Smoke Bomb grants <void/>Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated <void/>Smoke Bomb on the field.\n\n<void/>Void Invisibility prevents the Ability Recharge bonus from applying.",
+     "main": "Melee Hits with a <void/>Smoke Bomb ability charge instantly cast it on the meleed enemy.\n\nSmoke Bombs deal 50% increased damage. <void/>Quickfall does not receive this damage increase.\n\nDealing damage with <void/>Smoke Bomb grants <void/>Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated <void/>Smoke Bomb on the field.\n\nDealing damage with a <void/>Smoke Bomb or gaining <void/>Invisibility from <void/>Trapper's Ambush immediately removes the Ability Recharge bonus.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715797589939,
+      "lastUpdate": 1731154456743,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665697619293,
-      "updatedBy": "tritonesub251"
      }
     },
     "stats": {
@@ -57996,7 +57932,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58372,31 +58308,31 @@
    "itemName": "Outbreak Perfected"
   },
   "4139916815": {
-   "hash": 4139916815,
    "name": "Bray Legacy",
+   "hash": 4139916815,
    "type": "Weapon Trait Origin",
-   "lastUpload": 1729072787613,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "Hits with the weapon grant ability energy to the least charged ability.",
+     "main": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\n\nDoes not grant any energy to abilities that you already have a full charge of.\n\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2% //Adaptive Auto Rifle\n• VS Velocity Baton: 0.365% //Area-Denial Grenade Launcher\n• VS Gravitic Arrest: 0.425% //Adaptive Fusion Rifle\n• VS Chill Inhibitor: 3.5% //Rapid-Fire Grenade Launcher",
      "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1731006300108,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 1729013816523,
-      "updatedBy": "Stardust"
-     }
     }
    },
-   "uploadToLive": true,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1731783952563,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "4146729347": {
    "hash": 4146729347,
@@ -59199,14 +59135,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<void/>Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\n\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\n\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve 20% /> <pvp [10%] /> Super Energy upon absorbing <pve ? /> <pvp [90] /> points of damage.",
+     "main": "<void/>Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\n\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\n\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve 20% /> <pvp [10%] /> Super Energy after receiving <pve ? /> <pvp [90] /> damage.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729372814036,
+      "lastUpdate": 1731165178026,
       "updatedBy": "Stardust"
      }
     },
@@ -59216,7 +59152,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60180,14 +60116,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Casting <arc/>Ascension or <arc/>Tempest Strike releases 3 tracking <arc/>Arc Projectiles that each deal up to <pve 200 /> <pvp [?] /> <arc/>Arc damage and apply <arc/>Jolt on Hit.\n\nApplying <arc/>Jolt to enemies within 15? meters grants you a Damage Resist buff for 10 seconds that can stack 3 times.\n\nDamage Resist granted with 1|2|3 <arc/>Jolt applications (Resist x2|x3|x4):\n<pve 25% /> <pvp [5%] /> | <pve 40% /> <pvp [7.5%] /> | <pve 50% /> <pvp [10%] />\n\nApplying <arc/>Jolt to multiple targets with a single activation of a <arc/>Jolt source still only counts as a single application.",
+     "main": "Casting <arc/>Ascension or <arc/>Tempest Strike releases 3 tracking <arc/>Arc Projectiles that each deal up to <pve 200 /> <pvp [40] /> <arc/>Arc damage and apply <arc/>Jolt on Hit.\n\nApplying <arc/>Jolt to enemies within 15? meters grants you a Damage Resist buff for 10 seconds that can stack 3 times.\n\nDamage Resist granted with 1|2|3 <arc/>Jolt applications (Resist x2|x3|x4):\n<pve 25% /> <pvp [5%] /> | <pve 40% /> <pvp [7.5%] /> | <pve 50% /> <pvp [10%] />\n\nApplying <arc/>Jolt to multiple targets with a single activation of a <arc/>Jolt source still only counts as a single application.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727526952484,
+      "lastUpdate": 1731782759984,
       "updatedBy": "Stardust"
      }
     },
@@ -60197,7 +60133,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60209,14 +60145,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<arc/>Thundercrash deals 55% increased damage.\n\n<arc/>Thundercrash deactivation grants <pve 50% /> <pvp [10%] /> Damage Resistance for ? seconds.\n\nMelee Kills while <arc/>Amplified grant ?% additional <arc/>Thundercrash Super Energy.",
+     "main": "Melee Kills while <arc/>Amplified grant additional Super Energy:\n• Tier 1 (T1) Minors: 2.5?%\n• T2 Minors, T1 Elites: 2.5%\n• T3 Minors, T2 Elites: ?%\n• T4 Minors, T3 Elites, and higher: 3%\n• Players: ?%\n\n<arc/>Thundercrash deals 55% increased damage.\n\n<arc/>Thundercrash deactivation grants <pve 50% /> <pvp [10%] /> Damage Resistance for ? seconds.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729350958581,
+      "lastUpdate": 1731157820060,
       "updatedBy": "Stardust"
      }
     },
@@ -60226,7 +60162,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60482,14 +60418,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Upon casting <arc/>Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing <pve ? /> <pvp [?] /> damage and applying <arc/>Jolt\n• You and allies within ? meters become <arc/>Amplified\n• Inconsistently refunds up to 50% Super Energy based on ??????\n\n<arc/>Arc-Debuffed Enemy Kills grant ?% additional <arc/>Gathering Storm Super Energy.\n\n",
+     "main": "Upon casting <arc/>Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing <pve 650 /> <pvp [?] /> damage and <arc/>Jolting them\n• You and allies within ? meters become <arc/>Amplified\n\nLightning strikes (inconsistently) refund up to 50% Super Energy on <arc/>Arc-Debuffed enemy Hits or Kills based on <link Enemy Rank [#CombatantClassifications] />:\n//• Enemy Players: %\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 30?% | ?%\n\n<arc/>Arc-Debuffed enemy Kills (inconsistently) grant additional <arc/>Gathering Storm Super Energy:\n• Minors: 0.3%\n• Elites: 1.7%\n• Players: 3.1%\n• Minibosses and higher: 4.5%\n\nInconsistencies are only(?) observed with <arc/>Jolted enemies. Possibly due to killing enemies too fast after triggering <arc/>Jolt's damage.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535749517,
+      "lastUpdate": 1731783786055,
       "updatedBy": "Stardust"
      }
     },
@@ -60499,7 +60435,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61204,19 +61140,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Applies 30 <solar/>Scorch Stacks (#d with <solar/>Ember of Ashes) and deals up to 30 damage to enemies within 4? meters of the target on Weapon Kills.\n\nKilling Powerful Combatants and Players increases the radius to 8 meters.\n\n<solar/>Scorch damage can be increased through <link Weapon Damage Buffs [#DamageBuffs] />.\n\nvar d = 40\nenhanced (\nvar d = #e<pve 45 /> <pvp [40] />\n#e Applies to 5 more <solar/>Scorch Stacks to PVE Combatants when Ember of Ashes is equipped.\n)",
+     "main": "Weapon Kills trigger a <solar/>Solar explosion that applies 30 <solar/>Scorch Stacks (#e${40+#d} with <solar/>Ember of Ashes) and deals up to 30 damage to enemies within 4 meters of the target.\n\nKilling <link Elite or higher tier Combatants [#CombatantClassifications] /> and Players increases the radius to 8 meters and applies #e${10+#d} more <solar/>Scorch Stacks.\n\n<solar/>Scorch damage can be increased through <link Weapon Damage Buffs [#DamageBuffs] />.\n\nenhanced (\nvar d = 5\n#e Having <solar/>Ember of Ashes equipped or Killing higher-tier targets each increase the amount of <solar/>Scorch applied by 5 Stacks.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1703072269007,
+      "lastUpdate": 1731005727936,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670270569268,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -61225,7 +61157,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1703073411225,
+   "lastUpload": 1731783952563,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
