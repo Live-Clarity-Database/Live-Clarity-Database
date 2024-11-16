@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2700,7 +2700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5773,7 +5773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10194,7 +10194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10976,7 +10976,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11701,7 +11701,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13663,7 +13663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15669,7 +15669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16795,7 +16795,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17105,7 +17105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17784,7 +17784,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -18994,14 +18994,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Rocket detionations release 8 Cluster Bombs.\n\nEach Cluster Bomb deals up to <pve 50 /> <pvp [11] /> damage in a 4 meter radius.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
+     "main": "Rocket detonations release 8 Cluster Bombs.\n\nEach Cluster Bomb deals up to <pve 50 /> <pvp [11] /> damage in a 4 meter radius.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731003151689,
+      "lastUpdate": 1731791040683,
       "updatedBy": "Stardust"
      }
     },
@@ -19011,7 +19011,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20456,14 +20456,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace.",
+     "main": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731153049965,
+      "lastUpdate": 1731791124354,
       "updatedBy": "Stardust"
      }
     },
@@ -20473,7 +20473,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21224,7 +21224,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21662,7 +21662,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22461,7 +22461,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -23673,7 +23673,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24189,7 +24189,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24720,7 +24720,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24948,7 +24948,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27613,14 +27613,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• <link Minor [#CombatantClassifications] /> PVE Combatant Kills: 7.5%\n• <link Elite or higher tier [#CombatantClassifications] /> PVE Combatant Kills: 15%\n• Collecting <yellow Alethonym />'s Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting maximum <stasis/>Frost Armor stacks.\n\nEach Projectile deals <pve 660 /> <pvp [?] /> damage and spawns a <stasis/>Stasis Crystal on impact.",
+     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• <link Minor [#CombatantClassifications] /> PVE Combatant Kills: 7.5%\n• <link Elite or higher tier [#CombatantClassifications] /> PVE Combatant Kills: 15%\n• Collecting <yellow Alethonym />'s Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting maximum <stasis/>Frost Armor Stacks.\n\nEach Projectile deals <pve 660 /> <pvp [?] /> damage and spawns a <stasis/>Stasis Crystal on impact.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729877429597,
+      "lastUpdate": 1731790978952,
       "updatedBy": "Stardust"
      }
     },
@@ -27630,7 +27630,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27771,7 +27771,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29218,7 +29218,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30287,7 +30287,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33703,7 +33703,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33788,7 +33788,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34254,7 +34254,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36014,7 +36014,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36893,7 +36893,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37168,7 +37168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37667,7 +37667,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38620,14 +38620,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Dealing Ability Damage to an <link Elite, Miniboss, Boss, or Player [#CombatantClassifications] /> target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <pve 11 /> <pvp [6] /> seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with <solar/>Solar abilties.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\n#elementalPickup",
+     "main": "Dealing Ability Damage to an <link Elite, Miniboss, Boss, or Player [#CombatantClassifications] /> target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <pve 11 /> <pvp [6] /> seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with <solar/>Solar abilities.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\n#elementalPickup",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731154274299,
+      "lastUpdate": 1731791138233,
       "updatedBy": "Stardust"
      }
     },
@@ -38637,7 +38637,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39657,7 +39657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41713,7 +41713,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42217,7 +42217,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -43302,7 +43302,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44806,7 +44806,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46262,7 +46262,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -47657,7 +47657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48490,7 +48490,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50160,7 +50160,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50848,7 +50848,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52190,7 +52190,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54280,7 +54280,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55105,7 +55105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55858,7 +55858,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56331,7 +56331,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57932,7 +57932,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58330,7 +58330,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59152,7 +59152,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60133,7 +60133,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60162,7 +60162,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60435,7 +60435,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61157,7 +61157,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731783952563,
+   "lastUpload": 1731791214471,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
