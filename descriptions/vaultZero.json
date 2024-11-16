@@ -62,7 +62,7 @@
   "name": "Box Breathing",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "After Aiming Down Sights for [enh]1.4 seconds without firing, for one shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\nTimer starts as soon as the ADS input is pressed.\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)\n[enh] Activation time is reduced by 0.1 seconds."
+   "en": "After Aiming Down Sights for [enh]1.4 seconds without firing, for a single shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\nTimer starts as soon as the ADS input is pressed.\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)\n[enh] Activation time is reduced by 0.1 seconds."
   }
  },
  "24925370": {
@@ -406,7 +406,7 @@
   "itemName": "Icefall Mantle",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Requires a [Stasis]Stasis Super Ability to be equipped.\nScoring 2? [Stasis]Stasis Kills within ? seconds of each grants a Stack of [Stasis]Frost Armor.\nGaining Stacks of [Stasis]Frost Armor through any source restores ? HP.\nReplaces Barricade with Glacial Guard with a cooldown matching Towering Barricade's.\nOn Glacial Guard Cast:\n• Grants you maximum [Stasis]Frost Armor Stacks\n• Applies [pve]100 [pvp][?] [Stasis]Slow Stacks to enemies within ? meters"
+   "en": "Requires a [Stasis]Stasis Super Ability to be equipped.\nScoring 2 [Stasis]Stasis Kills within 3 seconds of each grants a Stack of [Stasis]Frost Armor.\nRestores 10 HP for each Stack of [Stasis]Frost Armor you gain from any source.\nReplaces Barricade with Glacial Guard which has a cooldown matching Towering Barricade's. Does not work with [Arc]Thruster.\nOn Glacial Guard Cast:\n• Grants you maximum [Stasis]Frost Armor Stacks (restoring HP for each Stack gained)\n• Applies [pve]100 [pvp][40] [Stasis]Slow to enemies within ? meters"
   }
  },
  "187957397": {
@@ -680,7 +680,7 @@
   "name": "Chill Clip",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 50 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst.\n[enh] Passively grants 5 Stability."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst.\n[enh] Passively grants 5 Stability."
   }
  },
  "354401740": {
@@ -854,7 +854,7 @@
   "itemName": "Wormgod Caress",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists up to the maximum of 5 Stacks.\nAfter not having scored further Finisher or (Glaive) Melee Kills for 2 seconds, your Stacks start decaying one at a time over 9.5|10|4|4|3 seconds for the 1st|...|5th Stacks.\nDamage Buff at 1|2|3|4|5 Stacks:\n• Melee: 55%|110%|165%|220%|275%\n• Glaive Melee: 40%|80%|120%|160%|200%\n• [pve]Weapon, PVE: 0%|20%|25%|30%|35%\n• [pvp]Weapon, PVP: 0%|0%|20%|25%|25%\nWeapon damage increases are [Empowering Buffs](https://url.d2clarity.com/DamageBuffs)."
+   "en": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists. Maximum of 5 Stacks.\nAfter not having scored further Finisher or (Glaive) Melee Kills for 2 seconds, your Stacks start decaying one at a time over 9.5|10|4|4|3 seconds for the 1st|...|5th Stacks.\nDamage Buff at 1|2|3|4|5 Stacks:\n• Melee: 55%|110%|165%|220%|275%\n• Glaive Melee: 40%|80%|120%|160%|200%\n• [pve]Weapon, PVE: 0%|20%|25%|30%|35%\n• [pvp]Weapon, PVP: 0%|0%|20%|25%|25%\nWeapon damage increases are [Empowering Buffs](https://url.d2clarity.com/DamageBuffs)."
   }
  },
  "395096174": {
@@ -1042,7 +1042,7 @@
   "name": "Reconstruction",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Every [enh]3.5 seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\nCan overfill the Magazine up to double the normal capacity. Works even while stowed.\n[enh] Loading delay is decreased by 0.5 seconds."
+   "en": "Every [enh]5.5 seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\nCan overfill the Magazine up to double the normal capacity. Works even while stowed.\n[enh] Loading delay is decreased by 0.5 seconds."
   }
  },
  "466087222": {
@@ -1605,7 +1605,7 @@
   "name": "Circle of Life",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Triggering 'Support Frame Boost' by healing allies with the weapon grants [pve]25%  [pvp][12.5%] increased damage for [enh]11 seconds.\n[enh] Buff Duration is increased by 1 second."
+   "en": "Triggering 'Support Frame Boost' by healing allies with the weapon grants [pve]25% [pvp][12.5%] increased damage for [enh]11 seconds.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "684456054": {
@@ -1655,7 +1655,7 @@
   "itemName": "Mask of Bakris",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Replaces your Class Ability with Shift if you have a [Stasis]Stasis Super equipped.\nShift effectively acts as a fast horizontal teleport and has a travel distance of 10 meters. Shift renders you completely invisible (except for a trail) and invulnerable for the duration of the animation.\nShift usage grants 4 Stacks of [Arc]Arc and [Stasis]Stasis Weapon Surge for 11 seconds.\nShift usage uniquely grants Lord of Wolves 4 Stacks of [Solar]Solar Weapon Surge for 11 seconds.\nClass Ability Energy is locked to 0% while the Weapon Surge buff is active."
+   "en": "Replaces Gambler's and Marksman's Dodge with Shift if you have a [Stasis]Stasis Super equipped. (Does not work with [Solar]Acrobat's Dodge)\nShift effectively acts as a fast horizontal teleport and has a travel distance of 10 meters. Shift renders you completely invisible (except for a trail) and invulnerable for the duration of the animation.\nShift usage grants 4 Stacks of [Arc]Arc and [Stasis]Stasis Weapon Surge for 11 seconds.\nShift usage uniquely grants Lord of Wolves 4 Stacks of [Solar]Solar Weapon Surge for 11 seconds.\nClass Ability Energy is locked to 0% while the Weapon Surge buff is active."
   }
  },
  "699525795": {
@@ -1729,7 +1729,7 @@
   "name": "Jolting Feedback",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits with the Weapon within ? seconds of each applies [Arc]Jolt to the target.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: [enh]15 | [Arc]12\n• Pulse Rifles: [enh]14 | [Arc]11\n• Submachine Guns (theoretical): [enh]18? | [Arc]14?\n• Grenade Launchers: [enh]3 | [Arc]3\n[enh] Number of Hits required while not [Arc]Amplified is decreased by 1?."
+   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: [enh]14 | [Arc]11\n• Pulse Rifles: [enh]13 | [Arc]10\n• Submachine Guns (theoretical): [enh]17? | [Arc]13?\n• Grenade Launchers: [enh]2 | [Arc]2\n[enh] Number of Hits required while not [Arc]Amplified is decreased by 1?."
   }
  },
  "721001747": {
@@ -1823,7 +1823,7 @@
   "name": "Bray Inheritance",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy.\nIncandescent [Solar]Scorch ticks and Chain Reaction or Dragonfly elemental explosions count as hits.\nAbility Energy gains on hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)"
+   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)"
   }
  },
  "769440797": {
@@ -1967,7 +1967,7 @@
   "itemName": "Mk. 44 Stand Asides",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or Ballistic Slam) Melee Ability charge:\nCharges up a 75 HP Overshield over 3 seconds.\nOvershield is instantly removed if no longer sprinting.\nGrants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating."
+   "en": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or [Arc]Ballistic Slam) Melee Ability charge:\nCharges up a 75 HP Overshield over 3 seconds. This overrides [Void]Void Overshield if active.\nOvershield is instantly removed if no longer sprinting.\nGrants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating."
   }
  },
  "828056542": {
@@ -1975,7 +1975,7 @@
   "name": "Backup Plan",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants the following for [enh]2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n[enh] Buff duration is increased by 0.5 seconds."
+   "en": "Grants the following for [enh]2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration.\n[enh] Buff duration is increased by 0.5 seconds."
   }
  },
  "830282363": {
@@ -2279,7 +2279,7 @@
   "itemName": "Osmiomancy Gloves",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants [Stasis]Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5?% longer and faster.\nDamaging an enemy with [Stasis]Coldsnap Grenades grants Grenade Ability Energy.\nGrenade Energy gains based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%"
+   "en": "Grants [Stasis]Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster.\nDamaging an enemy with [Stasis]Coldsnap Grenades grants Grenade Ability Energy.\nGrenade Energy gains based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%"
   }
  },
  "923806249": {
@@ -2597,7 +2597,7 @@
   "name": "Adaptive Munitions",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Hits against non-Matching Element or Barrier Champion Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase per Weapon Archetype:\n• Fusion Rifles: 29% per hit, up to 435%\n• Machine Guns, Auto/Pulse/Trace Rifles: 33.33% per hit, up to 500%\n• Linear Fusion Rifles: 150% per hit, up to 450%\n• Bows, Glaives, Hand Cannons, Scout Rifles: 166.67% per hit, up to 500%"
+   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: 29% per hit, up to 435%\n• Machine Guns, Auto/Pulse/Trace Rifles: 33.33% per hit, up to 500%\n• Linear Fusion Rifles: 150% per hit, up to 450%\n• Bows, Glaives, Hand Cannons, Scout Rifles: 166.67% per hit, up to 500%"
   }
  },
  "1050127423": {
@@ -2779,7 +2779,7 @@
   "name": "Withering Gaze",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Aiming Down Sights for 1.5 seconds without firing causes your Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed."
+   "en": "Aiming Down Sights for 1.5 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed."
   }
  },
  "1135494563": {
@@ -2787,7 +2787,7 @@
   "name": "Beacon Rounds",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Kills with the weapon grant a Stack of Beacon Rounds for [enh]7 seconds. Maximum of 4 Stacks.\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% Increased Auto Aim Cone size\n[enh] Buff duration is increased by 1? second."
+   "en": "Kills with the weapon grant a Stack of Beacon Rounds for [enh]7 seconds. Maximum of 4 Stacks.\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% increased Auto Aim Cone size\n[enh] Buff duration is increased by 1? second."
   }
  },
  "1139671158": {
@@ -2869,7 +2869,7 @@
   "itemName": "Synthoceps",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Being within 15 meters of 3+ enemies grants the 'Biotic Enhancements' buff for 5 seconds.\nBiotic Enhancements benefits:\n• ? Handling and 35 Reload Speed\n• 50% increased Super damage\n• [pve]165% [pvp][100%] increased Melee damage\n• 100% increased Glaive Melee damage"
+   "en": "Being within 15 meters of 3+ enemies grants the 'Biotic Enhancements' buff for 5 seconds.\nBiotic Enhancements benefits:\n• 35? Handling and 35 Reload Speed\n• 50% increased Super damage\n• [pve]165% [pvp][100%] increased Melee damage\n• 100% increased Glaive Melee damage"
   }
  },
  "1155472386": {
@@ -2923,7 +2923,7 @@
   "name": "Deconstruct",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Upon scoring multiple hits within 6 seconds of each:\n• Refills 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against [Constructs and Vehicles](https://url.d2clarity.com/combatants) for 5 seconds. Additional hits refresh the buff duration.\nNumber of Hits Required:\n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on [primary]Primary Weapons) of Base Magazine Capacity rounded down\nHits against Constructs and Vehicles provide 1.5x activation progress for [primary]Primary weapons and 2x progress for [special]Special weapons.\nPellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this.\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles\nPellet Shotguns:\n• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits\n• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk\n• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets"
+   "en": "Upon scoring multiple hits within 6 seconds of each:\n• Refills 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against [Constructs and Vehicles](https://url.d2clarity.com/combatants) for 5 seconds. Additional hits refresh the buff duration.\nNumber of Hits Required:\n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on [primary]Primary Weapons) of Base Magazine Capacity rounded down\nHits against Constructs and Vehicles provide 1.5x activation progress for [primary]Primary weapons and 2x progress for [special]Special weapons.\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles"
   }
  },
  "1167468626": {
@@ -3043,7 +3043,7 @@
   "name": "Closing Time",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• ? to ? Handling\n• 5?% to 10?% decreased Accuracy Cone Size"
+   "en": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• 30? to 50? Handling\n• 0.9x to 0.8x Handling Animation Duration Multiplier\n• 5?% to 10?% decreased Accuracy Cone Size"
   }
  },
  "1195158366": {
@@ -3283,7 +3283,7 @@
   "name": "Cluster Bomb",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Explosion releases 8 Cluster Bombs.\nEach Cluster Bomb deals [pve]50 [pvp][?] damage."
+   "en": "Rocket detionations release 8 Cluster Bombs.\nEach Cluster Bomb deals up to [pve]50 [pvp][11] damage in a 4 meter radius."
   }
  },
  "1281216113": {
@@ -3535,7 +3535,7 @@
   "itemName": "Fallen Sunstar",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Ionic Traces move faster and grant doubled Ability Energy.\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\nAllies within ? meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+   "en": "Ionic Traces move faster and grant doubled Ability Energy.\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
   }
  },
  "1378047685": {
@@ -3627,7 +3627,7 @@
   "itemName": "Sanguine Alchemy",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While standing in a Rift or a [Solar]Well of Radiance:\n• Grants 4 Stacks of Super-Matching Weapon Surge\n• Damaging enemies marks them for ? seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)\n• Kills grant 'Blood Magic' for 5 seconds. Maximum of 15 seconds.\nBlood Magic pauses the duration of Rifts for as long as it is active. Doesn't apply to Well of Radiance."
+   "en": "While standing in a Rift or a [Solar]Well of Radiance:\n• Grants 4 Stacks of Super-Matching Weapon Surge\n• Damaging enemies marks them for 5 seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)\n• Kills grant 'Blood Magic' for 5 seconds. Maximum of 15 seconds.\nBlood Magic pauses the duration of Rifts for as long as it is active. Doesn't apply to Well of Radiance."
   }
  },
  "1421772400": {
@@ -3737,7 +3737,7 @@
   "name": "Barrel Constrictor",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills reduce Pellet Spread by 20% for 7.5 seconds.\nBuff duration cannot be refreshed."
+   "en": "Kills with the weapon reduce Pellet Spread by 20% for 7.5 seconds.\nBuff duration cannot be refreshed."
   }
  },
  "1457189155": {
@@ -3815,7 +3815,7 @@
   "name": "Reconstruction",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Every 4 seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\nCan overfill the Magazine up to double the normal capacity. Works even while stowed."
+   "en": "Every 6 seconds while not firing the weapon:\nLoads 10% of the Magazine Capacity (rounded up) into the Magazine from reserves.\nCan overfill the Magazine up to double the normal capacity. Works even while stowed."
   }
  },
  "1525239159": {
@@ -4041,7 +4041,7 @@
   "name": "Backup Plan",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate."
+   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration."
   }
  },
  "1604394872": {
@@ -4117,7 +4117,7 @@
   "itemName": "Cadmus Ridge Lancecap",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Diamond Lance creates a [Stasis]Stasis Crystal on impact. Hitting an [Elite or higher tier Combatant](https://url.d2clarity.com/combatants) creates 2 additional [Stasis]Stasis Crystals.\nWith a [Stasis]Stasis Super Ability and while standing behind a Rally Barricade:\nScoring a Precision Kill or 3 Precision Hits within ? seconds of each spawns a [Stasis]Diamond Lance next to you.\nShares a cooldown with the [Stasis]Diamond Lance Aspect but using the Aspect is not required."
+   "en": "Diamond Lance creates a [Stasis]Stasis Crystal on impact. Hitting an [Elite or higher tier Combatant](https://url.d2clarity.com/combatants) creates 2 additional [Stasis]Stasis Crystals.\nWith a [Stasis]Stasis Super Ability and while standing behind a Rally Barricade:\nScoring a Kill or 3 Precision Hits within ? seconds of each spawns a [Stasis]Diamond Lance next to you.\nShares a cooldown with the [Stasis]Diamond Lance Aspect but using the Aspect is not required."
   }
  },
  "1645158859": {
@@ -4189,7 +4189,7 @@
   "itemName": "Crest of Alpha Lupi",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Casting your Barricade restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you.\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• [Void]Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)"
+   "en": "Class Ability usage restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you.\n5 second cooldown between activations.\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• [Void]Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)"
   }
  },
  "1667892711": {
@@ -4241,7 +4241,7 @@
   "name": "Disruption Break",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for 5.5 seconds.\nStacks with all other Buffs and Debuffs (including itself)."
+   "en": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for [pve]5.5 [pvp][5] seconds.\nStacks with all other Buffs and Debuffs (including itself)."
   }
  },
  "1684153732": {
@@ -4787,7 +4787,7 @@
   "itemName": "Blastwave Striders",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\nKills charge up Blastwave Striders, reaching 100% charge after 10? Kills. Alethonym's Vestiges grant ?% charge on pickup.\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 [Stasis]Stasis Projectiles and granting maximum [Stasis]Frost Armor stacks.\nEach Projectile deals ? damage and spawns a [Stasis]Stasis Crystal on impact."
+   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 [Stasis]Stasis Projectiles and granting maximum [Stasis]Frost Armor stacks.\nEach Projectile deals [pve]660 [pvp][?] damage and spawns a [Stasis]Stasis Crystal on impact."
   }
  },
  "1864989992": {
@@ -4823,7 +4823,7 @@
   "itemName": "Rime-coat Raiment",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Enhances [Stasis]Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium [Stasis]Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a [Stasis]Stasis Storm in a ? meter radius\nStanding in the [Stasis]Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\nShooting consumes a Stack of Icicle, releasing a [Stasis]Stasis Projectile that deals [pve]50 [pvp][?] damage and applies 50 [Stasis]Slow Stacks for ? seconds.\nIcicle can fire every 0.2 seconds. Icicle Stacks expire within 2 seconds of leaving the [Stasis]Stasis Storm."
+   "en": "Enhances [Stasis]Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium [Stasis]Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a [Stasis]Stasis Storm in a ? meter radius\nStanding in the [Stasis]Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\nShooting consumes a Stack of Icicle, releasing a [Stasis]Stasis Projectile that deals [pve]50 [pvp][?] damage and applies [pve]50 [pvp][20] [Stasis]Slow Stacks for ? seconds.\nIcicle can fire every 0.2 seconds. Icicle Stacks expire if you leave the [Stasis]Stasis Storm for more than 2 seconds."
   }
  },
  "1878756191": {
@@ -5005,7 +5005,7 @@
   "name": "Armor-Piercing Rounds",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Grants 5% increased damage against PvE Combatant Shields. Bullets overpenetrate enemies once."
+   "en": "Grants 5% increased damage against Elemental and [barrier]Barrier Champion Shields.\nAllows bullets to overpenetrate enemies once."
   }
  },
  "1969105489": {
@@ -5141,7 +5141,7 @@
   "name": "Dark Ether Reaper",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple Kills with the weapon spawns a Dark Ether Charge at the target's location. ? second cooldown between Charge spawns.\nCharge spawning progress on Kill by [Enemy Rank](https://url.d2clarity.com/combatants):\nMinors: 25% | Elites: ?% | Minibosses and higher: 100% | Players: ?%\nDark Ether Charges last 5? seconds and can be detonated by shooting or coming into contact with them.\nDetonations deal [pve]ALot™ [pvp][?] elemental damage in a ? meter radius and match the weapon's element. Damage is always attributed to the Charge's creator regardless of who destroys them.\nDetonating Charges refills and overfills the magazines of all equipped Dark Eather Reaper weapons from reserves up to 140% capacity (rounded up)."
+   "en": "Scoring multiple Kills with the weapon spawns a Dark Ether Charge at the target's location. ? second cooldown between Charge spawns.\nCharge spawning progress on Kill by [Enemy Rank](https://url.d2clarity.com/combatants):\nMinors and Players: 25% | Elites: ?% | Minibosses and higher: 100%\nDark Ether Charges last 5? seconds and can be detonated by shooting or coming into contact with them.\nDetonations deal up to [pve]386 [pvp][50] elemental damage in a 3? meter radius and match the weapon's element. Detonations inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling).\nDamage is always attributed to the Charge's creator regardless of who destroys them.\nDetonating Charges refills and overfills the magazines of all equipped Dark Eather Reaper weapons from reserves up to 140% capacity (rounded up)."
   }
  },
  "2048641572": {
@@ -5337,7 +5337,7 @@
   "name": "High Ground",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of High Ground for 7 seconds. Maximum of 3 Stacks.\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point.\nDamage increases at 1|2|3 Stacks:\n• [pve]PVE: 10% | 17.5% | 25%\n• [pvp]PVP: N/A | ? | 15%\n[enh] Passively grants 5 Reload Speed."
+   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][N/A] | [pve]17.5% [pvp][?%] | [pve]25% [pvp][10%]\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point.\n[enh] Passively grants 5 Reload Speed."
   }
  },
  "2145198832": {
@@ -5525,7 +5525,7 @@
   "name": "Disruption Break",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for 5.5 seconds.\nStacks with all other Buffs and Debuffs (including itself).\n[enh] Debuff Duration is increased."
+   "en": "On Elemental, Barrier or Guardian Shield Break:\nApplies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for [pve]5.5 [pvp][5] seconds.\nStacks with all other Buffs and Debuffs (including itself).\n[enh] Debuff Duration is increased in PVE."
   }
  },
  "2217963031": {
@@ -5753,7 +5753,7 @@
   "name": "Clown Cartridge",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up). Average of a 30% overfill."
+   "en": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up).\nWorks out to a 30% overfill on average."
   }
  },
  "2287699930": {
@@ -5771,7 +5771,7 @@
   "name": "Circle of Life",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Triggering 'Support Frame Boost' by healing allies with the weapon grants [pve]25%  [pvp][12.5%] increased damage for 10 seconds."
+   "en": "Triggering 'Support Frame Boost' by healing allies with the weapon grants [pve]25% [pvp][12.5%] increased damage for 10 seconds."
   }
  },
  "2299766748": {
@@ -5839,7 +5839,7 @@
   "name": "High Ground",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of High Ground for 7 seconds. Maximum of 3 Stacks.\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point.\nDamage increases at 1|2|3 Stacks:\n• [pve]PVE: 10% | 17.5% | 25%\n• [pvp]PVP: N/A | ? | 15%"
+   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][N/A] | [pve]17.5% [pvp][?%] | [pve]25% [pvp][10%]\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point."
   }
  },
  "2319885414": {
@@ -6171,7 +6171,7 @@
   "itemName": "Hoarfrost-Z",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While a [Stasis]Stasis Super Ability is equipped:\nBarricade is replaced with a [Stasis]Stasis Crystal Wall.\nThe [Stasis]Wall is made of a Small [Stasis]Crystal in the middle and 2 Medium [Stasis]Crystals on either side of it.\nApplies Rally Barricade benefits to players standing behind the middle [Stasis]Crystal for 14 seconds, even if destroyed. Overrides Class Ability cooldown with Towering Barricade's."
+   "en": "While a [Stasis]Stasis Super Ability is equipped:\nClass Abilities are replaced by a [Stasis]Stasis Crystal formation.\nWhen used with Rally or Towering Barricade:\n• Spawns a [Stasis]Stasis Crystal Wall made of a Small [Stasis]Crystal in the middle and 2 Medium [Stasis]Crystals on either side of it\n• Grants Rally Barricade benefits to players standing behind the middle [Stasis]Crystal for 14 seconds, even if destroyed.\n• Overrides Class Ability cooldown with Towering Barricade's\nWhen used with [Arc]Thruster:\n• Spawns 2 Medium [Stasis]Crystals diagonally forward to either side of you"
   }
  },
  "2476672792": {
@@ -6337,7 +6337,7 @@
   "name": "Box Breathing",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "After Aiming Down Sights for 1.5 seconds without firing, for one shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\nTimer starts as soon as the ADS input is pressed.\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)"
+   "en": "After Aiming Down Sights for 1.5 seconds without firing, for a single shot:\n• 10% increased Aim Assist Falloff Distance\n• Increases Precision Multiplier by 1 (e.g. 1.5x🠚2.5x)\nTimer starts as soon as the ADS input is pressed.\nThe precision damage of Scout Rifles is decreased by 5% while Box Breathing is active. (This part of the perk is inconsistent and often doesn't get applied)"
   }
  },
  "2562645296": {
@@ -6379,7 +6379,7 @@
   "itemName": "Mask of Fealty",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Stasis]Withering Blade Hits and bounces spawn a Small [Stasis]Stasis Crystal and grant 7.5% Melee Ability Energy.\nShattering a [Stasis]Stasis Crystal or [Stasis]Frozen Enemy with [Stasis]Withering Blade releases a spread of 3 [Stasis]Withering Blades."
+   "en": "[Stasis]Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small [Stasis]Stasis Crystal.\nShattering a [Stasis]Stasis Crystal or [Stasis]Frozen Enemy with [Stasis]Withering Blade releases a spread of 3 [Stasis]Withering Blades."
   }
  },
  "2577472338": {
@@ -6491,7 +6491,7 @@
   "itemName": "Mantle of Battle Harmony",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Kills with Weapons matching your Super Element grant 1.5 to 4.5% Super Energy based on [Enemy Rank](https://url.d2clarity.com/combatants).\nWhile your Super is charged:\nKills with Weapons matching your Super's Element grant 4 Stacks of Subclass-Matching Weapon Surge for [pve]11 [pvp][6] seconds."
+   "en": "Kills with Weapons matching your Super Element grant Super Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 1.5%\n• T2 Minors, T1 Elites: 2%\n• T3 Minors, T2 Elites: ?%\n• T4 Minors, T3 Elites, and higher: 2.5%\n• Players: ?%\nWhile your Super is charged:\nKills with Weapons matching your Super's Element grant 4 Stacks of Subclass-Matching Weapon Surge for [pve]11 [pvp][6] seconds."
   }
  },
  "2620589274": {
@@ -6623,7 +6623,7 @@
   "itemName": "Foetracer",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]11 [pvp][6] seconds.\nWeapon Surge duration is not refreshable.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]11 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilties.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
   }
  },
  "2663272110": {
@@ -6669,7 +6669,7 @@
   "name": "Incandescent",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Applies 30 [Solar]Scorch Stacks ([enh][pve]45 [pvp][40] with [Solar]Ember of Ashes) and deals up to 30 damage to enemies within 4? meters of the target on Weapon Kills.\nKilling Powerful Combatants and Players increases the radius to 8 meters.\n[Solar]Scorch damage can be increased through [Weapon Damage Buffs](https://url.d2clarity.com/DamageBuffs).\n[enh] Applies to 5 more [Solar]Scorch Stacks to PVE Combatants when Ember of Ashes is equipped."
+   "en": "Weapon Kills trigger a [Solar]Solar explosion that applies 30 [Solar]Scorch Stacks ([enh]45 with [Solar]Ember of Ashes) and deals up to 30 damage to enemies within 4 meters of the target.\nKilling [Elite or higher tier Combatants](https://url.d2clarity.com/combatants) and Players increases the radius to 8 meters and applies [enh]15 more [Solar]Scorch Stacks.\n[Solar]Scorch damage can be increased through [Weapon Damage Buffs](https://url.d2clarity.com/DamageBuffs).\n[enh] Having [Solar]Ember of Ashes equipped or Killing higher-tier targets each increase the amount of [Solar]Scorch applied by 5 Stacks."
   }
  },
  "2675361166": {
@@ -6801,7 +6801,7 @@
   "itemName": "Winter's Guile",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants a Stack of Warlord's Sigil on (Glaive) Melee Kills for 5 seconds, increasing (Glaive) Melee damage.\n(Glaive) Melee damage increase at 1|2|3|4|5 Stacks:\n55% | 110% | 165% | 220% | 275%\nPVE Combatants hit by [Stasis]Penumbral Blast automatically shatter."
+   "en": "(Glaive) Melee Kills grant a Stack of Warlord's Sigil for 5 seconds. Maximum of 5 Stacks.\n(Glaive) Melee damage increase at 1|2|3|4|5 Stacks:\n55% | 110% | 165% | 220% | 275%\nPVE Combatants hit by [Stasis]Penumbral Blast automatically shatter."
   }
  },
  "2731901710": {
@@ -7159,7 +7159,7 @@
   "name": "Beacon Rounds",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Kills with the weapon grant a Stack of Beacon Rounds for 6 seconds. Maximum of 4 Stacks.\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% Increased Auto Aim Cone size"
+   "en": "Kills with the weapon grant a Stack of Beacon Rounds for 6 seconds. Maximum of 4 Stacks.\nScoring futher Hits with the weapon can extend the buff duration up to the maximum of 4 seconds. Buff can be activated while stowed.\nEach Stack grants increased projectile tracking. Projectile Tracking is only in effect while the Targeted Reticle is active.\nGrants the following while you have active Stacks:\n• 15 Reload Speed\n• 0.9x Reload Duration Multiplier\n• 45% increased Auto Aim Cone size"
   }
  },
  "2860991074": {
@@ -7259,7 +7259,7 @@
   "itemName": "Ballidorse Wrathweavers",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Stasis]Shattering enemies frozen by [Stasis]Winter's Wrath deals 100% increased damage regardless of who [Stasis]Shatters them.\nAllies within 30 meters receive the following for [pve]15 [pvp][6] seconds:\n• Maximum [Stasis]Frost Armor Stacks\n• 4 Stacks of [Stasis]Stasis Weapon Surge\nGrants maximum [Stasis]Frost Armor Stacks to you once [Stasis]Winter's Wrath ends.\nOn Rift Cast with the [Stasis]Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds alongside maximum [Stasis]Frost Armor Stacks\n• Grants ?% [Stasis]Winter's Wrath Super Energy for each ally that received the above benefits"
+   "en": "Enemies frozen by [Stasis]Winter's Wrath receive 100% increased [Stasis]Shatter damage.\nUpon performing [Stasis]Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum [Stasis]Frost Armor Stacks and 4 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\nGrants maximum [Stasis]Frost Armor Stacks to you once [Stasis]Winter's Wrath ends.\nOn Rift Cast with the [Stasis]Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds alongside maximum [Stasis]Frost Armor Stacks\n• Grants 2% [Stasis]Winter's Wrath Super Energy for each ally that received the above benefits"
   }
  },
  "2895039606": {
@@ -7309,7 +7309,7 @@
   "name": "Withering Gaze",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Aiming Down Sights for [enh]1.4 seconds without firing causes your Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed.\n[enh] Activation time is decreased by 0.1? seconds."
+   "en": "Aiming Down Sights for [enh]1.4 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed.\n[enh] Activation time is decreased by 0.1 seconds."
   }
  },
  "2911329003": {
@@ -7411,7 +7411,7 @@
   "name": "Chill Clip",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 50 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst."
   }
  },
  "2979486801": {
@@ -7673,7 +7673,7 @@
   "name": "Bait and Switch",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\nDealing damage with all 3 of your weapons without letting the timer run out grants you the 'Bait and Switch' buff for 10 seconds, granting 30% increased damage.\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires."
+   "en": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\nDealing damage with all 3 of your weapons without letting the timer run out grants you 'Bait and Switch' for 10 seconds, granting 30% increased damage.\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires."
   }
  },
  "3081867624": {
@@ -7887,7 +7887,7 @@
   "name": "Harmonic Resonance",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Equipping multiple 2|3 Root of Nightmares weapons grants the following benefits:\n• [pve]3.33% [pvp][?%] | [pve]9.98% [pvp][?%] increased damage against enemies wielding Light and Darkness\n• 10 | 20 Handling\n• 0 | 20 Reload Speed\n• 0.95x Reload Duration Multiplier\nAffected enemies:\n• The Dread, Lucent Hive, and Nezarec\n• Enemy Players with their Super (or Transcendence?) active"
+   "en": "Equipping multiple 2|3 Root of Nightmares weapons grants the following benefits:\n• 3.33% | 10% increased damage against [pve]The Dread, Lucent Hive, and Nezarec\n• 10 | 20 Handling\n• 0 | 20 Reload Speed\n• 0.95x Reload Duration Multiplier"
   }
  },
  "3188328909": {
@@ -8197,7 +8197,7 @@
   "name": "Spike Grenades",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Increases Grenade Impact Damage:\n• 12.12% Increase on [special]Special Grenade Launchers\n• 12.5% Increase on [heavy]Heavy Grenade Launchers\nDue to the ratio of Detonation and Impact Damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase."
+   "en": "Increases Grenade Impact damage:\n• 12.12% increase on [special]Special Grenade Launchers\n• 12.5% increase on [heavy]Power Grenade Launchers\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase."
   }
  },
  "3310993845": {
@@ -8364,6 +8364,14 @@
    "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\nDetonation time after hitting a target or surface varies on draw and distance.\n[pve][PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n[pvp][PvP] Don't want to talk about it... yet."
   }
  },
+ "3373736292": {
+  "hash": 3373736292,
+  "name": "Sticky Grenades",
+  "type": "Weapon Perk",
+  "descriptions": {
+   "en": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\nIncreases Destonation damage by 30% and decreases Impact damage by 85%.\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage"
+  }
+ },
  "3400784728": {
   "hash": 3400784728,
   "name": "Triple Tap",
@@ -8465,7 +8473,7 @@
   "name": "Adaptive Munitions",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Hits against non-Matching Element or Barrier Champion Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase per Weapon Archetype:\n• Fusion Rifles: [enh]34.8% per hit, up to [enh]522%\n• Machine Guns, Auto/Pulse/Trace Rifles: [enh]40% per hit, up to [enh]600%\n• Linear Fusion Rifles: [enh]180% per hit, up to [enh]540%\n• Bows, Glaives, Hand Cannons, Scout Rifles: [enh]200% per hit, up to [enh]600%\n[enh] The damage buff is increased by 20%. (e.g. 150% 🠚 180%)"
+   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: [enh]34.8% per hit, up to [enh]522%\n• Machine Guns, Auto/Pulse/Trace Rifles: [enh]40% per hit, up to [enh]600%\n• Linear Fusion Rifles: [enh]180% per hit, up to [enh]540%\n• Bows, Glaives, Hand Cannons, Scout Rifles: [enh]200% per hit, up to [enh]600%\n[enh] The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)"
   }
  },
  "3436462433": {
@@ -8715,7 +8723,7 @@
   "itemName": "Hazardous Propulsion",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Scoring a Precision Kill, 4 Weapon Kills, or scoring multiple Precision Hits grants a Stack of 'Exodus Rockets'. Maximum of 6 Stacks.\nClass Ability Usage consumes all Stacks, launching a homing rocket in exchange for each one. Rockets deal up to [pve]600 [pvp][28] Kinetic Damage.\nHits with each rocket grant a Stack of 'Enhanced Rockets' for 10 seconds, increasing \"rocket-type\" damage ([Empowering Buff](https://url.d2clarity.com/DamageBuffs)).\nDamage increase at 1|2|…|6 Stacks:\n10% | 17% | 24% | 30% | 33% | 35%\nRocket-type damage includes: Rocket Launchers, Wolfpack Rounds (both Sword and Rocket versions), Rocket-Assisted Sidearms, Nanotech Tracer Rockets, Grand Overture's Missile Volley, Quicksilver Storm's Tracer Rocket\n'Exodus Rockets' Stack acquisition progress on Precision Hits by weapon type:\n• Trace Rifles: 10%\n• Auto Rifles and Machine Guns: 15%\n• Pulse Rifles, Sidearms, and Crimson: 20%\n• Hand Cannons, Scout Rifles, and Shotguns: 40%\n• Bows, Linear Fusion Rifles, Rocket Sidearms, and Sniper Rifles: 67%\nStack acquisition progress doesn't reset upon gaining a Stack, all progress is kept until reaching 600% (max Stacks)."
+   "en": "Scoring a Precision Kill, 4 Weapon Kills, or scoring multiple Precision Hits grants a Stack of 'Exodus Rockets'. Maximum of 6 Stacks.\nClass Ability usage consumes all Stacks to launch a homing rocket per Stack consumed. Rockets deal up to [pve]600 [pvp][28] Kinetic Damage in a ? meter radius.\nHits with each rocket grant a Stack of 'Enhanced Rockets' for 10 seconds, increasing \"rocket-type\" damage ([Empowering Buff](https://url.d2clarity.com/DamageBuffs)).\nDamage increase at 1|2|…|6 Stacks:\n10% | 17% | 24% | 30% | 33% | 35%\nRocket-type damage includes: Rocket Launchers, Wolfpack Rounds (both Sword and Rocket versions), Rocket-Assisted Sidearms, Nanotech Tracer Rockets, Grand Overture's Missile Volley, Quicksilver Storm's Tracer Rocket\n'Exodus Rockets' Stack acquisition progress on Precision Hits by weapon type:\n• Trace Rifles: 10%\n• Auto Rifles and Machine Guns: 15%\n• Pulse Rifles, Sidearms, and Crimson: 20%\n• Hand Cannons, Scout Rifles, and Shotguns: 40%\n• Bows, Linear Fusion Rifles, Rocket Sidearms, and Sniper Rifles: 67%\nStack acquisition progress doesn't reset upon gaining a Stack, all progress is kept until reaching 600% (max Stacks)."
   }
  },
  "3504197951": {
@@ -8817,7 +8825,7 @@
   "itemName": "Blight Ranger",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While in [Arc]Arc Staff Super:\n• Blocking doesn't consume Super Energy\n• Reflected projectiles deal 400% increased damage\n• Reflecting projectiles refunds Super Energy\n• Super can be deactivated at any time to preserve 50-75% of unspent Super Energy\nOn [Arc]Arc Staff deactivation:\n• Triggers a [Arc]Blinding explosion in a ? meter radius around you that deals up to [pve]575 [pvp][?] damage based the the number of projectiles reflected\n• Grants 4 Stacks of [Arc]Arc Weapon Surge for [pve]21 [pvp][16] seconds"
+   "en": "While in [Arc]Arc Staff Super:\n• Blocking doesn't consume Super Energy\n• Reflected projectiles deal 400% increased damage\n• Reflecting projectiles refunds Super Energy\n[Arc]Arc Staff can be deactivated at any time to preserve a portion of unspent Super Energy: 75% refund at 100% Super Energy and linearly scaling down to a 50% refund at 0% Super Energy.\nOn [Arc]Arc Staff deactivation:\n• Triggers a [Arc]Blinding explosion in a ? meter radius around you that deals [pve]300 to 575 [pvp][? to ?] damage based the the number of projectiles reflected\n• Grants 4 Stacks of [Arc]Arc Weapon Surge for [pve]21 [pvp][16] seconds"
   }
  },
  "3556949035": {
@@ -8835,7 +8843,7 @@
   "name": "Clown Cartridge",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up). Average of a 33% overfill.\n[enh] Improves the average overfill amount by 10%. (30%⁠🠚⁠33%)"
+   "en": "Reloading randomly overfills the Magazine from reserves by [enh]13% to 50% of the base Magazine Capacity (rounded up).\nWorks out to a [enh]31.5% overfill on average.\n[enh] Increases the minimum overfill amount by 30%. (10%⁠🠚⁠13%)"
   }
  },
  "3564974257": {
@@ -8991,7 +8999,7 @@
   "itemName": "Mask of the Quiet One",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\nTaking damage grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\nIf a [Void]Void Super Ability is equipped:\nScoring a Kill at Critical Health or ? Kills within ? seconds of each grants you [Void]Devour."
+   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\nIf a [Void]Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you [Void]Devour."
   }
  },
  "3662465907": {
@@ -9209,7 +9217,7 @@
   "name": "Bait and Switch",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\nDealing damage with all 3 of your weapons without letting the timer run out grants you the 'Bait and Switch' buff for [enh]11 seconds, granting 30% increased damage.\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires.\n[enh] Buff Duration is increased by 1 second."
+   "en": "Dealing damage with a weapon starts a 7 second timer. Dealing additional weapon damage resets the timer to 7 seconds.\nDealing damage with all 3 of your weapons without letting the timer run out grants you 'Bait and Switch' for [enh]11 seconds, granting 30% increased damage.\nTimer is disabled while Bait and Switch is active, requiring a full activation sequence once the buff expires.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "3751912585": {
@@ -9359,7 +9367,7 @@
   "name": "Synergy",
   "type": "Weapon Mod",
   "descriptions": {
-   "en": "Scoring 12 Weapon Kills spawns an Elemental Pickup Matching the weapon's element. Kill counter persist through stow.\nKinetic Weapons spawn an Orb of Power that grants ?% Super Energy instead.\nSynergy ignores the global spawning cooldowns of the Elemental Pickups but each spawn will still start the global cooldown. A Kill can trigger Synergy's Pickup spawn and that of a different Pickup Spawner simultaneously.\nSynergy has its own Pickup spawning cooldowns separately from the global ones:\n• [Arc]Ionic Traces: 0 seconds\n• [Solar]Firesprites, [Void]Void Breaches, [Stasis]Stasis Shards: 5 seconds\n• [Strand]Tangles: 12 seconds\nKills during Synergy's Pickup spawning cooldown do not contribute any activation progress."
+   "en": "Scoring [pve]12 [pvp][6] Weapon Kills spawns an Elemental Pickup matching the weapon's element. Kill counter persists through stow.\nKinetic Weapons spawn an Orb of Power that grants ?% Super Energy instead.\nSynergy ignores the global spawning cooldowns of the Elemental Pickups but each spawn will still start the global cooldown. A Kill can trigger Synergy's Pickup spawn and that of a different Pickup Spawner simultaneously.\nSynergy has its own Pickup spawning cooldowns separately from the global ones:\n• [Arc]Ionic Traces: 0 seconds\n• [Solar]Firesprites, [Void]Void Breaches, [Stasis]Stasis Shards: 5 seconds\n• [Strand]Tangles: 12 seconds\nKills during Synergy's Pickup spawning cooldown do not contribute any activation progress."
   }
  },
  "3824105627": {
@@ -9477,7 +9485,7 @@
   "itemName": "Shinobu's Vow",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants an extra [Arc]Skip Grenade Charge.\n[Arc]Skip Grenade drones chase enemies much more aggressively.\nDrone Hits grant [pve]4.2% [pvp][1.386%] Grenade Ability Energy. (Each drone can hit enemies 2-3 times)"
+   "en": "Grants an extra [Arc]Skip Grenade Charge.\n[Arc]Skip Grenade drones chase enemies much more aggressively.\nDrone Hits grant [pve]4.2% [pvp][1.4%] Grenade Ability Energy. (Each drone can hit enemies 2-3 times)"
   }
  },
  "3907865655": {
@@ -9623,7 +9631,7 @@
   "name": "Closing Time",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• ? to ? Handling\n• 5?% to 10?% decreased Accuracy Cone Size\n[enh] Stronger effect."
+   "en": "Grants linearly scaling benefits as the Magazine drops from 50% capacity to empty:\n• 10 to 20 Range\n• 30? to 50? Handling\n• 0.9x to 0.8x Handling Animation Duration Multiplier\n• 5?% to 10?% decreased Accuracy Cone Size\n[enh] Stronger effect."
   }
  },
  "3966416502": {
@@ -9631,7 +9639,7 @@
   "name": "Jolting Feedback",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits with the Weapon within ? seconds of each applies [Arc]Jolt to the target.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: 16 | [Arc]12\n• Pulse Rifles: 15 | [Arc]11\n• Submachine Guns (theoretical): 19? | [Arc]14?\n• Grenade Launchers: 4 | [Arc]3"
+   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: 15 | [Arc]11\n• Pulse Rifles: 14 | [Arc]10\n• Submachine Guns (theoretical): 18? | [Arc]13?\n• Grenade Launchers: 3 | [Arc]2"
   }
  },
  "3967134106": {
@@ -9765,7 +9773,7 @@
   "name": "Deconstruct",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Upon scoring multiple hits within 6 seconds of each:\n• Refills 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against [Constructs and Vehicles](https://url.d2clarity.com/combatants) for 5 seconds. Additional hits refresh the buff duration.\nNumber of Hits Required:\n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on [primary]Primary Weapons) of Base Magazine Capacity rounded down\nHits against Constructs and Vehicles provide 1.5x activation progress for [primary]Primary weapons and 2x progress for [special]Special weapons.\nPellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this.\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles\nPellet Shotguns:\n• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits\n• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk\n• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets"
+   "en": "Upon scoring multiple hits within 6 seconds of each:\n• Refills 10% of the Magazine (rounded up) from reserves. Can be reactivated without a cooldown. Cannot load the Magazine beyond its base capacity.\n• Grants 40% increased damage against [Constructs and Vehicles](https://url.d2clarity.com/combatants) for 5 seconds. Additional hits refresh the buff duration.\nNumber of Hits Required:\n• If Magazine Size is 1: 3 Hits\n• Otherwise: 2 + 50% (25% on [primary]Primary Weapons) of Base Magazine Capacity rounded down\nHits against Constructs and Vehicles provide 1.5x activation progress for [primary]Primary weapons and 2x progress for [special]Special weapons.\nWave Frame Grenade Launchers:\n• Direct Impacts count as 2 Hits\n• Doesn't receive bonus activation progress against Constructs and Vehicles"
   }
  },
  "3994043492": {
@@ -10029,7 +10037,7 @@
   "itemName": "Khepri's Sting",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Melee Hits with a [Void]Smoke Bomb ability charge instantly cast it on the meleed enemy.\nSmoke Bombs deal 50% increased damage. [Void]Quickfall does not receive this damage increase.\nDealing damage with [Void]Smoke Bomb grants [Void]Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated [Void]Smoke Bomb on the field.\n[Void]Void Invisibility prevents the Ability Recharge bonus from applying."
+   "en": "Melee Hits with a [Void]Smoke Bomb ability charge instantly cast it on the meleed enemy.\nSmoke Bombs deal 50% increased damage. [Void]Quickfall does not receive this damage increase.\nDealing damage with [Void]Smoke Bomb grants [Void]Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated [Void]Smoke Bomb on the field.\nDealing damage with a [Void]Smoke Bomb or gaining [Void]Invisibility from [Void]Trapper's Ambush immediately removes the Ability Recharge bonus."
   }
  },
  "4104185692": {
@@ -10089,7 +10097,7 @@
   "name": "Bray Legacy",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Hits with the weapon grant ability energy to the least charged ability."
+   "en": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\nDoes not grant any energy to abilities that you already have a full charge of.\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2%\n• VS Velocity Baton: 0.365%\n• VS Gravitic Arrest: 0.425%\n• VS Chill Inhibitor: 3.5%"
   }
  },
  "4146729347": {
@@ -10165,7 +10173,7 @@
   "name": "Barrel Constrictor",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills reduce Pellet Spread by 20% for [enh]8.5 seconds.\nBuff duration cannot be refreshed.\n[enh] Buff duration is increased by 1 second."
+   "en": "Kills with the weapon reduce Pellet Spread by 20% for [enh]8.5 seconds.\nBuff duration cannot be refreshed.\n[enh] Buff duration is increased by 1 second."
   }
  },
  "4180586736": {
@@ -10215,7 +10223,7 @@
   "itemName": "Ursa Furiosa",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Void]Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n[Void]Unbreakable grants up to [pve]20% [pvp][10%] Super Energy upon absorbing [pve]? [pvp][90] points of damage."
+   "en": "[Void]Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n[Void]Unbreakable grants up to [pve]20% [pvp][10%] Super Energy after receiving [pve]? [pvp][90] damage."
   }
  },
  "4190643473": {
@@ -10359,7 +10367,7 @@
   "itemName": "Gifted Conviction",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Casting [Arc]Ascension or [Arc]Tempest Strike releases 3 tracking [Arc]Arc Projectiles that each deal up to [pve]200 [pvp][?] [Arc]Arc damage and apply [Arc]Jolt on Hit.\nApplying [Arc]Jolt to enemies within 15? meters grants you a Damage Resist buff for 10 seconds that can stack 3 times.\nDamage Resist granted with 1|2|3 [Arc]Jolt applications (Resist x2|x3|x4):\n[pve]25% [pvp][5%] | [pve]40% [pvp][7.5%] | [pve]50% [pvp][10%]\nApplying [Arc]Jolt to multiple targets with a single activation of a [Arc]Jolt source still only counts as a single application."
+   "en": "Casting [Arc]Ascension or [Arc]Tempest Strike releases 3 tracking [Arc]Arc Projectiles that each deal up to [pve]200 [pvp][40] [Arc]Arc damage and apply [Arc]Jolt on Hit.\nApplying [Arc]Jolt to enemies within 15? meters grants you a Damage Resist buff for 10 seconds that can stack 3 times.\nDamage Resist granted with 1|2|3 [Arc]Jolt applications (Resist x2|x3|x4):\n[pve]25% [pvp][5%] | [pve]40% [pvp][7.5%] | [pve]50% [pvp][10%]\nApplying [Arc]Jolt to multiple targets with a single activation of a [Arc]Jolt source still only counts as a single application."
   }
  },
  "4235122381": {
@@ -10369,7 +10377,7 @@
   "itemName": "Cuirass of the Falling Star",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Arc]Thundercrash deals 55% increased damage.\n[Arc]Thundercrash deactivation grants [pve]50% [pvp][10%] Damage Resistance for ? seconds.\nMelee Kills while [Arc]Amplified grant ?% additional [Arc]Thundercrash Super Energy."
+   "en": "Melee Kills while [Arc]Amplified grant additional Super Energy:\n• Tier 1 (T1) Minors: 2.5?%\n• T2 Minors, T1 Elites: 2.5%\n• T3 Minors, T2 Elites: ?%\n• T4 Minors, T3 Elites, and higher: 3%\n• Players: ?%\n[Arc]Thundercrash deals 55% increased damage.\n[Arc]Thundercrash deactivation grants [pve]50% [pvp][10%] Damage Resistance for ? seconds."
   }
  },
  "4244246940": {
@@ -10395,7 +10403,7 @@
   "itemName": "Raiju's Harness",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Upon casting [Arc]Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing [pve]? [pvp][?] damage and applying [Arc]Jolt\n• You and allies within ? meters become [Arc]Amplified\n• Inconsistently refunds up to 50% Super Energy based on ??????\n[Arc]Arc-Debuffed Enemy Kills grant ?% additional [Arc]Gathering Storm Super Energy."
+   "en": "Upon casting [Arc]Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing [pve]650 [pvp][?] damage and [Arc]Jolting them\n• You and allies within ? meters become [Arc]Amplified\nLightning strikes (inconsistently) refund up to 50% Super Energy on [Arc]Arc-Debuffed enemy Hits or Kills based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 30?% | ?%\n[Arc]Arc-Debuffed enemy Kills (inconsistently) grant additional [Arc]Gathering Storm Super Energy:\n• Minors: 0.3%\n• Elites: 1.7%\n• Players: 3.1%\n• Minibosses and higher: 4.5%\nInconsistencies are only(?) observed with [Arc]Jolted enemies. Possibly due to killing enemies too fast after triggering [Arc]Jolt's damage."
   }
  },
  "4252909580": {
@@ -10511,7 +10519,7 @@
   "name": "Incandescent",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Applies 30 [Solar]Scorch Stacks (40 with [Solar]Ember of Ashes) and deals up to 30 damage to enemies within 4? meters of the target on Weapon Kills.\nKilling Powerful Combatants and Players increases the radius to 8 meters.\n[Solar]Scorch damage can be increased through [Weapon Damage Buffs](https://url.d2clarity.com/DamageBuffs)."
+   "en": "Weapon Kills trigger a [Solar]Solar explosion that applies 30 [Solar]Scorch Stacks (40 with [Solar]Ember of Ashes) and deals up to 30 damage to enemies within 4 meters of the target.\nKilling [Elite or higher tier Combatants](https://url.d2clarity.com/combatants) and Players increases the radius to 8 meters and applies 10 more [Solar]Scorch Stacks.\n[Solar]Scorch damage can be increased through [Weapon Damage Buffs](https://url.d2clarity.com/DamageBuffs)."
   }
  },
  "4294909663": {

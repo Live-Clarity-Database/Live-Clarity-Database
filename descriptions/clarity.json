@@ -464,7 +464,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "1.4 seconds without firing, for one shot:"
+       "text": "1.4 seconds without firing, for a single shot:"
       }
      ]
     },
@@ -2432,7 +2432,7 @@
   "name": "Glacial Guard",
   "itemHash": 1467044898,
   "itemName": "Icefall Mantle",
-  "lastUpload": 1729681695599,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2456,13 +2456,13 @@
     {
      "linesContent": [
       {
-       "text": "Scoring 2? "
+       "text": "Scoring 2 "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Kills within ? seconds of each grants a Stack of "
+       "text": "Stasis Kills within 3 seconds of each grants a Stack of "
       },
       {
        "classNames": [ "stasis" ]
@@ -2478,13 +2478,13 @@
     {
      "linesContent": [
       {
-       "text": "Gaining Stacks of "
+       "text": "Restores 10 HP for each Stack of "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Frost Armor through any source restores ? HP."
+       "text": "Frost Armor you gain from any source."
       }
      ]
     },
@@ -2494,7 +2494,13 @@
     {
      "linesContent": [
       {
-       "text": "Replaces Barricade with Glacial Guard with a cooldown matching Towering Barricade's."
+       "text": "Replaces Barricade with Glacial Guard which has a cooldown matching Towering Barricade's. Does not work with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Thruster."
       }
      ]
     },
@@ -2517,7 +2523,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Frost Armor Stacks"
+       "text": "Frost Armor Stacks (restoring HP for each Stack gained)"
       }
      ]
     },
@@ -2534,7 +2540,7 @@
        "text": " "
       },
       {
-       "text": "[?]",
+       "text": "[40]",
        "classNames": [ "pvp" ]
       },
       {
@@ -2544,7 +2550,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Slow Stacks to enemies within ? meters"
+       "text": "Slow to enemies within ? meters"
       }
      ]
     }
@@ -3958,7 +3964,7 @@
     {
      "linesContent": [
       {
-       "text": "Direct Hits apply 50 "
+       "text": "Direct Hits apply 60 "
       },
       {
        "classNames": [ "stasis" ]
@@ -5235,7 +5241,7 @@
   "name": "Burning Fists",
   "itemHash": 1734844651,
   "itemName": "Wormgod Caress",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5243,7 +5249,7 @@
     {
      "linesContent": [
       {
-       "text": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists up to the maximum of 5 Stacks."
+       "text": "Finisher and (Glaive) Melee Kills grant a Stack of Burning Fists. Maximum of 5 Stacks."
       }
      ]
     },
@@ -6086,7 +6092,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "3.5 seconds while not firing the weapon:"
+       "text": "5.5 seconds while not firing the weapon:"
       }
      ]
     },
@@ -9184,7 +9190,7 @@
        "text": "Triggering 'Support Frame Boost' by healing allies with the weapon grants "
       },
       {
-       "text": "25% ",
+       "text": "25%",
        "classNames": [ "pve" ]
       },
       {
@@ -9459,7 +9465,7 @@
   "name": "Light Shift",
   "itemHash": 1619425569,
   "itemName": "Mask of Bakris",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9467,13 +9473,19 @@
     {
      "linesContent": [
       {
-       "text": "Replaces your Class Ability with Shift if you have a "
+       "text": "Replaces Gambler's and Marksman's Dodge with Shift if you have a "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Super equipped."
+       "text": "Stasis Super equipped. (Does not work with "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Acrobat's Dodge)"
       }
      ]
     },
@@ -9977,13 +9989,13 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple Direct Hits with the Weapon within ? seconds of each applies "
+       "text": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Jolt to the target."
+       "text": "Jolt."
       }
      ]
     },
@@ -10029,26 +10041,6 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "15 | "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "12"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Pulse Rifles: "
-      },
-      {
-       "text": "🡅",
-       "classNames": [ "enhancedArrow" ]
-      },
-      {
        "text": "14 | "
       },
       {
@@ -10062,6 +10054,26 @@
     {
      "linesContent": [
       {
+       "text": "• Pulse Rifles: "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "13 | "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "10"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "• Submachine Guns (theoretical): "
       },
       {
@@ -10069,13 +10081,13 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "18? | "
+       "text": "17? | "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "14?"
+       "text": "13?"
       }
      ]
     },
@@ -10089,13 +10101,13 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "3 | "
+       "text": "2 | "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "3"
+       "text": "2"
       }
      ]
     },
@@ -10354,7 +10366,7 @@
  "766321425": {
   "hash": 766321425,
   "name": "Bray Inheritance",
-  "lastUpload": 1696803216819,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10362,7 +10374,7 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Hits grant Grenade, Melee, and Class Ability Energy."
+       "text": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits."
       }
      ]
     },
@@ -10372,23 +10384,7 @@
     {
      "linesContent": [
       {
-       "text": "Incandescent "
-      },
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Scorch ticks and Chain Reaction or Dragonfly elemental explosions count as hits."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Ability Energy gains on hits by weapon:"
+       "text": "Ability Energy gains on Hits by weapon:"
       }
      ]
     },
@@ -11230,7 +11226,7 @@
   "name": "Seriously, Watch Out",
   "itemHash": 136355432,
   "itemName": "Mk. 44 Stand Asides",
-  "lastUpload": 1686224473621,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11238,14 +11234,26 @@
     {
      "linesContent": [
       {
-       "text": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or Ballistic Slam) Melee Ability charge:"
+       "text": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Ballistic Slam) Melee Ability charge:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "Charges up a 75 HP Overshield over 3 seconds."
+       "text": "Charges up a 75 HP Overshield over 3 seconds. This overrides "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Void Overshield if active."
       }
      ]
     },
@@ -11322,6 +11330,16 @@
      "linesContent": [
       {
        "text": "Weapon must be stowed for 3 seconds before readying for the perk to activate."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
       }
      ]
     },
@@ -12755,7 +12773,7 @@
   "name": "Fervid Coldsnap",
   "itemHash": 3259193988,
   "itemName": "Osmiomancy Gloves",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12769,7 +12787,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5?% longer and faster."
+       "text": "Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster."
       }
      ]
     },
@@ -14221,7 +14239,7 @@
  "1048183818": {
   "hash": 1048183818,
   "name": "Adaptive Munitions",
-  "lastUpload": 1712883202187,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -14229,7 +14247,7 @@
     {
      "linesContent": [
       {
-       "text": "Hits against non-Matching Element or Barrier Champion Shields deal increasingly higher damage."
+       "text": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage."
       }
      ]
     },
@@ -14249,7 +14267,7 @@
     {
      "linesContent": [
       {
-       "text": "Damage increase per Weapon Archetype:"
+       "text": "Damage increase by Weapon Archetype:"
       }
      ]
     },
@@ -15160,7 +15178,7 @@
  "1134488199": {
   "hash": 1134488199,
   "name": "Withering Gaze",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -15168,7 +15186,7 @@
     {
      "linesContent": [
       {
-       "text": "Aiming Down Sights for 1.5 seconds without firing causes your Direct Hit to apply "
+       "text": "Aiming Down Sights for 1.5 seconds without firing causes your next Direct Hit to apply "
       },
       {
        "classNames": [ "void" ]
@@ -15260,7 +15278,7 @@
     {
      "linesContent": [
       {
-       "text": "• 45% Increased Auto Aim Cone size"
+       "text": "• 45% increased Auto Aim Cone size"
       }
      ]
     },
@@ -15759,7 +15777,7 @@
   "name": "Biotic Enhancements",
   "itemHash": 241462142,
   "itemName": "Synthoceps",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -15784,7 +15802,7 @@
     {
      "linesContent": [
       {
-       "text": "• ? Handling and 35 Reload Speed"
+       "text": "• 35? Handling and 35 Reload Speed"
       }
      ]
     },
@@ -16321,16 +16339,6 @@
     {
      "linesContent": [
       {
-       "text": "Pellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
        "text": "Wave Frame Grenade Launchers:"
       }
      ]
@@ -16346,37 +16354,6 @@
      "linesContent": [
       {
        "text": "• Doesn't receive bonus activation progress against Constructs and Vehicles"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Pellet Shotguns:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets"
       }
      ]
     }
@@ -16911,7 +16888,7 @@
  "1194056669": {
   "hash": 1194056669,
   "name": "Closing Time",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -16933,7 +16910,14 @@
     {
      "linesContent": [
       {
-       "text": "• ? to ? Handling"
+       "text": "• 30? to 50? Handling"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 0.9x to 0.8x Handling Animation Duration Multiplier"
       }
      ]
     },
@@ -17535,7 +17519,7 @@
  "1275731761": {
   "hash": 1275731761,
   "name": "Cluster Bomb",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -17543,7 +17527,7 @@
     {
      "linesContent": [
       {
-       "text": "Explosion releases 8 Cluster Bombs."
+       "text": "Rocket detionations release 8 Cluster Bombs."
       }
      ]
     },
@@ -17553,7 +17537,7 @@
     {
      "linesContent": [
       {
-       "text": "Each Cluster Bomb deals "
+       "text": "Each Cluster Bomb deals up to "
       },
       {
        "text": "50",
@@ -17563,11 +17547,11 @@
        "text": " "
       },
       {
-       "text": "[?]",
+       "text": "[11]",
        "classNames": [ "pvp" ]
       },
       {
-       "text": " damage."
+       "text": " damage in a 4 meter radius."
       }
      ]
     }
@@ -18604,7 +18588,7 @@
   "name": "Ionic Conductor",
   "itemHash": 1849149215,
   "itemName": "Fallen Sunstar",
-  "lastUpload": 1690730562123,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -18639,7 +18623,7 @@
     {
      "linesContent": [
       {
-       "text": "Allies within ? meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
       }
      ]
     }
@@ -18828,7 +18812,7 @@
   "name": "Blood Magic",
   "itemHash": 3070555693,
   "itemName": "Sanguine Alchemy",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -18856,7 +18840,7 @@
     {
      "linesContent": [
       {
-       "text": "• Damaging enemies marks them for ? seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)"
+       "text": "• Damaging enemies marks them for 5 seconds, increasing your damage against them by 10% (stacks with everything, does not buff teammates' damage)"
       }
      ]
     },
@@ -19438,7 +19422,7 @@
  "1451849462": {
   "hash": 1451849462,
   "name": "Barrel Constrictor",
-  "lastUpload": 1712008312346,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -19446,7 +19430,7 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills reduce Pellet Spread by 20% for 7.5 seconds."
+       "text": "Kills with the weapon reduce Pellet Spread by 20% for 7.5 seconds."
       }
      ]
     },
@@ -19959,7 +19943,7 @@
  "1523832109": {
   "hash": 1523832109,
   "name": "Reconstruction",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -19967,7 +19951,7 @@
     {
      "linesContent": [
       {
-       "text": "Every 4 seconds while not firing the weapon:"
+       "text": "Every 6 seconds while not firing the weapon:"
       }
      ]
     },
@@ -21371,7 +21355,7 @@
  "1600092898": {
   "hash": 1600092898,
   "name": "Backup Plan",
-  "lastUpload": 1712883202187,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -21411,6 +21395,16 @@
      "linesContent": [
       {
        "text": "Weapon must be stowed for 3 seconds before readying for the perk to activate."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
       }
      ]
     }
@@ -21843,7 +21837,7 @@
   "name": "Lancer's Vigil",
   "itemHash": 3574051505,
   "itemName": "Cadmus Ridge Lancecap",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -21894,7 +21888,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring a Precision Kill or 3 Precision Hits within ? seconds of each spawns a "
+       "text": "Scoring a Kill or 3 Precision Hits within ? seconds of each spawns a "
       },
       {
        "classNames": [ "stasis" ]
@@ -22205,7 +22199,7 @@
   "name": "Survival Well",
   "itemHash": 1591207519,
   "itemName": "Crest of Alpha Lupi",
-  "lastUpload": 1712174090388,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -22213,7 +22207,17 @@
     {
      "linesContent": [
       {
-       "text": "Casting your Barricade restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you."
+       "text": "Class Ability usage restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "5 second cooldown between activations."
       }
      ]
     },
@@ -22406,7 +22410,7 @@
  "1683379515": {
   "hash": 1683379515,
   "name": "Disruption Break",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -22421,7 +22425,21 @@
     {
      "linesContent": [
       {
-       "text": "Applies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for 5.5 seconds."
+       "text": "Applies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for "
+      },
+      {
+       "text": "5.5",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[5]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " seconds."
       }
      ]
     },
@@ -24871,7 +24889,7 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1729681695599,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -24889,14 +24907,51 @@
     {
      "linesContent": [
       {
-       "text": "Kills charge up Blastwave Striders, reaching 100% charge after 10? Kills. "
+       "text": "The following actions charge up Blastwave Striders:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "text": "Minor",
+       "link": "https://url.d2clarity.com/combatants",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": " PVE Combatant Kills: 7.5%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "text": "Elite or higher tier",
+       "link": "https://url.d2clarity.com/combatants",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": " PVE Combatant Kills: 15%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Collecting "
       },
       {
        "text": "Alethonym",
        "classNames": [ "yellow" ]
       },
       {
-       "text": "'s Vestiges grant ?% charge on pickup."
+       "text": "'s Vestiges: 10%"
       }
      ]
     },
@@ -24928,7 +24983,21 @@
     {
      "linesContent": [
       {
-       "text": "Each Projectile deals ? damage and spawns a "
+       "text": "Each Projectile deals "
+      },
+      {
+       "text": "660",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[?]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " damage and spawns a "
       },
       {
        "classNames": [ "stasis" ]
@@ -25078,7 +25147,7 @@
   "name": "Bleak Domain",
   "itemHash": 4060793397,
   "itemName": "Rime-coat Raiment",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -25171,7 +25240,21 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " damage and applies 50 "
+       "text": " damage and applies "
+      },
+      {
+       "text": "50",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[20]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " "
       },
       {
        "classNames": [ "stasis" ]
@@ -25187,13 +25270,13 @@
     {
      "linesContent": [
       {
-       "text": "Icicle can fire every 0.2 seconds. Icicle Stacks expire within 2 seconds of leaving the "
+       "text": "Icicle can fire every 0.2 seconds. Icicle Stacks expire if you leave the "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Storm."
+       "text": "Stasis Storm for more than 2 seconds."
       }
      ]
     }
@@ -26230,7 +26313,7 @@
  "1968497646": {
   "hash": 1968497646,
   "name": "Armor-Piercing Rounds",
-  "lastUpload": 1715302249608,
+  "lastUpload": 1731783952563,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -26238,7 +26321,23 @@
     {
      "linesContent": [
       {
-       "text": "Grants 5% increased damage against PvE Combatant Shields. Bullets overpenetrate enemies once."
+       "text": "Grants 5% increased damage against Elemental and "
+      },
+      {
+       "classNames": [ "barrier" ]
+      },
+      {
+       "text": "Barrier Champion Shields."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Allows bullets to overpenetrate enemies once."
       }
      ]
     }
@@ -27020,7 +27119,7 @@
  "2041432007": {
   "hash": 2041432007,
   "name": "Dark Ether Reaper",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -27053,7 +27152,7 @@
     {
      "linesContent": [
       {
-       "text": "Minors: 25% | Elites: ?% | Minibosses and higher: 100% | Players: ?%"
+       "text": "Minors and Players: 25% | Elites: ?% | Minibosses and higher: 100%"
       }
      ]
     },
@@ -27073,21 +27172,39 @@
     {
      "linesContent": [
       {
-       "text": "Detonations deal "
+       "text": "Detonations deal up to "
       },
       {
-       "text": "ALot™",
+       "text": "386",
        "classNames": [ "pve" ]
       },
       {
        "text": " "
       },
       {
-       "text": "[?]",
+       "text": "[50]",
        "classNames": [ "pvp" ]
       },
       {
-       "text": " elemental damage in a ? meter radius and match the weapon's element. Damage is always attributed to the Charge's creator regardless of who destroys them."
+       "text": " elemental damage in a 3? meter radius and match the weapon's element. Detonations inherit the weapon's "
+      },
+      {
+       "text": "Combatant Damage Scaling",
+       "link": "https://url.d2clarity.com/combatant-scaling",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Damage is always attributed to the Charge's creator regardless of who destroys them."
       }
      ]
     },
@@ -28091,7 +28208,60 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " Stacks of High Ground for 7 seconds. Maximum of 3 Stacks."
+       "text": " Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Weapon damage increases at 1|2|3 Stacks:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "10%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[N/A]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " | "
+      },
+      {
+       "text": "17.5%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[?%]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " | "
+      },
+      {
+       "text": "25%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[10%]",
+       "classNames": [ "pvp" ]
       }
      ]
     },
@@ -28119,38 +28289,6 @@
      "linesContent": [
       {
        "text": "The reference point of enemies' elevation is generally their lowest point."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Damage increases at 1|2|3 Stacks:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• "
-      },
-      {
-       "text": "PVE: 10% | 17.5% | 25%",
-       "classNames": [ "pve" ]
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• "
-      },
-      {
-       "text": "PVP: N/A | ? | 15%",
-       "classNames": [ "pvp" ]
       }
      ]
     },
@@ -29065,7 +29203,21 @@
     {
      "linesContent": [
       {
-       "text": "Applies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for 5.5 seconds."
+       "text": "Applies Kinetic Damage Vulnerability to the enemy, increasing Kinetic damage taken by 50% for "
+      },
+      {
+       "text": "5.5",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[5]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " seconds."
       }
      ]
     },
@@ -29089,7 +29241,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Debuff Duration is increased."
+       "text": " Debuff Duration is increased in PVE."
       }
      ]
     }
@@ -30238,7 +30390,7 @@
  "2284787283": {
   "hash": 2284787283,
   "name": "Clown Cartridge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -30246,7 +30398,17 @@
     {
      "linesContent": [
       {
-       "text": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up). Average of a 30% overfill."
+       "text": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Works out to a 30% overfill on average."
       }
      ]
     }
@@ -30256,7 +30418,7 @@
  "2298656195": {
   "hash": 2298656195,
   "name": "Circle of Life",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -30267,7 +30429,7 @@
        "text": "Triggering 'Support Frame Boost' by healing allies with the weapon grants "
       },
       {
-       "text": "25% ",
+       "text": "25%",
        "classNames": [ "pve" ]
       },
       {
@@ -30622,7 +30784,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -30644,7 +30806,60 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " Stacks of High Ground for 7 seconds. Maximum of 3 Stacks."
+       "text": " Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Weapon damage increases at 1|2|3 Stacks:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "10%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[N/A]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " | "
+      },
+      {
+       "text": "17.5%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[?%]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " | "
+      },
+      {
+       "text": "25%",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[10%]",
+       "classNames": [ "pvp" ]
       }
      ]
     },
@@ -30672,38 +30887,6 @@
      "linesContent": [
       {
        "text": "The reference point of enemies' elevation is generally their lowest point."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Damage increases at 1|2|3 Stacks:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• "
-      },
-      {
-       "text": "PVE: 10% | 17.5% | 25%",
-       "classNames": [ "pve" ]
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• "
-      },
-      {
-       "text": "PVP: N/A | ? | 15%",
-       "classNames": [ "pvp" ]
       }
      ]
     }
@@ -32290,7 +32473,7 @@
   "name": "Glacial Fortification",
   "itemHash": 1322544481,
   "itemName": "Hoarfrost-Z",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -32311,13 +32494,13 @@
     {
      "linesContent": [
       {
-       "text": "Barricade is replaced with a "
+       "text": "Class Abilities are replaced by a "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Crystal Wall."
+       "text": "Stasis Crystal formation."
       }
      ]
     },
@@ -32327,13 +32510,20 @@
     {
      "linesContent": [
       {
-       "text": "The "
+       "text": "When used with Rally or Towering Barricade:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Spawns a "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Wall is made of a Small "
+       "text": "Stasis Crystal Wall made of a Small "
       },
       {
        "classNames": [ "stasis" ]
@@ -32345,7 +32535,27 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Crystals on either side of it."
+       "text": "Crystals on either side of it"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grants Rally Barricade benefits to players standing behind the middle "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Crystal for 14 seconds, even if destroyed."
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Overrides Class Ability cooldown with Towering Barricade's"
       }
      ]
     },
@@ -32355,13 +32565,26 @@
     {
      "linesContent": [
       {
-       "text": "Applies Rally Barricade benefits to players standing behind the middle "
+       "text": "When used with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Thruster:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Spawns 2 Medium "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Crystal for 14 seconds, even if destroyed. Overrides Class Ability cooldown with Towering Barricade's."
+       "text": "Crystals diagonally forward to either side of you"
       }
      ]
     }
@@ -33365,7 +33588,7 @@
  "2551157718": {
   "hash": 2551157718,
   "name": "Box Breathing",
-  "lastUpload": 1709226265485,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -33373,7 +33596,7 @@
     {
      "linesContent": [
       {
-       "text": "After Aiming Down Sights for 1.5 seconds without firing, for one shot:"
+       "text": "After Aiming Down Sights for 1.5 seconds without firing, for a single shot:"
       }
      ]
     },
@@ -33654,7 +33877,7 @@
   "name": "Null Factor",
   "itemHash": 322173891,
   "itemName": "Mask of Fealty",
-  "lastUpload": 1729681695599,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -33665,13 +33888,13 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Withering Blade Hits and bounces spawn a Small "
+       "text": "Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Crystal and grant 7.5% Melee Ability Energy."
+       "text": "Stasis Crystal."
       }
      ]
     },
@@ -34315,7 +34538,7 @@
   "name": "Absorption Cells",
   "itemHash": 3301944824,
   "itemName": "Mantle of Battle Harmony",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -34323,7 +34546,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills with Weapons matching your Super Element grant 1.5 to 4.5% Super Energy based on "
+       "text": "Kills with Weapons matching your Super Element grant Super Energy based on "
       },
       {
        "text": "Enemy Rank",
@@ -34331,7 +34554,42 @@
        "classNames": [ "link" ]
       },
       {
-       "text": "."
+       "text": ":"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Tier 1 (T1) Minors: 1.5%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T2 Minors, T1 Elites: 2%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T3 Minors, T2 Elites: ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T4 Minors, T3 Elites, and higher: 2.5%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Players: ?%"
       }
      ]
     },
@@ -34955,7 +35213,7 @@
   "name": "Relentless Tracker",
   "itemHash": 896224899,
   "itemName": "Foetracer",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -34995,7 +35253,13 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Surge duration is not refreshable."
+       "text": "Weapon Surge duration is not refreshable. Currently does not work with "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar abilties."
       }
      ]
     },
@@ -35221,7 +35485,13 @@
     {
      "linesContent": [
       {
-       "text": "Applies 30 "
+       "text": "Weapon Kills trigger a "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar explosion that applies 30 "
       },
       {
        "classNames": [ "solar" ]
@@ -35234,24 +35504,13 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "45",
-       "classNames": [ "pve" ]
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[40]",
-       "classNames": [ "pvp" ]
-      },
-      {
-       "text": " with "
+       "text": "45 with "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Ember of Ashes) and deals up to 30 damage to enemies within 4? meters of the target on Weapon Kills."
+       "text": "Ember of Ashes) and deals up to 30 damage to enemies within 4 meters of the target."
       }
      ]
     },
@@ -35261,7 +35520,28 @@
     {
      "linesContent": [
       {
-       "text": "Killing Powerful Combatants and Players increases the radius to 8 meters."
+       "text": "Killing "
+      },
+      {
+       "text": "Elite or higher tier Combatants",
+       "link": "https://url.d2clarity.com/combatants",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": " and Players increases the radius to 8 meters and applies "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "15 more "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Scorch Stacks."
       }
      ]
     },
@@ -35296,13 +35576,19 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Applies to 5 more "
+       "text": " Having "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Scorch Stacks to PVE Combatants when Ember of Ashes is equipped."
+       "text": "Ember of Ashes equipped or Killing higher-tier targets each increase the amount of "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Scorch applied by 5 Stacks."
       }
      ]
     }
@@ -36336,7 +36622,7 @@
   "name": "Warlord's Sigil",
   "itemHash": 3844826443,
   "itemName": "Winter's Guile",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -36344,7 +36630,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants a Stack of Warlord's Sigil on (Glaive) Melee Kills for 5 seconds, increasing (Glaive) Melee damage."
+       "text": "(Glaive) Melee Kills grant a Stack of Warlord's Sigil for 5 seconds. Maximum of 5 Stacks."
       }
      ]
     },
@@ -38207,7 +38493,7 @@
  "2859149211": {
   "hash": 2859149211,
   "name": "Beacon Rounds",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -38266,7 +38552,7 @@
     {
      "linesContent": [
       {
-       "text": "• 45% Increased Auto Aim Cone size"
+       "text": "• 45% increased Auto Aim Cone size"
       }
      ]
     }
@@ -38779,7 +39065,7 @@
   "name": "Hearts of Ice",
   "itemHash": 3831935023,
   "itemName": "Ballidorse Wrathweavers",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -38787,22 +39073,19 @@
     {
      "linesContent": [
       {
-       "classNames": [ "stasis" ]
-      },
-      {
-       "text": "Shattering enemies frozen by "
+       "text": "Enemies frozen by "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Winter's Wrath deals 100% increased damage regardless of who "
+       "text": "Winter's Wrath receive 100% increased "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Shatters them."
+       "text": "Shatter damage."
       }
      ]
     },
@@ -38812,10 +39095,35 @@
     {
      "linesContent": [
       {
-       "text": "Allies within 30 meters receive the following for "
+       "text": "Upon performing "
       },
       {
-       "text": "15",
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Winter's Wrath's heavy attack:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Allies within 30 meters receive the maximum "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Frost Armor Stacks and 4 Stacks of "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Stasis Weapon Surge for "
+      },
+      {
+       "text": "11",
        "classNames": [ "pve" ]
       },
       {
@@ -38826,33 +39134,14 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " seconds:"
+       "text": " seconds"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Maximum "
-      },
-      {
-       "classNames": [ "stasis" ]
-      },
-      {
-       "text": "Frost Armor Stacks"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• 4 Stacks of "
-      },
-      {
-       "classNames": [ "stasis" ]
-      },
-      {
-       "text": "Stasis Weapon Surge"
+       "text": "• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)"
       }
      ]
     },
@@ -38930,7 +39219,7 @@
     {
      "linesContent": [
       {
-       "text": "• Grants ?% "
+       "text": "• Grants 2% "
       },
       {
        "classNames": [ "stasis" ]
@@ -39141,7 +39430,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "1.4 seconds without firing causes your Direct Hit to apply "
+       "text": "1.4 seconds without firing causes your next Direct Hit to apply "
       },
       {
        "classNames": [ "void" ]
@@ -39171,7 +39460,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Activation time is decreased by 0.1? seconds."
+       "text": " Activation time is decreased by 0.1 seconds."
       }
      ]
     }
@@ -39767,7 +40056,7 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -39782,7 +40071,7 @@
     {
      "linesContent": [
       {
-       "text": "Direct Hits apply 50 "
+       "text": "Direct Hits apply 60 "
       },
       {
        "classNames": [ "stasis" ]
@@ -41217,7 +41506,7 @@
  "3078487919": {
   "hash": 3078487919,
   "name": "Bait and Switch",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -41235,7 +41524,7 @@
     {
      "linesContent": [
       {
-       "text": "Dealing damage with all 3 of your weapons without letting the timer run out grants you the 'Bait and Switch' buff for 10 seconds, granting 30% increased damage."
+       "text": "Dealing damage with all 3 of your weapons without letting the timer run out grants you 'Bait and Switch' for 10 seconds, granting 30% increased damage."
       }
      ]
     },
@@ -42101,7 +42390,7 @@
  "3186078099": {
   "hash": 3186078099,
   "name": "Harmonic Resonance",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -42116,35 +42405,11 @@
     {
      "linesContent": [
       {
-       "text": "• "
+       "text": "• 3.33% | 10% increased damage against "
       },
       {
-       "text": "3.33%",
+       "text": "The Dread, Lucent Hive, and Nezarec",
        "classNames": [ "pve" ]
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[?%]",
-       "classNames": [ "pvp" ]
-      },
-      {
-       "text": " | "
-      },
-      {
-       "text": "9.98%",
-       "classNames": [ "pve" ]
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[?%]",
-       "classNames": [ "pvp" ]
-      },
-      {
-       "text": " increased damage against enemies wielding Light and Darkness"
       }
      ]
     },
@@ -42166,30 +42431,6 @@
      "linesContent": [
       {
        "text": "• 0.95x Reload Duration Multiplier"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Affected enemies:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• The Dread, Lucent Hive, and Nezarec"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Enemy Players with their Super (or Transcendence?) active"
       }
      ]
     }
@@ -43918,7 +44159,7 @@
  "3301904089": {
   "hash": 3301904089,
   "name": "Spike Grenades",
-  "lastUpload": 1712008312346,
+  "lastUpload": 1731783952563,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -43926,14 +44167,14 @@
     {
      "linesContent": [
       {
-       "text": "Increases Grenade Impact Damage:"
+       "text": "Increases Grenade Impact damage:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 12.12% Increase on "
+       "text": "• 12.12% increase on "
       },
       {
        "classNames": [ "special" ]
@@ -43946,13 +44187,13 @@
     {
      "linesContent": [
       {
-       "text": "• 12.5% Increase on "
+       "text": "• 12.5% increase on "
       },
       {
        "classNames": [ "heavy" ]
       },
       {
-       "text": "Heavy Grenade Launchers"
+       "text": "Power Grenade Launchers"
       }
      ]
     },
@@ -43962,7 +44203,7 @@
     {
      "linesContent": [
       {
-       "text": "Due to the ratio of Detonation and Impact Damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase."
+       "text": "Due to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a lower stat will provide a slightly higher overall damage increase."
       }
      ]
     }
@@ -44665,6 +44906,58 @@
    ]
   }
  },
+ "3373736292": {
+  "hash": 3373736292,
+  "name": "Sticky Grenades",
+  "lastUpload": 1731783952563,
+  "type": "Weapon Perk",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Increases Destonation damage by 30% and decreases Impact damage by 85%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Due to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 20 Blast Radius: 6% decreased total damage"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 100 Blast Radius: 11% increased total damage"
+      }
+     ]
+    }
+   ]
+  }
+ },
  "3400784728": {
   "hash": 3400784728,
   "name": "Triple Tap",
@@ -45274,7 +45567,7 @@
     {
      "linesContent": [
       {
-       "text": "Hits against non-Matching Element or Barrier Champion Shields deal increasingly higher damage."
+       "text": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage."
       }
      ]
     },
@@ -45294,7 +45587,7 @@
     {
      "linesContent": [
       {
-       "text": "Damage increase per Weapon Archetype:"
+       "text": "Damage increase by Weapon Archetype:"
       }
      ]
     },
@@ -45392,7 +45685,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " The damage buff is increased by 20%. (e.g. 150% 🠚 180%)"
+       "text": " The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)"
       }
      ]
     }
@@ -46476,7 +46769,7 @@
   "name": "Danger Close",
   "itemHash": 1909305643,
   "itemName": "Hazardous Propulsion",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -46494,7 +46787,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage consumes all Stacks, launching a homing rocket in exchange for each one. Rockets deal up to "
+       "text": "Class Ability usage consumes all Stacks to launch a homing rocket per Stack consumed. Rockets deal up to "
       },
       {
        "text": "600",
@@ -46508,7 +46801,7 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " Kinetic Damage."
+       "text": " Kinetic Damage in a ? meter radius."
       }
      ]
     },
@@ -47029,7 +47322,7 @@
   "name": "Voltaic Mirror",
   "itemHash": 1703551922,
   "itemName": "Blight Ranger",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -47069,9 +47362,15 @@
      ]
     },
     {
+     "classNames": [ "spacer" ]
+    },
+    {
      "linesContent": [
       {
-       "text": "• Super can be deactivated at any time to preserve 50-75% of unspent Super Energy"
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Arc Staff can be deactivated at any time to preserve a portion of unspent Super Energy: 75% refund at 100% Super Energy and linearly scaling down to a 50% refund at 0% Super Energy."
       }
      ]
     },
@@ -47100,17 +47399,17 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Blinding explosion in a ? meter radius around you that deals up to "
+       "text": "Blinding explosion in a ? meter radius around you that deals "
       },
       {
-       "text": "575",
+       "text": "300 to 575",
        "classNames": [ "pve" ]
       },
       {
        "text": " "
       },
       {
-       "text": "[?]",
+       "text": "[? to ?]",
        "classNames": [ "pvp" ]
       },
       {
@@ -47159,7 +47458,31 @@
     {
      "linesContent": [
       {
-       "text": "Reloading randomly overfills the Magazine from reserves by 10% to 50% of the base Magazine Capacity (rounded up). Average of a 33% overfill."
+       "text": "Reloading randomly overfills the Magazine from reserves by "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "13% to 50% of the base Magazine Capacity (rounded up)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Works out to a "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "31.5% overfill on average."
       }
      ]
     },
@@ -47173,7 +47496,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Improves the average overfill amount by 10%. (30%⁠🠚⁠33%)"
+       "text": " Increases the minimum overfill amount by 30%. (10%⁠🠚⁠13%)"
       }
      ]
     }
@@ -48035,7 +48358,7 @@
   "name": "Dreaded Visage",
   "itemHash": 3883866764,
   "itemName": "Mask of the Quiet One",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -48053,7 +48376,7 @@
     {
      "linesContent": [
       {
-       "text": "Taking damage grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations."
+       "text": "Taking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations."
       }
      ]
     },
@@ -48076,7 +48399,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring a Kill at Critical Health or ? Kills within ? seconds of each grants you "
+       "text": "Scoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you "
       },
       {
        "classNames": [ "void" ]
@@ -49276,7 +49599,7 @@
     {
      "linesContent": [
       {
-       "text": "Dealing damage with all 3 of your weapons without letting the timer run out grants you the 'Bait and Switch' buff for "
+       "text": "Dealing damage with all 3 of your weapons without letting the timer run out grants you 'Bait and Switch' for "
       },
       {
        "text": "🡅",
@@ -50152,7 +50475,7 @@
  "3820243349": {
   "hash": 3820243349,
   "name": "Synergy",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1731783952563,
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -50160,7 +50483,21 @@
     {
      "linesContent": [
       {
-       "text": "Scoring 12 Weapon Kills spawns an Elemental Pickup Matching the weapon's element. Kill counter persist through stow."
+       "text": "Scoring "
+      },
+      {
+       "text": "12",
+       "classNames": [ "pve" ]
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[6]",
+       "classNames": [ "pvp" ]
+      },
+      {
+       "text": " Weapon Kills spawns an Elemental Pickup matching the weapon's element. Kill counter persists through stow."
       }
      ]
     },
@@ -51103,7 +51440,7 @@
   "name": "New Tricks",
   "itemHash": 1053737370,
   "itemName": "Shinobu's Vow",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -51150,7 +51487,7 @@
        "text": " "
       },
       {
-       "text": "[1.386%]",
+       "text": "[1.4%]",
        "classNames": [ "pvp" ]
       },
       {
@@ -51840,7 +52177,14 @@
     {
      "linesContent": [
       {
-       "text": "• ? to ? Handling"
+       "text": "• 30? to 50? Handling"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 0.9x to 0.8x Handling Animation Duration Multiplier"
       }
      ]
     },
@@ -51871,7 +52215,7 @@
  "3966416502": {
   "hash": 3966416502,
   "name": "Jolting Feedback",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -51879,13 +52223,13 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple Direct Hits with the Weapon within ? seconds of each applies "
+       "text": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Jolt to the target."
+       "text": "Jolt."
       }
      ]
     },
@@ -51924,20 +52268,7 @@
     {
      "linesContent": [
       {
-       "text": "• Auto Rifles: 16 | "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "12"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Pulse Rifles: 15 | "
+       "text": "• Auto Rifles: 15 | "
       },
       {
        "classNames": [ "arc" ]
@@ -51950,26 +52281,39 @@
     {
      "linesContent": [
       {
-       "text": "• Submachine Guns (theoretical): 19? | "
+       "text": "• Pulse Rifles: 14 | "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "14?"
+       "text": "10"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grenade Launchers: 4 | "
+       "text": "• Submachine Guns (theoretical): 18? | "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "3"
+       "text": "13?"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grenade Launchers: 3 | "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "2"
       }
      ]
     }
@@ -52519,7 +52863,7 @@
  "3993379141": {
   "hash": 3993379141,
   "name": "Deconstruct",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -52627,16 +52971,6 @@
     {
      "linesContent": [
       {
-       "text": "Pellet Shotguns, Rocket-Assisted Sidearms, and non-Wave Frame Grenade Launchers can trigger the perk twice on initial activations (when the buff isn't active). Note: please don't ask about the specifics of this."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
        "text": "Wave Frame Grenade Launchers:"
       }
      ]
@@ -52652,37 +52986,6 @@
      "linesContent": [
       {
        "text": "• Doesn't receive bonus activation progress against Constructs and Vehicles"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Pellet Shotguns:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Runs into network-related issues for triggering the perk and granting ammo on non-construct hits"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Only needs one pellet to hit per shot, they aren't considered separate Hits for the purpose of the perk"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Activation progress granted by each shot scales with distance: point-blank shots follow the standard formula but as few as 2 shots can trigger the perk on more distant targets"
       }
      ]
     }
@@ -53794,7 +54097,7 @@
   "name": "Touch of Venom",
   "itemHash": 2757274117,
   "itemName": "Khepri's Sting",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -53872,10 +54175,25 @@
     {
      "linesContent": [
       {
+       "text": "Dealing damage with a "
+      },
+      {
        "classNames": [ "void" ]
       },
       {
-       "text": "Void Invisibility prevents the Ability Recharge bonus from applying."
+       "text": "Smoke Bomb or gaining "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Invisibility from "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Trapper's Ambush immediately removes the Ability Recharge bonus."
       }
      ]
     }
@@ -54108,7 +54426,7 @@
  "4139916815": {
   "hash": 4139916815,
   "name": "Bray Legacy",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -54116,7 +54434,55 @@
     {
      "linesContent": [
       {
-       "text": "Hits with the weapon grant ability energy to the least charged ability."
+       "text": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Does not grant any energy to abilities that you already have a full charge of."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gains by weapon:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• VS Pyroelectric Propellant: 0.2%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• VS Velocity Baton: 0.365%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• VS Gravitic Arrest: 0.425%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• VS Chill Inhibitor: 3.5%"
       }
      ]
     }
@@ -54353,7 +54719,7 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills reduce Pellet Spread by 20% for "
+       "text": "Kills with the weapon reduce Pellet Spread by 20% for "
       },
       {
        "text": "🡅",
@@ -54667,7 +55033,7 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -54725,7 +55091,7 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " Super Energy upon absorbing "
+       "text": " Super Energy after receiving "
       },
       {
        "text": "?",
@@ -54739,7 +55105,7 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " points of damage."
+       "text": " damage."
       }
      ]
     }
@@ -55485,7 +55851,7 @@
   "name": "The Gift of Certainty",
   "itemHash": 1627691271,
   "itemName": "Gifted Conviction",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -55521,7 +55887,7 @@
        "text": " "
       },
       {
-       "text": "[?]",
+       "text": "[40]",
        "classNames": [ "pvp" ]
       },
       {
@@ -55646,11 +56012,62 @@
   "name": "Glorious Charge",
   "itemHash": 2321120637,
   "itemName": "Cuirass of the Falling Star",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
    "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Melee Kills while "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Amplified grant additional Super Energy:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Tier 1 (T1) Minors: 2.5?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T2 Minors, T1 Elites: 2.5%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T3 Minors, T2 Elites: ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T4 Minors, T3 Elites, and higher: 3%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Players: ?%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
     {
      "linesContent": [
       {
@@ -55685,28 +56102,6 @@
       },
       {
        "text": " Damage Resistance for ? seconds."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Melee Kills while "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Amplified grant ?% additional "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Thundercrash Super Energy."
       }
      ]
     }
@@ -55808,7 +56203,7 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1731783952563,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -55832,7 +56227,7 @@
        "text": "• Releases lightning at enemies within ? meters of you, dealing "
       },
       {
-       "text": "?",
+       "text": "650",
        "classNames": [ "pve" ]
       },
       {
@@ -55843,13 +56238,13 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " damage and applying "
+       "text": " damage and "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Jolt"
+       "text": "Jolting them"
       }
      ]
     },
@@ -55867,9 +56262,54 @@
      ]
     },
     {
+     "classNames": [ "spacer" ]
+    },
+    {
      "linesContent": [
       {
-       "text": "• Inconsistently refunds up to 50% Super Energy based on ??????"
+       "text": "Lightning strikes (inconsistently) refund up to 50% Super Energy on "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Arc-Debuffed enemy Hits or Kills based on "
+      },
+      {
+       "text": "Enemy Rank",
+       "link": "https://url.d2clarity.com/combatants",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": ":"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Tier 1 (T1) Minors: ?% on Hits | ? on Kills"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T2 Minors, T1 Elites: ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T3 Minors, T2 Elites: ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T4 Minors, T3 Elites, and higher: 30?% | ?%"
       }
      ]
     },
@@ -55882,13 +56322,63 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Arc-Debuffed Enemy Kills grant ?% additional "
+       "text": "Arc-Debuffed enemy Kills (inconsistently) grant additional "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Gathering Storm Super Energy."
+       "text": "Gathering Storm Super Energy:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Minors: 0.3%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Elites: 1.7%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Players: 3.1%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Minibosses and higher: 4.5%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Inconsistencies are only(?) observed with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Jolted enemies. Possibly due to killing enemies too fast after triggering "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Jolt's damage."
       }
      ]
     }
@@ -56488,7 +56978,7 @@
  "4293542123": {
   "hash": 4293542123,
   "name": "Incandescent",
-  "lastUpload": 1703073411225,
+  "lastUpload": 1731783952563,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -56496,7 +56986,13 @@
     {
      "linesContent": [
       {
-       "text": "Applies 30 "
+       "text": "Weapon Kills trigger a "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar explosion that applies 30 "
       },
       {
        "classNames": [ "solar" ]
@@ -56508,7 +57004,7 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Ember of Ashes) and deals up to 30 damage to enemies within 4? meters of the target on Weapon Kills."
+       "text": "Ember of Ashes) and deals up to 30 damage to enemies within 4 meters of the target."
       }
      ]
     },
@@ -56518,7 +57014,21 @@
     {
      "linesContent": [
       {
-       "text": "Killing Powerful Combatants and Players increases the radius to 8 meters."
+       "text": "Killing "
+      },
+      {
+       "text": "Elite or higher tier Combatants",
+       "link": "https://url.d2clarity.com/combatants",
+       "classNames": [ "link" ]
+      },
+      {
+       "text": " and Players increases the radius to 8 meters and applies 10 more "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Scorch Stacks."
       }
      ]
     },
