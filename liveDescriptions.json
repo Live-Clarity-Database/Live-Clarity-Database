@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -700,7 +700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2700,7 +2700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5773,7 +5773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10194,7 +10194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10976,7 +10976,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11701,7 +11701,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13663,7 +13663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15669,7 +15669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16795,7 +16795,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17105,7 +17105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17784,7 +17784,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -19011,7 +19011,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20473,7 +20473,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21224,7 +21224,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21662,7 +21662,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22461,7 +22461,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -23673,7 +23673,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24189,7 +24189,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24720,7 +24720,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24732,23 +24732,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\n\n<title Refills [G_refill] /> 10% of readied Auto Rifles' and Machine Guns' Magazines every 1.5 seconds.",
+     "main": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\n\n<title Refills [G_refill] /> 10% of readied Auto Rifles' and Machine Guns' magazines (rounded up) every 1.5 seconds.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1684959859770,
+      "lastUpdate": 1731793717953,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665682478048,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670501824254,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -24757,7 +24749,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709252348445,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24948,7 +24940,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26479,14 +26471,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\n\nMagazine Refill cannot be triggered again without stowing the weapon first.\n\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\n\nTranscendence Grenades count as the element of your equipped Grenade Ability.\n\nMost perks that replace your Grenade Ability with a custom throwable (such as <solar/>Gunpowder Gamble) do not trigger Osmosis.\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
+     "main": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\n\nMagazine Refill cannot be triggered again without stowing the weapon first.\n\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\n\nTranscendence Grenades count as the element of your equipped Grenade Ability.\n\nMost perks that replace your Grenade Ability with a custom throwable (such as <solar/>Gunpowder Gamble) do not trigger Osmosis.\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722189825753,
+      "lastUpdate": 1731793487516,
       "updatedBy": "Stardust"
      }
     },
@@ -26496,7 +26488,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27080,19 +27072,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "<title Refills [G_refill] /> #e${10+#d}% of the Magazine from reserves on Weapon Kills.\n\n#f\nvar f = Submachine Gun and Auto Rifle Kills refill 17% of the magazine.\n\nenhanced (\n//removes note about SMGs and autos on the enhanced version\nvar f = empty\nvar d = 10\n#e Refill amount is increased by an additive 10%. (3% on Submachine Guns and Auto Rifles)\n)",
+     "main": "Weapon Kills <title refill [G_refill] /> #e${10+#d}% of the magazine (rounded up) from reserves.\n\n#f\nvar f = Submachine Gun and Auto Rifle Kills refill 17% of the magazine.\n\nenhanced (\n//removes note about SMGs and autos on the enhanced version\nvar f = empty\nvar d = 10\n#e Refill amount is increased by an additive 10%. (3% on Submachine Guns and Auto Rifles)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1695582702026,
+      "lastUpdate": 1731793675218,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670338938621,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -27101,7 +27089,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1695589383294,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27630,7 +27618,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27771,7 +27759,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29218,7 +29206,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30216,14 +30204,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Sliding <title refills [G_refill] /> 15% of the magazine from reserves and grants #e${15+#d}? Stability and #e${30+#f} Handling for 3 seconds.\n\n0.5 second cooldown between activations. Buff is removed on stow.\n\nenhanced (\nvar d = 2\nvar f = 3\n#e Stat bonuses are increased by 10?%.\n)",
+     "main": "Sliding <title refills [G_refill] /> 15% of the magazine (rounded up) from reserves and grants #e${15+#d}? Stability and #e${30+#f} Handling for 3 seconds.\n\n0.5 second cooldown between activations. Buff is removed on stow.\n\nenhanced (\nvar d = 2\nvar f = 3\n#e Stat bonuses are increased by 10?%.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729021018365,
+      "lastUpdate": 1731793691084,
       "updatedBy": "Stardust"
      }
     },
@@ -30233,7 +30221,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30287,7 +30275,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33703,7 +33691,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33788,7 +33776,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34182,14 +34170,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<title Refills [G_refill] /> 4% of the Magazine of Trace Rifles from reserves every 0.7 seconds. Works even while stowed.\n\nRapidly scoring 5 Trace Rifle hits on a <link Miniboss, Champion, Boss, or Vehicle [#CombatantClassifications] /> marks them for you and allies for 10 seconds.\n\nAdditional hits refresh the mark duration. Does not require Direct Hits. Multiple people cannot mark the same enemy.\n\nOnly one target can be marked at a time and the mark cannot be transferred to a different target before the duration runs out or the enemy is defeated.\n\nAlly kills on Marked Enemies spawn a <heavy/>Heavy Ammo Brick for allies and a <special/>Special Ammo Brick for you.\n\nSpawned Ammo Bricks grant 10.33% of your total reserves (rounded up).",
+     "main": "<title Refills [G_refill] /> 4% of the magazine of Trace Rifles (rounded up) from reserves every 0.7 seconds. Works even while stowed.\n\nRapidly scoring 5 Trace Rifle hits on a <link Miniboss, Champion, Boss, or Vehicle [#CombatantClassifications] /> marks them for you and allies for 10 seconds.\n\nAdditional hits refresh the mark duration. Does not require Direct Hits. Multiple people cannot mark the same enemy.\n\nOnly one target can be marked at a time and the mark cannot be transferred to a different target before the duration runs out or the enemy is defeated.\n\nAlly kills on Marked Enemies spawn a <heavy/>Heavy Ammo Brick for allies and a <special/>Special Ammo Brick for you.\n\nSpawned Ammo Bricks grant 10.33% of your total reserves (rounded up).",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729102965957,
+      "lastUpdate": 1731793734430,
       "updatedBy": "Stardust"
      }
     },
@@ -34199,7 +34187,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34254,7 +34242,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -35500,14 +35488,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Class Ability Usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\n\nMagazine Refill cannot be triggered again without stowing the weapon first.\n\n//Kinetic Weapons lose their Kinetic Damage Bonus in PVE (10% on <primary/>Primary, 15% on <special/>Special).\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
+     "main": "Class Ability usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\n\nMagazine Refill cannot be triggered again without stowing the weapon first.\n\n//Kinetic Weapons lose their Kinetic Damage Bonus in PVE (10% on <primary/>Primary, 15% on <special/>Special).\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727527988776,
+      "lastUpdate": 1731793481543,
       "updatedBy": "Stardust"
      }
     },
@@ -35517,7 +35505,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36014,7 +36002,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36893,7 +36881,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37168,7 +37156,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37667,7 +37655,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38637,7 +38625,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39657,7 +39645,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41713,7 +41701,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42217,7 +42205,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -43302,7 +43290,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44806,7 +44794,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -45940,14 +45928,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Sliding <title refills [G_refill] /> 15% of the Magazine (rounds up) and grants #e${20+#d} Range and Stability for your next shot (of the burst) within 2.5 seconds.\n\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow.\n\nenhanced (\nvar d = 2\n#e Stat bonuses are increased by 2?.\n)",
+     "main": "Sliding <title refills [G_refill] /> 15% of the Magazine (rounded up) and grants #e${20+#d} Range and Stability for your next shot (of the burst) within 2.5 seconds.\n\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow.\n\nenhanced (\nvar d = 2\n#e Stat bonuses are increased by 2?.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722300642526,
+      "lastUpdate": 1731793683025,
       "updatedBy": "Stardust"
      }
     },
@@ -45957,7 +45945,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46262,7 +46250,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -47657,7 +47645,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48490,7 +48478,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50160,7 +50148,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50848,7 +50836,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52190,7 +52178,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54280,7 +54268,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55105,7 +55093,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55858,7 +55846,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56331,7 +56319,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57932,7 +57920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58330,7 +58318,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59152,7 +59140,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60133,7 +60121,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60162,7 +60150,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60435,7 +60423,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61157,7 +61145,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791565297,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61167,14 +61155,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "After stowing #element:\nBegins to <title refill [G_refill] /> 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\n\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers.\n\nvar element = <arc/>Arc Weapons",
+     "main": "After stowing #element:\nBegins to <title refill [G_refill] /> 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\n\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers.\n\nvar element = <arc/>Arc Weapons",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719509934443,
+      "lastUpdate": 1731793761172,
       "updatedBy": "Stardust"
      }
     },
@@ -61184,7 +61172,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
   }
