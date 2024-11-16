@@ -3283,7 +3283,7 @@
   "name": "Cluster Bomb",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Rocket detionations release 8 Cluster Bombs.\nEach Cluster Bomb deals up to [pve]50 [pvp][11] damage in a 4 meter radius."
+   "en": "Rocket detonations release 8 Cluster Bombs.\nEach Cluster Bomb deals up to [pve]50 [pvp][11] damage in a 4 meter radius."
   }
  },
  "1281216113": {
@@ -3535,7 +3535,7 @@
   "itemName": "Fallen Sunstar",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Ionic Traces move faster and grant doubled Ability Energy.\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+   "en": "Ionic Traces move faster and grant doubled Ability Energy.\nTotal ability energy gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace."
   }
  },
  "1378047685": {
@@ -4787,7 +4787,7 @@
   "itemName": "Blastwave Striders",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 [Stasis]Stasis Projectiles and granting maximum [Stasis]Frost Armor stacks.\nEach Projectile deals [pve]660 [pvp][?] damage and spawns a [Stasis]Stasis Crystal on impact."
+   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 [Stasis]Stasis Projectiles and granting maximum [Stasis]Frost Armor Stacks.\nEach Projectile deals [pve]660 [pvp][?] damage and spawns a [Stasis]Stasis Crystal on impact."
   }
  },
  "1864989992": {
@@ -6623,7 +6623,7 @@
   "itemName": "Foetracer",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]11 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilties.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]11 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilities.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
   }
  },
  "2663272110": {

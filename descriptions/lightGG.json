@@ -2504,7 +2504,7 @@
   "name": "Glacial Guard",
   "itemHash": 1467044898,
   "itemName": "Icefall Mantle",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -5338,7 +5338,7 @@
   "name": "Burning Fists",
   "itemHash": 1734844651,
   "itemName": "Wormgod Caress",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -9784,7 +9784,7 @@
   "name": "Light Shift",
   "itemHash": 1619425569,
   "itemName": "Mask of Bakris",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -10718,7 +10718,7 @@
  "766321425": {
   "hash": 766321425,
   "name": "Bray Inheritance",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -11560,7 +11560,7 @@
   "name": "Seriously, Watch Out",
   "itemHash": 136355432,
   "itemName": "Mk. 44 Stand Asides",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -13193,7 +13193,7 @@
   "name": "Fervid Coldsnap",
   "itemHash": 3259193988,
   "itemName": "Osmiomancy Gloves",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -14718,7 +14718,7 @@
  "1048183818": {
   "hash": 1048183818,
   "name": "Adaptive Munitions",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -15713,7 +15713,7 @@
  "1134488199": {
   "hash": 1134488199,
   "name": "Withering Gaze",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -16317,7 +16317,7 @@
   "name": "Biotic Enhancements",
   "itemHash": 241462142,
   "itemName": "Synthoceps",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -17458,7 +17458,7 @@
  "1194056669": {
   "hash": 1194056669,
   "name": "Closing Time",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -18173,11 +18173,11 @@
  "1275731761": {
   "hash": 1275731761,
   "name": "Cluster Bomb",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731003151689,
+     "lastUpdate": 1731791040683,
      "updatedBy": "Stardust"
     }
    }
@@ -18187,7 +18187,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket detionations release 8 Cluster Bombs."
+       "text": "Rocket detonations release 8 Cluster Bombs."
       }
      ]
     },
@@ -19237,11 +19237,11 @@
   "name": "Ionic Conductor",
   "itemHash": 1849149215,
   "itemName": "Fallen Sunstar",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731153049965,
+     "lastUpdate": 1731791124354,
      "updatedBy": "Stardust"
     }
    }
@@ -19261,7 +19261,7 @@
     {
      "linesContent": [
       {
-       "text": "Total Ability Energy Gained per Ionic Trace:"
+       "text": "Total ability energy gained per Ionic Trace:"
       }
      ]
     },
@@ -19278,7 +19278,7 @@
     {
      "linesContent": [
       {
-       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace."
       }
      ]
     }
@@ -19491,7 +19491,7 @@
   "name": "Blood Magic",
   "itemHash": 3070555693,
   "itemName": "Sanguine Alchemy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -20142,7 +20142,7 @@
  "1451849462": {
   "hash": 1451849462,
   "name": "Barrel Constrictor",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -20658,7 +20658,7 @@
  "1523832109": {
   "hash": 1523832109,
   "name": "Reconstruction",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -22118,7 +22118,7 @@
  "1600092898": {
   "hash": 1600092898,
   "name": "Backup Plan",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -22597,7 +22597,7 @@
   "name": "Lancer's Vigil",
   "itemHash": 3574051505,
   "itemName": "Cadmus Ridge Lancecap",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -22968,7 +22968,7 @@
   "name": "Survival Well",
   "itemHash": 1591207519,
   "itemName": "Crest of Alpha Lupi",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -23201,7 +23201,7 @@
  "1683379515": {
   "hash": 1683379515,
   "name": "Disruption Break",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -25797,11 +25797,11 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729877429597,
+     "lastUpdate": 1731790978952,
      "updatedBy": "Stardust"
     }
    }
@@ -25878,7 +25878,7 @@
        "text": "Stasis Projectiles and granting maximum "
       },
       {
-       "text": "Frost Armor stacks."
+       "text": "Frost Armor Stacks."
       }
      ]
     },
@@ -26052,7 +26052,7 @@
   "name": "Bleak Domain",
   "itemHash": 4060793397,
   "itemName": "Rime-coat Raiment",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -27253,7 +27253,7 @@
  "1968497646": {
   "hash": 1968497646,
   "name": "Armor-Piercing Rounds",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -28101,7 +28101,7 @@
  "2041432007": {
   "hash": 2041432007,
   "name": "Dark Ether Reaper",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -31580,7 +31580,7 @@
  "2284787283": {
   "hash": 2284787283,
   "name": "Clown Cartridge",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -31614,7 +31614,7 @@
  "2298656195": {
   "hash": 2298656195,
   "name": "Circle of Life",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -31998,7 +31998,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -33758,7 +33758,7 @@
   "name": "Glacial Fortification",
   "itemHash": 1322544481,
   "itemName": "Hoarfrost-Z",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -34874,7 +34874,7 @@
  "2551157718": {
   "hash": 2551157718,
   "name": "Box Breathing",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -35172,7 +35172,7 @@
   "name": "Null Factor",
   "itemHash": 322173891,
   "itemName": "Mask of Fealty",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -35856,7 +35856,7 @@
   "name": "Absorption Cells",
   "itemHash": 3301944824,
   "itemName": "Mantle of Battle Harmony",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -36570,11 +36570,11 @@
   "name": "Relentless Tracker",
   "itemHash": 896224899,
   "itemName": "Foetracer",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731154274299,
+     "lastUpdate": 1731791138233,
      "updatedBy": "Stardust"
     }
    }
@@ -36616,7 +36616,7 @@
        "text": "Weapon Surge duration is not refreshable. Currently does not work with "
       },
       {
-       "text": "Solar abilties."
+       "text": "Solar abilities."
       }
      ]
     },
@@ -37924,7 +37924,7 @@
   "name": "Warlord's Sigil",
   "itemHash": 3844826443,
   "itemName": "Winter's Guile",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -39820,7 +39820,7 @@
  "2859149211": {
   "hash": 2859149211,
   "name": "Beacon Rounds",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -40450,7 +40450,7 @@
   "name": "Hearts of Ice",
   "itemHash": 3831935023,
   "itemName": "Ballidorse Wrathweavers",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -41457,7 +41457,7 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -42952,7 +42952,7 @@
  "3078487919": {
   "hash": 3078487919,
   "name": "Bait and Switch",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -43902,7 +43902,7 @@
  "3186078099": {
   "hash": 3186078099,
   "name": "Harmonic Resonance",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -45758,7 +45758,7 @@
  "3301904089": {
   "hash": 3301904089,
   "name": "Spike Grenades",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -46532,7 +46532,7 @@
  "3373736292": {
   "hash": 3373736292,
   "name": "Sticky Grenades",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -48453,7 +48453,7 @@
   "name": "Danger Close",
   "itemHash": 1909305643,
   "itemName": "Hazardous Propulsion",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -49017,7 +49017,7 @@
   "name": "Voltaic Mirror",
   "itemHash": 1703551922,
   "itemName": "Blight Ranger",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -50077,7 +50077,7 @@
   "name": "Dreaded Visage",
   "itemHash": 3883866764,
   "itemName": "Mask of the Quiet One",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -52239,7 +52239,7 @@
  "3820243349": {
   "hash": 3820243349,
   "name": "Synergy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -53211,7 +53211,7 @@
   "name": "New Tricks",
   "itemHash": 1053737370,
   "itemName": "Shinobu's Vow",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -54039,7 +54039,7 @@
  "3966416502": {
   "hash": 3966416502,
   "name": "Jolting Feedback",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -54689,7 +54689,7 @@
  "3993379141": {
   "hash": 3993379141,
   "name": "Deconstruct",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -55998,7 +55998,7 @@
   "name": "Touch of Venom",
   "itemHash": 2757274117,
   "itemName": "Khepri's Sting",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -56347,7 +56347,7 @@
  "4139916815": {
   "hash": 4139916815,
   "name": "Bray Legacy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -56981,7 +56981,7 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -57807,7 +57807,7 @@
   "name": "The Gift of Certainty",
   "itemHash": 1627691271,
   "itemName": "Gifted Conviction",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -57939,7 +57939,7 @@
   "name": "Glorious Charge",
   "itemHash": 2321120637,
   "itemName": "Cuirass of the Falling Star",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -58124,7 +58124,7 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -58919,7 +58919,7 @@
  "4293542123": {
   "hash": 4293542123,
   "name": "Incandescent",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "updateTracker": {
    "descriptions": {
     "en": {

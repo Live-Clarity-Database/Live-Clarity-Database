@@ -16124,7 +16124,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket detionations release 8 Cluster Bombs."
+       "text": "Rocket detonations release 8 Cluster Bombs."
       }
      ]
     },
@@ -17097,7 +17097,7 @@
     {
      "linesContent": [
       {
-       "text": "Total Ability Energy Gained per Ionic Trace:"
+       "text": "Total ability energy gained per Ionic Trace:"
       }
      ]
     },
@@ -17114,7 +17114,7 @@
     {
      "linesContent": [
       {
-       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace."
       }
      ]
     }
@@ -22907,7 +22907,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Frost Armor stacks."
+       "text": "Frost Armor Stacks."
       }
      ]
     },
@@ -32348,7 +32348,7 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Solar abilties."
+       "text": "Solar abilities."
       }
      ]
     },

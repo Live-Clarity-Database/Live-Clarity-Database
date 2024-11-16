@@ -500,7 +500,7 @@
   "name": "Glacial Guard",
   "itemHash": 1467044898,
   "itemName": "Icefall Mantle",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1054,7 +1054,7 @@
   "name": "Burning Fists",
   "itemHash": 1734844651,
   "itemName": "Wormgod Caress",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2041,7 +2041,7 @@
   "name": "Light Shift",
   "itemHash": 1619425569,
   "itemName": "Mask of Bakris",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2249,7 +2249,7 @@
  "766321425": {
   "hash": 766321425,
   "name": "Bray Inheritance",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2425,7 +2425,7 @@
   "name": "Seriously, Watch Out",
   "itemHash": 136355432,
   "itemName": "Mk. 44 Stand Asides",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2809,7 +2809,7 @@
   "name": "Fervid Coldsnap",
   "itemHash": 3259193988,
   "itemName": "Osmiomancy Gloves",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -3199,7 +3199,7 @@
  "1048183818": {
   "hash": 1048183818,
   "name": "Adaptive Munitions",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -3425,7 +3425,7 @@
  "1134488199": {
   "hash": 1134488199,
   "name": "Withering Gaze",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -3535,7 +3535,7 @@
   "name": "Biotic Enhancements",
   "itemHash": 241462142,
   "itemName": "Synthoceps",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -3749,7 +3749,7 @@
  "1194056669": {
   "hash": 1194056669,
   "name": "Closing Time",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -4043,11 +4043,11 @@
  "1275731761": {
   "hash": 1275731761,
   "name": "Cluster Bomb",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Rocket detionations release 8 Cluster Bombs.\n\nEach Cluster Bomb deals up to <:pve:922884406073507930>50 <:pvp:922884468275019856>[11] damage in a 4 meter radius."
+   "en": "Rocket detonations release 8 Cluster Bombs.\n\nEach Cluster Bomb deals up to <:pve:922884406073507930>50 <:pvp:922884468275019856>[11] damage in a 4 meter radius."
   }
  },
  "1281216113": {
@@ -4353,11 +4353,11 @@
   "name": "Ionic Conductor",
   "itemHash": 1849149215,
   "itemName": "Fallen Sunstar",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal Ability Energy Gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability Energy when you pick up an Ionic Trace."
+   "en": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace."
   }
  },
  "1378047685": {
@@ -4465,7 +4465,7 @@
   "name": "Blood Magic",
   "itemHash": 3070555693,
   "itemName": "Sanguine Alchemy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -4601,7 +4601,7 @@
  "1451849462": {
   "hash": 1451849462,
   "name": "Barrel Constrictor",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -4697,7 +4697,7 @@
  "1523832109": {
   "hash": 1523832109,
   "name": "Reconstruction",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -4977,7 +4977,7 @@
  "1600092898": {
   "hash": 1600092898,
   "name": "Backup Plan",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5071,7 +5071,7 @@
   "name": "Lancer's Vigil",
   "itemHash": 3574051505,
   "itemName": "Cadmus Ridge Lancecap",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5159,7 +5159,7 @@
   "name": "Survival Well",
   "itemHash": 1591207519,
   "itemName": "Crest of Alpha Lupi",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5223,7 +5223,7 @@
  "1683379515": {
   "hash": 1683379515,
   "name": "Disruption Break",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5897,11 +5897,11 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <:stasis:915198000727461909>Stasis Projectiles and granting maximum <:stasis:915198000727461909>Frost Armor stacks.\n\nEach Projectile deals <:pve:922884406073507930>660 <:pvp:922884468275019856>[?] damage and spawns a <:stasis:915198000727461909>Stasis Crystal on impact."
+   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <:stasis:915198000727461909>Stasis Projectiles and granting maximum <:stasis:915198000727461909>Frost Armor Stacks.\n\nEach Projectile deals <:pve:922884406073507930>660 <:pvp:922884468275019856>[?] damage and spawns a <:stasis:915198000727461909>Stasis Crystal on impact."
   }
  },
  "1864989992": {
@@ -5941,7 +5941,7 @@
   "name": "Bleak Domain",
   "itemHash": 4060793397,
   "itemName": "Rime-coat Raiment",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6167,7 +6167,7 @@
  "1968497646": {
   "hash": 1968497646,
   "name": "Armor-Piercing Rounds",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6335,7 +6335,7 @@
  "2041432007": {
   "hash": 2041432007,
   "name": "Dark Ether Reaper",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7093,7 +7093,7 @@
  "2284787283": {
   "hash": 2284787283,
   "name": "Clown Cartridge",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7115,7 +7115,7 @@
  "2298656195": {
   "hash": 2298656195,
   "name": "Circle of Life",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7199,7 +7199,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7609,7 +7609,7 @@
   "name": "Glacial Fortification",
   "itemHash": 1322544481,
   "itemName": "Hoarfrost-Z",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7815,7 +7815,7 @@
  "2551157718": {
   "hash": 2551157718,
   "name": "Box Breathing",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7867,7 +7867,7 @@
   "name": "Null Factor",
   "itemHash": 322173891,
   "itemName": "Mask of Fealty",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8005,7 +8005,7 @@
   "name": "Absorption Cells",
   "itemHash": 3301944824,
   "itemName": "Mantle of Battle Harmony",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8169,11 +8169,11 @@
   "name": "Relentless Tracker",
   "itemHash": 896224899,
   "itemName": "Foetracer",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <:pve:922884406073507930>11 <:pvp:922884468275019856>[6] seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with <:solar:720178909361995786>Solar abilties.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\nElemental Pickups include <:solar:720178909361995786>Firesprites, <:arc:720178925317128243>Ionic Traces, <:stasis:915198000727461909>Stasis Shards, Strand Tangles, and <:void:720178940240461864>Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for <:pve:922884406073507930>11 <:pvp:922884468275019856>[6] seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with <:solar:720178909361995786>Solar abilities.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\nElemental Pickups include <:solar:720178909361995786>Firesprites, <:arc:720178925317128243>Ionic Traces, <:stasis:915198000727461909>Stasis Shards, Strand Tangles, and <:void:720178940240461864>Void Breaches."
   }
  },
  "2663272110": {
@@ -8389,7 +8389,7 @@
   "name": "Warlord's Sigil",
   "itemHash": 3844826443,
   "itemName": "Winter's Guile",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8831,7 +8831,7 @@
  "2859149211": {
   "hash": 2859149211,
   "name": "Beacon Rounds",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8955,7 +8955,7 @@
   "name": "Hearts of Ice",
   "itemHash": 3831935023,
   "itemName": "Ballidorse Wrathweavers",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9143,7 +9143,7 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9469,7 +9469,7 @@
  "3078487919": {
   "hash": 3078487919,
   "name": "Bait and Switch",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9733,7 +9733,7 @@
  "3186078099": {
   "hash": 3186078099,
   "name": "Harmonic Resonance",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10117,7 +10117,7 @@
  "3301904089": {
   "hash": 3301904089,
   "name": "Spike Grenades",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10329,7 +10329,7 @@
  "3373736292": {
   "hash": 3373736292,
   "name": "Sticky Grenades",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10767,7 +10767,7 @@
   "name": "Danger Close",
   "itemHash": 1909305643,
   "itemName": "Hazardous Propulsion",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10893,7 +10893,7 @@
   "name": "Voltaic Mirror",
   "itemHash": 1703551922,
   "itemName": "Blight Ranger",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11109,7 +11109,7 @@
   "name": "Dreaded Visage",
   "itemHash": 3883866764,
   "itemName": "Mask of the Quiet One",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11561,7 +11561,7 @@
  "3820243349": {
   "hash": 3820243349,
   "name": "Synergy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11707,7 +11707,7 @@
   "name": "New Tricks",
   "itemHash": 1053737370,
   "itemName": "Shinobu's Vow",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11897,7 +11897,7 @@
  "3966416502": {
   "hash": 3966416502,
   "name": "Jolting Feedback",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12063,7 +12063,7 @@
  "3993379141": {
   "hash": 3993379141,
   "name": "Deconstruct",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12389,7 +12389,7 @@
   "name": "Touch of Venom",
   "itemHash": 2757274117,
   "itemName": "Khepri's Sting",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12463,7 +12463,7 @@
  "4139916815": {
   "hash": 4139916815,
   "name": "Bray Legacy",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12619,7 +12619,7 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12797,7 +12797,7 @@
   "name": "The Gift of Certainty",
   "itemHash": 1627691271,
   "itemName": "Gifted Conviction",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12809,7 +12809,7 @@
   "name": "Glorious Charge",
   "itemHash": 2321120637,
   "itemName": "Cuirass of the Falling Star",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12841,7 +12841,7 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12985,7 +12985,7 @@
  "4293542123": {
   "hash": 4293542123,
   "name": "Incandescent",
-  "lastUpload": 1731783952563,
+  "lastUpload": 1731791214471,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
