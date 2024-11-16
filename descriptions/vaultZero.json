@@ -194,7 +194,7 @@
   "name": "Permeability",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Class Ability Usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\n[enh] Passively grants 5 Handling."
+   "en": "Class Ability usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\n[enh] Passively grants 5 Handling."
   }
  },
  "64866129": {
@@ -424,7 +424,7 @@
   "name": "Slideshot",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Sliding refills 15% of the Magazine (rounds up) and grants [enh]22 Range and Stability for your next shot (of the burst) within 2.5 seconds.\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow.\n[enh] Stat bonuses are increased by 2?."
+   "en": "Sliding refills 15% of the Magazine (rounded up) and grants [enh]22 Range and Stability for your next shot (of the burst) within 2.5 seconds.\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow.\n[enh] Stat bonuses are increased by 2?."
   }
  },
  "192157151": {
@@ -672,7 +672,7 @@
   "name": "Stasis Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Stasis]Stasis Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Stasis]Stasis Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "344235611": {
@@ -1889,7 +1889,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis.\n[enh] Passively grants 5 Handling."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis.\n[enh] Passively grants 5 Handling."
   }
  },
  "781192741": {
@@ -4199,7 +4199,7 @@
   "itemName": "Actium War Rig",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\nRefills 10% of readied Auto Rifles' and Machine Guns' Magazines every 1.5 seconds."
+   "en": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\nRefills 10% of readied Auto Rifles' and Machine Guns' magazines (rounded up) every 1.5 seconds."
   }
  },
  "1669792723": {
@@ -4605,7 +4605,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
   }
  },
  "1781551382": {
@@ -4679,7 +4679,7 @@
   "name": "Subsistence",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Refills 10% of the Magazine from reserves on Weapon Kills.\nSubmachine Gun and Auto Rifle Kills refill 17% of the magazine."
+   "en": "Weapon Kills refill 10% of the magazine (rounded up) from reserves.\nSubmachine Gun and Auto Rifle Kills refill 17% of the magazine."
   }
  },
  "1821614984": {
@@ -5133,7 +5133,7 @@
   "name": "Slideways",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Sliding refills 15% of the magazine from reserves and grants 15? Stability and 30 Handling for 3 seconds.\n0.5 second cooldown between activations. Buff is removed on stow."
+   "en": "Sliding refills 15% of the magazine (rounded up) from reserves and grants 15? Stability and 30 Handling for 3 seconds.\n0.5 second cooldown between activations. Buff is removed on stow."
   }
  },
  "2041432007": {
@@ -5823,7 +5823,7 @@
   "itemName": "Cenotaph Mask",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Refills 4% of the Magazine of Trace Rifles from reserves every 0.7 seconds. Works even while stowed.\nRapidly scoring 5 Trace Rifle hits on a [Miniboss, Champion, Boss, or Vehicle](https://url.d2clarity.com/combatants) marks them for you and allies for 10 seconds.\nAdditional hits refresh the mark duration. Does not require Direct Hits. Multiple people cannot mark the same enemy.\nOnly one target can be marked at a time and the mark cannot be transferred to a different target before the duration runs out or the enemy is defeated.\nAlly kills on Marked Enemies spawn a [heavy]Heavy Ammo Brick for allies and a [special]Special Ammo Brick for you.\nSpawned Ammo Bricks grant 10.33% of your total reserves (rounded up)."
+   "en": "Refills 4% of the magazine of Trace Rifles (rounded up) from reserves every 0.7 seconds. Works even while stowed.\nRapidly scoring 5 Trace Rifle hits on a [Miniboss, Champion, Boss, or Vehicle](https://url.d2clarity.com/combatants) marks them for you and allies for 10 seconds.\nAdditional hits refresh the mark duration. Does not require Direct Hits. Multiple people cannot mark the same enemy.\nOnly one target can be marked at a time and the mark cannot be transferred to a different target before the duration runs out or the enemy is defeated.\nAlly kills on Marked Enemies spawn a [heavy]Heavy Ammo Brick for allies and a [special]Special Ammo Brick for you.\nSpawned Ammo Bricks grant 10.33% of your total reserves (rounded up)."
   }
  },
  "2318667184": {
@@ -5963,7 +5963,7 @@
   "name": "Slideways",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Sliding refills 15% of the magazine from reserves and grants [enh]17? Stability and [enh]33 Handling for 3 seconds.\n0.5 second cooldown between activations. Buff is removed on stow.\n[enh] Stat bonuses are increased by 10?%."
+   "en": "Sliding refills 15% of the magazine (rounded up) from reserves and grants [enh]17? Stability and [enh]33 Handling for 3 seconds.\n0.5 second cooldown between activations. Buff is removed on stow.\n[enh] Stat bonuses are increased by 10?%."
   }
  },
  "2396489472": {
@@ -6071,7 +6071,7 @@
   "name": "Permeability",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Class Ability Usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first."
+   "en": "Class Ability usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first."
   }
  },
  "2436471653": {
@@ -6129,7 +6129,7 @@
   "name": "Void Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Void]Void Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Void]Void Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "2458213969": {
@@ -6515,7 +6515,7 @@
   "name": "Void Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Void]Void Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Void]Void Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "2637025676": {
@@ -6999,7 +6999,7 @@
   "name": "Stasis Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Stasis]Stasis Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Stasis]Stasis Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "2805134531": {
@@ -7017,7 +7017,7 @@
   "name": "Strand Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Strand]Strand Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Strand]Strand Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "2812559045": {
@@ -7495,7 +7495,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
   }
  },
  "3000428062": {
@@ -7863,7 +7863,7 @@
   "name": "Slideshot",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Sliding refills 15% of the Magazine (rounds up) and grants 20 Range and Stability for your next shot (of the burst) within 2.5 seconds.\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow."
+   "en": "Sliding refills 15% of the Magazine (rounded up) and grants 20 Range and Stability for your next shot (of the burst) within 2.5 seconds.\n0.3 second cooldown after activation but can activate multiple times during a slide.  Buff is removed on stow."
   }
  },
  "3174771856": {
@@ -8097,7 +8097,7 @@
   "name": "Kinetic Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing Kinetic Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing Kinetic Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3277705904": {
@@ -8859,7 +8859,7 @@
   "name": "Kinetic Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing Kinetic Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing Kinetic Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3581696649": {
@@ -8867,7 +8867,7 @@
   "name": "Strand Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Strand]Strand Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Strand]Strand Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3591914291": {
@@ -9061,7 +9061,7 @@
   "name": "Solar Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Solar]Solar Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Solar]Solar Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3678483220": {
@@ -9275,7 +9275,7 @@
   "name": "Solar Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Solar]Solar Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Solar]Solar Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3785661089": {
@@ -9331,7 +9331,7 @@
   "name": "Arc Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Arc]Arc Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Arc]Arc Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3800201097": {
@@ -9657,7 +9657,7 @@
   "name": "Harmonic Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing a Weapon matching your Super Element:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing a Weapon matching your Super Element:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  },
  "3970637031": {
@@ -10393,7 +10393,7 @@
   "name": "Subsistence",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Refills [enh]20% of the Magazine from reserves on Weapon Kills.\n[enh] Refill amount is increased by an additive 10%. (3% on Submachine Guns and Auto Rifles)"
+   "en": "Weapon Kills refill [enh]20% of the magazine (rounded up) from reserves.\n[enh] Refill amount is increased by an additive 10%. (3% on Submachine Guns and Auto Rifles)"
   }
  },
  "4251375227": {
@@ -10527,7 +10527,7 @@
   "name": "Arc Holster",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "After stowing [Arc]Arc Weapons:\nBegins to refill 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+   "en": "After stowing [Arc]Arc Weapons:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
   }
  }
 }

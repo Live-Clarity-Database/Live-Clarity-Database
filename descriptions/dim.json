@@ -1147,7 +1147,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed."
+       "text": "Class Ability usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed."
       }
      ]
     },
@@ -2414,7 +2414,7 @@
        "text": "refills"
       },
       {
-       "text": " 15% of the Magazine (rounds up) and grants "
+       "text": " 15% of the Magazine (rounded up) and grants "
       },
       {
        "text": "",
@@ -3589,7 +3589,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -9741,7 +9741,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
+       "text": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
       }
      ]
     },
@@ -20466,7 +20466,7 @@
        "text": "Refills"
       },
       {
-       "text": " 10% of readied Auto Rifles' and Machine Guns' Magazines every 1.5 seconds."
+       "text": " 10% of readied Auto Rifles' and Machine Guns' magazines (rounded up) every 1.5 seconds."
       }
      ]
     }
@@ -21986,7 +21986,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
+       "text": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
       }
      ]
     },
@@ -22301,10 +22301,13 @@
     {
      "linesContent": [
       {
-       "text": "Refills"
+       "text": "Weapon Kills "
       },
       {
-       "text": " 10% of the Magazine from reserves on Weapon Kills."
+       "text": "refill"
+      },
+      {
+       "text": " 10% of the magazine (rounded up) from reserves."
       }
      ]
     },
@@ -24836,7 +24839,7 @@
        "text": "refills"
       },
       {
-       "text": " 15% of the magazine from reserves and grants 15? Stability and 30 Handling for 3 seconds."
+       "text": " 15% of the magazine (rounded up) from reserves and grants 15? Stability and 30 Handling for 3 seconds."
       }
      ]
     },
@@ -28104,7 +28107,7 @@
        "text": "Refills"
       },
       {
-       "text": " 4% of the Magazine of Trace Rifles from reserves every 0.7 seconds. Works even while stowed."
+       "text": " 4% of the magazine of Trace Rifles (rounded up) from reserves every 0.7 seconds. Works even while stowed."
       }
      ]
     },
@@ -28799,7 +28802,7 @@
        "text": "refills"
       },
       {
-       "text": " 15% of the magazine from reserves and grants "
+       "text": " 15% of the magazine (rounded up) from reserves and grants "
       },
       {
        "text": "",
@@ -29317,7 +29320,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed."
+       "text": "Class Ability usage refills ?% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Super Ability until stowed."
       }
      ]
     },
@@ -29621,7 +29624,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -31845,7 +31848,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -34576,7 +34579,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -34691,7 +34694,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -37305,7 +37308,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability Usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
+       "text": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed."
       }
      ]
     },
@@ -38796,7 +38799,7 @@
        "text": "refills"
       },
       {
-       "text": " 15% of the Magazine (rounds up) and grants 20 Range and Stability for your next shot (of the burst) within 2.5 seconds."
+       "text": " 15% of the Magazine (rounded up) and grants 20 Range and Stability for your next shot (of the burst) within 2.5 seconds."
       }
      ]
     },
@@ -40005,7 +40008,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -43586,7 +43589,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -43630,7 +43633,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -44694,7 +44697,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -45833,7 +45836,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -46052,7 +46055,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -47960,7 +47963,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
@@ -51431,7 +51434,10 @@
     {
      "linesContent": [
       {
-       "text": "Refills"
+       "text": "Weapon Kills "
+      },
+      {
+       "text": "refill"
       },
       {
        "text": " "
@@ -51441,7 +51447,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "20% of the Magazine from reserves on Weapon Kills."
+       "text": "20% of the magazine (rounded up) from reserves."
       }
      ]
     },
@@ -52277,7 +52283,7 @@
        "text": "refill"
       },
       {
-       "text": " 10%|10%|15% of the Stowed Weapon's Magazine from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
+       "text": " 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped."
       }
      ]
     },
