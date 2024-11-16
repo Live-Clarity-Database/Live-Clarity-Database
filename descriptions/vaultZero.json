@@ -54,7 +54,7 @@
   "name": "Nano-Munitions",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "While within 15 metres of an ally:\nGrants a Stack of Nano-Munitions every 3 seconds. Maximum of 7 Stacks.\nEmptying the Magazine consumes a Stack to refill 25% of it (rounded up). Consuming a Stack restarts the timer for gaining new Stacks.\nReadying a Power Weapon consumes all Stacks with each one refilling 25% of your Magazine (rounded up)."
+   "en": "While within 15 meters of an ally:\nGrants a Stack of Nano-Munitions every 3 seconds. Maximum of 7 Stacks.\nEmptying the Magazine consumes a Stack to refill 25% of it (rounded up). Consuming a Stack restarts the timer for gaining new Stacks.\nReadying a Power Weapon consumes all Stacks with each one refilling 25% of your Magazine (rounded up)."
   }
  },
  "23371658": {
@@ -8369,7 +8369,7 @@
   "name": "Sticky Grenades",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\nIncreases Destonation damage by 30% and decreases Impact damage by 85%.\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage"
+   "en": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\nIncreases Detonation damage by 30% and decreases Impact damage by 85%.\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage"
   }
  },
  "3400784728": {

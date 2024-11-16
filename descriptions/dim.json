@@ -352,7 +352,7 @@
     {
      "linesContent": [
       {
-       "text": "While within 15 metres of an ally:"
+       "text": "While within 15 meters of an ally:"
       }
      ]
     },
@@ -385,13 +385,7 @@
     {
      "linesContent": [
       {
-       "text": "Readying a Power Weapon consumes all Stacks with each one "
-      },
-      {
-       "text": "refilling"
-      },
-      {
-       "text": " 25% of your Magazine (rounded up)."
+       "text": "Readying a Power Weapon consumes all Stacks with each one refilling 25% of your Magazine (rounded up)."
       }
      ]
     }
@@ -41190,7 +41184,7 @@
     {
      "linesContent": [
       {
-       "text": "Increases Destonation damage by 30% and decreases Impact damage by 85%."
+       "text": "Increases Detonation damage by 30% and decreases Impact damage by 85%."
       }
      ]
     },
