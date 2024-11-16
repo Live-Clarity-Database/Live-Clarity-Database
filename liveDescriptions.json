@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -683,14 +683,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "While within 15 metres of an ally:\nGrants a Stack of Nano-Munitions every 3 seconds. Maximum of 7 Stacks.\n\nEmptying the Magazine consumes a Stack to <title refill [G_refill] /> 25% of it (rounded up). Consuming a Stack restarts the timer for gaining new Stacks.\n\nReadying a Power Weapon consumes all Stacks with each one <title refilling [G_refill] /> 25% of your Magazine (rounded up).",
+     "main": "While within 15 meters of an ally:\nGrants a Stack of Nano-Munitions every 3 seconds. Maximum of 7 Stacks.\n\nEmptying the Magazine consumes a Stack to <title refill [G_refill] /> 25% of it (rounded up). Consuming a Stack restarts the timer for gaining new Stacks.\n\nReadying a Power Weapon consumes all Stacks with each one refilling 25% of your Magazine (rounded up).",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722372008144,
+      "lastUpdate": 1731791559676,
       "updatedBy": "Stardust"
      }
     },
@@ -700,7 +700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2700,7 +2700,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5773,7 +5773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10194,7 +10194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10976,7 +10976,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11701,7 +11701,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13663,7 +13663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15669,7 +15669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16795,7 +16795,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17105,7 +17105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17784,7 +17784,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -19011,7 +19011,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20473,7 +20473,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21224,7 +21224,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21662,7 +21662,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22461,7 +22461,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -23673,7 +23673,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24189,7 +24189,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24720,7 +24720,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24948,7 +24948,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27630,7 +27630,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27771,7 +27771,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29218,7 +29218,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30287,7 +30287,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33703,7 +33703,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33788,7 +33788,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34254,7 +34254,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36014,7 +36014,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36893,7 +36893,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37168,7 +37168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37667,7 +37667,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38637,7 +38637,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39657,7 +39657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41713,7 +41713,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42217,7 +42217,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -43302,7 +43302,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44806,7 +44806,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46262,7 +46262,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -47657,7 +47657,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48473,14 +48473,14 @@
    "type": "Weapon Perk",
    "editor": {
     "en": {
-     "main": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\n\nIncreases Destonation damage by 30% and decreases Impact damage by 85%.\n\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage",
+     "main": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\n\nIncreases Detonation damage by 30% and decreases Impact damage by 85%.\n\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731782511590,
+      "lastUpdate": 1731791257638,
       "updatedBy": "Stardust"
      }
     },
@@ -48490,7 +48490,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50160,7 +50160,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50848,7 +50848,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52190,7 +52190,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54280,7 +54280,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55105,7 +55105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55858,7 +55858,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56331,7 +56331,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57932,7 +57932,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58330,7 +58330,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59152,7 +59152,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60133,7 +60133,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60162,7 +60162,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60435,7 +60435,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61157,7 +61157,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731791214471,
+   "lastUpload": 1731791565297,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
