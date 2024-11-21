@@ -456,7 +456,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -920,7 +920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -947,7 +947,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1194,7 +1194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6266,7 +6266,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6293,7 +6293,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7380,7 +7380,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7407,7 +7407,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8306,14 +8306,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n#e${4.17*#d}% | ${8.33*#d}% | ${12.5*#d}% | ${16.67*#d}% | ${20.83*#d}% | ${25*#d}%\n#note\n\nvar note = (More precisely: #e${25*#d}% / 6 × <Stacks>)\nenhanced (\nvar d = 1.2\nvar note = empty\n#e Precision Damage Buff is increased by 20%.\n)",
+     "main": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nAdaptive Burst Linear Fusion Rifles require 2 Hits for each Stack.\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n#e${4.17*#d}% | ${8.33*#d}% | ${12.5*#d}% | ${16.67*#d}% | ${20.83*#d}% | ${25*#d}%\n#note\n\nvar note = (More precisely: #e${25*#d}% / 6 × <Stacks>)\nenhanced (\nvar d = 1.2\nvar note = empty\n#e Precision Damage Buff is increased by 20%.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729099497908,
+      "lastUpdate": 1732217767320,
       "updatedBy": "Stardust"
      }
     },
@@ -8323,7 +8323,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8850,7 +8850,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -12432,7 +12432,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25699,7 +25699,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29262,7 +29262,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -32116,7 +32116,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34296,7 +34296,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38745,7 +38745,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49978,7 +49978,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51635,7 +51635,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52908,7 +52908,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55815,7 +55815,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57860,7 +57860,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732216978211,
+   "lastUpload": 1732217790492,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
