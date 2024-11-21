@@ -580,7 +580,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -4708,7 +4708,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -4828,7 +4828,7 @@
        "text": "Fusion Grenade Kills refund Grenade Energy based on "
       },
       {
-       "text": "enemy rank",
+       "text": "Enemy Rank",
        "link": "https://url.d2clarity.com/combatants"
       },
       {
@@ -5963,7 +5963,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -6038,7 +6038,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -6048,7 +6048,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -13729,7 +13729,7 @@
        "text": "Solar Weapon Kills grant Class Ability Energy based on "
       },
       {
-       "text": "enemy rank",
+       "text": "Enemy Rank",
        "link": "https://url.d2clarity.com/combatants"
       },
       {
@@ -17817,7 +17817,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -24362,7 +24362,7 @@
        "text": "Thunderclap Kills refund Melee Energy based on "
       },
       {
-       "text": "enemy rank",
+       "text": "Enemy Rank",
        "link": "https://url.d2clarity.com/combatants"
       },
       {
@@ -25361,7 +25361,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -25371,7 +25371,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -25461,7 +25461,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -26830,7 +26830,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -30422,7 +30422,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -30497,7 +30497,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -30507,7 +30507,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -33644,7 +33644,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -33719,7 +33719,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -33729,7 +33729,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -35749,7 +35749,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -35759,7 +35759,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -35849,7 +35849,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -36127,7 +36127,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Winter's Wrath receive 100% increased "
+       "text": "Winter's Wrath receive 150% increased "
       },
       {
        "classNames": [ "stasis" ]
@@ -37292,7 +37292,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -40002,7 +40002,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -40077,7 +40077,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -40087,7 +40087,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -43103,7 +43103,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -44488,7 +44488,7 @@
        "text": "Finishers spawn Ammo Bricks for allies based on "
       },
       {
-       "text": "enemy rank",
+       "text": "Enemy Rank",
        "link": "https://url.d2clarity.com/combatants"
       },
       {

@@ -234,7 +234,7 @@
  "11126525": {
   "hash": 11126525,
   "name": "Powerful Attraction",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -609,13 +609,13 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732216405478,
+     "lastUpdate": 1732219651474,
      "updatedBy": "Stardust"
     }
    }
@@ -673,13 +673,13 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732216513127,
+     "lastUpdate": 1732219660424,
      "updatedBy": "Stardust"
     }
    }
@@ -699,7 +699,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -1131,7 +1131,7 @@
  "47981717": {
   "hash": 47981717,
   "name": "Opening Shot",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -5619,7 +5619,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -5725,22 +5725,14 @@
   "name": "Bring the Heat",
   "itemHash": 1734844650,
   "itemName": "Ashen Wake",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1717531034578,
+     "lastUpdate": 1732219388910,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665683728331,
-     "updatedBy": "tritonesub251"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670509668286,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -5768,7 +5760,7 @@
        "text": "Fusion Grenade Kills refund Grenade Energy based on "
       },
       {
-       "text": "enemy rank"
+       "text": "Enemy Rank"
       },
       {
        "text": ":"
@@ -6425,7 +6417,7 @@
  "426473316": {
   "hash": 426473316,
   "name": "Marksman's Dodge",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -6491,7 +6483,7 @@
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -7134,13 +7126,13 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732216245962,
+     "lastUpdate": 1732219675453,
      "updatedBy": "Stardust"
     }
    }
@@ -7160,7 +7152,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -7220,13 +7212,13 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732216237990,
+     "lastUpdate": 1732219669534,
      "updatedBy": "Stardust"
     }
    }
@@ -7246,7 +7238,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -7256,7 +7248,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -8476,7 +8468,7 @@
  "555281244": {
   "hash": 555281244,
   "name": "Precision Instrument",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -9249,7 +9241,7 @@
   "name": "Synapse Junctions",
   "itemHash": 2766109872,
   "itemName": "Raiden Flux",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -13235,7 +13227,7 @@
  "856936828": {
   "hash": 856936828,
   "name": "Ashes to Assets",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -16544,13 +16536,13 @@
   "name": "Embers of Light",
   "itemHash": 235591051,
   "itemName": "Promethium Spur",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729103190675,
+     "lastUpdate": 1732219395370,
      "updatedBy": "Stardust"
     }
    }
@@ -16605,7 +16597,7 @@
        "text": "Solar Weapon Kills grant Class Ability Energy based on "
       },
       {
-       "text": "enemy rank"
+       "text": "Enemy Rank"
       },
       {
        "text": ":"
@@ -21619,7 +21611,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -25742,7 +25734,7 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -29514,13 +29506,13 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732213431861,
+     "lastUpdate": 1732219402001,
      "updatedBy": "Stardust"
     }
    }
@@ -29571,7 +29563,7 @@
        "text": "Thunderclap Kills refund Melee Energy based on "
       },
       {
-       "text": "enemy rank"
+       "text": "Enemy Rank"
       },
       {
        "text": ":"
@@ -30785,7 +30777,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -30795,7 +30787,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -30896,7 +30888,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -32185,7 +32177,7 @@
  "2194294579": {
   "hash": 2194294579,
   "name": "Better Already",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -32543,7 +32535,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -34561,7 +34553,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -37010,7 +37002,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -37096,7 +37088,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -37106,7 +37098,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -39751,7 +39743,7 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -40842,7 +40834,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -40928,7 +40920,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -40938,7 +40930,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -43419,7 +43411,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -43429,7 +43421,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -43530,7 +43522,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -43860,13 +43852,13 @@
   "name": "Hearts of Ice",
   "itemHash": 3831935023,
   "itemName": "Ballidorse Wrathweavers",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729876954217,
+     "lastUpdate": 1732219376505,
      "updatedBy": "Stardust"
     }
    }
@@ -43882,7 +43874,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Winter's Wrath receive 100% increased "
+       "text": "Winter's Wrath receive 150% increased "
       },
       {
        "classNames": [ "stasis" ]
@@ -45243,7 +45235,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -48641,7 +48633,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation."
+       "text": "Grants 20% Damage Resistance during the cast animation."
       }
      ]
     },
@@ -48727,7 +48719,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation and keeps you crouched after."
+       "text": "Grants 20% Damage Resistance during the cast animation and keeps you crouched after."
       }
      ]
     },
@@ -48737,7 +48729,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP."
+       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -52140,7 +52132,7 @@
  "3478354816": {
   "hash": 3478354816,
   "name": "Spark of Instinct",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -52447,7 +52439,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -53707,7 +53699,7 @@
  "3636300852": {
   "hash": 3636300852,
   "name": "Acrobat's Dodge",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -54125,22 +54117,14 @@
  "3651607301": {
   "hash": 3651607301,
   "name": "Sect of Insight",
-  "lastUpload": 1701294220305,
+  "lastUpload": 1732219732702,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1701291658430,
+     "lastUpdate": 1732219409780,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665683187879,
-     "updatedBy": "tritonesub251"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670508854173,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -54162,7 +54146,7 @@
        "text": "Finishers spawn Ammo Bricks for allies based on "
       },
       {
-       "text": "enemy rank"
+       "text": "Enemy Rank"
       },
       {
        "text": ":"
@@ -55145,7 +55129,7 @@
  "3712696020": {
   "hash": 3712696020,
   "name": "Elemental Charge",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -58451,7 +58435,7 @@
  "3938489430": {
   "hash": 3938489430,
   "name": "Hands-On",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -60428,7 +60412,7 @@
  "4087056174": {
   "hash": 4087056174,
   "name": "Recuperation",
-  "lastUpload": 1732217790492,
+  "lastUpload": 1732219732702,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {

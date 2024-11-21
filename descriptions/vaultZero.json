@@ -96,7 +96,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "25606670": {
@@ -826,7 +826,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "383852321": {
@@ -844,7 +844,7 @@
   "itemName": "Ashen Wake",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning [unstoppable]Unstoppable Champions on hit.\nFusion Grenade Kills refund Grenade Energy based on [enemy rank](https://url.d2clarity.com/combatants):\n• Minors: 25%\n• Elites: 50%\n• Players, Minibosses, and Bosses: 100%"
+   "en": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning [unstoppable]Unstoppable Champions on hit.\nFusion Grenade Kills refund Grenade Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors: 25%\n• Elites: 50%\n• Players, Minibosses, and Bosses: 100%"
   }
  },
  "384759955": {
@@ -1122,7 +1122,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "489583097": {
@@ -1130,7 +1130,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "489583098": {
@@ -2707,7 +2707,7 @@
   "itemName": "Promethium Spur",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Requires a [Solar]Solar Super to be equipped to function.\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Solar Weapon Kills grant Class Ability Energy based on [enemy rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• [pvp]Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\nEnergy gains are doubled while standing in a Rift."
+   "en": "Requires a [Solar]Solar Super to be equipped to function.\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Solar Weapon Kills grant Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• [pvp]Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\nEnergy gains are doubled while standing in a Rift."
   }
  },
  "1097608874": {
@@ -3693,7 +3693,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "1444664839": {
@@ -5015,7 +5015,7 @@
   "itemName": "Point-Contact Cannon Brace",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Thunderclap strikes enemies within ? meters with Lightning, dealing [pve]200 [pvp][50] damage. Lightning Strike damage is doubled while [Arc]Amplified.\nKills with Lightning Strikes grant ?% Melee energy.\nThunderclap Kills refund Melee Energy based on [enemy rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%"
+   "en": "Thunderclap strikes enemies within ? meters with Lightning, dealing [pve]200 [pvp][50] damage. Lightning Strike damage is doubled while [Arc]Amplified.\nKills with Lightning Strikes grant ?% Melee energy.\nThunderclap Kills refund Melee Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%"
   }
  },
  "1971149752": {
@@ -5225,7 +5225,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2087010645": {
@@ -5233,7 +5233,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2094761202": {
@@ -5485,7 +5485,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2209918983": {
@@ -6261,7 +6261,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2495523341": {
@@ -6269,7 +6269,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2500502982": {
@@ -6767,7 +6767,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2722641741": {
@@ -6775,7 +6775,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2724068510": {
@@ -7183,7 +7183,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2868073561": {
@@ -7191,7 +7191,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2868073563": {
@@ -7259,7 +7259,7 @@
   "itemName": "Ballidorse Wrathweavers",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Enemies frozen by [Stasis]Winter's Wrath receive 100% increased [Stasis]Shatter damage.\nUpon performing [Stasis]Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum [Stasis]Frost Armor Stacks and 4 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\nGrants maximum [Stasis]Frost Armor Stacks to you once [Stasis]Winter's Wrath ends.\nOn Rift Cast with the [Stasis]Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds alongside maximum [Stasis]Frost Armor Stacks\n• Grants 2% [Stasis]Winter's Wrath Super Energy for each ally that received the above benefits"
+   "en": "Enemies frozen by [Stasis]Winter's Wrath receive 150% increased [Stasis]Shatter damage.\nUpon performing [Stasis]Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum [Stasis]Frost Armor Stacks and 4 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\nGrants maximum [Stasis]Frost Armor Stacks to you once [Stasis]Winter's Wrath ends.\nOn Rift Cast with the [Stasis]Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of [Stasis]Stasis Weapon Surge for [pve]11 [pvp][6] seconds alongside maximum [Stasis]Frost Armor Stacks\n• Grants 2% [Stasis]Winter's Wrath Super Energy for each ally that received the above benefits"
   }
  },
  "2895039606": {
@@ -7435,7 +7435,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2979726427": {
@@ -8055,7 +8055,7 @@
   "name": "Towering Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation.\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "3260056809": {
@@ -8063,7 +8063,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "3268255645": {
@@ -8703,7 +8703,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "3492337375": {
@@ -8981,7 +8981,7 @@
   "name": "Sect of Insight",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Scoring 2 Precision Multikills generates an Orb of Power at the target's location for allies that grants 3.57% Super Energy.\nFinishers spawn Ammo Bricks for allies based on [enemy rank](https://url.d2clarity.com/combatants):\n• Elites: [special]Special Ammo Brick\n• Miniboss or Boss: [heavy]Heavy Ammo Brick\nSpawned Ammo Bricks grant 60% of a Regular Ammo Brick's pickup amount but retain full variability.\nFinishing an Elite, Miniboss, or Boss grants ?% Super Energy to Aeon Allies not using Sect of Insight."
+   "en": "Scoring 2 Precision Multikills generates an Orb of Power at the target's location for allies that grants 3.57% Super Energy.\nFinishers spawn Ammo Bricks for allies based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Elites: [special]Special Ammo Brick\n• Miniboss or Boss: [heavy]Heavy Ammo Brick\nSpawned Ammo Bricks grant 60% of a Regular Ammo Brick's pickup amount but retain full variability.\nFinishing an Elite, Miniboss, or Boss grants ?% Super Energy to Aeon Allies not using Sect of Insight."
   }
  },
  "3657186535": {
