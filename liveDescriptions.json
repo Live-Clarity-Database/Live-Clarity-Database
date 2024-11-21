@@ -439,14 +439,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "On Class Ability Usage with 1|2+ Mods equipped:\nCollects Orbs of Power within 12.5|18.5 meters.\n\nAlso collects Motes of Light in Gambit as well as Crests in Supremacy.",
+     "main": "Class Ability usage collects certain pickups within 12.5|18.5 meters with 1|2+ Mods equipped.\n\nApplicable pickups:\n• Orbs of Power\n• Motes of Light in Gambit\n• Crests in Supremacy\n• Data Motes in Episode: Echoes activities",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1712175840564,
+      "lastUpdate": 1732214112182,
       "updatedBy": "Stardust"
      }
     },
@@ -456,7 +456,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1712175845318,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -903,14 +903,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <pve 20% /> <pvp [15%] /> <link Empowering Buff [#DamageBuffs] /> to you and allies inside the Rift.",
+     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <pve 20% /> <pvp [15%] /> <link Empowering Buff [#DamageBuffs] /> to you and allies inside the Rift.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723400783785,
+      "lastUpdate": 1732216405478,
       "updatedBy": "Stardust"
      }
     },
@@ -920,7 +920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -930,14 +930,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.",
+     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second. \n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723400788957,
+      "lastUpdate": 1732216513127,
       "updatedBy": "Stardust"
      }
     },
@@ -947,7 +947,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1177,14 +1177,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grants the following benefits for your first shot (of the burst):\n• #e${20+#d} Aim Assist and #e${25+#d} Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased <title Accuracy Cone Growth [G_conegrowth] />\n\n<special/>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3.1 seconds.\n\nenhanced (\nvar d = 5\n#e Grants 5 more Aim Assist and Range.\n)",
+     "main": "Grants the following benefits for your first shot (of the burst):\n• #e${20+#d} Aim Assist and #e${25+#d} Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased <title Accuracy Cone Growth [G_conegrowth] />\n\n<special/>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3 seconds.\n\nenhanced (\nvar d = 5\n#e Grants 5 more Aim Assist and Range.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722189630008,
+      "lastUpdate": 1732211087556,
       "updatedBy": "Stardust"
      }
     },
@@ -1194,7 +1194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6249,14 +6249,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\n#Reload",
+     "main": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\n#Reload",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723400773035,
+      "lastUpdate": 1732215529710,
       "updatedBy": "Stardust"
      }
     },
@@ -6266,7 +6266,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6276,14 +6276,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy.",
+     "main": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723400779263,
+      "lastUpdate": 1732215534941,
       "updatedBy": "Stardust"
      }
     },
@@ -6293,7 +6293,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7363,14 +7363,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727527652664,
+      "lastUpdate": 1732216245962,
       "updatedBy": "Stardust"
      }
     },
@@ -7380,7 +7380,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7390,14 +7390,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after. \n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after. \n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727528002780,
+      "lastUpdate": 1732216237990,
       "updatedBy": "Stardust"
      }
     },
@@ -7407,7 +7407,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8833,14 +8833,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Hits with <arc/>Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds, up to a maximum of 3 Stacks.\n\nDamage increases | Passive Super Drain decreases:\n• Synapse Junctions x1: 13.5% | ?%\n• Synapse Junctions x2: 28.8% | ?%\n• Synapse Junctions x3: 46.2% | ?% ",
+     "main": "Hits with <arc/>Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds. Maximum of 3 Stacks.\n\nDamage increases | Passive Super Drain decreases:\n• Synapse Junctions x1: 20?% | ?%\n• Synapse Junctions x2: 44?% | ?%\n• Synapse Junctions x3: 72.8?% | ?% ",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715799740359,
+      "lastUpdate": 1732212367901,
       "updatedBy": "Stardust"
      }
     },
@@ -8850,7 +8850,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9074,6 +9074,33 @@
    "lastUpload": 1729072787613,
    "inLiveDatabase": false,
    "uploadToLive": false
+  },
+  "611645146": {
+   "hash": 611645146,
+   "name": "Curative Orbs",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1732216978211,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "611645149": {
    "name": "Armor of Eramis",
@@ -12388,14 +12415,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Increases Super Energy Gains from Grenade Kills based on <link Enemy Rank [#CombatantClassifications] /> with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%.",
+     "main": "Increases Super Energy Gains from Grenade Kills based on <link Enemy Rank [#CombatantClassifications] /> with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%. Kill can only trigger either Ashes to Assets or Hands On but not both.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1700158882585,
+      "lastUpdate": 1732213375860,
       "updatedBy": "Stardust"
      }
     },
@@ -12405,7 +12432,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1700160880281,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25655,14 +25682,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <pve 150% /> <pvp [75%] /> Additional Base Class Ability Regeneration Rate.\n\nDeactivates once Class Ability Energy is full.",
+     "main": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <pve 150% /> <pvp [75%] /> Additional Base Class Ability Regeneration Rate.\n\nDeactivates once you have a full Class Ability charge.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1714216169212,
+      "lastUpdate": 1732212771249,
       "updatedBy": "Stardust"
      }
     },
@@ -25672,7 +25699,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1714219892088,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29218,14 +29245,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Thunderclap Kills refund Melee Energy based on <link enemy rank [#CombatantClassifications] />:\n• 9%: Tier 1 Minors\n• 13%: Tier 2 Minors, Tier 1 Elites\n• 15%: Enemy Players\n• 20%: Tier 3 Minors, Tier 2 Elites\n• 30%: Tier 4 Minors, Tier 3 Elites\n• 40%: Tier 4 Elites, Minibosses\n• 50%: Bosses\n\nThunderclap strikes enemies within ? meters with lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Damage is increased by 50% while <arc/>Amplified.",
+     "main": "Thunderclap strikes enemies within ? meters with Lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Strike damage is doubled while <arc/>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\nThunderclap Kills refund Melee Energy based on <link enemy rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1695588459031,
+      "lastUpdate": 1732213431861,
       "updatedBy": "Stardust"
      }
     },
@@ -29235,7 +29262,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1695589383294,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30494,6 +30521,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "2071562744": {
+   "hash": 2071562744,
+   "name": "Emergency Flare",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1732216978211,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2071562746": {
    "name": "Fell the Revenant",
@@ -32045,14 +32099,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Immediately Starts Health Regeneration on Orb of Power Pickups.",
+     "main": "Orb of Power Pickups immediately start Health Regeneration.\n\nEquipping multiple copies provides no benefit.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1680469746208,
+      "lastUpdate": 1732213771762,
       "updatedBy": "Stardust"
      }
     },
@@ -32062,7 +32116,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680554889429,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34225,14 +34279,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<pve 10% /> <pvp [N/A] /> | <pve 17.5% /> <pvp [?%] /> | <pve 25% /> <pvp [10%] /> \n\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
+     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<pve 10% /> <pvp [N/A] /> | <pve 17.5% /> <pvp [?%] /> | <pve 25% /> <pvp [10%] /> \n\nWhile you are not airborne:\nDamaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks <pvp [Primary weapons only grant 1 Stack] /> of the buff. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731003936834,
+      "lastUpdate": 1732210999000,
       "updatedBy": "Stardust"
      }
     },
@@ -34242,7 +34296,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38674,14 +38728,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors)\n\nHovering your reticle near enemies for 1 second marks them for 7 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health.",
+     "main": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors).\n\nDamaging enemies marks them for 3 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729293113037,
+      "lastUpdate": 1732211758745,
       "updatedBy": "Stardust"
      }
     },
@@ -38691,7 +38745,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -45213,6 +45267,33 @@
    "itemHash": 2603483885,
    "itemName": "Cloudstrike"
   },
+  "3117519993": {
+   "hash": 3117519993,
+   "name": "Arc Compounding",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1732216978211,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "3117519994": {
    "name": "Kinetic Impacts",
    "hash": 3117519994,
@@ -49880,14 +49961,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "While at Critical Health:\nBeing damaged releases a burst of <arc/>Arc Energy, dealing <pve 50 /> <pvp [?] /> damage and applying <arc/>Jolt to enemies within ? meters.\n\n15? second cooldown between activations.",
+     "main": "While at Critical Health:\nBeing damaged releases a burst of <arc/>Arc Energy, dealing <pve 50 /> <pvp [20] /> damage and applying <arc/>Jolt to enemies within ? meters.\n\n15? second cooldown between activations.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1704196204765,
+      "lastUpdate": 1732212919782,
       "updatedBy": "Stardust"
      }
     },
@@ -49897,7 +49978,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1704200924259,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51537,14 +51618,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nPreforms an acrobatic leap.\n\nUpon landing after using <solar/>Acrobat's Dodge:\n• Allies within ? meters become <solar/>Radiant\n• Deals up to <pve 40 /> <pvp [20] /> damage to targets over a ? meter radius",
+     "main": "Only usable while on the ground.\n\nPerforms a front flip in your movement input's direction and slams down the ground with a <solar/>Solar Knife.\n\nUpon landing after using <solar/>Acrobat's Dodge:\n• Grants you and allies within ? meters <solar/>Radiant for 10 seconds (15 with <solar/>Ember of Solace)\n• Deals up to <pve 40 /> <pvp [20] /> damage to targets in a ? meter radius",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723400905538,
+      "lastUpdate": 1732215793030,
       "updatedBy": "Stardust"
      }
     },
@@ -51554,7 +51635,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52810,14 +52891,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Collecting Elemental Pickups or destroying <strand/>Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <solar/>Firesprites,<void/>Breaches,<strand/>Tangles: 50%|50%|100%\n• <arc/>Ionic Traces: 34%|50%|50%\n• <stasis/>Stasis Shards: 25%|34%|50%",
+     "main": "Collecting Elemental Pickups or destroying <strand/>Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <solar/>Firesprites, <void/>Void Breaches, <strand/>Tangles: 50%|50%|100%\n• <arc/>Ionic Traces: 34%|50%|50%\n• <stasis/>Stasis Shards: 25%|34%|50%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702080155956,
+      "lastUpdate": 1732213712623,
       "updatedBy": "Stardust"
      }
     },
@@ -52827,7 +52908,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54078,6 +54159,33 @@
    "lastUpload": 1729072787613,
    "inLiveDatabase": false,
    "uploadToLive": false
+  },
+  "3803076565": {
+   "hash": 3803076565,
+   "name": "Authorized Mods: Melee",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1732216978211,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "3803076566": {
    "name": "Overload Breechloaded Grenade Launcher",
@@ -55690,14 +55798,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Increases Super Energy Gains from Melee Kills based on enemy rank.\n\n\n/*Increases Super Gains from Melee Kills based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: \n• T2 Minors, T1 Elites: \n• T3 Minors, T2 Elites: \n• T4 Minors, T3-T4 Elites, and higher:\n• Players: ?|?|?\n\nDoes not work in PVP.*/",
+     "main": "Melee Kills grant additional Super energy based on <link Enemy Rank [#CombatantClassifications] /> with 1|2|3 mods:\n• Tier 1 (T1) Minors: ?% | ?% | ?%\n• T2 Minors, T1 Elites: 1.33?% | ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?% | ?%\n• T4 Minors, T3-T4 Elites, and higher: 5?% | ?% | ?%\n• Players: ?% | ?% | ?%\n\nKill can only trigger either Hands On or Ashes to Assets but not both.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1700158908173,
+      "lastUpdate": 1732213216207,
       "updatedBy": "Stardust"
      }
     },
@@ -55707,7 +55815,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1700160880281,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57124,6 +57232,33 @@
    "inLiveDatabase": false,
    "uploadToLive": false
   },
+  "4037132135": {
+   "hash": 4037132135,
+   "name": "The Thick of It",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1732216978211,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "4039026690": {
    "name": "Distribution",
    "hash": 4039026690,
@@ -57708,14 +57843,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Restores 70 HP on Orb of Power Pickups.\n\nEquipping multiple copies provides no benefit.",
+     "main": "Orb of Power Pickups immediately restore 70 HP.\n\nEquipping multiple copies provides no benefit.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1693503187699,
+      "lastUpdate": 1732213787458,
       "updatedBy": "Stardust"
      }
     },
@@ -57725,7 +57860,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1693504657319,
+   "lastUpload": 1732216978211,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
