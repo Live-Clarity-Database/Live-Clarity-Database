@@ -456,7 +456,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -910,7 +910,7 @@
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732216405478,
+      "lastUpdate": 1732219651474,
       "updatedBy": "Stardust"
      }
     },
@@ -920,7 +920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -930,14 +930,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second. \n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times.",
+     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second. \n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732216513127,
+      "lastUpdate": 1732219660424,
       "updatedBy": "Stardust"
      }
     },
@@ -947,7 +947,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1194,7 +1194,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5719,23 +5719,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning <unstoppable/>Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on <link enemy rank [#CombatantClassifications] />:\n• Minors: 25%\n• Elites: 50% \n• Players, Minibosses, and Bosses: 100%",
+     "main": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning <unstoppable/>Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 25%\n• Elites: 50% \n• Players, Minibosses, and Bosses: 100%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717531034578,
+      "lastUpdate": 1732219388910,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665683728331,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670509668286,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -5744,7 +5736,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6266,7 +6258,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6293,7 +6285,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7363,14 +7355,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732216245962,
+      "lastUpdate": 1732219675453,
       "updatedBy": "Stardust"
      }
     },
@@ -7380,7 +7372,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7390,14 +7382,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after. \n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after. \n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732216237990,
+      "lastUpdate": 1732219669534,
       "updatedBy": "Stardust"
      }
     },
@@ -7407,7 +7399,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8323,7 +8315,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8850,7 +8842,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -12432,7 +12424,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16369,14 +16361,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Requires a <solar/>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Solar Weapon Kills grant Class Ability Energy based on <link enemy rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <pvp Players: 7.5% />\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.",
+     "main": "Requires a <solar/>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Solar Weapon Kills grant Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <pvp Players: 7.5% />\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729103190675,
+      "lastUpdate": 1732219395370,
       "updatedBy": "Stardust"
      }
     },
@@ -16386,7 +16378,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25699,7 +25691,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29245,14 +29237,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Thunderclap strikes enemies within ? meters with Lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Strike damage is doubled while <arc/>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\nThunderclap Kills refund Melee Energy based on <link enemy rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%",
+     "main": "Thunderclap strikes enemies within ? meters with Lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Strike damage is doubled while <arc/>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\nThunderclap Kills refund Melee Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732213431861,
+      "lastUpdate": 1732219402001,
       "updatedBy": "Stardust"
      }
     },
@@ -29262,7 +29254,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -32116,7 +32108,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34296,7 +34288,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38745,7 +38737,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42242,14 +42234,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Enemies frozen by <stasis/>Winter's Wrath receive 100% increased <stasis/>Shatter damage.\n\nUpon performing <stasis/>Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum <stasis/>Frost Armor Stacks and 4 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\n\nGrants maximum <stasis/>Frost Armor Stacks to you once <stasis/>Winter's Wrath ends.\n\nOn Rift Cast with the <stasis/>Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds alongside maximum <stasis/>Frost Armor Stacks\n• Grants 2% <stasis/>Winter's Wrath Super Energy for each ally that received the above benefits",
+     "main": "Enemies frozen by <stasis/>Winter's Wrath receive 150% increased <stasis/>Shatter damage.\n\nUpon performing <stasis/>Winter's Wrath's heavy attack:\n• Allies within 30 meters receive the maximum <stasis/>Frost Armor Stacks and 4 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds\n• Refunds ?% Super Energy per ally buffed. (Only works once per ally?)\n\nGrants maximum <stasis/>Frost Armor Stacks to you once <stasis/>Winter's Wrath ends.\n\nOn Rift Cast with the <stasis/>Frostpulse Aspect equipped:\n• You and allies within ? meters receive 2 Stacks of <stasis/>Stasis Weapon Surge for <pve 11 /> <pvp [6] /> seconds alongside maximum <stasis/>Frost Armor Stacks\n• Grants 2% <stasis/>Winter's Wrath Super Energy for each ally that received the above benefits",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729876954217,
+      "lastUpdate": 1732219376505,
       "updatedBy": "Stardust"
      }
     },
@@ -42259,7 +42251,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49978,7 +49970,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51635,7 +51627,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52151,23 +52143,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Scoring 2 Precision Multikills generates an Orb of Power at the target's location for allies that grants 3.57% Super Energy.\n\nFinishers spawn Ammo Bricks for allies based on <link enemy rank [#CombatantClassifications] />:\n• Elites: <special/>Special Ammo Brick\n• Miniboss or Boss: <heavy/>Heavy Ammo Brick\n\nSpawned Ammo Bricks grant 60% of a Regular Ammo Brick's pickup amount but retain full variability.\n\nFinishing an Elite, Miniboss, or Boss grants ?% Super Energy to Aeon Allies not using Sect of Insight.",
+     "main": "Scoring 2 Precision Multikills generates an Orb of Power at the target's location for allies that grants 3.57% Super Energy.\n\nFinishers spawn Ammo Bricks for allies based on <link Enemy Rank [#CombatantClassifications] />:\n• Elites: <special/>Special Ammo Brick\n• Miniboss or Boss: <heavy/>Heavy Ammo Brick\n\nSpawned Ammo Bricks grant 60% of a Regular Ammo Brick's pickup amount but retain full variability.\n\nFinishing an Elite, Miniboss, or Boss grants ?% Super Energy to Aeon Allies not using Sect of Insight.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1701291658430,
+      "lastUpdate": 1732219409780,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665683187879,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670508854173,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -52176,7 +52160,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1701294220305,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52908,7 +52892,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55815,7 +55799,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57860,7 +57844,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732217790492,
+   "lastUpload": 1732219732702,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
