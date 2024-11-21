@@ -234,7 +234,7 @@
  "11126525": {
   "hash": 11126525,
   "name": "Powerful Attraction",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -609,7 +609,7 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -673,7 +673,7 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -1131,7 +1131,7 @@
  "47981717": {
   "hash": 47981717,
   "name": "Opening Shot",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -4261,6 +4261,16 @@
     {
      "linesContent": [
       {
+       "text": "Adaptive Burst Linear Fusion Rifles require 2 Hits for each Stack."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "Maximum of 6 Stacks. Missing removes all Stacks."
       }
      ]
@@ -6415,7 +6425,7 @@
  "426473316": {
   "hash": 426473316,
   "name": "Marksman's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -6481,7 +6491,7 @@
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -7124,7 +7134,7 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -7210,7 +7220,7 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -8466,13 +8476,13 @@
  "555281244": {
   "hash": 555281244,
   "name": "Precision Instrument",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729099497908,
+     "lastUpdate": 1732217767320,
      "updatedBy": "Stardust"
     }
    }
@@ -8483,6 +8493,16 @@
      "linesContent": [
       {
        "text": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Adaptive Burst Linear Fusion Rifles require 2 Hits for each Stack."
       }
      ]
     },
@@ -9229,7 +9249,7 @@
   "name": "Synapse Junctions",
   "itemHash": 2766109872,
   "itemName": "Raiden Flux",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -13215,7 +13235,7 @@
  "856936828": {
   "hash": 856936828,
   "name": "Ashes to Assets",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -25722,7 +25742,7 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -29494,7 +29514,7 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -32165,7 +32185,7 @@
  "2194294579": {
   "hash": 2194294579,
   "name": "Better Already",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -34541,7 +34561,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -39731,7 +39751,7 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -52120,7 +52140,7 @@
  "3478354816": {
   "hash": 3478354816,
   "name": "Spark of Instinct",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -53687,7 +53707,7 @@
  "3636300852": {
   "hash": 3636300852,
   "name": "Acrobat's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -55125,7 +55145,7 @@
  "3712696020": {
   "hash": 3712696020,
   "name": "Elemental Charge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -58431,7 +58451,7 @@
  "3938489430": {
   "hash": 3938489430,
   "name": "Hands-On",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -60408,7 +60428,7 @@
  "4087056174": {
   "hash": 4087056174,
   "name": "Recuperation",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {

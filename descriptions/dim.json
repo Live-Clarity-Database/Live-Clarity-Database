@@ -3551,6 +3551,16 @@
     {
      "linesContent": [
       {
+       "text": "Adaptive Burst Linear Fusion Rifles require 2 Hits for each Stack."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "Maximum of 6 Stacks. Missing removes all Stacks."
       }
      ]
@@ -7058,6 +7068,16 @@
      "linesContent": [
       {
        "text": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Adaptive Burst Linear Fusion Rifles require 2 Hits for each Stack."
       }
      ]
     },

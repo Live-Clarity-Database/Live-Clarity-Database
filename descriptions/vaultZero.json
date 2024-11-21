@@ -664,7 +664,7 @@
   "name": "Precision Instrument",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\nMaximum of 6 Stacks. Missing removes all Stacks.\nPrecision damage increase at 1|2|... Stacks:\n[enh]5% | 10% | 15% | 20% | 25% | 30%\n[enh] Precision Damage Buff is increased by 20%."
+   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\nAdaptive Burst Linear Fusion Rifles require 2 Hits for each Stack.\nMaximum of 6 Stacks. Missing removes all Stacks.\nPrecision damage increase at 1|2|... Stacks:\n[enh]5% | 10% | 15% | 20% | 25% | 30%\n[enh] Precision Damage Buff is increased by 20%."
   }
  },
  "335129856": {
@@ -1313,7 +1313,7 @@
   "name": "Precision Instrument",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\nMaximum of 6 Stacks. Missing removes all Stacks.\nPrecision damage increase at 1|2|... Stacks:\n4.17% | 8.33% | 12.5% | 16.67% | 20.83% | 25%"
+   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\nAdaptive Burst Linear Fusion Rifles require 2 Hits for each Stack.\nMaximum of 6 Stacks. Missing removes all Stacks.\nPrecision damage increase at 1|2|... Stacks:\n4.17% | 8.33% | 12.5% | 16.67% | 20.83% | 25%"
   }
  },
  "557221067": {

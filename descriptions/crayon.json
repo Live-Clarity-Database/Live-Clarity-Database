@@ -24,7 +24,7 @@
  "11126525": {
   "hash": 11126525,
   "name": "Powerful Attraction",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -106,7 +106,7 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -116,7 +116,7 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -198,7 +198,7 @@
  "47981717": {
   "hash": 47981717,
   "name": "Opening Shot",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -822,7 +822,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n🡅5% | 10% | 15% | 20% | 25% | 30%\n\n🡅 Precision Damage Buff is increased by 20%."
+   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nAdaptive Burst Linear Fusion Rifles require 2 Hits for each Stack.\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n🡅5% | 10% | 15% | 20% | 25% | 30%\n\n🡅 Precision Damage Buff is increased by 20%."
   }
  },
  "335129856": {
@@ -1178,7 +1178,7 @@
  "426473316": {
   "hash": 426473316,
   "name": "Marksman's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1188,7 +1188,7 @@
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1384,7 +1384,7 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1394,7 +1394,7 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1619,11 +1619,11 @@
  "555281244": {
   "hash": 555281244,
   "name": "Precision Instrument",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n4.17% | 8.33% | 12.5% | 16.67% | 20.83% | 25%"
+   "en": "Direct Weapon Hits grant a Stack of Precision Instrument for 1.25 seconds (2.1 seconds on weapons with a Draw/Charge Time).\n\nAdaptive Burst Linear Fusion Rifles require 2 Hits for each Stack.\n\nMaximum of 6 Stacks. Missing removes all Stacks.\n\nPrecision damage increase at 1|2|... Stacks:\n4.17% | 8.33% | 12.5% | 16.67% | 20.83% | 25%"
   }
  },
  "557221067": {
@@ -1765,7 +1765,7 @@
   "name": "Synapse Junctions",
   "itemHash": 2766109872,
   "itemName": "Raiden Flux",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2579,7 +2579,7 @@
  "856936828": {
   "hash": 856936828,
   "name": "Ashes to Assets",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5417,7 +5417,7 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6179,7 +6179,7 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6705,7 +6705,7 @@
  "2194294579": {
   "hash": 2194294579,
   "name": "Better Already",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7199,7 +7199,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8193,7 +8193,7 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10701,7 +10701,7 @@
  "3478354816": {
   "hash": 3478354816,
   "name": "Spark of Instinct",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11027,7 +11027,7 @@
  "3636300852": {
   "hash": 3636300852,
   "name": "Acrobat's Dodge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11267,7 +11267,7 @@
  "3712696020": {
   "hash": 3712696020,
   "name": "Elemental Charge",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11867,7 +11867,7 @@
  "3938489430": {
   "hash": 3938489430,
   "name": "Hands-On",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12333,7 +12333,7 @@
  "4087056174": {
   "hash": 4087056174,
   "name": "Recuperation",
-  "lastUpload": 1732216978211,
+  "lastUpload": 1732217790492,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
