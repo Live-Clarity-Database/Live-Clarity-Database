@@ -24,11 +24,11 @@
  "11126525": {
   "hash": 11126525,
   "name": "Powerful Attraction",
-  "lastUpload": 1712175845318,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "On Class Ability Usage with 1|2+ Mods equipped:\nCollects Orbs of Power within 12.5|18.5 meters.\n\nAlso collects Motes of Light in Gambit as well as Crests in Supremacy."
+   "en": "Class Ability usage collects certain pickups within 12.5|18.5 meters with 1|2+ Mods equipped.\n\nApplicable pickups:\n• Orbs of Power\n• Motes of Light in Gambit\n• Crests in Supremacy\n• Data Motes in Episode: Echoes activities"
   }
  },
  "11551321": {
@@ -106,21 +106,21 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "25606670": {
@@ -198,11 +198,11 @@
  "47981717": {
   "hash": 47981717,
   "name": "Opening Shot",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants the following benefits for your first shot (of the burst):\n• 20 Aim Assist and 25 Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased Accuracy Cone Growth\n\n<:special:968793055631114330>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3.1 seconds."
+   "en": "Grants the following benefits for your first shot (of the burst):\n• 20 Aim Assist and 25 Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased Accuracy Cone Growth\n\n<:special:968793055631114330>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3 seconds."
   }
  },
  "48578555": {
@@ -1024,7 +1024,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "383852321": {
@@ -1034,7 +1034,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "384759954": {
@@ -1178,21 +1178,21 @@
  "426473316": {
   "hash": 426473316,
   "name": "Marksman's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "431220296": {
@@ -1384,21 +1384,21 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "489583098": {
@@ -1765,11 +1765,11 @@
   "name": "Synapse Junctions",
   "itemHash": 2766109872,
   "itemName": "Raiden Flux",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Hits with <:arc:720178925317128243>Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds, up to a maximum of 3 Stacks.\n\nDamage increases | Passive Super Drain decreases:\n• Synapse Junctions x1: 13.5% | ?%\n• Synapse Junctions x2: 28.8% | ?%\n• Synapse Junctions x3: 46.2% | ?%"
+   "en": "Hits with <:arc:720178925317128243>Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds. Maximum of 3 Stacks.\n\nDamage increases | Passive Super Drain decreases:\n• Synapse Junctions x1: 20?% | ?%\n• Synapse Junctions x2: 44?% | ?%\n• Synapse Junctions x3: 72.8?% | ?%"
   }
  },
  "593361147": {
@@ -2579,11 +2579,11 @@
  "856936828": {
   "hash": 856936828,
   "name": "Ashes to Assets",
-  "lastUpload": 1700160880281,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Increases Super Energy Gains from Grenade Kills based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%."
+   "en": "Increases Super Energy Gains from Grenade Kills based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%. Kill can only trigger either Ashes to Assets or Hands On but not both."
   }
  },
  "858592012": {
@@ -3147,7 +3147,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Increases Super Energy Gains from Melee Kills based on enemy rank."
+   "en": "Melee Kills grant additional Super energy based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 mods:\n• Tier 1 (T1) Minors: ?% | ?% | ?%\n• T2 Minors, T1 Elites: 1.33?% | ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?% | ?%\n• T4 Minors, T3-T4 Elites, and higher: 5?% | ?% | ?%\n• Players: ?% | ?% | ?%\n\nKill can only trigger either Hands On or Ashes to Assets but not both."
   }
  },
  "1039115606": {
@@ -4079,7 +4079,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "1282157891": {
@@ -4089,7 +4089,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "1282254042": {
@@ -4345,7 +4345,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants the following benefits for your first shot (of the burst):\n• 🡅25 Aim Assist and 🡅30 Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased Accuracy Cone Growth\n\n<:special:968793055631114330>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3.1 seconds.\n\n🡅 Grants 5 more Aim Assist and Range."
+   "en": "Grants the following benefits for your first shot (of the burst):\n• 🡅25 Aim Assist and 🡅30 Range\n• 5% decreased Accuracy Cone Size\n• 10% decreased Accuracy Cone Growth\n\n<:special:968793055631114330>Special weapons only receive 50% of the benefits. Stats are rounded up.\n\nFiring the weapon prevents the perk from activating for 3 seconds.\n\n🡅 Grants 5 more Aim Assist and Range."
   }
  },
  "1376049785": {
@@ -4551,7 +4551,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "1444664839": {
@@ -4561,7 +4561,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "1447716563": {
@@ -5417,11 +5417,11 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1714219892088,
+  "lastUpload": 1732216978211,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <:pve:922884406073507930>150% <:pvp:922884468275019856>[75%] Additional Base Class Ability Regeneration Rate.\n\nDeactivates once Class Ability Energy is full."
+   "en": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <:pve:922884406073507930>150% <:pvp:922884468275019856>[75%] Additional Base Class Ability Regeneration Rate.\n\nDeactivates once you have a full Class Ability charge."
   }
  },
  "1727069361": {
@@ -6179,11 +6179,11 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1695589383294,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Thunderclap Kills refund Melee Energy based on [enemy rank](https://url.d2clarity.com/combatants):\n• 9%: Tier 1 Minors\n• 13%: Tier 2 Minors, Tier 1 Elites\n• 15%: Enemy Players\n• 20%: Tier 3 Minors, Tier 2 Elites\n• 30%: Tier 4 Minors, Tier 3 Elites\n• 40%: Tier 4 Elites, Minibosses\n• 50%: Bosses\n\nThunderclap strikes enemies within ? meters with lightning, dealing <:pve:922884406073507930>200 <:pvp:922884468275019856>[50] damage. Lightning Damage is increased by 50% while <:arc:720178925317128243>Amplified."
+   "en": "Thunderclap strikes enemies within ? meters with Lightning, dealing <:pve:922884406073507930>200 <:pvp:922884468275019856>[50] damage. Lightning Strike damage is doubled while <:arc:720178925317128243>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\nThunderclap Kills refund Melee Energy based on [enemy rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%"
   }
  },
  "1971149752": {
@@ -6443,7 +6443,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2087010645": {
@@ -6453,7 +6453,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2094761202": {
@@ -6561,7 +6561,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Increases Super Energy Gains from Grenade Kills based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%."
+   "en": "Increases Super Energy Gains from Grenade Kills based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 Mods equipped:\n• Tier 1 (T1) Minors: 1%|?|?\n• T2 Minors, T1 Elites: ?|?|?\n• T3 Minors, T2 Elites: ?|?|?\n• T4 Minors, T3-T4 Elites, and higher: 5%|?|?\n• Players: ?|?|?\n\nBonus Super Energy gains from Grapple Melee Kills are reduced by 50%. Kill can only trigger either Ashes to Assets or Hands On but not both."
   }
  },
  "2139363611": {
@@ -6581,7 +6581,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Scoring a Kill grants <:pve:922884406073507930>1 <:pvp:922884468275019856>[2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<:pve:922884406073507930>10% <:pvp:922884468275019856>[N/A] | <:pve:922884406073507930>17.5% <:pvp:922884468275019856>[?%] | <:pve:922884406073507930>25% <:pvp:922884468275019856>[10%]\n\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\n🡅 Passively grants 5 Reload Speed."
+   "en": "Scoring a Kill grants <:pve:922884406073507930>1 <:pvp:922884468275019856>[2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<:pve:922884406073507930>10% <:pvp:922884468275019856>[N/A] | <:pve:922884406073507930>17.5% <:pvp:922884468275019856>[?%] | <:pve:922884406073507930>25% <:pvp:922884468275019856>[10%]\n\nWhile you are not airborne:\nDamaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks <:pvp:922884468275019856>[Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\n🡅 Passively grants 5 Reload Speed."
   }
  },
  "2145198832": {
@@ -6705,11 +6705,11 @@
  "2194294579": {
   "hash": 2194294579,
   "name": "Better Already",
-  "lastUpload": 1680554889429,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Immediately Starts Health Regeneration on Orb of Power Pickups."
+   "en": "Orb of Power Pickups immediately start Health Regeneration.\n\nEquipping multiple copies provides no benefit."
   }
  },
  "2199590568": {
@@ -6753,7 +6753,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "2209081649": {
@@ -6763,7 +6763,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2209918983": {
@@ -7199,11 +7199,11 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1732216978211,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Scoring a Kill grants <:pve:922884406073507930>1 <:pvp:922884468275019856>[2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<:pve:922884406073507930>10% <:pvp:922884468275019856>[N/A] | <:pve:922884406073507930>17.5% <:pvp:922884468275019856>[?%] | <:pve:922884406073507930>25% <:pvp:922884468275019856>[10%]\n\nWhile you are not airborne:\nAttacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point."
+   "en": "Scoring a Kill grants <:pve:922884406073507930>1 <:pvp:922884468275019856>[2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<:pve:922884406073507930>10% <:pvp:922884468275019856>[N/A] | <:pve:922884406073507930>17.5% <:pvp:922884468275019856>[?%] | <:pve:922884406073507930>25% <:pvp:922884468275019856>[10%]\n\nWhile you are not airborne:\nDamaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks <:pvp:922884468275019856>[Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point."
   }
  },
  "2319885414": {
@@ -7725,7 +7725,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2495523341": {
@@ -7735,7 +7735,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2500502982": {
@@ -8193,11 +8193,11 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors)\n\nHovering your reticle near enemies for 1 second marks them for 7 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health."
+   "en": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors).\n\nDamaging enemies marks them for 3 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health."
   }
  },
  "2670025099": {
@@ -8291,7 +8291,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "2711519341": {
@@ -8301,7 +8301,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "2711519343": {
@@ -8311,7 +8311,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an acrobatic leap.\n\nUpon landing after using <:solar:720178909361995786>Acrobat's Dodge:\n• Allies within ? meters become <:solar:720178909361995786>Radiant\n• Deals up to <:pve:922884406073507930>40 <:pvp:922884468275019856>[20] damage to targets over a ? meter radius"
+   "en": "Only usable while on the ground.\n\nPerforms a front flip in your movement input's direction and slams down the ground with a <:solar:720178909361995786>Solar Knife.\n\nUpon landing after using <:solar:720178909361995786>Acrobat's Dodge:\n• Grants you and allies within ? meters <:solar:720178909361995786>Radiant for 10 seconds (15 with <:solar:720178909361995786>Ember of Solace)\n• Deals up to <:pve:922884406073507930>40 <:pvp:922884468275019856>[20] damage to targets in a ? meter radius"
   }
  },
  "2717805783": {
@@ -8351,7 +8351,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2722641741": {
@@ -8361,7 +8361,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2724068510": {
@@ -8701,7 +8701,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "2816982785": {
@@ -8711,7 +8711,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "2817499044": {
@@ -8865,7 +8865,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2868073561": {
@@ -8875,7 +8875,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "2868073563": {
@@ -9167,7 +9167,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "2979486803": {
@@ -9177,7 +9177,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2979726427": {
@@ -9241,7 +9241,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Collecting Elemental Pickups or destroying Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <:solar:720178909361995786>Firesprites,<:void:720178940240461864>Breaches,Tangles: 50%|50%|100%\n• <:arc:720178925317128243>Ionic Traces: 34%|50%|50%\n• <:stasis:915198000727461909>Stasis Shards: 25%|34%|50%"
+   "en": "Collecting Elemental Pickups or destroying Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <:solar:720178909361995786>Firesprites, <:void:720178940240461864>Void Breaches, Tangles: 50%|50%|100%\n• <:arc:720178925317128243>Ionic Traces: 34%|50%|50%\n• <:stasis:915198000727461909>Stasis Shards: 25%|34%|50%"
   }
  },
  "2997472817": {
@@ -9945,7 +9945,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nGrants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it."
   }
  },
  "3260056809": {
@@ -9955,7 +9955,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 20% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation and keeps you crouched after.\n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it. Lasts 20 seconds and has 500 HP.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
   }
  },
  "3268255645": {
@@ -10701,11 +10701,11 @@
  "3478354816": {
   "hash": 3478354816,
   "name": "Spark of Instinct",
-  "lastUpload": 1704200924259,
+  "lastUpload": 1732216978211,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "While at Critical Health:\nBeing damaged releases a burst of <:arc:720178925317128243>Arc Energy, dealing <:pve:922884406073507930>50 <:pvp:922884468275019856>[?] damage and applying <:arc:720178925317128243>Jolt to enemies within ? meters.\n\n15? second cooldown between activations."
+   "en": "While at Critical Health:\nBeing damaged releases a burst of <:arc:720178925317128243>Arc Energy, dealing <:pve:922884406073507930>50 <:pvp:922884468275019856>[20] damage and applying <:arc:720178925317128243>Jolt to enemies within ? meters.\n\n15? second cooldown between activations."
   }
  },
  "3478354817": {
@@ -10737,7 +10737,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <:pve:922884406073507930>20% <:pvp:922884468275019856>[15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "3492047641": {
@@ -10747,7 +10747,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second.\n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "3492337375": {
@@ -11027,11 +11027,11 @@
  "3636300852": {
   "hash": 3636300852,
   "name": "Acrobat's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an acrobatic leap.\n\nUpon landing after using <:solar:720178909361995786>Acrobat's Dodge:\n• Allies within ? meters become <:solar:720178909361995786>Radiant\n• Deals up to <:pve:922884406073507930>40 <:pvp:922884468275019856>[20] damage to targets over a ? meter radius"
+   "en": "Only usable while on the ground.\n\nPerforms a front flip in your movement input's direction and slams down the ground with a <:solar:720178909361995786>Solar Knife.\n\nUpon landing after using <:solar:720178909361995786>Acrobat's Dodge:\n• Grants you and allies within ? meters <:solar:720178909361995786>Radiant for 10 seconds (15 with <:solar:720178909361995786>Ember of Solace)\n• Deals up to <:pve:922884406073507930>40 <:pvp:922884468275019856>[20] damage to targets in a ? meter radius"
   }
  },
  "3636300854": {
@@ -11041,7 +11041,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "3636300855": {
@@ -11051,7 +11051,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "3640170453": {
@@ -11267,11 +11267,11 @@
  "3712696020": {
   "hash": 3712696020,
   "name": "Elemental Charge",
-  "lastUpload": 1702080947315,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Collecting Elemental Pickups or destroying Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <:solar:720178909361995786>Firesprites,<:void:720178940240461864>Breaches,Tangles: 50%|50%|100%\n• <:arc:720178925317128243>Ionic Traces: 34%|50%|50%\n• <:stasis:915198000727461909>Stasis Shards: 25%|34%|50%"
+   "en": "Collecting Elemental Pickups or destroying Tangles grants 1 Stack of Armor Charge upon reaching 100% Activation Progress.\n\nActivation Progress with 1|2|3 Mods equipped:\n• <:solar:720178909361995786>Firesprites, <:void:720178940240461864>Void Breaches, Tangles: 50%|50%|100%\n• <:arc:720178925317128243>Ionic Traces: 34%|50%|50%\n• <:stasis:915198000727461909>Stasis Shards: 25%|34%|50%"
   }
  },
  "3717985200": {
@@ -11839,7 +11839,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
+   "en": "Only usable while on the ground.\n\nPerforms an evasive maneuver in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nInstantly reloads your held weapon upon dodging.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip."
   }
  },
  "3933525367": {
@@ -11849,7 +11849,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPreforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 130% Melee Ability Energy if used within 15 meters of an enemy."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy."
   }
  },
  "3937312904": {
@@ -11867,11 +11867,11 @@
  "3938489430": {
   "hash": 3938489430,
   "name": "Hands-On",
-  "lastUpload": 1700160880281,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Increases Super Energy Gains from Melee Kills based on enemy rank."
+   "en": "Melee Kills grant additional Super energy based on [Enemy Rank](https://url.d2clarity.com/combatants) with 1|2|3 mods:\n• Tier 1 (T1) Minors: ?% | ?% | ?%\n• T2 Minors, T1 Elites: 1.33?% | ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?% | ?%\n• T4 Minors, T3-T4 Elites, and higher: 5?% | ?% | ?%\n• Players: ?% | ?% | ?%\n\nKill can only trigger either Hands On or Ashes to Assets but not both."
   }
  },
  "3938834702": {
@@ -12333,11 +12333,11 @@
  "4087056174": {
   "hash": 4087056174,
   "name": "Recuperation",
-  "lastUpload": 1693504657319,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Restores 70 HP on Orb of Power Pickups.\n\nEquipping multiple copies provides no benefit."
+   "en": "Orb of Power Pickups immediately restore 70 HP.\n\nEquipping multiple copies provides no benefit."
   }
  },
  "4091235251": {

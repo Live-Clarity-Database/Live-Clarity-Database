@@ -234,13 +234,13 @@
  "11126525": {
   "hash": 11126525,
   "name": "Powerful Attraction",
-  "lastUpload": 1712175845318,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712175840564,
+     "lastUpdate": 1732214112182,
      "updatedBy": "Stardust"
     }
    }
@@ -250,14 +250,7 @@
     {
      "linesContent": [
       {
-       "text": "On Class Ability Usage with 1|2+ Mods equipped:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Collects Orbs of Power within 12.5|18.5 meters."
+       "text": "Class Ability usage collects certain pickups within 12.5|18.5 meters with 1|2+ Mods equipped."
       }
      ]
     },
@@ -267,7 +260,35 @@
     {
      "linesContent": [
       {
-       "text": "Also collects Motes of Light in Gambit as well as Crests in Supremacy."
+       "text": "Applicable pickups:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Orbs of Power"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Motes of Light in Gambit"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Crests in Supremacy"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Data Motes in Episode: Echoes activities"
       }
      ]
     }
@@ -588,13 +609,13 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723400783785,
+     "lastUpdate": 1732216405478,
      "updatedBy": "Stardust"
     }
    }
@@ -604,7 +625,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -614,7 +635,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -652,13 +673,13 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723400788957,
+     "lastUpdate": 1732216513127,
      "updatedBy": "Stardust"
     }
    }
@@ -668,7 +689,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -699,6 +720,16 @@
      "linesContent": [
       {
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
       }
      ]
     }
@@ -1100,13 +1131,13 @@
  "47981717": {
   "hash": 47981717,
   "name": "Opening Shot",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722189630008,
+     "lastUpdate": 1732211087556,
      "updatedBy": "Stardust"
     }
    }
@@ -1163,7 +1194,7 @@
     {
      "linesContent": [
       {
-       "text": "Firing the weapon prevents the perk from activating for 3.1 seconds."
+       "text": "Firing the weapon prevents the perk from activating for 3 seconds."
       }
      ]
     }
@@ -5568,7 +5599,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -5601,6 +5632,16 @@
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+      }
+     ]
     }
    ]
   }
@@ -5624,7 +5665,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -5634,7 +5675,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -6374,13 +6415,13 @@
  "426473316": {
   "hash": 426473316,
   "name": "Marksman's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723400773035,
+     "lastUpdate": 1732215529710,
      "updatedBy": "Stardust"
     }
    }
@@ -6400,7 +6441,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -6430,13 +6481,13 @@
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723400779263,
+     "lastUpdate": 1732215534941,
      "updatedBy": "Stardust"
     }
    }
@@ -6456,7 +6507,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -6466,7 +6517,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -7063,13 +7124,13 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727527652664,
+     "lastUpdate": 1732216245962,
      "updatedBy": "Stardust"
     }
    }
@@ -7109,7 +7170,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -7119,7 +7180,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -7149,13 +7210,13 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727528002780,
+     "lastUpdate": 1732216237990,
      "updatedBy": "Stardust"
     }
    }
@@ -7195,7 +7256,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -7250,7 +7311,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -9168,13 +9229,13 @@
   "name": "Synapse Junctions",
   "itemHash": 2766109872,
   "itemName": "Raiden Flux",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715799740359,
+     "lastUpdate": 1732212367901,
      "updatedBy": "Stardust"
     }
    }
@@ -9190,7 +9251,7 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds, up to a maximum of 3 Stacks."
+       "text": "Arc Staff grant a Stack of 'Synapse Junctions' for 5 seconds. Maximum of 3 Stacks."
       }
      ]
     },
@@ -9207,21 +9268,21 @@
     {
      "linesContent": [
       {
-       "text": "• Synapse Junctions x1: 13.5% | ?%"
+       "text": "• Synapse Junctions x1: 20?% | ?%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Synapse Junctions x2: 28.8% | ?%"
+       "text": "• Synapse Junctions x2: 44?% | ?%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Synapse Junctions x3: 46.2% | ?%"
+       "text": "• Synapse Junctions x3: 72.8?% | ?%"
       }
      ]
     }
@@ -13154,13 +13215,13 @@
  "856936828": {
   "hash": 856936828,
   "name": "Ashes to Assets",
-  "lastUpload": 1700160880281,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1700158882585,
+     "lastUpdate": 1732213375860,
      "updatedBy": "Stardust"
     }
    }
@@ -13221,7 +13282,7 @@
     {
      "linesContent": [
       {
-       "text": "Bonus Super Energy gains from Grapple Melee Kills are reduced by 50%."
+       "text": "Bonus Super Energy gains from Grapple Melee Kills are reduced by 50%. Kill can only trigger either Ashes to Assets or Hands On but not both."
       }
      ]
     }
@@ -15686,7 +15747,58 @@
     {
      "linesContent": [
       {
-       "text": "Increases Super Energy Gains from Melee Kills based on enemy rank."
+       "text": "Melee Kills grant additional Super energy based on "
+      },
+      {
+       "text": "Enemy Rank"
+      },
+      {
+       "text": " with 1|2|3 mods:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Tier 1 (T1) Minors: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T2 Minors, T1 Elites: 1.33?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T3 Minors, T2 Elites: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T4 Minors, T3-T4 Elites, and higher: 5?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Players: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Kill can only trigger either Hands On or Ashes to Assets but not both."
       }
      ]
     }
@@ -19698,7 +19810,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -19708,7 +19820,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -19744,7 +19866,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -20700,7 +20832,7 @@
     {
      "linesContent": [
       {
-       "text": "Firing the weapon prevents the perk from activating for 3.1 seconds."
+       "text": "Firing the weapon prevents the perk from activating for 3 seconds."
       }
      ]
     },
@@ -21457,7 +21589,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -21490,6 +21622,16 @@
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+      }
+     ]
     }
    ]
   }
@@ -21513,7 +21655,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -21523,7 +21665,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -25580,13 +25722,13 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1714219892088,
+  "lastUpload": 1732216978211,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1714216169212,
+     "lastUpdate": 1732212771249,
      "updatedBy": "Stardust"
     }
    }
@@ -25625,7 +25767,7 @@
     {
      "linesContent": [
       {
-       "text": "Deactivates once Class Ability Energy is full."
+       "text": "Deactivates once you have a full Class Ability charge."
       }
      ]
     }
@@ -29352,19 +29494,57 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1695589383294,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1695588459031,
+     "lastUpdate": 1732213431861,
      "updatedBy": "Stardust"
     }
    }
   },
   "descriptions": {
    "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Thunderclap strikes enemies within ? meters with Lightning, dealing "
+      },
+      {
+       "text": "200"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: 50]"
+      },
+      {
+       "text": " damage. Lightning Strike damage is doubled while "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Amplified."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Kills with Lightning Strikes grant ?% Melee energy."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
     {
      "linesContent": [
       {
@@ -29381,77 +29561,49 @@
     {
      "linesContent": [
       {
-       "text": "• 9%: Tier 1 Minors"
+       "text": "• Tier 1 (T1) Minors: 9%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 13%: Tier 2 Minors, Tier 1 Elites"
+       "text": "• T2 Minors, T1 Elites: 13%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15%: Enemy Players"
+       "text": "• Players: 15%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 20%: Tier 3 Minors, Tier 2 Elites"
+       "text": "• T3 Minors, T2 Elites: 20%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 30%: Tier 4 Minors, Tier 3 Elites"
+       "text": "• T4 Minors, T3 Elites: 30%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 40%: Tier 4 Elites, Minibosses"
+       "text": "• T4 Elites, Minibosses: 40%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 50%: Bosses"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Thunderclap strikes enemies within ? meters with lightning, dealing "
-      },
-      {
-       "text": "200"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 50]"
-      },
-      {
-       "text": " damage. Lightning Damage is increased by 50% while "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Amplified."
+       "text": "• Bosses: 50%"
       }
      ]
     }
@@ -30633,7 +30785,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -30688,7 +30840,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -30744,7 +30896,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -30754,7 +30906,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -31298,7 +31450,7 @@
     {
      "linesContent": [
       {
-       "text": "Bonus Super Energy gains from Grapple Melee Kills are reduced by 50%."
+       "text": "Bonus Super Energy gains from Grapple Melee Kills are reduced by 50%. Kill can only trigger either Ashes to Assets or Hands On but not both."
       }
      ]
     }
@@ -31471,7 +31623,13 @@
     {
      "linesContent": [
       {
-       "text": "Attacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well."
+       "text": "Damaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks "
+      },
+      {
+       "text": "[PVP: Primary weapons only grant 1 Stack]"
+      },
+      {
+       "text": " of the buff. The damage increase is applied to the shot triggering the perk as well."
       }
      ]
     },
@@ -32007,13 +32165,13 @@
  "2194294579": {
   "hash": 2194294579,
   "name": "Better Already",
-  "lastUpload": 1680554889429,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1680469746208,
+     "lastUpdate": 1732213771762,
      "updatedBy": "Stardust"
     }
    }
@@ -32023,7 +32181,17 @@
     {
      "linesContent": [
       {
-       "text": "Immediately Starts Health Regeneration on Orb of Power Pickups."
+       "text": "Orb of Power Pickups immediately start Health Regeneration."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Equipping multiple copies provides no benefit."
       }
      ]
     }
@@ -32281,7 +32449,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -32291,7 +32459,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -32345,7 +32513,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -32376,6 +32544,16 @@
      "linesContent": [
       {
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
       }
      ]
     }
@@ -34363,13 +34541,13 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1732216978211,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731003936834,
+     "lastUpdate": 1732210999000,
      "updatedBy": "Stardust"
     }
    }
@@ -34455,7 +34633,13 @@
     {
      "linesContent": [
       {
-       "text": "Attacking targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks. The damage increase is applied to the shot triggering the perk as well."
+       "text": "Damaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks "
+      },
+      {
+       "text": "[PVP: Primary weapons only grant 1 Stack]"
+      },
+      {
+       "text": " of the buff. The damage increase is applied to the shot triggering the perk as well."
       }
      ]
     },
@@ -36826,7 +37010,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -36836,7 +37020,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -36912,7 +37096,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -36967,7 +37151,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -39547,13 +39731,13 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732216978211,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729293113037,
+     "lastUpdate": 1732211758745,
      "updatedBy": "Stardust"
     }
    }
@@ -39573,7 +39757,7 @@
     {
      "linesContent": [
       {
-       "text": "Crouching grants Enhanced Radar (6⁠🠚⁠12 sectors)"
+       "text": "Crouching grants Enhanced Radar (6⁠🠚⁠12 sectors)."
       }
      ]
     },
@@ -39583,7 +39767,7 @@
     {
      "linesContent": [
       {
-       "text": "Hovering your reticle near enemies for 1 second marks them for 7 seconds. Marks are visible through walls."
+       "text": "Damaging enemies marks them for 3 seconds. Marks are visible through walls."
       }
      ]
     },
@@ -40271,7 +40455,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -40281,7 +40465,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -40317,7 +40511,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -40373,7 +40577,13 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an acrobatic leap."
+       "text": "Performs a front flip in your movement input's direction and slams down the ground with a "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar Knife."
       }
      ]
     },
@@ -40396,13 +40606,19 @@
     {
      "linesContent": [
       {
-       "text": "• Allies within ? meters become "
+       "text": "• Grants you and allies within ? meters "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Radiant"
+       "text": "Radiant for 10 seconds (15 with "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Ember of Solace)"
       }
      ]
     },
@@ -40421,7 +40637,7 @@
        "text": "[PVP: 20]"
       },
       {
-       "text": " damage to targets over a ? meter radius"
+       "text": " damage to targets in a ? meter radius"
       }
      ]
     }
@@ -40626,7 +40842,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -40636,7 +40852,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -40712,7 +40928,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -40767,7 +40983,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -42355,7 +42571,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -42411,7 +42637,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -42421,7 +42647,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -43183,7 +43419,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -43238,7 +43474,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -43294,7 +43530,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -43304,7 +43540,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -44913,7 +45149,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -44923,7 +45159,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -44977,7 +45213,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -45008,6 +45244,16 @@
      "linesContent": [
       {
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
       }
      ]
     }
@@ -45262,13 +45508,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Firesprites,"
+       "text": "Firesprites, "
       },
       {
        "classNames": [ "void" ]
       },
       {
-       "text": "Breaches,"
+       "text": "Void Breaches, "
       },
       {
        "classNames": [ "strand" ]
@@ -48395,7 +48641,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -48405,7 +48651,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
       }
      ]
     },
@@ -48481,7 +48727,7 @@
     {
      "linesContent": [
       {
-       "text": "Lasts 20 seconds, has 500 HP, and has 80% Damage Resistance against PVE Combatants."
+       "text": "Lasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses."
       }
      ]
     },
@@ -48536,7 +48782,7 @@
     {
      "linesContent": [
       {
-       "text": "• 20% Splash Damage Resistance against PVE Combatants"
+       "text": "• 60% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -51874,13 +52120,13 @@
  "3478354816": {
   "hash": 3478354816,
   "name": "Spark of Instinct",
-  "lastUpload": 1704200924259,
+  "lastUpload": 1732216978211,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1704196204765,
+     "lastUpdate": 1732212919782,
      "updatedBy": "Stardust"
     }
    }
@@ -51912,7 +52158,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: ?]"
+       "text": "[PVP: 20]"
       },
       {
        "text": " damage and applying "
@@ -52107,7 +52353,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -52117,7 +52363,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the Cast Animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
       }
      ]
     },
@@ -52171,7 +52417,7 @@
     {
      "linesContent": [
       {
-       "text": "Only usable while on the ground."
+       "text": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation."
       }
      ]
     },
@@ -52202,6 +52448,16 @@
      "linesContent": [
       {
        "text": "If at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Standing in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
       }
      ]
     }
@@ -53431,13 +53687,13 @@
  "3636300852": {
   "hash": 3636300852,
   "name": "Acrobat's Dodge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732216978211,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723400905538,
+     "lastUpdate": 1732215793030,
      "updatedBy": "Stardust"
     }
    }
@@ -53457,7 +53713,13 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an acrobatic leap."
+       "text": "Performs a front flip in your movement input's direction and slams down the ground with a "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar Knife."
       }
      ]
     },
@@ -53480,13 +53742,19 @@
     {
      "linesContent": [
       {
-       "text": "• Allies within ? meters become "
+       "text": "• Grants you and allies within ? meters "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Radiant"
+       "text": "Radiant for 10 seconds (15 with "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Ember of Solace)"
       }
      ]
     },
@@ -53505,7 +53773,7 @@
        "text": "[PVP: 20]"
       },
       {
-       "text": " damage to targets over a ? meter radius"
+       "text": " damage to targets in a ? meter radius"
       }
      ]
     }
@@ -53541,7 +53809,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -53597,7 +53875,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -53607,7 +53885,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -54837,13 +55125,13 @@
  "3712696020": {
   "hash": 3712696020,
   "name": "Elemental Charge",
-  "lastUpload": 1702080947315,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1702080155956,
+     "lastUpdate": 1732213712623,
      "updatedBy": "Stardust"
     }
    }
@@ -54882,13 +55170,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Firesprites,"
+       "text": "Firesprites, "
       },
       {
        "classNames": [ "void" ]
       },
       {
-       "text": "Breaches,"
+       "text": "Void Breaches, "
       },
       {
        "classNames": [ "strand" ]
@@ -58047,7 +58335,17 @@
     {
      "linesContent": [
       {
-       "text": "Preforms an evasive maneuver removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs an evasive maneuver in your movement input's direction."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
       }
      ]
     },
@@ -58103,7 +58401,7 @@
     {
      "linesContent": [
       {
-       "text": "Preforms a deft tumble that removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+       "text": "Performs a deft tumble in your movement input's direction."
       }
      ]
     },
@@ -58113,7 +58411,17 @@
     {
      "linesContent": [
       {
-       "text": "Grants 130% Melee Ability Energy if used within 15 meters of an enemy."
+       "text": "Removes tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
     }
@@ -58123,13 +58431,13 @@
  "3938489430": {
   "hash": 3938489430,
   "name": "Hands-On",
-  "lastUpload": 1700160880281,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1700158908173,
+     "lastUpdate": 1732213216207,
      "updatedBy": "Stardust"
     }
    }
@@ -58139,7 +58447,58 @@
     {
      "linesContent": [
       {
-       "text": "Increases Super Energy Gains from Melee Kills based on enemy rank."
+       "text": "Melee Kills grant additional Super energy based on "
+      },
+      {
+       "text": "Enemy Rank"
+      },
+      {
+       "text": " with 1|2|3 mods:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Tier 1 (T1) Minors: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T2 Minors, T1 Elites: 1.33?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T3 Minors, T2 Elites: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• T4 Minors, T3-T4 Elites, and higher: 5?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Players: ?% | ?% | ?%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Kill can only trigger either Hands On or Ashes to Assets but not both."
       }
      ]
     }
@@ -60049,13 +60408,13 @@
  "4087056174": {
   "hash": 4087056174,
   "name": "Recuperation",
-  "lastUpload": 1693504657319,
+  "lastUpload": 1732216978211,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1693503187699,
+     "lastUpdate": 1732213787458,
      "updatedBy": "Stardust"
     }
    }
@@ -60065,7 +60424,7 @@
     {
      "linesContent": [
       {
-       "text": "Restores 70 HP on Orb of Power Pickups."
+       "text": "Orb of Power Pickups immediately restore 70 HP."
       }
      ]
     },
