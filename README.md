@@ -9,7 +9,7 @@ Consider [supporting our project](https://ko-fi.com/d2clarity) through Ko-Fi to 
   - A link to our website: <https://d2clarity.com>
   - A link to our donation page: <https://ko-fi.com/d2clarity> (optional but appreciated)
   - These credits should be clearly visible and easily accessible for all users.
-- You should also refer users to our Discord Server if they have feedback to give about our tooltips: <https://url.d2clarity.com/discord>
+- You should also refer users to our Discord Server if they have feedback to give about our tooltips: <https://d2clarity.com/discord>
 - If you wish to use our data in larger projects, please contact us through our [Discord Server](https://url.d2clarity.com/discord) so we can discuss the specifics of the cooperation.
   - Simply open a Partner Application support ticket in `#support-and-partnerships`.
 - Do not modify the contents of our database on your end without clearly marking your changes. We are not responsible for any inaccuracies that this might cause.
