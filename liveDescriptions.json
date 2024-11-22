@@ -3429,14 +3429,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst <link Minibosses [#CombatantClassifications] /> (inlcuding Champions and Tormentors), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting <stasis/>Frozen enemies.",
+     "main": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst <link Minibosses [#CombatantClassifications] />, the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting <stasis/>Frozen enemies.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723224455297,
+      "lastUpdate": 1732309978547,
       "updatedBy": "Stardust"
      }
     },
@@ -3446,7 +3446,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732310012188,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8406,14 +8406,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "<title Refills [G_refill] /> 50% of the Magazine from reserves upon breaking Elemental, Barrier Champion, or Player Shields.",
+     "main": "<title Refills [G_refill] /> 50% of the Magazine (rounded up) from reserves upon breaking Elemental, Barrier Champion, or Player Shields.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1709219578478,
+      "lastUpdate": 1732310004477,
       "updatedBy": "Stardust"
      }
     },
@@ -8423,7 +8423,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709226265485,
+   "lastUpload": 1732310012188,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61025,14 +61025,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within ${1+#d} second. //add #e when known\n\nGuarding while receiving Healing Effects (inlcuding healing over time from <solar/>Restoration) from allies also activates the perk.\n\nenhanced (\nvar d = 0\n#e Buff Duration is increased.\n)",
+     "main": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within ${1+#d} second. //add #e when known\n\nGuarding while receiving Healing Effects (including healing over time from <solar/>Restoration) from allies also activates the perk.\n\nenhanced (\nvar d = 0\n#e Buff Duration is increased.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722359837762,
+      "lastUpdate": 1732309950118,
       "updatedBy": "Stardust"
      }
     },
@@ -61042,7 +61042,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732310012188,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
