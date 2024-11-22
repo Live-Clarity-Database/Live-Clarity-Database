@@ -504,11 +504,11 @@
   "name": "Peregrine Strike",
   "itemHash": 2255796155,
   "itemName": "Peregrine Greaves",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732310012188,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst [Minibosses](https://url.d2clarity.com/combatants) (inlcuding Champions and Tormentors), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting Frozen enemies."
+   "en": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst [Minibosses](https://url.d2clarity.com/combatants), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting Frozen enemies."
   }
  },
  "236605015": {
@@ -1363,11 +1363,11 @@
  "566815328": {
   "hash": 566815328,
   "name": "Rasputin's Arsenal",
-  "lastUpload": 1709226265485,
+  "lastUpload": 1732310012188,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Refills 50% of the Magazine from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
+   "en": "Refills 50% of the Magazine (rounded up) from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
   }
  },
  "567997816": {
@@ -10481,17 +10481,17 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\n\nGuarding while receiving Healing Effects (inlcuding healing over time from Restoration) from allies also activates the perk.\n\n🡅 Buff Duration is increased."
+   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\n\nGuarding while receiving Healing Effects (including healing over time from Restoration) from allies also activates the perk.\n\n🡅 Buff Duration is increased."
   }
  },
  "4274614370": {
   "hash": 4274614370,
   "name": "Valiant Charge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732310012188,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\n\nGuarding while receiving Healing Effects (inlcuding healing over time from Restoration) from allies also activates the perk."
+   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\n\nGuarding while receiving Healing Effects (including healing over time from Restoration) from allies also activates the perk."
   }
  },
  "4278960718": {

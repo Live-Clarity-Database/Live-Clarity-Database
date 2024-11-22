@@ -3218,13 +3218,13 @@
   "name": "Peregrine Strike",
   "itemHash": 2255796155,
   "itemName": "Peregrine Greaves",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732310012188,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723224455297,
+     "lastUpdate": 1732309978547,
      "updatedBy": "Stardust"
     }
    }
@@ -3270,7 +3270,7 @@
        "text": "Minibosses"
       },
       {
-       "text": " (inlcuding Champions and Tormentors), the buff is increased to 1000% and refunds your Melee Ability charge on hit."
+       "text": ", the buff is increased to 1000% and refunds your Melee Ability charge on hit."
       }
      ]
     },
@@ -8698,13 +8698,13 @@
  "566815328": {
   "hash": 566815328,
   "name": "Rasputin's Arsenal",
-  "lastUpload": 1709226265485,
+  "lastUpload": 1732310012188,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1709219578478,
+     "lastUpdate": 1732310004477,
      "updatedBy": "Stardust"
     }
    }
@@ -8717,7 +8717,7 @@
        "text": "Refills"
       },
       {
-       "text": " 50% of the Magazine from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
+       "text": " 50% of the Magazine (rounded up) from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
       }
      ]
     }
@@ -63676,7 +63676,7 @@
     {
      "linesContent": [
       {
-       "text": "Guarding while receiving Healing Effects (inlcuding healing over time from "
+       "text": "Guarding while receiving Healing Effects (including healing over time from "
       },
       {
        "classNames": [ "solar" ]
@@ -63706,13 +63706,13 @@
  "4274614370": {
   "hash": 4274614370,
   "name": "Valiant Charge",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732310012188,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722359837762,
+     "lastUpdate": 1732309950118,
      "updatedBy": "Stardust"
     }
    }
@@ -63732,7 +63732,7 @@
     {
      "linesContent": [
       {
-       "text": "Guarding while receiving Healing Effects (inlcuding healing over time from "
+       "text": "Guarding while receiving Healing Effects (including healing over time from "
       },
       {
        "classNames": [ "solar" ]

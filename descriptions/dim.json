@@ -2728,7 +2728,7 @@
        "link": "https://url.d2clarity.com/combatants"
       },
       {
-       "text": " (inlcuding Champions and Tormentors), the buff is increased to 1000% and refunds your Melee Ability charge on hit."
+       "text": ", the buff is increased to 1000% and refunds your Melee Ability charge on hit."
       }
      ]
     },
@@ -7256,7 +7256,7 @@
        "text": "Refills"
       },
       {
-       "text": " 50% of the Magazine from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
+       "text": " 50% of the Magazine (rounded up) from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
       }
      ]
     }
@@ -52343,7 +52343,7 @@
     {
      "linesContent": [
       {
-       "text": "Guarding while receiving Healing Effects (inlcuding healing over time from "
+       "text": "Guarding while receiving Healing Effects (including healing over time from "
       },
       {
        "classNames": [ "solar" ]
@@ -52388,7 +52388,7 @@
     {
      "linesContent": [
       {
-       "text": "Guarding while receiving Healing Effects (inlcuding healing over time from "
+       "text": "Guarding while receiving Healing Effects (including healing over time from "
       },
       {
        "classNames": [ "solar" ]

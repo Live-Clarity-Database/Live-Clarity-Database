@@ -510,7 +510,7 @@
   "itemName": "Peregrine Greaves",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Passively grants 20 Airborne Effectiveness.\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\nAgainst [Minibosses](https://url.d2clarity.com/combatants) (inlcuding Champions and Tormentors), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\nProvides no benefits when hitting [Stasis]Frozen enemies."
+   "en": "Passively grants 20 Airborne Effectiveness.\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\nAgainst [Minibosses](https://url.d2clarity.com/combatants), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\nProvides no benefits when hitting [Stasis]Frozen enemies."
   }
  },
  "236605015": {
@@ -1345,7 +1345,7 @@
   "name": "Rasputin's Arsenal",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Refills 50% of the Magazine from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
+   "en": "Refills 50% of the Magazine (rounded up) from reserves upon breaking Elemental, Barrier Champion, or Player Shields."
   }
  },
  "567997816": {
@@ -10471,7 +10471,7 @@
   "name": "Valiant Charge",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\nGuarding while receiving Healing Effects (inlcuding healing over time from [Solar]Restoration) from allies also activates the perk.\n[enh] Buff Duration is increased."
+   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\nGuarding while receiving Healing Effects (including healing over time from [Solar]Restoration) from allies also activates the perk.\n[enh] Buff Duration is increased."
   }
  },
  "4274614370": {
@@ -10479,7 +10479,7 @@
   "name": "Valiant Charge",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\nGuarding while receiving Healing Effects (inlcuding healing over time from [Solar]Restoration) from allies also activates the perk."
+   "en": "Taking any damage while Guarding increases Lunge Distance by 80% for the next swing within 1 second.\nGuarding while receiving Healing Effects (including healing over time from [Solar]Restoration) from allies also activates the perk."
   }
  },
  "4278960718": {
