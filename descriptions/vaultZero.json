@@ -178,7 +178,7 @@
   "name": "CQC Optics: High",
   "type": "Weapon Mod",
   "descriptions": {
-   "en": "Passively grants 1 Zoom.\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
+   "en": "Passively increases Zoom by 1.\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
   }
  },
  "56663992": {
@@ -3685,7 +3685,7 @@
   "name": "Phoenix Dive",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while airborne.\nPerforms a dive to the ground in the direction of your movement input. Not inputting a movement direction results in a vertical downward dive.\nApplies [Solar]Cure x2 to you and allies within 9 meters upon landing.\n• Deals 100 Damage and applies 40 [Solar]Scorch Stacks (60 with [Solar]Ember of Ashes) to enemies within 5 meters upon landing."
+   "en": "Only usable while airborne.\nPerforms a dive to the ground in the direction of your movement input. Not inputting a movement direction results in a vertical downward dive.\nApplies [Solar]Cure x2 to you and allies within 9 meters upon landing."
   }
  },
  "1444664838": {
@@ -4759,7 +4759,7 @@
   "name": "Marksman Optics: High",
   "type": "Weapon Mod",
   "descriptions": {
-   "en": "Passively grants 2 Zoom.\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
+   "en": "Passively increases Zoom by 2.\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
   }
  },
  "1848187513": {

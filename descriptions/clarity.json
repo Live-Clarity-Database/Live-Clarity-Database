@@ -1132,7 +1132,7 @@
  "52638289": {
   "hash": 52638289,
   "name": "CQC Optics: High",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1732395122802,
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1140,7 +1140,7 @@
     {
      "linesContent": [
       {
-       "text": "Passively grants 1 Zoom."
+       "text": "Passively increases Zoom by 1."
       }
      ]
     },
@@ -19273,7 +19273,7 @@
  "1444664836": {
   "hash": 1444664836,
   "name": "Phoenix Dive",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732395122802,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -19308,28 +19308,6 @@
       },
       {
        "text": "Cure x2 to you and allies within 9 meters upon landing."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Deals 100 Damage and applies 40 "
-      },
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Scorch Stacks (60 with "
-      },
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Ember of Ashes) to enemies within 5 meters upon landing."
       }
      ]
     }
@@ -24959,7 +24937,7 @@
     {
      "linesContent": [
       {
-       "text": "Passively grants 2 Zoom."
+       "text": "Passively increases Zoom by 2."
       }
      ]
     },

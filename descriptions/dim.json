@@ -1052,7 +1052,7 @@
     {
      "linesContent": [
       {
-       "text": "Passively grants 1 Zoom."
+       "text": "Passively increases Zoom by 1."
       }
      ]
     },
@@ -17773,28 +17773,6 @@
        "text": "Cure x2 to you and allies within 9 meters upon landing."
       }
      ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Deals 100 Damage and applies 40 "
-      },
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Scorch Stacks (60 with "
-      },
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Ember of Ashes) to enemies within 5 meters upon landing."
-      }
-     ]
     }
    ]
   }
@@ -22921,7 +22899,7 @@
     {
      "linesContent": [
       {
-       "text": "Passively grants 2 Zoom."
+       "text": "Passively increases Zoom by 2."
       }
      ]
     },

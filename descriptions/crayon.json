@@ -218,11 +218,11 @@
  "52638289": {
   "hash": 52638289,
   "name": "CQC Optics: High",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1732395122802,
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 1 Zoom.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
+   "en": "Passively increases Zoom by 1.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
   }
  },
  "56663992": {
@@ -4537,11 +4537,11 @@
  "1444664836": {
   "hash": 1444664836,
   "name": "Phoenix Dive",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1732395122802,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while airborne.\n\nPerforms a dive to the ground in the direction of your movement input. Not inputting a movement direction results in a vertical downward dive.\n\nApplies <:solar:720178909361995786>Cure x2 to you and allies within 9 meters upon landing.\n\n• Deals 100 Damage and applies 40 <:solar:720178909361995786>Scorch Stacks (60 with <:solar:720178909361995786>Ember of Ashes) to enemies within 5 meters upon landing."
+   "en": "Only usable while airborne.\n\nPerforms a dive to the ground in the direction of your movement input. Not inputting a movement direction results in a vertical downward dive.\n\nApplies <:solar:720178909361995786>Cure x2 to you and allies within 9 meters upon landing."
   }
  },
  "1444664838": {
@@ -5867,7 +5867,7 @@
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 2 Zoom.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
+   "en": "Passively increases Zoom by 2.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased Absolute Recoil\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)"
   }
  },
  "1848187513": {
