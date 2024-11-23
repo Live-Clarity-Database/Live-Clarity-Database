@@ -1231,14 +1231,14 @@
    "type": "Weapon Mod",
    "editor": {
     "en": {
-     "main": "Passively grants #Zoom Zoom.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased <title Absolute Recoil [absRecoil] />\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)\n\ntitle absRecoil (\nAbsolute Recoil represents how closely grouped your shots will be in the physical environment to an observer. The recoil you experience on-screen remains identical but if you're more zoomed-in, your bullets will end up being grouped closer.\n)\n\n//Mod used for low Zoom weapon archetypes\nvar Zoom = 1",
+     "main": "Passively increases Zoom by #Zoom.\n\nIncreasing Zoom has the following effects in ADS:\n• Increased Magnification\n• Increased Aim Assist Falloff Distance\n• Decreased <title Absolute Recoil [absRecoil] />\n• Narrowed Accuracy and Aim Assist Cones (size stays the same on-screen)\n\ntitle absRecoil (\nAbsolute Recoil represents how closely grouped your shots will be in the physical environment to an observer. The recoil you experience on-screen remains identical but if you're more zoomed-in, your bullets will end up being grouped closer.\n)\n\n//Mod used for low Zoom weapon archetypes\nvar Zoom = 1",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1728492127028,
+      "lastUpdate": 1732395032130,
       "updatedBy": "Stardust"
      }
     },
@@ -1248,9 +1248,9 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": true
+   "lastUpload": 1732395122802,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "52780822": {
    "hash": 52780822,
@@ -21471,14 +21471,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "import main from 2979486801\n\nvar solar1 = empty\nvar solar2 = empty",
+     "main": "import main from 2979486801\n\nvar solar1 = empty\nvar solar2 = empty\nvar solar3 = empty",
      "secondary": "import secondary from 2979486801"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723401194894,
+      "lastUpdate": 1732394944322,
       "updatedBy": "Stardust"
      }
     },
@@ -21488,7 +21488,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1732395122802,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
