@@ -684,7 +684,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 Slow Stacks for 4 [1.5] seconds (8 [2] with Whisper of Durance) to enemies within 4 meters of the target.\n\nRapid-Fire Fusion Rifles only apply 40 Slow Stacks.\n\nOnly activates once per shot/burst.\n\n🡅 Passively grants 5 Stability."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 Slow Stacks for 4 [1.5] seconds (8 [2] with Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 Slow Stacks.\n\nOnly activates once per shot/burst.\n\n🡅 Passively grants 5 Stability."
   }
  },
  "354401740": {
@@ -7337,11 +7337,11 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1732668938979,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 Slow Stacks for 4 [1.5] seconds (8 [2] with Whisper of Durance) to enemies within 4 meters of the target.\n\nRapid-Fire Fusion Rifles only apply 40 Slow Stacks.\n\nOnly activates once per shot/burst."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 Slow Stacks for 4 [1.5] seconds (8 [2] with Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 Slow Stacks.\n\nOnly activates once per shot/burst."
   }
  },
  "2979486801": {
