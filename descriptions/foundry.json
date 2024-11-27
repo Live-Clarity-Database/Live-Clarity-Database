@@ -4439,7 +4439,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 "
+       "text": "Rocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 "
       },
       {
        "classNames": [ "stasis" ]
@@ -44922,13 +44922,13 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1732668938979,
+  "lastUpload": 1732669298492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732668889181,
+     "lastUpdate": 1732669295885,
      "updatedBy": "Stardust"
     }
    }
@@ -44991,7 +44991,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 "
+       "text": "Rocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 "
       },
       {
        "classNames": [ "stasis" ]

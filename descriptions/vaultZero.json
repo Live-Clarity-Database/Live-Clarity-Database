@@ -680,7 +680,7 @@
   "name": "Chill Clip",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst.\n[enh] Passively grants 5 Stability."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst.\n[enh] Passively grants 5 Stability."
   }
  },
  "354401740": {
@@ -7411,7 +7411,7 @@
   "name": "Chill Clip",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 [Stasis]Slow Stacks for [pve]4 [pvp][1.5] seconds ([pve]8 [pvp][2] with [Stasis]Whisper of Durance) to enemies within 4 meters of the target.\nRocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 [Stasis]Slow Stacks.\nOnly activates once per shot/burst."
   }
  },
  "2979486801": {

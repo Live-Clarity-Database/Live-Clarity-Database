@@ -842,7 +842,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 <:stasis:915198000727461909>Slow Stacks for <:pve:922884406073507930>4 <:pvp:922884468275019856>[1.5] seconds (<:pve:922884406073507930>8 <:pvp:922884468275019856>[2] with <:stasis:915198000727461909>Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 <:stasis:915198000727461909>Slow Stacks.\n\nOnly activates once per shot/burst.\n\n🡅 Passively grants 5 Stability."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 <:stasis:915198000727461909>Slow Stacks for <:pve:922884406073507930>4 <:pvp:922884468275019856>[1.5] seconds (<:pve:922884406073507930>8 <:pvp:922884468275019856>[2] with <:stasis:915198000727461909>Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 <:stasis:915198000727461909>Slow Stacks.\n\nOnly activates once per shot/burst.\n\n🡅 Passively grants 5 Stability."
   }
  },
  "354401740": {
@@ -9143,11 +9143,11 @@
  "2978966579": {
   "hash": 2978966579,
   "name": "Chill Clip",
-  "lastUpload": 1732668938979,
+  "lastUpload": 1732669298492,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 <:stasis:915198000727461909>Slow Stacks for <:pve:922884406073507930>4 <:pvp:922884468275019856>[1.5] seconds (<:pve:922884406073507930>8 <:pvp:922884468275019856>[2] with <:stasis:915198000727461909>Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Frame Sidearms and Rapid-Fire Fusion Rifles only apply 40 <:stasis:915198000727461909>Slow Stacks.\n\nOnly activates once per shot/burst."
+   "en": "While at/above 50% of the Base Magazine Capacity:\nDirect Hits apply 60 <:stasis:915198000727461909>Slow Stacks for <:pve:922884406073507930>4 <:pvp:922884468275019856>[1.5] seconds (<:pve:922884406073507930>8 <:pvp:922884468275019856>[2] with <:stasis:915198000727461909>Whisper of Durance) to enemies within 4 meters of the target.\n\nRocket-Assisted Sidearms and Rapid-Fire Fusion Rifles only apply 40 <:stasis:915198000727461909>Slow Stacks.\n\nOnly activates once per shot/burst."
   }
  },
  "2979486801": {
