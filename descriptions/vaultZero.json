@@ -5181,7 +5181,7 @@
   "name": "Lone Wolf",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Passively grants [enh]11 Aim Assist, [enh]12 Airborne Effectiveness, and a [enh]0.85x ADS Duration Multiplier.\nStat bonuses are doubled and the ADS Duration Multiplier is decresed to [enh]0.75x while no allies are within 15 meters.\n[enh] Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05."
+   "en": "Passively grants [enh]11 Aim Assist, [enh]12 Airborne Effectiveness, and a [enh]0.85x ADS Duration Multiplier.\nStat bonuses are doubled and the ADS Duration Multiplier is decreased to [enh]0.75x while no allies are within 15 meters.\n[enh] Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05."
   }
  },
  "2076329105": {
@@ -6425,7 +6425,7 @@
   "name": "Lone Wolf",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Passively grants 10 Aim Assist, 10 Airborne Effectiveness, and a 0.9x ADS Duration Multiplier.\nStat bonuses are doubled and the ADS Duration Multiplier is decresed to 0.8x while no allies are within 15 meters."
+   "en": "Passively grants 10 Aim Assist, 10 Airborne Effectiveness, and a 0.9x ADS Duration Multiplier.\nStat bonuses are doubled and the ADS Duration Multiplier is decreased to 0.8x while no allies are within 15 meters."
   }
  },
  "2586562813": {

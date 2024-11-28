@@ -30626,7 +30626,7 @@
     {
      "linesContent": [
       {
-       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decresed to "
+       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decreased to "
       },
       {
        "text": "🡅",
@@ -38300,13 +38300,13 @@
  "2579169598": {
   "hash": 2579169598,
   "name": "Lone Wolf",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732802131794,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729291513848,
+     "lastUpdate": 1732802123995,
      "updatedBy": "Stardust"
     }
    }
@@ -38326,7 +38326,7 @@
     {
      "linesContent": [
       {
-       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decresed to 0.8x while no allies are within 15 meters."
+       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decreased to 0.8x while no allies are within 15 meters."
       }
      ]
     }

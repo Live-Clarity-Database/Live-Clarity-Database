@@ -25243,7 +25243,7 @@
     {
      "linesContent": [
       {
-       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decresed to "
+       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decreased to "
       },
       {
        "text": "",
@@ -31550,7 +31550,7 @@
     {
      "linesContent": [
       {
-       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decresed to 0.8x while no allies are within 15 meters."
+       "text": "Stat bonuses are doubled and the ADS Duration Multiplier is decreased to 0.8x while no allies are within 15 meters."
       }
      ]
     }

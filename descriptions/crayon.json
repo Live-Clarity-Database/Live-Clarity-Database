@@ -6389,7 +6389,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 🡅11 Aim Assist, 🡅12 Airborne Effectiveness, and a 🡅0.85x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decresed to 🡅0.75x while no allies are within 15 meters.\n\n🡅 Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05."
+   "en": "Passively grants 🡅11 Aim Assist, 🡅12 Airborne Effectiveness, and a 🡅0.85x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decreased to 🡅0.75x while no allies are within 15 meters.\n\n🡅 Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05."
   }
  },
  "2076329105": {
@@ -7923,11 +7923,11 @@
  "2579169598": {
   "hash": 2579169598,
   "name": "Lone Wolf",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1732802131794,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 10 Aim Assist, 10 Airborne Effectiveness, and a 0.9x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decresed to 0.8x while no allies are within 15 meters."
+   "en": "Passively grants 10 Aim Assist, 10 Airborne Effectiveness, and a 0.9x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decreased to 0.8x while no allies are within 15 meters."
   }
  },
  "2586562813": {
