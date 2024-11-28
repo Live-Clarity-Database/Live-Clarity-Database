@@ -37326,14 +37326,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Passively grants #e${10+#d} Aim Assist, #e${10+#f} Airborne Effectiveness, and a #e${0.9-#g}x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decresed to #e${0.8-#g}x while no allies are within 15 meters.\n\nenhanced (\nvar d = 1\nvar f = 2\nvar g = 0.05\n#e Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05.\n)",
+     "main": "Passively grants #e${10+#d} Aim Assist, #e${10+#f} Airborne Effectiveness, and a #e${0.9-#g}x ADS Duration Multiplier.\n\nStat bonuses are doubled and the ADS Duration Multiplier is decreased to #e${0.8-#g}x while no allies are within 15 meters.\n\nenhanced (\nvar d = 1\nvar f = 2\nvar g = 0.05\n#e Aim Assist bonus is increased by 1 (2 with no nearby allies), Airborne Effectiveness bonus is increased by 2 (4 with no nearby allies), and the ADS Duration Multiplier in both cases is decreased by 0.05.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729291513848,
+      "lastUpdate": 1732802123995,
       "updatedBy": "Stardust"
      }
     },
@@ -37343,7 +37343,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1732802131794,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
