@@ -20513,7 +20513,7 @@
     {
      "linesContent": [
       {
-       "text": "Shockwaves inherit Weapon Damage Buffs, the weapon's passive Kinetic Damage Bonus in PVE (10% on "
+       "text": "Shockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on "
       },
       {
        "classNames": [ "primary" ]
@@ -25415,7 +25415,7 @@
  "1878756191": {
   "hash": 1878756191,
   "name": "Collective Purpose",
-  "lastUpload": 1733341539809,
+  "lastUpload": 1733341931143,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -51563,7 +51563,7 @@
  "3891536761": {
   "hash": 3891536761,
   "name": "Kinetic Tremors",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1733341931143,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -51623,7 +51623,7 @@
     {
      "linesContent": [
       {
-       "text": "Shockwaves inherit Weapon Damage Buffs, the weapon's passive Kinetic Damage Bonus in PVE (10% on "
+       "text": "Shockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on "
       },
       {
        "classNames": [ "primary" ]
