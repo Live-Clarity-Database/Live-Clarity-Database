@@ -25415,7 +25415,7 @@
  "1878756191": {
   "hash": 1878756191,
   "name": "Collective Purpose",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1733341539809,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -25461,7 +25461,7 @@
     {
      "linesContent": [
       {
-       "text": "• 5|10|15|?|? Charge Time Stat (10 Charge Time Stat is the benefit of a Charge Time Masterwork)"
+       "text": "• 5|10|15|?|? Charge Time Stat (For reference, 10 Charge Time Stat is the benefit of a Charge Time Masterwork)"
       }
      ]
     }

@@ -4641,11 +4641,11 @@
  "1878756191": {
   "hash": 1878756191,
   "name": "Collective Purpose",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1733341539809,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants a Stack of 'Collective Purpose' for each ally within 15 meters. Maximum of 5 Stacks.\n\nCollective Purpose grants the following benefits while at 1|2|3|4|5 Stacks:\n• ?|?|?|?|? Range\n• 5?|15|20?|?|? Handling\n• 0.97x|0.95x|0.925x|?|? Draw Time Multiplier\n• 5|10|15|?|? Charge Time Stat (10 Charge Time Stat is the benefit of a Charge Time Masterwork)"
+   "en": "Grants a Stack of 'Collective Purpose' for each ally within 15 meters. Maximum of 5 Stacks.\n\nCollective Purpose grants the following benefits while at 1|2|3|4|5 Stacks:\n• ?|?|?|?|? Range\n• 5?|15|20?|?|? Handling\n• 0.97x|0.95x|0.925x|?|? Draw Time Multiplier\n• 5|10|15|?|? Charge Time Stat (For reference, 10 Charge Time Stat is the benefit of a Charge Time Masterwork)"
   }
  },
  "1882549863": {
