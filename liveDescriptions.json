@@ -27832,7 +27832,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1733341539809,
+   "lastUpload": 1733341931143,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54946,14 +54946,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\n\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds. \n\nEach shockwave deals up to <pve 120 /> <pvp [20] /> damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on <link Minor and Elite [#CombatantClassifications] /> PvE Combatants.\n\nShockwaves inherit Weapon Damage Buffs, the weapon's passive Kinetic Damage Bonus in PVE (10% on <primary/>Primary, 15% on <special/>Special), and its <link Combatant Damage Scaling [#CombatantScaling] />. They also count as non-direct Hits with the weapon for other interactions.\n\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\n\nHits Required for Activation:\n• Submachine Guns: #e${14-#d}\n• Auto Rifles: #e${12-#d}\n• Pulse Rifles: #e${11-#d}\n• Non-burst Sidearms: #e${8-#d}\n• Hand Cannons, Scout Rifles: #e${6-#d}\n• Bows, Sniper Rifles: #e${3-#d}\n\nenhanced (\nvar d = 1\n#e Hit Requirements are decreased by 1.\n)",
+     "main": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\n\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds. \n\nEach shockwave deals up to <pve 120 /> <pvp [20] /> damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on <link Minor and Elite [#CombatantClassifications] /> PvE Combatants.\n\nShockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on <primary/>Primary, 15% on <special/>Special), and its <link Combatant Damage Scaling [#CombatantScaling] />. They also count as non-direct Hits with the weapon for other interactions.\n\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\n\nHits Required for Activation:\n• Submachine Guns: #e${14-#d}\n• Auto Rifles: #e${12-#d}\n• Pulse Rifles: #e${11-#d}\n• Non-burst Sidearms: #e${8-#d}\n• Hand Cannons, Scout Rifles: #e${6-#d}\n• Bows, Sniper Rifles: #e${3-#d}\n\nenhanced (\nvar d = 1\n#e Hit Requirements are decreased by 1.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729156250154,
+      "lastUpdate": 1733341912049,
       "updatedBy": "Stardust"
      }
     },
@@ -54963,7 +54963,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1733341931143,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
