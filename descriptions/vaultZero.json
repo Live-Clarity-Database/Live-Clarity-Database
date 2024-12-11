@@ -9561,7 +9561,7 @@
   "itemName": "Nezarec's Sin",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Void Kills grant Abyssal Extractors for 2.5 seconds.\nMaxes out at 20 seconds.\nWhile Abyssal Extractor is active:\n300% Additional Base Grenade and Melee Regeneration Rate.\n200% Additional Base Class and Super Regeneration Rate."
+   "en": "Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds.\nAbyssal Extractor grants the following benefits:\n• 300% additional Base Grenade and Melee Ability Recharge Rate\n• 200% additional Base Super and Class Ability Recharge Rate"
   }
  },
  "3927963102": {

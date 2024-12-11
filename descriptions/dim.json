@@ -47762,14 +47762,7 @@
     {
      "linesContent": [
       {
-       "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Maxes out at 20 seconds."
+       "text": "Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds."
       }
      ]
     },
@@ -47779,21 +47772,21 @@
     {
      "linesContent": [
       {
-       "text": "While Abyssal Extractor is active:"
+       "text": "Abyssal Extractor grants the following benefits:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "300% Additional Base Grenade and Melee Regeneration Rate."
+       "text": "• 300% additional Base Grenade and Melee Ability Recharge Rate"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "200% Additional Base Class and Super Regeneration Rate."
+       "text": "• 200% additional Base Super and Class Ability Recharge Rate"
       }
      ]
     }
