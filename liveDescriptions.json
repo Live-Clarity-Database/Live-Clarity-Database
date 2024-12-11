@@ -45800,7 +45800,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1733936287041,
+   "lastUpload": 1733936726157,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55587,15 +55587,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Class and Super Regeneration Rate.",
+     "main": "Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds.\n\nAbyssal Extractor grants the following benefits:\n• 300% additional Base Grenade and Melee Ability Recharge Rate\n• 200% additional Base Super and Class Ability Recharge Rate",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1666624964612,
-      "updatedBy": "Icemourne"
+      "lastUpdate": 1733936703861,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -55604,7 +55604,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680050976212,
+   "lastUpload": 1733936726157,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
