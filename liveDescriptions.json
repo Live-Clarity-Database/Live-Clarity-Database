@@ -45783,14 +45783,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Super Kills spawn an Orb of Power for Allies.\n\nSpawned Orbs of Power grant 2.5%|3.75%|4.4% Super Energy with 1|2|3 Mods equipped.\n\n1.5? second cooldown between Orb spawns.",
+     "main": "Super Kills spawn an Orb of Power for allies.\n\nSpawned Orbs of Power grant 2.5%|3.75%|4.4% Super Energy with 1|2|3 Mods equipped.\n\n1.5? second cooldown between Orb spawns.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1690738737701,
+      "lastUpdate": 1733936283593,
       "updatedBy": "Stardust"
      }
     },
@@ -45800,7 +45800,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1690739974066,
+   "lastUpload": 1733936287041,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
