@@ -1358,6 +1358,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "74393640": {
+   "name": "Facet of Defiance",
+   "hash": 74393640,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
   "75282108": {
    "hash": 75282108,
    "name": "Weighted Edge",
@@ -2208,6 +2235,276 @@
    "uploadedBy": "Stardust",
    "lastUpload": 1723480728683,
    "inLiveDatabase": true,
+   "uploadToLive": false
+  },
+  "124726496": {
+   "name": "Facet of Blessing",
+   "hash": 124726496,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726497": {
+   "name": "Facet of Command",
+   "hash": 124726497,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726498": {
+   "name": "Facet of Purpose",
+   "hash": 124726498,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726499": {
+   "name": "Facet of Ruin",
+   "hash": 124726499,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726500": {
+   "name": "Facet of Mending",
+   "hash": 124726500,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726501": {
+   "name": "Facet of Honor",
+   "hash": 124726501,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726502": {
+   "name": "Facet of Sacrifice",
+   "hash": 124726502,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726503": {
+   "name": "Facet of Bravery",
+   "hash": 124726503,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726504": {
+   "name": "Facet of Dominance",
+   "hash": 124726504,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "124726505": {
+   "name": "Facet of Awakening",
+   "hash": 124726505,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
    "uploadToLive": false
   },
   "127335543": {
@@ -3429,14 +3726,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst <link Minibosses [#CombatantClassifications] />, the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting <stasis/>Frozen enemies.",
+     "main": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst <link Minibosses [#CombatantClassifications] />, the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nShoulder Charge abilities: <arc/>Seismic Strike, <solar/>Hammer Strike, and <void/>Shield Bash\n\nProvides no benefits when hitting <stasis/>Frozen enemies.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732309978547,
+      "lastUpdate": 1734026050179,
       "updatedBy": "Stardust"
      }
     },
@@ -3446,7 +3743,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732310012188,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7216,14 +7513,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Intrinsically grants Fastball to all grenades.\n\nEnhances <solar/>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<solar/>Solar Ability Kills grant 33% Tripmine Grenade Energy. <solar/>Solar Ability Hits grant <pve 33% /> <pvp [8%] /> Tripmine Grenade Energy. 0.3 second cooldown between energy gains.",
+     "main": "Intrinsically grants Fastball to all grenades.\n\nEnhances <solar/>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<solar/>Solar Ability Hits grant <pve 33% /> <pvp [8%] /> Tripmine Grenade Energy. 0.3 second cooldown between energy gains.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535768582,
+      "lastUpdate": 1734025445591,
       "updatedBy": "Stardust"
      }
     },
@@ -7233,7 +7530,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8854,19 +9151,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<arc/>Arcbolt Grenades can chain an additional time (3🠚4) and apply <overload/>Disruption.\n\nTriggering <arc/>Jolt damage grants ?% Arcbolt Grenade Ability Energy.\n\n<arc/>Ionic Trace Pickups grant additional Arcbolt Grenade Ability Energy.",
+     "main": "<arc/>Arcbolt Grenades can chain an additional time (3🠚4) and apply <overload/>Disruption.\n\nTriggering <arc/>Jolt damage grants 20% Arcbolt Grenade Energy.\n\n<arc/>Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717534000099,
+      "lastUpdate": 1734024831557,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665698639393,
-      "updatedBy": "tritonesub251"
      }
     },
     "stats": {
@@ -8875,7 +9168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27620,14 +27913,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• <link Minor [#CombatantClassifications] /> PVE Combatant Kills: 7.5%\n• <link Elite or higher tier [#CombatantClassifications] /> PVE Combatant Kills: 15%\n• Collecting <yellow Alethonym />'s Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting maximum <stasis/>Frost Armor Stacks.\n\nEach Projectile deals <pve 660 /> <pvp [?] /> damage and spawns a <stasis/>Stasis Crystal on impact.",
+     "main": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• <link Minor [#CombatantClassifications] /> PVE Combatant Kills: 7.5%\n• <link Elite or higher tier [#CombatantClassifications] /> PVE Combatant Kills: 15%\n• Collecting <yellow Alethonym />'s Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 <stasis/>Stasis Projectiles and granting 5 <stasis/>Frost Armor Stacks.\n\nEach Projectile deals <pve 660 /> <pvp [?] /> damage and spawns a <stasis/>Stasis Crystal on impact.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731790978952,
+      "lastUpdate": 1734025823058,
       "updatedBy": "Stardust"
      }
     },
@@ -27637,7 +27930,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -28902,14 +29195,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\n<pve/> [PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n<pvp/> [PvP] Don't want to talk about it... yet.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
+     "main": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/> [PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n<pvp/> [PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729012603589,
+      "lastUpdate": 1734024004479,
       "updatedBy": "Stardust"
      }
     },
@@ -28919,7 +29212,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37813,6 +38106,276 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "2626922114": {
+   "name": "Facet of Balance",
+   "hash": 2626922114,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922115": {
+   "name": "Facet of Justice",
+   "hash": 2626922115,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922120": {
+   "name": "Facet of Protection",
+   "hash": 2626922120,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922121": {
+   "name": "Facet of Grace",
+   "hash": 2626922121,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922122": {
+   "name": "Facet of Hope",
+   "hash": 2626922122,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922123": {
+   "name": "Facet of Solitude",
+   "hash": 2626922123,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922124": {
+   "name": "Facet of Courage",
+   "hash": 2626922124,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922125": {
+   "name": "Facet of Devotion",
+   "hash": 2626922125,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922126": {
+   "name": "Facet of Dawn",
+   "hash": 2626922126,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
+  "2626922127": {
+   "name": "Facet of Generosity",
+   "hash": 2626922127,
+   "type": "Subclass Fragment",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    },
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   },
+   "uploadedBy": "Stardust",
+   "lastUpload": 1734026812437,
+   "inLiveDatabase": false,
+   "uploadToLive": false
+  },
   "2628485816": {
    "hash": 2628485816,
    "name": "Strafe Glide",
@@ -40817,14 +41380,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Spawns 2 Threadlings upon destroying a Tangle.\n\nThreadlings apply Unravel for <pve [?] /> <pvp [5] /> seconds on hit. This is increased to <pve [?] /> <pvp [7.5] /> seconds with Thread of Continuity equipped.",
+     "main": "Spawns 2 <strand/>Threadlings upon destroying a Tangle.\n\nThreadlings apply <strand/>Unravel for <pve ? /> <pvp [5] /> seconds on hit (<pve ? /> <pvp [7.5] /> seconds with <strand/>Thread of Continuity).",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1678661232987,
+      "lastUpdate": 1734024738891,
       "updatedBy": "Stardust"
      }
     },
@@ -40834,7 +41397,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1678668030826,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44251,14 +44814,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\n<pve/>[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n<pvp/>[PvP] Don't want to talk about it... yet.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
+     "main": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729012646362,
+      "lastUpdate": 1734024032680,
       "updatedBy": "Stardust"
      }
     },
@@ -44268,7 +44831,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48480,14 +49043,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nDetonation time after hitting a target or surface varies on draw and distance.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Don't want to talk about it... yet.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
+     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729012690231,
+      "lastUpdate": 1734024015265,
       "updatedBy": "Stardust"
      }
     },
@@ -48497,7 +49060,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54399,14 +54962,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow: Thorn, Osteo Striga, Touch of Malice, and Necrochasm.\n\nMelee Hits apply Necrotic Poison (Poison for short). Poisoned enemies spread Poison on death in a 5 meter radius.\n\nKills with the following also spread Poison:\n• Thorn's Bullets\n• Osteo Striga's Poison Effect\n• Touch of Malice's Blight's Poison Effect\n• Necrochasm's Poison and Cursed Thrall Explosions\n\nPoison ticks every <pve 0.517 /> <pvp [0.7] /> seconds for a total of <pve 19 /> <pvp [?] /> ticks over <pve 9.3 /> <pvp [?] /> seconds. Deals a total of <pve 1361 /> <pvp [?] /> damage over the entire duration.\n\nPoison's first tick deals <pve 32.35 /> <pvp [5?] /> damage.\n\nIn PvE, the damage of Poison ramps up every tick with the damage increases compounding together:\n• 2nd-14th ticks each deal 3.5585 more damage compared to the one before\n• 15th tick deals 9.705 more damage than the 14th\n• 16th-19th ticks each deal 14.234 more damage than the one before",
+     "main": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow: Thorn, Osteo Striga, Touch of Malice, and Necrochasm.\n\nMelee Hits apply Necrotic Poison. Poison deals Kinetic damage. Poisoned enemies spread Poison on death in a 5 meter radius.\n\nKills with the following also spread Poison:\n• Thorn's Bullets\n• Osteo Striga's Poison Effect\n• Touch of Malice's Blight's Poison Effect\n• Necrochasm's Poison and Cursed Thrall Explosions\n\nPoison ticks every <pve 0.517 /> <pvp [0.7] /> seconds for a total of <pve 19 /> <pvp [?] /> ticks over <pve 9.3 /> <pvp [?] /> seconds. Deals a total of <pve 1361 /> <pvp [?] /> damage over the entire duration.\n\nPoison's first tick deals <pve 32.35 /> <pvp [5?] /> damage.\n\nIn PvE, the damage of Poison ramps up every tick with the damage increases compounding together:\n• 2nd-14th ticks each deal 3.5585 more damage compared to the one before\n• 15th tick deals 9.705 more damage than the 14th\n• 16th-19th ticks each deal 14.234 more damage than the one before",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1696591736873,
+      "lastUpdate": 1734024409871,
       "updatedBy": "Stardust"
      }
     },
@@ -54416,7 +54979,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1696591740397,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59242,14 +59805,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<void/>Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\n\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\n\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve 20% /> <pvp [10%] /> Super Energy after receiving <pve ? /> <pvp [90] /> damage.",
+     "main": "Increases movement speed by 15% while guarding with <void/>Unbreakable or <void/>Sentinel Shield.\n\nBlocking damage with <void/>Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active <void/>Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve 20% /> <pvp [10%] /> Super Energy after receiving <pve ? /> <pvp [90] /> damage.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731165178026,
+      "lastUpdate": 1734026561919,
       "updatedBy": "Stardust"
      }
     },
@@ -59259,7 +59822,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60525,14 +61088,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Upon casting <arc/>Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing <pve 650 /> <pvp [?] /> damage and <arc/>Jolting them\n• You and allies within ? meters become <arc/>Amplified\n\nLightning strikes (inconsistently) refund up to 50% Super Energy on <arc/>Arc-Debuffed enemy Hits or Kills based on <link Enemy Rank [#CombatantClassifications] />:\n//• Enemy Players: %\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 30?% | ?%\n\n<arc/>Arc-Debuffed enemy Kills (inconsistently) grant additional <arc/>Gathering Storm Super Energy:\n• Minors: 0.3%\n• Elites: 1.7%\n• Players: 3.1%\n• Minibosses and higher: 4.5%\n\nInconsistencies are only(?) observed with <arc/>Jolted enemies. Possibly due to killing enemies too fast after triggering <arc/>Jolt's damage.",
+     "main": "Upon casting <arc/>Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing <pve 650 /> <pvp [?] /> damage and <arc/>Jolting them\n• You and allies within ? meters become <arc/>Amplified\n\nLightning strikes (inconsistently) refund up to 50% Super Energy on <arc/>Arc-Debuffed enemy Hits or Kills based on <link Enemy Rank [#CombatantClassifications] />:\n//• Enemy Players: %\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 25?% | ?%\n\n<arc/>Arc-Debuffed enemy Kills (inconsistently) grant additional <arc/>Gathering Storm Super Energy:\n• Minors: 1%\n• Elites: 2.5%\n• Players, Minibosses and higher: 4%\n\nInconsistencies are only(?) observed with <arc/>Jolted enemies. Possibly due to killing enemies too fast after triggering <arc/>Jolt's damage.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731783786055,
+      "lastUpdate": 1734025241503,
       "updatedBy": "Stardust"
      }
     },
@@ -60542,7 +61105,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1734026812437,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
