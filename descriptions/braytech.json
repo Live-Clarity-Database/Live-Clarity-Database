@@ -208,7 +208,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\n[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n[PvP] Don't want to talk about it... yet.\n\n🡅 Passively grants 5 Reload Speed."
+   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Reload Speed."
   }
  },
  "79448657": {
@@ -504,11 +504,11 @@
   "name": "Peregrine Strike",
   "itemHash": 2255796155,
   "itemName": "Peregrine Greaves",
-  "lastUpload": 1732310012188,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst [Minibosses](https://url.d2clarity.com/combatants), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nProvides no benefits when hitting Frozen enemies."
+   "en": "Passively grants 20 Airborne Effectiveness.\n\nGrants Peregrine Strike after sprinting for 2 seconds and being airborne for 0.5 seconds. Buff is removed upon touching the ground.\n\nPeregrine Strike increases the impact damage of Shoulder Charge Melee Abilities by 225%.\n\nAgainst [Minibosses](https://url.d2clarity.com/combatants), the buff is increased to 1000% and refunds your Melee Ability charge on hit.\n\nShoulder Charge abilities: Seismic Strike, Hammer Strike, and Shield Bash\n\nProvides no benefits when hitting Frozen enemies."
   }
  },
  "236605015": {
@@ -1078,11 +1078,11 @@
   "name": "Wish-Dragon Teeth",
   "itemHash": 475652357,
   "itemName": "Young Ahamkara's Spine",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Intrinsically grants Fastball to all grenades.\n\nEnhances Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\nSolar Ability Kills grant 33% Tripmine Grenade Energy. Solar Ability Hits grant 33% [8%] Tripmine Grenade Energy. 0.3 second cooldown between energy gains."
+   "en": "Intrinsically grants Fastball to all grenades.\n\nEnhances Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\nSolar Ability Hits grant 33% [8%] Tripmine Grenade Energy. 0.3 second cooldown between energy gains."
   }
  },
  "481860151": {
@@ -1471,11 +1471,11 @@
   "name": "Probability Matrix",
   "itemHash": 903984858,
   "itemName": "Lucky Raspberry",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Arcbolt Grenades can chain an additional time (3🠚4) and apply Disruption.\n\nTriggering Jolt damage grants ?% Arcbolt Grenade Ability Energy.\n\nIonic Trace Pickups grant additional Arcbolt Grenade Ability Energy."
+   "en": "Arcbolt Grenades can chain an additional time (3🠚4) and apply Disruption.\n\nTriggering Jolt damage grants 20% Arcbolt Grenade Energy.\n\nIonic Trace Pickups grant 5% additional Arcbolt Grenade Energy."
   }
  },
  "595108252": {
@@ -3745,7 +3745,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nDetonation time after hitting a target or surface varies on draw and distance.\n\n[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n[PvP] Don't want to talk about it... yet.\n\n🡅 Passively grants 5 Accuracy."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Accuracy."
   }
  },
  "1553790504": {
@@ -3807,7 +3807,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\n[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n[PvP] Don't want to talk about it... yet.\n\n🡅 Passively grants 5 Stability."
+   "en": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Stability."
   }
  },
  "1563455254": {
@@ -4599,11 +4599,11 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 Stasis Projectiles and granting maximum Frost Armor Stacks.\n\nEach Projectile deals 660 [?] damage and spawns a Stasis Crystal on impact."
+   "en": "Passively grants ?% Damage Resistance against explosive self-damage.\n\nThe following actions charge up Blastwave Striders:\n• [Minor](https://url.d2clarity.com/combatants) PVE Combatant Kills: 7.5%\n• [Elite or higher tier](https://url.d2clarity.com/combatants) PVE Combatant Kills: 15%\n• Collecting Alethonym's Vestiges: 10%\n\nWhile at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 Stasis Projectiles and granting 5 Frost Armor Stacks.\n\nEach Projectile deals 660 [?] damage and spawns a Stasis Crystal on impact."
   }
  },
  "1866048759": {
@@ -4795,11 +4795,11 @@
  "1954620775": {
   "hash": 1954620775,
   "name": "Timed Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\n[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n[PvP] Don't want to talk about it... yet."
+   "en": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "1955165503": {
@@ -6909,11 +6909,11 @@
   "name": "Swarmers",
   "itemHash": 2463947681,
   "itemName": "Swarmers",
-  "lastUpload": 1678668030826,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Spawns 2 Threadlings upon destroying a Tangle.\n\nThreadlings apply Unravel for [?] [5] seconds on hit. This is increased to [?] [7.5] seconds with Thread of Continuity equipped."
+   "en": "Spawns 2 Threadlings upon destroying a Tangle.\n\nThreadlings apply Unravel for ? [5] seconds on hit (? [7.5] seconds with Thread of Continuity)."
   }
  },
  "2801811288": {
@@ -7519,11 +7519,11 @@
  "3038247973": {
   "hash": 3038247973,
   "name": "Explosive Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\n[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n[PvP] Don't want to talk about it... yet."
+   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "3042219245": {
@@ -8319,11 +8319,11 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nDetonation time after hitting a target or surface varies on draw and distance.\n\n[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n[PvP] Don't want to talk about it... yet."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "3373736292": {
@@ -9351,11 +9351,11 @@
   "name": "Grasp of the Devourer",
   "itemHash": 2780717641,
   "itemName": "Necrotic Grip",
-  "lastUpload": 1696591740397,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow: Thorn, Osteo Striga, Touch of Malice, and Necrochasm.\n\nMelee Hits apply Necrotic Poison (Poison for short). Poisoned enemies spread Poison on death in a 5 meter radius.\n\nKills with the following also spread Poison:\n• Thorn's Bullets\n• Osteo Striga's Poison Effect\n• Touch of Malice's Blight's Poison Effect\n• Necrochasm's Poison and Cursed Thrall Explosions\n\nPoison ticks every 0.517 [0.7] seconds for a total of 19 [?] ticks over 9.3 [?] seconds. Deals a total of 1361 [?] damage over the entire duration.\n\nPoison's first tick deals 32.35 [5?] damage.\n\nIn PvE, the damage of Poison ramps up every tick with the damage increases compounding together:\n• 2nd-14th ticks each deal 3.5585 more damage compared to the one before\n• 15th tick deals 9.705 more damage than the 14th\n• 16th-19th ticks each deal 14.234 more damage than the one before"
+   "en": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow: Thorn, Osteo Striga, Touch of Malice, and Necrochasm.\n\nMelee Hits apply Necrotic Poison. Poison deals Kinetic damage. Poisoned enemies spread Poison on death in a 5 meter radius.\n\nKills with the following also spread Poison:\n• Thorn's Bullets\n• Osteo Striga's Poison Effect\n• Touch of Malice's Blight's Poison Effect\n• Necrochasm's Poison and Cursed Thrall Explosions\n\nPoison ticks every 0.517 [0.7] seconds for a total of 19 [?] ticks over 9.3 [?] seconds. Deals a total of 1361 [?] damage over the entire duration.\n\nPoison's first tick deals 32.35 [5?] damage.\n\nIn PvE, the damage of Poison ramps up every tick with the damage increases compounding together:\n• 2nd-14th ticks each deal 3.5585 more damage compared to the one before\n• 15th tick deals 9.705 more damage than the 14th\n• 16th-19th ticks each deal 14.234 more damage than the one before"
   }
  },
  "3828510309": {
@@ -10207,11 +10207,11 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%).\n\nConverts incoming damage into Super Energy after Super ends, up to 50% Super Energy.\n\nBlocking Damage with an active Overshield does not count towards the Super Energy Refund.\n\nUnbreakable grants up to 20% [10%] Super Energy after receiving ? [90] damage."
+   "en": "Increases movement speed by 15% while guarding with Unbreakable or Sentinel Shield.\n\nBlocking damage with Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active Overshield does not count towards the Super Energy Refund.\n\nUnbreakable grants up to 20% [10%] Super Energy after receiving ? [90] damage."
   }
  },
  "4200236906": {
@@ -10405,11 +10405,11 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Upon casting Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing 650 [?] damage and Jolting them\n• You and allies within ? meters become Amplified\n\nLightning strikes (inconsistently) refund up to 50% Super Energy on Arc-Debuffed enemy Hits or Kills based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 30?% | ?%\n\nArc-Debuffed enemy Kills (inconsistently) grant additional Gathering Storm Super Energy:\n• Minors: 0.3%\n• Elites: 1.7%\n• Players: 3.1%\n• Minibosses and higher: 4.5%\n\nInconsistencies are only(?) observed with Jolted enemies. Possibly due to killing enemies too fast after triggering Jolt's damage."
+   "en": "Upon casting Gathering Storm:\n• Releases lightning at enemies within ? meters of you, dealing 650 [?] damage and Jolting them\n• You and allies within ? meters become Amplified\n\nLightning strikes (inconsistently) refund up to 50% Super Energy on Arc-Debuffed enemy Hits or Kills based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: ?% on Hits | ? on Kills\n• T2 Minors, T1 Elites: ?% | ?%\n• T3 Minors, T2 Elites: ?% | ?%\n• T4 Minors, T3 Elites, and higher: 25?% | ?%\n\nArc-Debuffed enemy Kills (inconsistently) grant additional Gathering Storm Super Energy:\n• Minors: 1%\n• Elites: 2.5%\n• Players, Minibosses and higher: 4%\n\nInconsistencies are only(?) observed with Jolted enemies. Possibly due to killing enemies too fast after triggering Jolt's damage."
   }
  },
  "4252909580": {

@@ -1334,6 +1334,16 @@
      "classNames": [ "spacer" ]
     },
     {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
      "classNames": [ "pve" ],
      "linesContent": [
       {
@@ -1348,7 +1358,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -2930,7 +2940,7 @@
   "name": "Peregrine Strike",
   "itemHash": 2255796155,
   "itemName": "Peregrine Greaves",
-  "lastUpload": 1732310012188,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2977,6 +2987,34 @@
       },
       {
        "text": ", the buff is increased to 1000% and refunds your Melee Ability charge on hit."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Shoulder Charge abilities: "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Seismic Strike, "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Hammer Strike, and "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Shield Bash"
       }
      ]
     },
@@ -6298,7 +6336,7 @@
   "name": "Wish-Dragon Teeth",
   "itemHash": 475652357,
   "itemName": "Young Ahamkara's Spine",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6373,12 +6411,6 @@
     },
     {
      "linesContent": [
-      {
-       "classNames": [ "solar" ]
-      },
-      {
-       "text": "Solar Ability Kills grant 33% Tripmine Grenade Energy. "
-      },
       {
        "classNames": [ "solar" ]
       },
@@ -8460,7 +8492,7 @@
   "name": "Probability Matrix",
   "itemHash": 903984858,
   "itemName": "Lucky Raspberry",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8493,7 +8525,7 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Jolt damage grants ?% Arcbolt Grenade Ability Energy."
+       "text": "Jolt damage grants 20% Arcbolt Grenade Energy."
       }
      ]
     },
@@ -8506,7 +8538,7 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Ionic Trace Pickups grant additional Arcbolt Grenade Ability Energy."
+       "text": "Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy."
       }
      ]
     }
@@ -20679,7 +20711,17 @@
     {
      "linesContent": [
       {
-       "text": "Detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
       }
      ]
     },
@@ -20701,7 +20743,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -20983,6 +21025,16 @@
      "classNames": [ "spacer" ]
     },
     {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
      "classNames": [ "pve" ],
      "linesContent": [
       {
@@ -20997,7 +21049,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -25018,7 +25070,7 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -25096,7 +25148,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Projectiles and granting maximum "
+       "text": "Stasis Projectiles and granting 5 "
       },
       {
        "classNames": [ "stasis" ]
@@ -26273,7 +26325,7 @@
  "1954620775": {
   "hash": 1954620775,
   "name": "Timed Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -26299,6 +26351,16 @@
      "classNames": [ "spacer" ]
     },
     {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
      "classNames": [ "pve" ],
      "linesContent": [
       {
@@ -26313,7 +26375,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -37766,7 +37828,7 @@
   "name": "Swarmers",
   "itemHash": 2463947681,
   "itemName": "Swarmers",
-  "lastUpload": 1678668030826,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -37774,7 +37836,13 @@
     {
      "linesContent": [
       {
-       "text": "Spawns 2 Threadlings upon destroying a Tangle."
+       "text": "Spawns 2 "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Threadlings upon destroying a Tangle."
       }
      ]
     },
@@ -37784,10 +37852,16 @@
     {
      "linesContent": [
       {
-       "text": "Threadlings apply Unravel for "
+       "text": "Threadlings apply "
       },
       {
-       "text": "[?]",
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Unravel for "
+      },
+      {
+       "text": "?",
        "classNames": [ "pve" ]
       },
       {
@@ -37798,10 +37872,10 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " seconds on hit. This is increased to "
+       "text": " seconds on hit ("
       },
       {
-       "text": "[?]",
+       "text": "?",
        "classNames": [ "pve" ]
       },
       {
@@ -37812,7 +37886,13 @@
        "classNames": [ "pvp" ]
       },
       {
-       "text": " seconds with Thread of Continuity equipped."
+       "text": " seconds with "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Thread of Continuity)."
       }
      ]
     }
@@ -41278,7 +41358,7 @@
  "3038247973": {
   "hash": 3038247973,
   "name": "Explosive Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -41287,6 +41367,16 @@
      "linesContent": [
       {
        "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
       }
      ]
     },
@@ -41308,7 +41398,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -45094,7 +45184,7 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -45112,7 +45202,17 @@
     {
      "linesContent": [
       {
-       "text": "Detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
       }
      ]
     },
@@ -45134,7 +45234,7 @@
      "classNames": [ "pvp" ],
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -50947,7 +51047,7 @@
   "name": "Grasp of the Devourer",
   "itemHash": 2780717641,
   "itemName": "Necrotic Grip",
-  "lastUpload": 1696591740397,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -50965,7 +51065,7 @@
     {
      "linesContent": [
       {
-       "text": "Melee Hits apply Necrotic Poison (Poison for short). Poisoned enemies spread Poison on death in a 5 meter radius."
+       "text": "Melee Hits apply Necrotic Poison. Poison deals Kinetic damage. Poisoned enemies spread Poison on death in a 5 meter radius."
       }
      ]
     },
@@ -55376,7 +55476,7 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -55384,10 +55484,19 @@
     {
      "linesContent": [
       {
+       "text": "Increases movement speed by 15% while guarding with "
+      },
+      {
        "classNames": [ "void" ]
       },
       {
-       "text": "Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%)."
+       "text": "Unbreakable or "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Sentinel Shield."
       }
      ]
     },
@@ -55397,7 +55506,13 @@
     {
      "linesContent": [
       {
-       "text": "Converts incoming damage into Super Energy after Super ends, up to 50% Super Energy."
+       "text": "Blocking damage with "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund."
       }
      ]
     },
@@ -55407,7 +55522,13 @@
     {
      "linesContent": [
       {
-       "text": "Blocking Damage with an active Overshield does not count towards the Super Energy Refund."
+       "text": "Damage Blocked with an active "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Overshield does not count towards the Super Energy Refund."
       }
      ]
     },
@@ -56549,7 +56670,7 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -56655,7 +56776,7 @@
     {
      "linesContent": [
       {
-       "text": "• T4 Minors, T3 Elites, and higher: 30?% | ?%"
+       "text": "• T4 Minors, T3 Elites, and higher: 25?% | ?%"
       }
      ]
     },
@@ -56681,28 +56802,21 @@
     {
      "linesContent": [
       {
-       "text": "• Minors: 0.3%"
+       "text": "• Minors: 1%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Elites: 1.7%"
+       "text": "• Elites: 2.5%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Players: 3.1%"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Minibosses and higher: 4.5%"
+       "text": "• Players, Minibosses and higher: 4%"
       }
      ]
     },

@@ -1375,6 +1375,16 @@
     {
      "linesContent": [
       {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier."
       }
      ]
@@ -1385,7 +1395,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -3017,11 +3027,11 @@
   "name": "Peregrine Strike",
   "itemHash": 2255796155,
   "itemName": "Peregrine Greaves",
-  "lastUpload": 1732310012188,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732309978547,
+     "lastUpdate": 1734026050179,
      "updatedBy": "Stardust"
     }
    }
@@ -3069,6 +3079,25 @@
       },
       {
        "text": ", the buff is increased to 1000% and refunds your Melee Ability charge on hit."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Shoulder Charge abilities: "
+      },
+      {
+       "text": "Seismic Strike, "
+      },
+      {
+       "text": "Hammer Strike, and "
+      },
+      {
+       "text": "Shield Bash"
       }
      ]
     },
@@ -6450,11 +6479,11 @@
   "name": "Wish-Dragon Teeth",
   "itemHash": 475652357,
   "itemName": "Young Ahamkara's Spine",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729535768582,
+     "lastUpdate": 1734025445591,
      "updatedBy": "Stardust"
     }
    }
@@ -6528,9 +6557,6 @@
     },
     {
      "linesContent": [
-      {
-       "text": "Solar Ability Kills grant 33% Tripmine Grenade Energy. "
-      },
       {
        "text": "Solar Ability Hits grant "
       },
@@ -8686,16 +8712,12 @@
   "name": "Probability Matrix",
   "itemHash": 903984858,
   "itemName": "Lucky Raspberry",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1717534000099,
+     "lastUpdate": 1734024831557,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665698639393,
-     "updatedBy": "tritonesub251"
     }
    }
   },
@@ -8720,7 +8742,7 @@
        "text": "Triggering "
       },
       {
-       "text": "Jolt damage grants ?% Arcbolt Grenade Ability Energy."
+       "text": "Jolt damage grants 20% Arcbolt Grenade Energy."
       }
      ]
     },
@@ -8730,7 +8752,7 @@
     {
      "linesContent": [
       {
-       "text": "Ionic Trace Pickups grant additional Arcbolt Grenade Ability Energy."
+       "text": "Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy."
       }
      ]
     }
@@ -21428,7 +21450,17 @@
     {
      "linesContent": [
       {
-       "text": "Detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
       }
      ]
     },
@@ -21448,7 +21480,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -21747,6 +21779,16 @@
     {
      "linesContent": [
       {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons."
       }
      ]
@@ -21757,7 +21799,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     },
@@ -25921,11 +25963,11 @@
   "name": "Blastwave Striders",
   "itemHash": 1188437342,
   "itemName": "Blastwave Striders",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731790978952,
+     "lastUpdate": 1734025823058,
      "updatedBy": "Stardust"
     }
    }
@@ -25999,7 +26041,7 @@
        "text": "While at 100% charge, sliding or receiving explosive self-damage propels you backwards in an explosive jump, releasing 8 "
       },
       {
-       "text": "Stasis Projectiles and granting maximum "
+       "text": "Stasis Projectiles and granting 5 "
       },
       {
        "text": "Frost Armor Stacks."
@@ -27206,11 +27248,11 @@
  "1954620775": {
   "hash": 1954620775,
   "name": "Timed Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729012603589,
+     "lastUpdate": 1734024004479,
      "updatedBy": "Stardust"
     }
    }
@@ -27240,6 +27282,16 @@
     {
      "linesContent": [
       {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons."
       }
      ]
@@ -27250,7 +27302,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -39079,11 +39131,11 @@
   "name": "Swarmers",
   "itemHash": 2463947681,
   "itemName": "Swarmers",
-  "lastUpload": 1678668030826,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1678661232987,
+     "lastUpdate": 1734024738891,
      "updatedBy": "Stardust"
     }
    }
@@ -39093,7 +39145,10 @@
     {
      "linesContent": [
       {
-       "text": "Spawns 2 Threadlings upon destroying a Tangle."
+       "text": "Spawns 2 "
+      },
+      {
+       "text": "Threadlings upon destroying a Tangle."
       }
      ]
     },
@@ -39103,10 +39158,13 @@
     {
      "linesContent": [
       {
-       "text": "Threadlings apply Unravel for "
+       "text": "Threadlings apply "
       },
       {
-       "text": "[?]"
+       "text": "Unravel for "
+      },
+      {
+       "text": "?"
       },
       {
        "text": " "
@@ -39115,10 +39173,10 @@
        "text": "[PVP: 5]"
       },
       {
-       "text": " seconds on hit. This is increased to "
+       "text": " seconds on hit ("
       },
       {
-       "text": "[?]"
+       "text": "?"
       },
       {
        "text": " "
@@ -39127,7 +39185,10 @@
        "text": "[PVP: 7.5]"
       },
       {
-       "text": " seconds with Thread of Continuity equipped."
+       "text": " seconds with "
+      },
+      {
+       "text": "Thread of Continuity)."
       }
      ]
     }
@@ -42680,11 +42741,11 @@
  "3038247973": {
   "hash": 3038247973,
   "name": "Explosive Payload",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729012646362,
+     "lastUpdate": 1734024032680,
      "updatedBy": "Stardust"
     }
    }
@@ -42704,6 +42765,16 @@
     {
      "linesContent": [
       {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier."
       }
      ]
@@ -42714,7 +42785,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -46700,11 +46771,11 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729012690231,
+     "lastUpdate": 1734024015265,
      "updatedBy": "Stardust"
     }
    }
@@ -46724,7 +46795,17 @@
     {
      "linesContent": [
       {
-       "text": "Detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits."
       }
      ]
     },
@@ -46744,7 +46825,7 @@
     {
      "linesContent": [
       {
-       "text": "[PvP] Don't want to talk about it... yet."
+       "text": "[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
       }
      ]
     }
@@ -52673,11 +52754,11 @@
   "name": "Grasp of the Devourer",
   "itemHash": 2780717641,
   "itemName": "Necrotic Grip",
-  "lastUpload": 1696591740397,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1696591736873,
+     "lastUpdate": 1734024409871,
      "updatedBy": "Stardust"
     }
    }
@@ -52697,7 +52778,7 @@
     {
      "linesContent": [
       {
-       "text": "Melee Hits apply Necrotic Poison (Poison for short). Poisoned enemies spread Poison on death in a 5 meter radius."
+       "text": "Melee Hits apply Necrotic Poison. Poison deals Kinetic damage. Poisoned enemies spread Poison on death in a 5 meter radius."
       }
      ]
     },
@@ -57296,11 +57377,11 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731165178026,
+     "lastUpdate": 1734026561919,
      "updatedBy": "Stardust"
     }
    }
@@ -57310,7 +57391,13 @@
     {
      "linesContent": [
       {
-       "text": "Sentinel Shield's Forward Movement Speed Penalty while Blocking is reduced by 50% (20%⁠🠚⁠10%)."
+       "text": "Increases movement speed by 15% while guarding with "
+      },
+      {
+       "text": "Unbreakable or "
+      },
+      {
+       "text": "Sentinel Shield."
       }
      ]
     },
@@ -57320,7 +57407,10 @@
     {
      "linesContent": [
       {
-       "text": "Converts incoming damage into Super Energy after Super ends, up to 50% Super Energy."
+       "text": "Blocking damage with "
+      },
+      {
+       "text": "Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund."
       }
      ]
     },
@@ -57330,7 +57420,10 @@
     {
      "linesContent": [
       {
-       "text": "Blocking Damage with an active Overshield does not count towards the Super Energy Refund."
+       "text": "Damage Blocked with an active "
+      },
+      {
+       "text": "Overshield does not count towards the Super Energy Refund."
       }
      ]
     },
@@ -58442,11 +58535,11 @@
   "name": "Mobius Conduit",
   "itemHash": 2268523867,
   "itemName": "Raiju's Harness",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1734026812437,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731783786055,
+     "lastUpdate": 1734025241503,
      "updatedBy": "Stardust"
     }
    }
@@ -58539,7 +58632,7 @@
     {
      "linesContent": [
       {
-       "text": "• T4 Minors, T3 Elites, and higher: 30?% | ?%"
+       "text": "• T4 Minors, T3 Elites, and higher: 25?% | ?%"
       }
      ]
     },
@@ -58559,28 +58652,21 @@
     {
      "linesContent": [
       {
-       "text": "• Minors: 0.3%"
+       "text": "• Minors: 1%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Elites: 1.7%"
+       "text": "• Elites: 2.5%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Players: 3.1%"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Minibosses and higher: 4.5%"
+       "text": "• Players, Minibosses and higher: 4%"
       }
      ]
     },
