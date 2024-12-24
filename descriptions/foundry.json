@@ -8033,7 +8033,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1735061916617,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -13130,7 +13130,7 @@
     {
      "linesContent": [
       {
-       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
       }
      ]
     },
@@ -24669,13 +24669,13 @@
  "1600092898": {
   "hash": 1600092898,
   "name": "Backup Plan",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1735061916617,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729876355035,
+     "lastUpdate": 1735061907872,
      "updatedBy": "Stardust"
     }
    }
@@ -24726,7 +24726,7 @@
     {
      "linesContent": [
       {
-       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
       }
      ]
     }

@@ -11008,7 +11008,7 @@
     {
      "linesContent": [
       {
-       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
       }
      ]
     },
@@ -20601,7 +20601,7 @@
     {
      "linesContent": [
       {
-       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration."
+       "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
       }
      ]
     }

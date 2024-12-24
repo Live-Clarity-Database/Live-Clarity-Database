@@ -1975,7 +1975,7 @@
   "name": "Backup Plan",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants the following for [enh]2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration.\n[enh] Buff duration is increased by 0.5 seconds."
+   "en": "Grants the following for [enh]2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates).\n[enh] Buff duration is increased by 0.5 seconds."
   }
  },
  "830282363": {
@@ -4041,7 +4041,7 @@
   "name": "Backup Plan",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration."
+   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
   }
  },
  "1604394872": {

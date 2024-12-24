@@ -1212,7 +1212,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1735061916617,
   "stats": {
    "Guard Charge Rate": [
     {
@@ -1985,7 +1985,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants the following for 🡅2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration.\n\n🡅 Buff duration is increased by 0.5 seconds."
+   "en": "Grants the following for 🡅2.5 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates).\n\n🡅 Buff duration is increased by 0.5 seconds."
   }
  },
  "830282363": {
@@ -3883,11 +3883,11 @@
  "1600092898": {
   "hash": 1600092898,
   "name": "Backup Plan",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1735061916617,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration."
+   "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\n\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\n\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
   }
  },
  "1604394872": {
