@@ -59,14 +59,14 @@
    "type": "none",
    "editor": {
     "en": {
-     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.",
+     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.\n\nvar ChunkEnergyScalars = Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar ChunkEnergyUnaffected = Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar MeleeAbilityDisambiguation = Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future.\n\n#MeleeAbilityDisambiguation",
      "secondary": ""
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731154236855,
+      "lastUpdate": 1734526925093,
       "updatedBy": "Stardust"
      }
     },
@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -3755,14 +3755,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Powered Melee Kills (requires consumption of an ability charge) and Finishers grant <void/>Invisibility and restore Health. \n\nInvisibility Duration and restored Health are based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 6.8 seconds | 100 HP restored\n• Elites, Enemy Players: 9.8 seconds | ? HP restored\n• Minibosses: 12.8 seconds | 200 HP restored\n• Bosses: 13.3 seconds | 200 HP restored\n\nThe duration of <void/>Invisibility granted by Finishers is 3 seconds longer. <void/>Echo of Persistence increases <void/>Invisibility duration by 41.5%.",
+     "main": "Powered Melee Kills and Finishers grant <void/>Invisibility and restore Health. \n\nInvisibility Duration and restored Health are based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 6.8 seconds | 100 HP restored\n• Elites, Enemy Players: 9.8 seconds | ? HP restored\n• Minibosses: 12.8 seconds | 200 HP restored\n• Bosses: 13.3 seconds | 200 HP restored\n\nThe duration of <void/>Invisibility granted by Finishers is 3 seconds longer. <void/>Echo of Persistence increases <void/>Invisibility duration by 41.5%.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723390269019,
+      "lastUpdate": 1734538882084,
       "updatedBy": "Stardust"
      }
     },
@@ -3772,7 +3772,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5217,14 +5217,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Powered Melee Hits make you and allies within 8 meters <solar/>Radiant for 8 seconds (12 with <solar/>Ember of Solace).",
+     "main": "Elemental Melee Hits make you and allies within 8 meters <solar/>Radiant for 8 seconds (12 with <solar/>Ember of Solace).\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1714217400765,
+      "lastUpdate": 1734540197649,
       "updatedBy": "Stardust"
      }
     },
@@ -5234,7 +5234,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1714219892088,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5460,14 +5460,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "<solar/>Ignition Kills grant Grenade Energy based on the <link Enemy Rank [#CombatantClassifications] /> of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%",
+     "main": "<solar/>Ignition Kills grant Grenade Energy based on the <link Enemy Rank [#CombatantClassifications] /> of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1697892064653,
+      "lastUpdate": 1734439341939,
       "updatedBy": "Stardust"
      }
     },
@@ -5477,7 +5477,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1697894818765,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5821,14 +5821,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants Grenade Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\n#ChunkEnergyScalars\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079757497,
+      "lastUpdate": 1734540486362,
       "updatedBy": "Stardust"
      }
     },
@@ -5838,7 +5838,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6016,14 +6016,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning <unstoppable/>Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 25%\n• Elites: 50% \n• Players, Minibosses, and Bosses: 100%",
+     "main": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning <unstoppable/>Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 25%\n• Elites: 50% \n• Players, Minibosses, and Bosses: 100%\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219388910,
+      "lastUpdate": 1734439747436,
       "updatedBy": "Stardust"
      }
     },
@@ -6033,7 +6033,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6565,14 +6565,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.",
+     "main": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732215534941,
+      "lastUpdate": 1734439501843,
       "updatedBy": "Stardust"
      }
     },
@@ -6582,7 +6582,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7513,14 +7513,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Intrinsically grants Fastball to all grenades.\n\nEnhances <solar/>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<solar/>Solar Ability Hits grant <pve 33% /> <pvp [8%] /> Tripmine Grenade Energy. 0.3 second cooldown between energy gains.",
+     "main": "Intrinsically grants Fastball to all grenades.\n\nEnhances <solar/>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<solar/>Solar Ability Hits grant <pve 33% /> <pvp [8%] /> Tripmine Grenade Energy. 0.3 second cooldown between energy gains.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734025445591,
+      "lastUpdate": 1734441078088,
       "updatedBy": "Stardust"
      }
     },
@@ -7530,7 +7530,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7652,14 +7652,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation.\n\nCreates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation.\n\nCreates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nGrants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade.\n\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\n\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\n\nStanding extremely close to the barricade consistently prevents enemy melee attacks from hitting you through it.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219675453,
+      "lastUpdate": 1734648506976,
       "updatedBy": "Stardust"
      }
     },
@@ -7669,7 +7669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7679,14 +7679,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after. \n\nCreates a short, curved, see-through barricade that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after. \n\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\n\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219669534,
+      "lastUpdate": 1734648524131,
       "updatedBy": "Stardust"
      }
     },
@@ -7696,7 +7696,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8202,7 +8202,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1681769896783,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8257,7 +8257,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8350,14 +8350,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while <stasis/>Frost Armor is active.\n\n1 second cooldown between activations.",
+     "main": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while <stasis/>Frost Armor is active.\n\n1 second cooldown between activations.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717538058859,
+      "lastUpdate": 1734439474140,
       "updatedBy": "Stardust"
      }
     },
@@ -8367,7 +8367,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8404,14 +8404,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Powered Melee Hits grant 40 Handling for 5 seconds and <title refill [G_refill] /> all weapons from reserves.\n\nBuff duration cannot be refreshed.",
+     "main": "Powered Melee Hits grant 40 Handling for 5 seconds and <title refill [G_refill] /> all weapons from reserves.\n\nBuff duration cannot be refreshed.\n\n//#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1699459376585,
+      "lastUpdate": 1734651346421,
       "updatedBy": "Stardust"
      }
     },
@@ -8421,7 +8421,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1699463015549,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8487,14 +8487,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an extra Smoke Bomb Melee Ability Charge.\n\nVoid Invisibility grants <pve 50% /> <pvp [10%] /> Damage Resistance (Resist x4).\n\nCloaking allies grants them the same Damage Resist benefits and refunds 50% Melee Ability Energy per ally made invisible.\n\nDamage Resistance does not apply while in Super.",
+     "main": "Grants an extra <void/>Smoke Bomb Melee Ability Charge.\n\n<void/>Invisibility now grants <pve 50% /> <pvp [10%] /> Damage Resistance (Resist x4).\n\n<void/>Cloaking allies grants them the same Damage Resist benefits and refunds 50% Melee Ability Energy per ally made invisible.\n\nDamage Resistance does not apply while in Super.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727526936554,
+      "lastUpdate": 1734440690789,
       "updatedBy": "Stardust"
      }
     },
@@ -8504,7 +8504,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8568,14 +8568,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Spawns a <heavy/>Heavy Ammo Brick upon scoring a Weapon Kill after reaching 100% Counter Progress. Counter is only progressed by Weapon Kills.\n\nAmmo Finder Bricks grant 27.5%|60%|100% of a Regular Ammo Brick's Pickup Amount with 1|2|3 Mods equipped. Pickup Amount is determined on Brick Spawn.\n\nCounter Progress on Weapon Kills:\n1.1% to 1.33%. Average of 83.5 Kills.\n\nProgress Multipliers on Kills:\n• <primary/>Primary Weapons: 4.25x \n• <special/><green Special Weapons: /> 1.05x\n• <yellow Exotic /> <primary/><yellow Primary Weapons: /> further 1.3?x on top of the Primary Multiplier (total of 5.525?⁠x)\n• Playing Solo: 1.2?⁠x\n\nEriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon.\n\nAmmo Finder Bricks have less variablity compared to Regular Bricks. (i.e. they can't go as far above or under the average ammo amount granted)",
+     "main": "Spawns a <heavy/>Heavy Ammo Brick upon scoring a Weapon Kill after reaching 100% Counter Progress. Counter is only progressed by Weapon Kills.\n\nAmmo Finder Bricks grant 27.5%|60%|100% of a Regular Ammo Brick's Pickup Amount with 1|2|3 Mods equipped. Pickup Amount is determined on Brick Spawn.\n\nCounter Progress on Weapon Kills:\n1.1% to 1.33%. Average of 83.5 Kills.\n\nProgress Multipliers on Kills:\n• <primary/>Primary Weapons: 4.25x \n• <special/><green Special Weapons: /> 1.05x\n• <yellow Exotic /> <primary/><yellow Primary Weapons: /> further 1.3?x on top of the Primary Multiplier (total of 5.525?⁠x)\n• Playing Solo: 1.2?⁠x\n\nGlaive Melee Kills count as <primary/>Primary Weapon Kills.\n\n<yellow Winterbite /> Melee Kills count as <heavy/>Power Weapon Kills.\n\n<yellow Eriana's Vow /> inherits the Exotic Primary Multiplier but is still treated as a <special/>Special Weapon.\n\nAmmo Finder Bricks have less variablity compared to Regular Bricks. (i.e. they can't go as far above or under the average ammo amount granted)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723143378937,
+      "lastUpdate": 1734641645527,
       "updatedBy": "Stardust"
      }
     },
@@ -8585,7 +8585,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9151,14 +9151,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<arc/>Arcbolt Grenades can chain an additional time (3🠚4) and apply <overload/>Disruption.\n\nTriggering <arc/>Jolt damage grants 20% Arcbolt Grenade Energy.\n\n<arc/>Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy.",
+     "main": "<arc/>Arcbolt Grenades can chain an additional time (3🠚4) and apply <overload/>Disruption.\n\nTriggering <arc/>Jolt damage grants 20% Arcbolt Grenade Energy.\n\n<arc/>Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734024831557,
+      "lastUpdate": 1734439977627,
       "updatedBy": "Stardust"
      }
     },
@@ -9168,7 +9168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9233,14 +9233,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "While you have an <arc/>Arc Melee Ability equipped:\nReceiving Melee damage or scoring a Powered Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds.\n\nCross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's melee deals Arc Damage.\n\nThe 'One-Two Punch' perk's Melee damage buff is decreased to 40% when Cross Counter is active.",
+     "main": "While you have an <arc/>Arc Melee Ability equipped:\nReceiving Melee damage or scoring an <arc/>Arc Elemental Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds.\n\nCross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's Melee deals <arc/>Arc Damage.\n\nThe 'One-Two Punch' perk's Melee damage buff is decreased to 40% when Cross Counter is active.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719591926211,
+      "lastUpdate": 1734649693578,
       "updatedBy": "Stardust"
      }
     },
@@ -9250,7 +9250,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9616,23 +9616,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Powered Melee and Finisher Kills disorient and debuff enemies in a given radius around the target, increasing damage received by them by 30%.\n\nScreen becomes fully blackened for 7.5 seconds upon getting hit by the debuff before gradually fading away over the next 7.5 seconds. (HUD remains unobstructed)\n\nThe debuff Duration and application radius are dependent on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 15 meter radius, 10 second duration\n• Elites, Players: 20m radius, 15s duration\n• Minibosses, Bosses: 25m radius, 20s duration\n(Still requires retesting, will update once complete)\n\nFinishers increase the debuff duration by 5 seconds, up to the maximum of 20 seconds. Applying <void/>Weaken to the target extends the debuff's duration.",
+     "main": "Powered Melee and Finisher Kills disorient and debuff enemies in a given radius around the target, increasing damage received by them by 30%.\n\nScreen becomes fully blackened for 7.5 seconds upon getting hit by the debuff before gradually fading away over the next 7.5 seconds. (HUD remains unobstructed)\n\nThe debuff Duration and application radius are dependent on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 15 meter radius, 10 second duration\n• Elites, Players: 20m radius, 15s duration\n• Minibosses, Bosses: 25m radius, 20s duration\n(Still requires retesting, will update once complete)\n\nFinishers increase the debuff duration by 5 seconds, up to the maximum of 20 seconds. Applying <void/>Weaken to the target extends the debuff's duration.\n\n//#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1709239022923,
+      "lastUpdate": 1734651425938,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665695389426,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670677155785,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -9641,7 +9633,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709239114298,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10456,19 +10448,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills grant #e${10 * #d}% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant #e${20 * #d}%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\nenhanced (\nvar d = 1.1\n#e Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)\n)",
+     "main": "Weapon Kills grant #e${10 * #d}% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant #e${20 * #d}%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.1\n#e Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689194385225,
+      "lastUpdate": 1734438908726,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670332328318,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -10477,7 +10465,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709252348445,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10829,14 +10817,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants <pve 25% /> <pvp [5%] /> Damage Resistance (Resist x2) to you and allies inside Rifts you create. (<solar/>Well of Radiance does not count but you can cast a Rift inside it for the benefits)\n\nReaching Critical Health grants the Dearly Departed buff, granting <pve 50% /> <pvp [25%] /> Class Ability Energy.\n\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\n\nDying spawns a Healing Rift at your location.",
+     "main": "Grants <pve 25% /> <pvp [5%] /> Damage Resistance (Resist x2) to you and allies inside Rifts you create. (<solar/>Well of Radiance does not count but you can cast a Rift inside it for the benefits)\n\nReaching Critical Health grants the Dearly Departed buff, granting <pve 50% /> <pvp [25%] /> Class Ability Energy.\n\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\n\nDying spawns a Healing Rift at your location.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729535836772,
+      "lastUpdate": 1734440990380,
       "updatedBy": "Stardust"
      }
     },
@@ -10846,7 +10834,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729536274338,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11051,14 +11039,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grenade Ability usage and Powered Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks.\n\nEach Stack grants #e${10+#d} Range, #e${10+#d} Stability, and #e${10+#d} Handling.\n\nenhanced (\nvar d = 2\n#e Stat bonuses are increased by 2?.\n)",
+     "main": "Grenade Ability usage and Elemental Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks.\n\nEach Stack grants #e${10+#d} Range, #e${10+#d} Stability, and #e${10+#d} Handling.\n\n#MeleeAbilityDisambiguation\n\nenhanced (\nvar d = 2\n#e Stat bonuses are increased by 2?.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722360292031,
+      "lastUpdate": 1734538769650,
       "updatedBy": "Stardust"
      }
     },
@@ -11068,7 +11056,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11271,14 +11259,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\n\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)",
+     "main": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\n\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731006037662,
+      "lastUpdate": 1734439015239,
       "updatedBy": "Stardust"
      }
     },
@@ -11288,7 +11276,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11996,14 +11984,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or <arc/>Ballistic Slam) Melee Ability charge:\nCharges up a 75 HP Overshield over 3 seconds. This overrides <void/>Void Overshield if active.\n\nOvershield is instantly removed if no longer sprinting. \n\nGrants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating.",
+     "main": "Upon sprinting for 0.5 seconds with an Eligible Melee Ability charge and while at full HP:\nCharges up a 75 HP Overshield over 3 seconds. This overrides <void/>Void Overshield if active.\n\nOvershield is removed if you stop sprinting.\n\nEligible Melee Abilities include: <arc/>Ballistic Slam, <arc/>Seismic Strike, <solar/>Hammer Strike, and <void/>Shield Bash\n\nDealing damage with the Eligible Melee Abilities grants Melee Energy:\n• <arc/>Ballistic Slam: 25%\n• <void/>Shield Bash: 35%\n• <arc/>Seismic Strike and <solar/>Hammer Strike: 40%\n\nPrevents Melee Kickstart from activating.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731165052568,
+      "lastUpdate": 1734648193835,
       "updatedBy": "Stardust"
      }
     },
@@ -12013,7 +12001,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13061,14 +13049,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills grant #e${10*#d}% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant #e${20*#d}%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nenhanced (\nvar d = 1.1\n#e Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
+     "main": "Weapon Kills grant #e${10*#d}% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant #e${20*#d}%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.1\n#e Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729012509667,
+      "lastUpdate": 1734438930389,
       "updatedBy": "Stardust"
      }
     },
@@ -13078,7 +13066,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13958,14 +13946,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants <stasis/>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster. \n\nDamaging an enemy with <stasis/>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\n/* Damaging an enemy with <stasis/>Coldsnap, <arc/>Storm, <strand/>Threadling, or <void/>Vortex Grenades grants Grenade Ability Energy.\n\n<void/>Vortex Grenades have a 0.8 seconds cooldown between activations.\n\nHealing yourself or allies with a <solar/>Healing Grenade grants 12% Grenade Ability Energy.\n\n<stasis/>Coldsnap | {<arc/>Storm|<strand/>Threadling|<void/>Vortex} Grenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7% | 5%\n• Tier 1 (T1) Minors: 10% | 3%\n• T2 Minors, T1 Elites: 22% | 5.7%\n• T3 Minors, T2 Elites: 34% | 8.4%\n• T4 Minors, T3 Elites, and higher: 50% | 12%\n*/",
+     "main": "Grants <stasis/>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster. \n\nDamaging an enemy with <stasis/>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\n#ChunkEnergyUnaffected\n\n/* Damaging an enemy with <stasis/>Coldsnap, <arc/>Storm, <strand/>Threadling, or <void/>Vortex Grenades grants Grenade Ability Energy.\n\n<void/>Vortex Grenades have a 0.8 seconds cooldown between activations.\n\nHealing yourself or allies with a <solar/>Healing Grenade grants 12% Grenade Ability Energy.\n\n<stasis/>Coldsnap | {<arc/>Storm|<strand/>Threadling|<void/>Vortex} Grenade Energy gains based on <link Enemy Rank [#CombatantClassifications] />:\n• Enemy Players: 7% | 5%\n• Tier 1 (T1) Minors: 10% | 3%\n• T2 Minors, T1 Elites: 22% | 5.7%\n• T3 Minors, T2 Elites: 34% | 8.4%\n• T4 Minors, T3 Elites, and higher: 50% | 12%\n*/",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729877163423,
+      "lastUpdate": 1734440773679,
       "updatedBy": "Stardust"
      }
     },
@@ -13975,7 +13963,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -14101,14 +14089,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants the following with <solar/>Fusion Grenades equipped:\n• An extra Grenade Charge\n• 100% Class Ability Energy on Fusion Grenade Kills\n• Passive 20% Additional Base Grenade Ability Recharge Rate\n\nWhile in an Empowering Rift or <solar/>Well of Radiance:\n• Weapon Kills grant 20% <solar/>Fusion Grenade Energy\n• Weapon Hits grant 2.5% <solar/>Fusion Grenade Ability Energy (0.4 second cooldown between activations)",
+     "main": "Grants the following with <solar/>Fusion Grenades equipped:\n• An extra Grenade Charge\n• 100% Class Ability Energy on Fusion Grenade Kills\n• Passive 20% Additional Base Grenade Ability Recharge Rate\n\nWhile in an Empowering Rift or <solar/>Well of Radiance:\n• Weapon Kills grant 20% <solar/>Fusion Grenade Energy\n• Weapon Hits grant 2.5% <solar/>Fusion Grenade Ability Energy (0.4 second cooldown between activations)\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717530351851,
+      "lastUpdate": 1734440964578,
       "updatedBy": "Stardust"
      }
     },
@@ -14118,7 +14106,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15836,14 +15824,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.",
+     "main": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729020888981,
+      "lastUpdate": 1734441417162,
       "updatedBy": "Stardust"
      }
     },
@@ -15853,7 +15841,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16126,14 +16114,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Killing <solar/>Scorched enemies spawns a <solar/>Firesprite and grants Melee Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%   \n• T3 Minors, T2 Elites: 17.5%  \n• Players: 20%  \n• T4 Minors, T3 Elites, and higher: 25%",
+     "main": "Killing <solar/>Scorched enemies spawns a <solar/>Firesprite and grants Melee Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%   \n• T3 Minors, T2 Elites: 17.5%  \n• Players: 20%  \n• T4 Minors, T3 Elites, and higher: 25%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1697815249508,
+      "lastUpdate": 1734439358347,
       "updatedBy": "Stardust"
      }
     },
@@ -16143,7 +16131,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1697894818765,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16654,14 +16642,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Requires a <solar/>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Solar Weapon Kills grant Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <pvp Players: 7.5% />\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.",
+     "main": "Requires a <solar/>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<solar/>Solar Weapon Kills grant Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <pvp Players: 7.5% />\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219395370,
+      "lastUpdate": 1734440889152,
       "updatedBy": "Stardust"
      }
     },
@@ -16671,7 +16659,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16928,14 +16916,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%",
+     "main": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689235791795,
+      "lastUpdate": 1734441483469,
       "updatedBy": "Stardust"
      }
     },
@@ -16945,7 +16933,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1689235825901,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17315,14 +17303,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants <strand/>Arcane Needles <barrier/>Shield-Piercing properties.\n\nScoring an <strand/>Arcane Needle hit on an enemy marks them with a vertical mark for 10 seconds. Marked Enemies cause nearby targets to become <strand/>Suspended on death.\n\nScoring 2 Arcane Needle hits on a Marked Enemy triggers a Explosion, dealing up to ? damage and <strand/>Suspending targets within ? meters.\n\n<strand/>Arcane Needle Kills and Kills on <strand/>Suspended targets grant Melee Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 15%\n• T2 Minors, T1 Elites: 22.2%\n• T3 Minors, T2 Elites, Enemy Players: 33%\n• T4 Minors, T3 Elites, and higher: 100%",
+     "main": "Grants <strand/>Arcane Needles <barrier/>Shield-Piercing properties.\n\nScoring an <strand/>Arcane Needle hit on an enemy marks them with a vertical mark for 10 seconds. Marked Enemies cause nearby targets to become <strand/>Suspended on death.\n\nScoring 2 Arcane Needle hits on a Marked Enemy triggers a Explosion, dealing up to ? damage and <strand/>Suspending targets within ? meters.\n\n<strand/>Arcane Needle Kills and Killing <strand/>Suspended targets grant Melee Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 15%\n• T2 Minors, T1 Elites: 22.2%\n• T3 Minors, T2 Elites, Enemy Players: 33%\n• T4 Minors, T3 Elites, and higher: 100%\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719512927823,
+      "lastUpdate": 1734440123012,
       "updatedBy": "Stardust"
      }
     },
@@ -17332,7 +17320,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17466,14 +17454,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Scoring 2 to 3 <void/>Void Kills within 10 seconds of each grants 1 Stack of <void/>Void Weapon Surge for <pve 11 /> <pvp [6] /> seconds. Maximum of 4 Stacks. <void/>Void Kills while at 4 Stacks refresh the buff's duration.\n\nPowered <void/>Void Melee Kills grant the following:\n• <pve 20% /> <pvp [10%] /> Super Energy once per ability usage\n• All 4 Stacks of <void/>Void Weapon Surge\n\n<void/>Sentinel Shield's Shield Throw Hits grant 10% Super Energy, extending the Super's Duration.",
+     "main": "Scoring 2 to 3 <void/>Void Kills within 10 seconds of each grants 1 Stack of <void/>Void Weapon Surge for <pve 11 /> <pvp [6] /> seconds. Maximum of 4 Stacks. <void/>Void Kills while at 4 Stacks refresh the buff's duration.\n\nElemental <void/>Void Melee Kills grant the following:\n• <pve 20% /> <pvp [10%] /> Super Energy once per ability usage\n• All 4 Stacks of <void/>Void Weapon Surge\n\n<void/>Sentinel Shield's Shield Throw Hits grant 10% Super Energy, extending the Super's Duration.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723225015774,
+      "lastUpdate": 1734538977533,
       "updatedBy": "Stardust"
      }
     },
@@ -17483,7 +17471,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17664,14 +17652,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.",
+     "main": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689235647833,
+      "lastUpdate": 1734441444643,
       "updatedBy": "Stardust"
      }
     },
@@ -17681,7 +17669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1689235825901,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20578,14 +20566,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an additional <strand/>Frenzied Blade Ability Charge.\n\n<strand/>Frenzied Blade or <strand/>Flechette Storm Hits grant a Stack of 'Wish-Dragon's Talons' for ? seconds. Maximum of 3? Stacks.\n\nCan only grant 1 Stack per ability usage.\n\n'Wish-Dragon's Talons' grants increased <strand/>Frenzied Blade and <strand/>Flechette Storm damage.\n\nDamage increase at 1|2|3 Stacks:\n• <strand/>Frenzied Blade: 20% | 50% | 100%\n• <strand/>Flechette Storm: 10% | 25% | 50%\n\n<strand/>Banner of War's Pulses grant 5% <strand/>Frenzied Blade Ability Energy and an additional 5% for each ally within 10 meters.",
+     "main": "Grants an additional <strand/>Frenzied Blade Ability Charge.\n\n<strand/>Frenzied Blade or <strand/>Flechette Storm Hits grant a Stack of 'Wish-Dragon's Talons' for ? seconds. Maximum of 3? Stacks.\n\nCan only grant 1 Stack per ability usage.\n\n'Wish-Dragon's Talons' grants increased <strand/>Frenzied Blade and <strand/>Flechette Storm damage.\n\nDamage increase at 1|2|3 Stacks:\n• <strand/>Frenzied Blade: 20% | 50% | 100%\n• <strand/>Flechette Storm: 10% | 25% | 50%\n\n<strand/>Banner of War's Pulses grant 5% <strand/>Frenzied Blade Ability Energy and an additional 5% for each ally within 10 meters.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719591038458,
+      "lastUpdate": 1734441036624,
       "updatedBy": "Stardust"
      }
     },
@@ -20595,7 +20583,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20768,14 +20756,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\nAllies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace.",
+     "main": "<arc/>Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per <arc/>Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\n<arc/>Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731791124354,
+      "lastUpdate": 1734539044401,
       "updatedBy": "Stardust"
      }
     },
@@ -20785,7 +20773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24401,14 +24389,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Powered Melee Hits and (Glaive) Melee Kills <title refill [G_refill] /> the magazine from reserves.\n\n3 second cooldown between activations.\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
+     "main": "Elemental Melee Hits and (Glaive) Melee Kills <title refill [G_refill] /> the magazine from reserves.\n\n3 second cooldown between activations.\n\n#MeleeAbilityDisambiguation\n\nenhanced (\n#e Passively grants 5 Handling.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722178422021,
+      "lastUpdate": 1734526823648,
       "updatedBy": "Stardust"
      }
     },
@@ -24418,7 +24406,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25464,14 +25452,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\n\nMoebius Quiver can fire an additional volley per Super Activation.",
+     "main": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\n\nMoebius Quiver can fire an additional volley per Super Activation.\n\n#ChunkEnergyScalars (Super Energy is unaffected)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689233854566,
+      "lastUpdate": 1734440756336,
       "updatedBy": "Stardust"
      }
     },
@@ -25481,7 +25469,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1689234319053,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25658,19 +25646,15 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Kills grant 5% Class Ability Energy.",
+     "main": "Kills grant 5% Class Ability Energy.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1665261599915,
-      "updatedBy": "[Redacted]"
-     },
-     "zh-chs": {
-      "lastUpdate": 1668183897971,
-      "updatedBy": "Mistwalker"
+      "lastUpdate": 1734439030672,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -25679,7 +25663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680050976212,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26102,14 +26086,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Sliding over Ammo Bricks <title refills [G_refill] /> your held weapon from reserves and grants Melee Energy.\n\n<special/>Special Ammo Bricks grant 20% Melee Energy and <heavy/>Heavy Ammo Bricks grant 50%.",
+     "main": "Sliding over Ammo Bricks <title refills [G_refill] /> your held weapon from reserves and grants Melee Energy.\n\n<special/>Special Ammo Bricks grant 20% Melee Energy and <heavy/>Heavy Ammo Bricks grant 50%.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1697809966254,
+      "lastUpdate": 1734439382635,
       "updatedBy": "Stardust"
      }
     },
@@ -26119,7 +26103,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1697894818765,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26455,14 +26439,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.",
+     "main": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1680469739622,
+      "lastUpdate": 1734441347638,
       "updatedBy": "Stardust"
      }
     },
@@ -26472,7 +26456,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680554889429,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26648,14 +26632,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.  \n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<pve/>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<pvp/>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge. ",
+     "main": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.  \n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<pve/>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<pvp/>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge. \n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079701968,
+      "lastUpdate": 1734441390109,
       "updatedBy": "Stardust"
      }
     },
@@ -26665,7 +26649,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27855,14 +27839,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.",
+     "main": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1680469734796,
+      "lastUpdate": 1734441360298,
       "updatedBy": "Stardust"
      }
     },
@@ -27872,7 +27856,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680554889429,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -28608,14 +28592,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grenade or Class Ability usage and dealing Powered Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds. \ne.g.: Barricade Usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased melee damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <pve 20% /> <pvp [10%] /> | <pve 35% /> <pvp [20%] /> increased grenade damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does",
+     "main": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds. \n\ne.g.: Barricade Usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased melee damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <pve 20% /> <pvp [10%] /> | <pve 35% /> <pvp [20%] /> increased grenade damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723381843556,
+      "lastUpdate": 1734539171489,
       "updatedBy": "Stardust"
      }
     },
@@ -28625,7 +28609,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29052,23 +29036,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Collecting <arc/>Ionic Traces grants 2% Super Energy with Chaos Reach selected.\n\nChaos Reach refunds 10% Super Energy on hit. \n0.75 second cooldown between refunds.\n\nThis can increase Chaos Reach Duration by ~120%.",
+     "main": "Collecting <arc/>Ionic Traces grants 2% Super Energy with <arc/>Chaos Reach selected.\n\n<arc/>Chaos Reach refunds 10% Super Energy on hit. \n0.75 second cooldown between refunds.\n\nThis can increase <arc/>Chaos Reach duration by ~120%.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1693852552374,
+      "lastUpdate": 1734439878511,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665696000770,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670678108146,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -29077,7 +29053,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1693853576899,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29195,14 +29171,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff.\n\nPayload detonates after a 0.6 second delay.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/> [PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n<pvp/> [PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
+     "main": "Splits off 55% of the Weapon's Bodyshot damage into a Explosive Payload that detonates after a 0.6 second delay. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~16.5% of the weapon's Bodyshot damage. On Crits, the overall increase is 10.9% for Adaptive/Precision Hand Cannons and 10.17% for Aggressive Hand Cannons.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Stability.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734024004479,
+      "lastUpdate": 1734634353729,
       "updatedBy": "Stardust"
      }
     },
@@ -29212,7 +29188,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29222,14 +29198,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Shattering a <stasis/>Stasis Crystal or <stasis/>Frozen Enemy with the weapon grants #d of <stasis/>Frost Armor.\n\nvar d = a Stack\nenhanced (\nvar d = #e2 Stacks\n#e Grants an additional stack of <stasis/>Frost Armor.\n)",
+     "main": "Killing <stasis/>Frozen Enemies or <stasis/>Shattering a <stasis/>Stasis Crystal with the weapon grants #d of <stasis/>Frost Armor.\n\nvar d = a Stack\nenhanced (\nvar d = #e2 Stacks\n#e Grants an additional stack of <stasis/>Frost Armor.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729011531183,
+      "lastUpdate": 1734738466262,
       "updatedBy": "Stardust"
      }
     },
@@ -29239,9 +29215,9 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": true
+   "lastUpload": 1735000733120,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1956005708": {
    "hash": 1956005708,
@@ -29530,14 +29506,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Thunderclap strikes enemies within ? meters with Lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Strike damage is doubled while <arc/>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\nThunderclap Kills refund Melee Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%",
+     "main": "<arc/>Thunderclap strikes enemies within ? meters with Lightning, dealing <pve 200 /> <pvp [50] /> damage. Lightning Strike damage is doubled while <arc/>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\n<arc/>Thunderclap Kills refund Melee Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219402001,
+      "lastUpdate": 1734440871221,
       "updatedBy": "Stardust"
      }
     },
@@ -29547,7 +29523,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30354,14 +30330,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Every point of damage taken while Guarding grants Class Ability Energy:\n• #e${1.5+#d}% when Melee Damage is Blocked\n• #e${1+#f}% when non-Melee Damage is Blocked\n• #e${0.5+#g}% when damage isn't Blocked (getting hit from behind)\n\nenhanced (\nvar d = 0.055\nvar f = 0.5\nvar g = 0.125\n#e Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order.\n)",
+     "main": "Every point of damage taken while Guarding grants Class Ability Energy:\n• #e${1.5+#d}% when Melee Damage is Blocked\n• #e${1+#f}% when non-Melee Damage is Blocked\n• #e${0.5+#g}% when damage isn't Blocked (getting hit from behind)\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 0.055\nvar f = 0.5\nvar g = 0.125\n#e Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721151820449,
+      "lastUpdate": 1734438721032,
       "updatedBy": "Stardust"
      }
     },
@@ -30371,7 +30347,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33635,14 +33611,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\n\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the <void/>Chaos Accelerant aspect)",
+     "main": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\n\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the <void/>Chaos Accelerant aspect)\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1714218040774,
+      "lastUpdate": 1734439325575,
       "updatedBy": "Stardust"
      }
     },
@@ -33652,7 +33628,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1714219892088,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33716,14 +33692,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Melee Kills grant Grenade Energy based on the <link Enemy Rank [#CombatantClassifications] /> of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%",
+     "main": "Melee Kills grant Grenade Energy based on the <link Enemy Rank [#CombatantClassifications] /> of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1714217586102,
+      "lastUpdate": 1734439308480,
       "updatedBy": "Stardust"
      }
     },
@@ -33733,7 +33709,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1714219892088,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34564,14 +34540,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<pve 10% /> <pvp [N/A] /> | <pve 17.5% /> <pvp [?%] /> | <pve 25% /> <pvp [10%] /> \n\nWhile you are not airborne:\nDamaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks <pvp [Primary weapons only grant 1 Stack] /> of the buff. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
+     "main": "Scoring a Kill grants <pve 1 /> <pvp [2] /> Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\n\nWeapon damage increases at 1|2|3 Stacks:\n<pve 10% /> <pvp [5%] /> | <pve 17.5% /> <pvp [10%] /> | <pve 25% /> <pvp [15%] /> \n\nWhile you are not airborne:\nDamaging targets that are 2 meters <pvp [5 for Primary weapons] /> lower in elevation than the ground you stand on immediately grants all 3 Stacks <pvp [Primary weapons only grant 1 Stack] /> of the buff. The damage increase is applied to the shot triggering the perk as well.\n\nThe reference point of enemies' elevation is generally their lowest point.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732210999000,
+      "lastUpdate": 1734634577314,
       "updatedBy": "Stardust"
      }
     },
@@ -34581,7 +34557,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34812,14 +34788,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<solar/>Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\n\nUpon casting a Barricade Class Ability:\nUnleashes a <solar/>Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry.\n\nThe Wave deals <pve 480 /> <pvp [100] /> damage and applies <pve 60 /> <pvp [30] /> <solar/>Scorch Stacks (<pve 90 /> <pvp [45] /> with <solar/>Ember of Ashes).\n\nDamage and <solar/>Scorch are separately applied by both the initial and returning waves. <solar/>Solar Wave is not affected by <solar/>Roaring Flames.",
+     "main": "<solar/>Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\n\n#ChunkEnergyScalars\n\nUpon casting a Barricade Class Ability:\nUnleashes a <solar/>Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry.\n\nThe Wave deals <pve 480 /> <pvp [100] /> damage and applies <pve 60 /> <pvp [30] /> <solar/>Scorch Stacks (<pve 90 /> <pvp [45] /> with <solar/>Ember of Ashes).\n\nDamage and <solar/>Scorch are separately applied by both the initial and returning waves. <solar/>Solar Wave is not affected by <solar/>Roaring Flames.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723389378019,
+      "lastUpdate": 1734439912560,
       "updatedBy": "Stardust"
      }
     },
@@ -34829,7 +34805,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -35993,14 +35969,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Spawns an Orb of Power on Powered Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)\n\n10|5|1|1? second cooldown between activations.",
+     "main": "Spawns an Orb of Power on Elemental Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)\n\n10|5|1|1? second cooldown between activations.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723395798885,
+      "lastUpdate": 1734540444698,
       "updatedBy": "Stardust"
      }
     },
@@ -36010,7 +35986,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36599,14 +36575,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "<stasis/>Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%",
+     "main": "<stasis/>Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1699459244509,
+      "lastUpdate": 1734439442752,
       "updatedBy": "Stardust"
      }
     },
@@ -36616,7 +36592,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1699463015549,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36653,14 +36629,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy",
+     "main": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722371662304,
+      "lastUpdate": 1734439065071,
       "updatedBy": "Stardust"
      }
     },
@@ -36670,7 +36646,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37478,14 +37454,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<stasis/>Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small <stasis/>Stasis Crystal.\n\nShattering a <stasis/>Stasis Crystal or <stasis/>Frozen Enemy with <stasis/>Withering Blade releases a spread of 3 <stasis/>Withering Blades.",
+     "main": "<stasis/>Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small <stasis/>Stasis Crystal.\n\nShattering a <stasis/>Stasis Crystal or <stasis/>Frozen Enemy with <stasis/>Withering Blade releases a spread of 3 <stasis/>Withering Blades.\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731154960702,
+      "lastUpdate": 1734440012384,
       "updatedBy": "Stardust"
      }
     },
@@ -37495,7 +37471,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37838,14 +37814,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Spawns a <special/>Special Ammo Brick upon scoring a Weapon Kill after reaching 100% Counter Progress. Counter is only progressed by Weapon Kills.\n\nAmmo Finder Bricks grant 27.5%|60%|100% of a Regular Ammo Brick's Pickup Amount with 1|2|3 Mods equipped. Pickup Amount is determined on Brick Spawn.\n\nCounter Progress on Weapon Kills:\n1.66% to 1.8%. Average of 57.25 Kills.\n\nProgress Multiplier on Kills:\n• <primary/>Primary Weapons: 3.25x \n• <special/><green Special Weapons: /> 1.1x\n• <yellow Exotic /> <primary/><yellow Primary Weapons: /> further 1.3?x on top of the Primary Multiplier (total of 4.225?⁠x)\n• Playing Solo: 1.2?⁠x\n\nEriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon.\n\nAmmo Finder Bricks have less variablity compared to Regular Bricks. (i.e. they can't go as far above or under the average ammo amount granted)",
+     "main": "Spawns a <special/>Special Ammo Brick upon scoring a Weapon Kill after reaching 100% Counter Progress. Counter is only progressed by Weapon Kills.\n\nAmmo Finder Bricks grant 27.5%|60%|100% of a Regular Ammo Brick's Pickup Amount with 1|2|3 Mods equipped. Pickup Amount is determined on Brick Spawn.\n\nCounter Progress on Weapon Kills:\n1.66% to 1.8%. Average of 57.25 Kills.\n\nProgress Multiplier on Kills:\n• <primary/>Primary Weapons: 3.25x \n• <special/><green Special Weapons: /> 1.1x\n• <yellow Exotic /> <primary/><yellow Primary Weapons: /> further 1.3?x on top of the Primary Multiplier (total of 4.225?⁠x)\n• Playing Solo: 1.2?⁠x\n\nGlaive Melee Kills count as <primary/>Primary Weapon Kills.\n\n<yellow Winterbite /> Melee Kills count as <heavy/>Power Weapon Kills.\n\n<yellow Eriana's Vow /> inherits the Exotic Primary Multiplier but is still treated as a <special/>Special Weapon.\n\nAmmo Finder Bricks have less variablity compared to Regular Bricks. (i.e. they can't go as far above or under the average ammo amount granted)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723143355371,
+      "lastUpdate": 1734641675057,
       "updatedBy": "Stardust"
      }
     },
@@ -37855,7 +37831,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37894,14 +37870,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "While the perk's buff isn't active, Weapon Kills grant 'Golden Tricorn x1' for 7 seconds, increasing weapon damage by 15%. Additional Kills #refresh\n\nWhile Golden Tricorn x1 or x2 is active:\nGrenade or Powered Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%.\n\nvar refresh = refresh the buff duration.\nenhanced (\nvar refresh = refresh the buff duration to #e8 seconds.\n#e Golden Tricorn x1's duration is refreshed to 8 seconds.\n)",
+     "main": "While the perk's buff isn't active, Weapon Kills grant 'Golden Tricorn x1' for 7 seconds, increasing weapon damage by 15%. Additional Kills #refresh\n\nWhile Golden Tricorn x1 or x2 is active:\nGrenade or Elemental Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%.\n\n#MeleeAbilityDisambiguation\n\nvar refresh = refresh the buff duration.\nenhanced (\nvar refresh = refresh the buff duration to #e8 seconds.\n#e Golden Tricorn x1's duration is refreshed to 8 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723138094507,
+      "lastUpdate": 1734526415215,
       "updatedBy": "Stardust"
      }
     },
@@ -37911,7 +37887,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39283,14 +39259,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors).\n\nDamaging enemies marks them for 3 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health.",
+     "main": "Passively grants 20 Airborne Effectiveness and Radar remains active while Aiming Down Sights.\n\nCrouching grants Enhanced Radar (6⁠🠚⁠12 sectors).\n\nDamaging a PVE Combatant or breaking a Player's Shields marks them for 3 seconds. Marks are visible through walls.\n\nIf an Enemy is below 30% Health:\nIncreases all outgoing damage against them by 1% for every percentage point below 30%.\n(10% Health left 🠚 20% increased damage)\n\nPVE Combatant and Player Shields do not count as Health.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732211758745,
+      "lastUpdate": 1734635178419,
       "updatedBy": "Stardust"
      }
     },
@@ -39300,7 +39276,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -40299,14 +40275,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Only works with the <solar/>Solar Element Grenades named <solar/>Solar Grenade equipped.\n\n<solar/>Solar Grenades have Fastball intrinsically and last 2 seconds longer (4🠚6s normally, 6🠚8s with <solar/>Touch of Flame equipped).\n\nPowered Melee Kills grant 5 seconds of Sunbracers Ready. Using your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff.\n\n'Sunbracers' grants 20,000% Additional Base 'Solar Grenade' Regeneration Rate for 4 seconds. (Effectively recharges ~132% of a 'Solar Grenade' charge per second)",
+     "main": "Only works with the <solar/>Solar Element Grenades named <solar/>Solar Grenade equipped.\n\n<solar/>Solar Grenades have Fastball intrinsically and last 2 seconds longer (4🠚6s normally, 6🠚8s with <solar/>Touch of Flame equipped).\n\nPowered Melee Kills grant 5 seconds of Sunbracers Ready. Using your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff.\n\n'Sunbracers' grants 20,000% Additional Base 'Solar Grenade' Regeneration Rate for 4 seconds. (Effectively recharges ~132% of a 'Solar Grenade' charge per second)\n\n//#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717530528906,
+      "lastUpdate": 1734651443442,
       "updatedBy": "Stardust"
      }
     },
@@ -40316,7 +40292,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41152,14 +41128,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.",
+     "main": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1680469749904,
+      "lastUpdate": 1734441109423,
       "updatedBy": "Stardust"
      }
     },
@@ -41169,7 +41145,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680554889429,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41322,14 +41298,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "<solar/>Daybreak Projectiles deal 90% increased damage and apply 30 <solar/>Scorch on hit (40 with <solar/>Ember of Ashes). \n\n(Daybreak Projectiles can often hit twice for double damage and double <solar/>Scorch)\n\n<solar/>Scorch (from all sources) deals <pve 200% /> <pvp [50%] /> increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused <solar/>Ignitions)",
+     "main": "<solar/>Daybreak Projectiles deal 90% increased damage and apply 30 <solar/>Scorch on hit (40 with <solar/>Ember of Ashes). \n\n(Daybreak Projectiles can often hit twice for double damage and double <solar/>Scorch)\n\n<solar/>Scorch (from all sources) deals <pve 200% /> <pvp [50%] /> increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused <solar/>Ignitions)\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727526023407,
+      "lastUpdate": 1734439820351,
       "updatedBy": "Stardust"
      }
     },
@@ -41339,7 +41315,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41519,14 +41495,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Melee Hits grant the following for 5.5 seconds:\n• 50 Airborne Effectiveness\n• ? Mobility\n• ?% increased Jump Height\n+ <title Refills [G_refill] /> the Magazine of your held weapon from reserves\n\nPowered Melee Hits refill the Magazines of all your equipped weapons.\n\n7 second cooldown between activations.",
+     "main": "Melee Hits grant the following for 5.5 seconds:\n• 50 Airborne Effectiveness\n• ? Mobility\n• ?% increased Jump Height\n+ <title Refills [G_refill] /> the Magazine of your held weapon from reserves\n\nElemental Melee Hits refill the Magazines of all your equipped weapons.\n\n7 second cooldown between activations.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715797949905,
+      "lastUpdate": 1734539980589,
       "updatedBy": "Stardust"
      }
     },
@@ -41536,7 +41512,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41849,14 +41825,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Holding [Grenade] consumes your <arc/>Arc Grenade to make you <arc/>Amplified and summon a '<arc/>Sentient Arc Soul' for 20 seconds.\n\nSentient <arc/>Arc Soul information:\n• Counts as generic <arc/>Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have <void/>Devour active)",
+     "main": "Holding [Grenade] consumes your <arc/>Arc Grenade to make you <arc/>Amplified and summon a '<arc/>Sentient Arc Soul' for 20 seconds.\n\nSentient <arc/>Arc Soul information:\n• Counts as generic <arc/>Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have <void/>Devour active)\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723140180054,
+      "lastUpdate": 1734439888252,
       "updatedBy": "Stardust"
      }
     },
@@ -41866,7 +41842,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44814,14 +44790,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
+     "main": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734024032680,
+      "lastUpdate": 1734634387152,
       "updatedBy": "Stardust"
      }
     },
@@ -44831,7 +44807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46781,31 +46757,31 @@
    "inLiveDatabase": false
   },
   "3181984586": {
-   "hash": 3181984586,
    "name": "Charged Up",
+   "hash": 3181984586,
    "type": "Armor Mod General",
-   "lastUpload": 1725814661544,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 2577472338",
+     "secondary": "import secondary from 2577472338"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1734441170767,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1735000733120,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "3183537623": {
    "hash": 3183537623,
@@ -47033,14 +47009,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Dealing damage grants Grenade Ability Energy for each damage instance.\n\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.",
+     "main": "Dealing damage grants Grenade Ability Energy for each damage instance.\n\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1709226248235,
+      "lastUpdate": 1734439402514,
       "updatedBy": "Stardust"
      }
     },
@@ -47050,7 +47026,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709226265485,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49043,14 +49019,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
+     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734024015265,
+      "lastUpdate": 1734634379563,
       "updatedBy": "Stardust"
      }
     },
@@ -49060,7 +49036,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49884,14 +49860,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Powered Melee Kills (requires consumption of an ability charge) and Finishers trigger a Kinetic Explosion at the target's location. 1 second cooldown between activations.\n\nExplosion Damage and radius based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 533 Damage, 10? meter Radius\n• Elites: 665 Damage, ?m Radius\n• Minibosses and higher: 797 Damage, 15?m Radius\n\nUnknown for Players currently. Listed damage numbers are at the center of the explosion as the damage falls off toward the edge of the radius.\n\nFinishers upgrade the explosion to the one triggered by a Powered Melee on a one rank higher target.\n\nExplosions triggered by Powered Melee Kills (bugged with Finishers) can chain on Kills and will trigger weaker explosions that deal up to <pve 268 /> <pvp [?] /> damage in a 8? meter radius. Chain Explosions don't have a cooldown.",
+     "main": "Powered Melee Kills and Finishers trigger a Kinetic Explosion at the target's location. 1 second cooldown between activations.\n\nExplosion Damage and radius based on <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 533 Damage, 10? meter Radius\n• Elites: 665 Damage, ?m Radius\n• Minibosses and higher: 797 Damage, 15?m Radius\n\nUnknown for Players currently. Listed damage numbers are at the center of the explosion as the damage falls off toward the edge of the radius.\n\nFinishers upgrade the explosion to the one triggered by a Powered Melee on a one rank higher target.\n\nExplosions triggered by Powered Melee Kills (bugged with Finishers) can chain on Kills and will trigger weaker explosions that deal up to <pve 268 /> <pvp [?] /> damage in a 8? meter radius. Chain Explosions don't have a cooldown.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723390472101,
+      "lastUpdate": 1734540124685,
       "updatedBy": "Stardust"
      }
     },
@@ -49901,7 +49877,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50271,14 +50247,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Killing <stasis/>Frozen or <stasis/>Slowed enemies grants Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9% \n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%",
+     "main": "Killing <stasis/>Frozen or <stasis/>Slowed enemies grants Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 9% \n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1699461278742,
+      "lastUpdate": 1734439461124,
       "updatedBy": "Stardust"
      }
     },
@@ -50288,7 +50264,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1699463015549,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51069,14 +51045,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills grant #e${10 * #d}% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant #e${20 * #d}%.\n\nUsing your Grenade Ability <title refills [G_refill] /> the Magazine with a 3 second cooldown.\n\nenhanced (\nvar d = 1.1\n#e Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
+     "main": "Weapon Kills grant #e${10 * #d}% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant #e${20 * #d}%.\n\nUsing your Grenade Ability <title refills [G_refill] /> the Magazine with a 3 second cooldown.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.1\n#e Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719496563669,
+      "lastUpdate": 1734438683436,
       "updatedBy": "Stardust"
      }
     },
@@ -51086,7 +51062,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51808,19 +51784,15 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\nGrants #e${8*#d}% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\nenhanced (\nvar d = 1.125\n#e Ability Energy Gain is increased by 12.5%. (8%🠚9%)\n)",
+     "main": "On Weapon Kill:\nGrants #e${8*#d}% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.125\n#e Ability Energy Gain is increased by 12.5%. (8%🠚9%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1680345193814,
+      "lastUpdate": 1734438960751,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670341968148,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -51829,7 +51801,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1680349104559,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51866,14 +51838,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants Melee Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\nAttaching to targets with a <strand/>Grapple triggers the mod but <strand/>Grapple Melees do not.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079730343,
+      "lastUpdate": 1735000719870,
       "updatedBy": "Stardust"
      }
     },
@@ -51883,7 +51855,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52789,14 +52761,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <void/>Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you <void/>Devour.",
+     "main": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <void/>Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you <void/>Devour.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731164797491,
+      "lastUpdate": 1734440024119,
       "updatedBy": "Stardust"
      }
     },
@@ -52806,7 +52778,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52818,23 +52790,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Upon scoring a Powered <arc/>Arc Melee Kill:\nRefunds used Melee Ability Charge and starts Health Regeneration.",
+     "main": "Powered <arc/>Arc Melee Kills refund a Melee Ability Charge and start Health Regeneration.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1678724498899,
+      "lastUpdate": 1734651842408,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665683252223,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670509083945,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -52843,7 +52807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1678726148083,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52911,14 +52875,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an extra Melee Charge to Solar Subclasses.\n\nAll Melee Charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\nThrowing Knife Kills increase Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <solar/>Knock 'Em Down Aspect while <solar/>Radiant:\n• Knife Kills restore 1 Charge\n• Knife Trick Precision Kills and Direct <solar/>Ignition Kills in which Knife Trick applies <solar/>Scorch restore both Charges",
+     "main": "Grants an extra <solar/>Solar Melee Ability charge.\n\nAll Melee Charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\n<solar/>Throwing Knife Kills increase <solar/>Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <solar/>Knock 'Em Down Aspect while <solar/>Radiant:\n• Knife Kills restore 1 Charge\n• Knife Trick Precision Kills and Direct <solar/>Ignition Kills in which Knife Trick applies <solar/>Scorch restore both Charges",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729297419597,
+      "lastUpdate": 1734539655601,
       "updatedBy": "Stardust"
      }
     },
@@ -52928,7 +52892,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729372904933,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -53164,14 +53128,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants Class Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\n#ChunkEnergyScalars\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079322787,
+      "lastUpdate": 1734540406578,
       "updatedBy": "Stardust"
      }
     },
@@ -53181,7 +53145,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -53759,14 +53723,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079336442,
+      "lastUpdate": 1734441135525,
       "updatedBy": "Stardust"
      }
     },
@@ -53776,7 +53740,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55731,14 +55695,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an extra <arc/>Skip Grenade Charge.\n\n<arc/>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <pve 4.2% /> <pvp [1.4%] /> Grenade Ability Energy. (Each drone can hit enemies 2-3 times)",
+     "main": "Grants an extra <arc/>Skip Grenade Charge.\n\n<arc/>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <pve 4.2% /> <pvp [1.4%] /> Grenade Ability Energy. (Each drone can hit enemies 2-3 times)\n\n#ChunkEnergyUnaffected",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731155333135,
+      "lastUpdate": 1734440921556,
       "updatedBy": "Stardust"
      }
     },
@@ -55748,7 +55712,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56150,14 +56114,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds.\n\nAbyssal Extractor grants the following benefits:\n• 300% additional Base Grenade and Melee Ability Recharge Rate\n• 200% additional Base Super and Class Ability Recharge Rate",
+     "main": "<void/>Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds.\n\nAbyssal Extractor grants the following benefits:\n• 300% additional Base Grenade and Melee Ability Recharge Rate\n• 200% additional Base Super and Class Ability Recharge Rate",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1733936703861,
+      "lastUpdate": 1734539486344,
       "updatedBy": "Stardust"
      }
     },
@@ -56167,7 +56131,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1733936726157,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57175,14 +57139,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Finisher consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%",
+     "main": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689235460748,
+      "lastUpdate": 1734441409221,
       "updatedBy": "Stardust"
      }
     },
@@ -57192,7 +57156,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1689235825901,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57283,14 +57247,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%",
+     "main": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1689235360057,
+      "lastUpdate": 1734441266977,
       "updatedBy": "Stardust"
      }
     },
@@ -57300,7 +57264,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1689235825901,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57812,14 +57776,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <pve 4% /> <pvp [2%] /> | <pve 6% /> <pvp [3%] /> | <pve 7% /> <pvp [3.5%] />\n• Super Energy: <pve 2% /> <pvp [1%] /> | <pve 3% /> <pvp [1.5%] /> | <pve 4% /> <pvp [2%] />",
+     "main": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <pve 4% /> <pvp [2%] /> | <pve 6% /> <pvp [3%] /> | <pve 7% /> <pvp [3.5%] />\n• Super Energy: <pve 2% /> <pvp [1%] /> | <pve 3% /> <pvp [1.5%] /> | <pve 4% /> <pvp [2%] />\n\n#ChunkEnergyScalars (Super Energy gains are unaffected)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702080543064,
+      "lastUpdate": 1734441230007,
       "updatedBy": "Stardust"
      }
     },
@@ -57829,7 +57793,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58309,14 +58273,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon or Melee Kills grant a Stacking Damage Buff for #e${4.5+#d} seconds. Melee Kills grant all 5 Stacks instantly.\n\nDamage increase at 1|2|3|4|5 Stacks:\n6.7% | 13.3% | 20% | 26.6% | 33.3%\n\nBuff is removed on stow.\n\nenhanced (\nvar d = 2\n#e Buff Duration is increased by 2 seconds.\n)",
+     "main": "Weapon Kills grant a Stack of 'Swashbuckler' for #e${4.5+#d} seconds. Maximum of 5 Stacks.\n\nMelee Kills grant all 5 Stacks instantly.\n\nDamage increase at 1|2|3|4|5 Stacks:\n6.7% | 13.3% | 20% | 26.6% | 33.3%\n\nStowing the weapon removes the buff.\n\nenhanced (\nvar d = 2\n#e Buff Duration is increased by 2 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722302134036,
+      "lastUpdate": 1734538731202,
       "updatedBy": "Stardust"
      }
     },
@@ -58326,7 +58290,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58585,14 +58549,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Melee Hits with a <void/>Smoke Bomb ability charge instantly cast it on the meleed enemy.\n\nSmoke Bombs deal 50% increased damage. <void/>Quickfall does not receive this damage increase.\n\nDealing damage with <void/>Smoke Bomb grants <void/>Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated <void/>Smoke Bomb on the field.\n\nDealing damage with a <void/>Smoke Bomb or gaining <void/>Invisibility from <void/>Trapper's Ambush immediately removes the Ability Recharge bonus.",
+     "main": "Melee Hits while your <void/>Smoke Bomb is charged instantly detonate it on the attacked target.\n\nSmoke Bombs deal 50% increased damage. <void/>Quickfall does not receive this damage increase.\n\nDealing damage with <void/>Smoke Bomb grants <void/>Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n\nGrants 500% Additional Base Melee Recharge Rate while you have an undetonated <void/>Smoke Bomb on the field.\n\nDealing damage with a <void/>Smoke Bomb or gaining <void/>Invisibility from <void/>Trapper's Ambush immediately removes the Ability Recharge bonus.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731154456743,
+      "lastUpdate": 1734539316108,
       "updatedBy": "Stardust"
      }
     },
@@ -58602,7 +58566,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58983,14 +58947,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\n\nDoes not grant any energy to abilities that you already have a full charge of.\n\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2% //Adaptive Auto Rifle\n• VS Velocity Baton: 0.365% //Area-Denial Grenade Launcher\n• VS Gravitic Arrest: 0.425% //Adaptive Fusion Rifle\n• VS Chill Inhibitor: 3.5% //Rapid-Fire Grenade Launcher",
+     "main": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\n\nDoes not grant any energy to abilities that you already have a full charge of.\n\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2% //Adaptive Auto Rifle\n• VS Velocity Baton: 0.365% //Area-Denial Grenade Launcher\n• VS Gravitic Arrest: 0.425% //Adaptive Fusion Rifle\n• VS Chill Inhibitor: 3.5% //Rapid-Fire Grenade Launcher\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731006300108,
+      "lastUpdate": 1734439020860,
       "updatedBy": "Stardust"
      }
     },
@@ -59000,7 +58964,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59394,14 +59358,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Class Ability usage grants Melee Energy.\n\nMelee Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Class Ability usage grants Melee Energy.\n\nMelee Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1720700051871,
+      "lastUpdate": 1734441426305,
       "updatedBy": "Stardust"
      }
     },
@@ -59411,7 +59375,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1720700081708,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59612,14 +59576,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.  \n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<pve/>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<pvp/>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%",
+     "main": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.  \n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<pve/>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<pvp/>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702079588091,
+      "lastUpdate": 1734441308165,
       "updatedBy": "Stardust"
      }
     },
@@ -59629,7 +59593,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59749,14 +59713,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Class Ability usage grants Grenade Energy.\n\nGrenade Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />",
+     "main": "Class Ability usage grants Grenade Energy.\n\nGrenade Energy Gains with 1|2|3 Mods:\n<pve 12% /> <pvp [6%] /> | <pve 17% /> <pvp [8.5%] /> | <pve 20% /> <pvp [10%] />\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1702080202824,
+      "lastUpdate": 1734441148921,
       "updatedBy": "Stardust"
      }
     },
@@ -59766,7 +59730,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1702080947315,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60159,14 +60123,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Powered Melee Kills Grant <strand/>Unraveling Rounds to your <strand/>Strand Weapons for <pve 8 /> <pvp [5] /> seconds.",
+     "main": "Powered Melee Kills Grant <strand/>Unraveling Rounds to your <strand/>Strand Weapons for <pve 8 /> <pvp [5] /> seconds.\n\n//#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1699462327243,
+      "lastUpdate": 1734651315391,
       "updatedBy": "Stardust"
      }
     },
@@ -60176,7 +60140,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1699463015549,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60267,14 +60231,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Killing <strand/>Suspensded enemies grants Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 10% \n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n\n1? second cooldown between activations.",
+     "main": "Killing <strand/>Suspensded enemies grants Class Ability Energy based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 10% \n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n\n1? second cooldown between activations.\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1699462147325,
+      "lastUpdate": 1734439417390,
       "updatedBy": "Stardust"
      }
     },
@@ -60284,7 +60248,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1699463015549,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60294,14 +60258,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Dealing damage with <strand/>Tangles grants Melee Energy per damage instance based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 10% \n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%",
+     "main": "Dealing damage with <strand/>Tangles grants Melee Energy per damage instance based on <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 10% \n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723402613093,
+      "lastUpdate": 1734439394291,
       "updatedBy": "Stardust"
      }
     },
@@ -60311,7 +60275,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61393,14 +61357,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\n\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\n\nActivation progress on Kills by <link Enemy Rank [#CombatantClassifications] />:\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%",
+     "main": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\n\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\n\nActivation progress on Kills by <link Enemy Rank [#CombatantClassifications] />:\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%\n\n#ChunkEnergyScalars",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1729013968643,
+      "lastUpdate": 1734439039288,
       "updatedBy": "Stardust"
      }
     },
@@ -61410,7 +61374,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1735000733120,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
