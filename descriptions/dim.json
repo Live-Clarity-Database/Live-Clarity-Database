@@ -118,7 +118,51 @@
     {
      "linesContent": [
       {
-       "text": "Eriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon."
+       "text": "Glaive Melee Kills count as "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Winterbite"
+      },
+      {
+       "text": " Melee Kills count as "
+      },
+      {
+       "classNames": [ "heavy" ]
+      },
+      {
+       "text": "Power Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Eriana's Vow"
+      },
+      {
+       "text": " inherits the Exotic Primary Multiplier but is still treated as a "
+      },
+      {
+       "classNames": [ "special" ]
+      },
+      {
+       "text": "Special Weapon."
       }
      ]
     },
@@ -1217,7 +1261,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff."
+       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -2799,7 +2843,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Kills (requires consumption of an ability charge) and Finishers grant "
+       "text": "Powered Melee Kills and Finishers grant "
       },
       {
        "classNames": [ "void" ]
@@ -2879,6 +2923,16 @@
       },
       {
        "text": "Invisibility duration by 41.5%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -3919,7 +3973,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Hits make you and allies within 8 meters "
+       "text": "Elemental Melee Hits make you and allies within 8 meters "
       },
       {
        "classNames": [ "solar" ]
@@ -3932,6 +3986,16 @@
       },
       {
        "text": "Ember of Solace)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -4532,6 +4596,23 @@
        "text": "• T4 Minors, T3 Elites, and higher: 25%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -4674,7 +4755,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Grenade Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations."
+       "text": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -4722,6 +4803,33 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -4892,6 +5000,23 @@
      "linesContent": [
       {
        "text": "• Players, Minibosses, and Bosses: 100%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -5100,7 +5225,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Hits and (Glaive) Melee Kills "
+       "text": "Elemental Melee Hits and (Glaive) Melee Kills "
       },
       {
        "text": "refill"
@@ -5117,6 +5242,16 @@
      "linesContent": [
       {
        "text": "3 second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     },
@@ -5508,6 +5643,23 @@
      "linesContent": [
       {
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -5904,6 +6056,23 @@
        "text": " Tripmine Grenade Energy. 0.3 second cooldown between energy gains."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -6005,7 +6174,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -6025,7 +6194,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -6035,7 +6204,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -6080,7 +6259,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -6100,7 +6279,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -6721,6 +6910,23 @@
     {
      "linesContent": [
       {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "",
        "classNames": [ "enhancedArrow" ]
       },
@@ -6831,6 +7037,23 @@
        "text": "1 second cooldown between activations."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -6906,7 +7129,13 @@
     {
      "linesContent": [
       {
-       "text": "Grants an extra Smoke Bomb Melee Ability Charge."
+       "text": "Grants an extra "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Smoke Bomb Melee Ability Charge."
       }
      ]
     },
@@ -6916,7 +7145,10 @@
     {
      "linesContent": [
       {
-       "text": "Void Invisibility grants "
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Invisibility now grants "
       },
       {
        "text": "50%"
@@ -6938,6 +7170,9 @@
     {
      "linesContent": [
       {
+       "classNames": [ "void" ]
+      },
+      {
        "text": "Cloaking allies grants them the same Damage Resist benefits and refunds 50% Melee Ability Energy per ally made invisible."
       }
      ]
@@ -6949,6 +7184,23 @@
      "linesContent": [
       {
        "text": "Damage Resistance does not apply while in Super."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -7074,7 +7326,51 @@
     {
      "linesContent": [
       {
-       "text": "Eriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon."
+       "text": "Glaive Melee Kills count as "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Winterbite"
+      },
+      {
+       "text": " Melee Kills count as "
+      },
+      {
+       "classNames": [ "heavy" ]
+      },
+      {
+       "text": "Power Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Eriana's Vow"
+      },
+      {
+       "text": " inherits the Exotic Primary Multiplier but is still treated as a "
+      },
+      {
+       "classNames": [ "special" ]
+      },
+      {
+       "text": "Special Weapon."
       }
      ]
     },
@@ -7823,6 +8119,23 @@
        "text": "Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -7890,7 +8203,13 @@
     {
      "linesContent": [
       {
-       "text": "Receiving Melee damage or scoring a Powered Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds."
+       "text": "Receiving Melee damage or scoring an "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Arc Elemental Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds."
       }
      ]
     },
@@ -7900,7 +8219,13 @@
     {
      "linesContent": [
       {
-       "text": "Cross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's melee deals Arc Damage."
+       "text": "Cross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's Melee deals "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Arc Damage."
       }
      ]
     },
@@ -7911,6 +8236,16 @@
      "linesContent": [
       {
        "text": "The 'One-Two Punch' perk's Melee damage buff is decreased to 40% when Cross Counter is active."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -8765,6 +9100,23 @@
        "text": "Dealing Melee Damage grants 35 Handling for 3 seconds."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -9520,6 +9872,23 @@
        "text": "Dying spawns a Healing Rift at your location."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -9562,7 +9931,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability usage and Powered Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks."
+       "text": "Grenade Ability usage and Elemental Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks."
       }
      ]
     },
@@ -9573,6 +9942,16 @@
      "linesContent": [
       {
        "text": "Each Stack grants 10 Range, 10 Stability, and 10 Handling."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -9670,6 +10049,23 @@
      "linesContent": [
       {
        "text": "• Bequest: 2% (Grenade and Class Ability only)"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -10427,13 +10823,7 @@
     {
      "linesContent": [
       {
-       "text": "Upon sprinting for 0.5 seconds with a Shoulder Charge (or "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Ballistic Slam) Melee Ability charge:"
+       "text": "Upon sprinting for 0.5 seconds with an Eligible Melee Ability charge and while at full HP:"
       }
      ]
     },
@@ -10456,7 +10846,7 @@
     {
      "linesContent": [
       {
-       "text": "Overshield is instantly removed if no longer sprinting."
+       "text": "Overshield is removed if you stop sprinting."
       }
      ]
     },
@@ -10466,7 +10856,96 @@
     {
      "linesContent": [
       {
-       "text": "Grants 50% Melee Ability Energy upon dealing damage with the mentioned Melee Abilities. Prevents Melee Kickstart from activating."
+       "text": "Eligible Melee Abilities include: "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Ballistic Slam, "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Seismic Strike, "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Hammer Strike, and "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Shield Bash"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Dealing damage with the Eligible Melee Abilities grants Melee Energy:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Ballistic Slam: 25%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Shield Bash: 35%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Seismic Strike and "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Hammer Strike: 40%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Prevents Melee Kickstart from activating."
       }
      ]
     }
@@ -11291,6 +11770,23 @@
        "text": "Class Ability Usage grants ? Stability for ? seconds."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -11945,6 +12441,23 @@
        "text": "• T4 Minors, T3 Elites, and higher: 50%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -12156,6 +12669,23 @@
       },
       {
        "text": "Fusion Grenade Ability Energy (0.4 second cooldown between activations)"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -13146,6 +13676,23 @@
        "text": "Abilities with multiple charges do not receive any energy if they already have a full charge."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -13567,6 +14114,23 @@
        "text": "• T4 Minors, T3 Elites, and higher: 25%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -13830,6 +14394,23 @@
        "text": "Energy gains are doubled while standing in a Rift."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -14066,6 +14647,23 @@
        "text": "70% | 80% | 90% | 100%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -14288,6 +14886,23 @@
      "linesContent": [
       {
        "text": "Bug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -14557,7 +15172,7 @@
        "classNames": [ "strand" ]
       },
       {
-       "text": "Arcane Needle Kills and Kills on "
+       "text": "Arcane Needle Kills and Killing "
       },
       {
        "classNames": [ "strand" ]
@@ -14601,6 +15216,23 @@
        "text": "• T4 Minors, T3 Elites, and higher: 100%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -14613,7 +15245,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Grenade Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations."
+       "text": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -14661,6 +15293,33 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -14853,7 +15512,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered "
+       "text": "Elemental "
       },
       {
        "classNames": [ "void" ]
@@ -14905,6 +15564,16 @@
       },
       {
        "text": "Sentinel Shield's Shield Throw Hits grant 10% Super Energy, extending the Super's Duration."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -14970,14 +15639,24 @@
     {
      "linesContent": [
       {
-       "text": "Weapon or Melee Kills grant a Stacking Damage Buff for "
+       "text": "Weapon Kills grant a Stack of 'Swashbuckler' for "
       },
       {
        "text": "",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "6.5 seconds. Melee Kills grant all 5 Stacks instantly."
+       "text": "6.5 seconds. Maximum of 5 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Melee Kills grant all 5 Stacks instantly."
       }
      ]
     },
@@ -15004,7 +15683,7 @@
     {
      "linesContent": [
       {
-       "text": "Buff is removed on stow."
+       "text": "Stowing the weapon removes the buff."
       }
      ]
     },
@@ -15294,6 +15973,23 @@
      "linesContent": [
       {
        "text": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -16391,6 +17087,23 @@
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -17060,6 +17773,23 @@
        "text": "Frenzied Blade Ability Energy and an additional 5% for each ally within 10 meters."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -17266,6 +17996,9 @@
     {
      "linesContent": [
       {
+       "classNames": [ "arc" ]
+      },
+      {
        "text": "Ionic Traces move faster and grant doubled Ability Energy."
       }
      ]
@@ -17276,7 +18009,13 @@
     {
      "linesContent": [
       {
-       "text": "Total ability energy gained per Ionic Trace:"
+       "text": "Total ability energy gained per "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Ionic Trace:"
       }
      ]
     },
@@ -17293,7 +18032,27 @@
     {
      "linesContent": [
       {
-       "text": "Allies within 15 meters receive 10% Grenade, Melee, and Class Ability energy when you pick up an Ionic Trace."
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -19055,7 +19814,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE."
+       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -19335,17 +20094,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Payload detonates after a 0.6 second delay."
+       "text": "Splits off 55% of the Weapon's Bodyshot damage into a Explosive Payload that detonates after a 0.6 second delay. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -20216,7 +20965,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Hits and (Glaive) Melee Kills "
+       "text": "Elemental Melee Hits and (Glaive) Melee Kills "
       },
       {
        "text": "refill"
@@ -20233,6 +20982,16 @@
      "linesContent": [
       {
        "text": "3 second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -21078,6 +21837,23 @@
        "text": "Moebius Quiver can fire an additional volley per Super Activation."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": ". (Super Energy is unaffected)"
+      }
+     ]
     }
    ]
   }
@@ -21149,6 +21925,23 @@
        "text": "Kills grant 5% Class Ability Energy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -21161,7 +21954,7 @@
     {
      "linesContent": [
       {
-       "text": "Spawns an Orb of Power on Powered Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)"
+       "text": "Spawns an Orb of Power on Elemental Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)"
       }
      ]
     },
@@ -21172,6 +21965,16 @@
      "linesContent": [
       {
        "text": "10|5|1|1? second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -21461,6 +22264,23 @@
       },
       {
        "text": "Heavy Ammo Bricks grant 50%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -21937,6 +22757,23 @@
        "text": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -22073,6 +22910,23 @@
      "linesContent": [
       {
        "text": "Bug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -23010,6 +23864,23 @@
        "text": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -23709,6 +24580,23 @@
     {
      "linesContent": [
       {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "",
        "classNames": [ "enhancedArrow" ]
       },
@@ -23730,9 +24618,12 @@
     {
      "linesContent": [
       {
-       "text": "Grenade or Class Ability usage and dealing Powered Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds."
+       "text": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
     },
     {
      "linesContent": [
@@ -23894,6 +24785,16 @@
        "text": "• Does not grant any measurable benefit to Barricade HP despite stating it does"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+      }
+     ]
     }
    ]
   }
@@ -23948,6 +24849,23 @@
      "linesContent": [
       {
        "text": "[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -24021,7 +24939,13 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Ionic Traces grants 2% Super Energy with Chaos Reach selected."
+       "text": "Ionic Traces grants 2% Super Energy with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Chaos Reach selected."
       }
      ]
     },
@@ -24030,6 +24954,9 @@
     },
     {
      "linesContent": [
+      {
+       "classNames": [ "arc" ]
+      },
       {
        "text": "Chaos Reach refunds 10% Super Energy on hit."
       }
@@ -24048,7 +24975,13 @@
     {
      "linesContent": [
       {
-       "text": "This can increase Chaos Reach Duration by ~120%."
+       "text": "This can increase "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Chaos Reach duration by ~120%."
       }
      ]
     }
@@ -24173,17 +25106,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 55% of the Weapon's Bodyshot damage into a Delayed Explosive Payload that deals 30% increased damage in PvE and isn't affected by Damage Falloff."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Payload detonates after a 0.6 second delay."
+       "text": "Splits off 55% of the Weapon's Bodyshot damage into a Explosive Payload that detonates after a 0.6 second delay. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -24228,19 +25151,25 @@
     {
      "linesContent": [
       {
+       "text": "Killing "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Frozen Enemies or "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
        "text": "Shattering a "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Crystal or "
-      },
-      {
-       "classNames": [ "stasis" ]
-      },
-      {
-       "text": "Frozen Enemy with the weapon grants a Stack of "
+       "text": "Stasis Crystal with the weapon grants a Stack of "
       },
       {
        "classNames": [ "stasis" ]
@@ -24361,6 +25290,9 @@
     {
      "linesContent": [
       {
+       "classNames": [ "arc" ]
+      },
+      {
        "text": "Thunderclap strikes enemies within ? meters with Lightning, dealing "
       },
       {
@@ -24398,6 +25330,9 @@
     },
     {
      "linesContent": [
+      {
+       "classNames": [ "arc" ]
+      },
       {
        "text": "Thunderclap Kills refund Melee Energy based on "
       },
@@ -24456,6 +25391,23 @@
      "linesContent": [
       {
        "text": "• Bosses: 50%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -24936,6 +25888,23 @@
        "text": "• 0.5% when damage isn't Blocked (getting hit from behind)"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -24948,7 +25917,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Melee Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown between activations."
+       "text": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -24996,6 +25965,45 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Attaching to targets with a "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Grapple triggers the mod but "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Grapple Melees do not."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -25411,7 +26419,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -25431,7 +26439,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -25511,7 +26529,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -25531,7 +26549,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -25541,7 +26559,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -26014,7 +27042,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability usage and Powered Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks."
+       "text": "Grenade Ability usage and Elemental Melee hits grant 1 Stack of Well-Rounded for 15 seconds. Super Ability usage grants 2 Stacks. Maximum of 2 Stacks."
       }
      ]
     },
@@ -26046,6 +27074,16 @@
       },
       {
        "text": "12 Handling."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     },
@@ -26109,7 +27147,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: N/A]"
+       "text": "[PVP: 5%]"
       },
       {
        "text": " | "
@@ -26121,7 +27159,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: ?%]"
+       "text": "[PVP: 10%]"
       },
       {
        "text": " | "
@@ -26133,7 +27171,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: 10%]"
+       "text": "[PVP: 15%]"
       }
      ]
     },
@@ -26150,7 +27188,13 @@
     {
      "linesContent": [
       {
-       "text": "Damaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks "
+       "text": "Damaging targets that are 2 meters "
+      },
+      {
+       "text": "[PVP: 5 for Primary weapons]"
+      },
+      {
+       "text": " lower in elevation than the ground you stand on immediately grants all 3 Stacks "
       },
       {
        "text": "[PVP: Primary weapons only grant 1 Stack]"
@@ -27670,6 +28714,23 @@
        "text": "Chaos Accelerant aspect)"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -27803,6 +28864,23 @@
      "linesContent": [
       {
        "text": "• T4 Minors, T3 Elites, and higher: 25%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -28514,7 +29592,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: N/A]"
+       "text": "[PVP: 5%]"
       },
       {
        "text": " | "
@@ -28526,7 +29604,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: ?%]"
+       "text": "[PVP: 10%]"
       },
       {
        "text": " | "
@@ -28538,7 +29616,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: 10%]"
+       "text": "[PVP: 15%]"
       }
      ]
     },
@@ -28555,7 +29633,13 @@
     {
      "linesContent": [
       {
-       "text": "Damaging targets that are 1? meter lower in elevation than the ground you stand on immediately grants all 3 Stacks "
+       "text": "Damaging targets that are 2 meters "
+      },
+      {
+       "text": "[PVP: 5 for Primary weapons]"
+      },
+      {
+       "text": " lower in elevation than the ground you stand on immediately grants all 3 Stacks "
       },
       {
        "text": "[PVP: Primary weapons only grant 1 Stack]"
@@ -28679,6 +29763,23 @@
       },
       {
        "text": "Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     },
@@ -29754,7 +30855,7 @@
     {
      "linesContent": [
       {
-       "text": "Spawns an Orb of Power on Powered Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)"
+       "text": "Spawns an Orb of Power on Elemental Melee Kills that grants 0.8%|1.1%|1.25%|1.5% Super Energy with 1|2|3|4 Mods equipped. (4 Mods is only achievable through Exotic Armor)"
       }
      ]
     },
@@ -29765,6 +30866,16 @@
      "linesContent": [
       {
        "text": "10|5|1|1? second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -30333,6 +31444,23 @@
        "text": "• Large Shards: 50% 🠚 75%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -30385,6 +31513,23 @@
      "linesContent": [
       {
        "text": "• Dark Super: 5% Melee Ability Energy"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -30472,7 +31617,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -30492,7 +31637,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -30502,7 +31647,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -30547,7 +31702,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -30567,7 +31722,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -31385,6 +32550,23 @@
        "text": "Withering Blades."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -31829,7 +33011,51 @@
     {
      "linesContent": [
       {
-       "text": "Eriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon."
+       "text": "Glaive Melee Kills count as "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Winterbite"
+      },
+      {
+       "text": " Melee Kills count as "
+      },
+      {
+       "classNames": [ "heavy" ]
+      },
+      {
+       "text": "Power Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Eriana's Vow"
+      },
+      {
+       "text": " inherits the Exotic Primary Multiplier but is still treated as a "
+      },
+      {
+       "classNames": [ "special" ]
+      },
+      {
+       "text": "Special Weapon."
       }
      ]
     },
@@ -31871,7 +33097,17 @@
     {
      "linesContent": [
       {
-       "text": "Grenade or Powered Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%."
+       "text": "Grenade or Elemental Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -31886,19 +33122,25 @@
     {
      "linesContent": [
       {
+       "text": "Killing "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
+       "text": "Frozen Enemies or "
+      },
+      {
+       "classNames": [ "stasis" ]
+      },
+      {
        "text": "Shattering a "
       },
       {
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Crystal or "
-      },
-      {
-       "classNames": [ "stasis" ]
-      },
-      {
-       "text": "Frozen Enemy with the weapon grants "
+       "text": "Stasis Crystal with the weapon grants "
       },
       {
        "text": "",
@@ -32755,7 +33997,7 @@
     {
      "linesContent": [
       {
-       "text": "Damaging enemies marks them for 3 seconds. Marks are visible through walls."
+       "text": "Damaging a PVE Combatant or breaking a Player's Shields marks them for 3 seconds. Marks are visible through walls."
       }
      ]
     },
@@ -32945,6 +34187,23 @@
      "linesContent": [
       {
        "text": "Abilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     },
@@ -33406,6 +34665,23 @@
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -33694,7 +34970,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -33714,7 +34990,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -33724,7 +35000,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -33769,7 +35055,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -33789,7 +35075,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -34566,6 +35862,23 @@
        "text": "Grants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -34774,6 +36087,23 @@
        "text": "Ignitions)"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -34945,7 +36275,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Hits refill the Magazines of all your equipped weapons."
+       "text": "Elemental Melee Hits refill the Magazines of all your equipped weapons."
       }
      ]
     },
@@ -34956,6 +36286,16 @@
      "linesContent": [
       {
        "text": "7 second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -35219,6 +36559,23 @@
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -35329,6 +36686,23 @@
       },
       {
        "text": "Devour active)"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -35619,6 +36993,23 @@
     {
      "linesContent": [
       {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "",
        "classNames": [ "enhancedArrow" ]
       },
@@ -35817,7 +37208,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -35837,7 +37228,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -35917,7 +37318,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -35937,7 +37338,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -35947,7 +37348,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -38032,7 +39443,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE and isn't affected by damage Falloff."
+       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -38855,6 +40266,23 @@
     {
      "linesContent": [
       {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "",
        "classNames": [ "enhancedArrow" ]
       },
@@ -38937,7 +40365,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Hits and (Glaive) Melee Kills "
+       "text": "Elemental Melee Hits and (Glaive) Melee Kills "
       },
       {
        "text": "refill"
@@ -38954,6 +40382,16 @@
      "linesContent": [
       {
        "text": "3 second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -39202,6 +40640,21 @@
    ]
   }
  },
+ "3181984586": {
+  "hash": 3181984586,
+  "name": "Charged Up",
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Increases the Maximum Number of Armor Charge Stacks you can hold from 3 to 4|5|6 with 1|2|3 Mods equipped."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "3184690956": {
   "hash": 3184690956,
   "name": "Absolution",
@@ -39218,6 +40671,23 @@
      "linesContent": [
       {
        "text": "Grants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -39475,6 +40945,23 @@
      "linesContent": [
       {
        "text": "Grenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -40048,6 +41535,23 @@
        "text": "[PVP: 10%]"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -40080,7 +41584,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a tall, slightly curved, see-through barricade in front of you that blocks all projectiles fired at it."
+       "text": "Creates a tall, slightly curved, see-through Barricade in front of you that blocks all projectiles fired at it."
       }
      ]
     },
@@ -40100,7 +41604,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the barricade."
+       "text": "Grants 60% Splash Damage Resistance against PVE Combatants while standing behind the Barricade."
       }
      ]
     },
@@ -40110,7 +41614,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -40155,7 +41669,7 @@
     {
      "linesContent": [
       {
-       "text": "Creates a short, curved, see-through barricade that blocks all projectiles fired at it."
+       "text": "Creates a short, curved, see-through Barricade that blocks all projectiles fired at it."
       }
      ]
     },
@@ -40175,7 +41689,17 @@
     {
      "linesContent": [
       {
-       "text": "Enemies that pass through the barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the barricade are temporarily disoriented."
+       "text": "Enemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Barricade taunts PVE Combatants that are in front of it and within ? meters."
       }
      ]
     },
@@ -41467,7 +42991,7 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that deals 30% increased damage in PvE."
+       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -42389,7 +43913,7 @@
     {
      "linesContent": [
       {
-       "text": "Powered Melee Kills (requires consumption of an ability charge) and Finishers trigger a Kinetic Explosion at the target's location. 1 second cooldown between activations."
+       "text": "Powered Melee Kills and Finishers trigger a Kinetic Explosion at the target's location. 1 second cooldown between activations."
       }
      ]
     },
@@ -42470,6 +43994,16 @@
       },
       {
        "text": " damage in a 8? meter radius. Chain Explosions don't have a cooldown."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -42705,6 +44239,23 @@
      "linesContent": [
       {
        "text": "• Bosses: 50%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -43587,6 +45138,23 @@
        "text": " the Magazine with a 3 second cooldown."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -44033,6 +45601,23 @@
        "text": "Abilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -44083,7 +45668,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Melee Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown between activations."
+       "text": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -44131,6 +45716,45 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Attaching to targets with a "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Grapple triggers the mod but "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Grapple Melees do not."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -44382,6 +46006,23 @@
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -44631,7 +46272,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Class Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations."
+       "text": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -44679,6 +46320,33 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -44737,6 +46405,23 @@
        "text": "Devour."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -44751,20 +46436,23 @@
     {
      "linesContent": [
       {
-       "text": "Upon scoring a Powered "
+       "text": "Powered "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Arc Melee Kill:"
+       "text": "Arc Melee Kills refund a Melee Ability Charge and start Health Regeneration."
       }
      ]
     },
     {
+     "classNames": [ "spacer" ]
+    },
+    {
      "linesContent": [
       {
-       "text": "Refunds used Melee Ability Charge and starts Health Regeneration."
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -44886,7 +46574,13 @@
     {
      "linesContent": [
       {
-       "text": "Grants an extra Melee Charge to Solar Subclasses."
+       "text": "Grants an extra "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar Melee Ability charge."
       }
      ]
     },
@@ -44913,7 +46607,16 @@
     {
      "linesContent": [
       {
-       "text": "Throwing Knife Kills increase Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration."
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Throwing Knife Kills increase "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration."
       }
      ]
     },
@@ -45204,7 +46907,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants Class Ability Energy upon dealing Powered Melee Damage. 7 second cooldown between activations."
+       "text": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations."
       }
      ]
     },
@@ -45252,6 +46955,33 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     }
@@ -45781,6 +47511,23 @@
        "text": "[PVP: 10%]"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -46179,7 +47926,51 @@
     {
      "linesContent": [
       {
-       "text": "Eriana's Vow inherits the Exotic Primary Multiplier but is still treated as a Special Weapon."
+       "text": "Glaive Melee Kills count as "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Winterbite"
+      },
+      {
+       "text": " Melee Kills count as "
+      },
+      {
+       "classNames": [ "heavy" ]
+      },
+      {
+       "text": "Power Weapon Kills."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Eriana's Vow"
+      },
+      {
+       "text": " inherits the Exotic Primary Multiplier but is still treated as a "
+      },
+      {
+       "classNames": [ "special" ]
+      },
+      {
+       "text": "Special Weapon."
       }
      ]
     },
@@ -46289,6 +48080,23 @@
      "linesContent": [
       {
        "text": "Abilities with multiple charges do not receive any energy if they already have a full charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -47566,6 +49374,23 @@
        "text": " Grenade Ability Energy. (Each drone can hit enemies 2-3 times)"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -47862,6 +49687,9 @@
     {
      "linesContent": [
       {
+       "classNames": [ "void" ]
+      },
+      {
        "text": "Void Kills grant Abyssal Extractors for 2.5 seconds. Duration can be extended up to 20 seconds."
       }
      ]
@@ -48134,6 +49962,23 @@
      "linesContent": [
       {
        "text": "Grants 100% Melee Ability Energy if used within 15 meters of an enemy."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -49031,7 +50876,7 @@
     {
      "linesContent": [
       {
-       "text": "Finisher consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy."
+       "text": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy."
       }
      ]
     },
@@ -49049,6 +50894,23 @@
      "linesContent": [
       {
        "text": "70% | 80% | 90% | 100%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -49148,6 +51010,23 @@
      "linesContent": [
       {
        "text": "70% | 80% | 90% | 100%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -49332,6 +51211,23 @@
       },
       {
        "text": "[PVP: 2%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": ". (Super Energy gains are unaffected)"
       }
      ]
     }
@@ -49633,7 +51529,17 @@
     {
      "linesContent": [
       {
-       "text": "Weapon or Melee Kills grant a Stacking Damage Buff for 4.5 seconds. Melee Kills grant all 5 Stacks instantly."
+       "text": "Weapon Kills grant a Stack of 'Swashbuckler' for 4.5 seconds. Maximum of 5 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Melee Kills grant all 5 Stacks instantly."
       }
      ]
     },
@@ -49660,7 +51566,7 @@
     {
      "linesContent": [
       {
-       "text": "Buff is removed on stow."
+       "text": "Stowing the weapon removes the buff."
       }
      ]
     }
@@ -49990,13 +51896,13 @@
     {
      "linesContent": [
       {
-       "text": "Melee Hits with a "
+       "text": "Melee Hits while your "
       },
       {
        "classNames": [ "void" ]
       },
       {
-       "text": "Smoke Bomb ability charge instantly cast it on the meleed enemy."
+       "text": "Smoke Bomb is charged instantly detonate it on the attacked target."
       }
      ]
     },
@@ -50349,6 +52255,23 @@
        "text": "• VS Chill Inhibitor: 3.5%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -50498,6 +52421,23 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -50750,6 +52690,23 @@
        "text": "[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -50839,6 +52796,23 @@
       },
       {
        "text": "[PVP: 10%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -51295,6 +53269,23 @@
        "text": "1? second cooldown between activations."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -51356,6 +53347,23 @@
      "linesContent": [
       {
        "text": "• T4 Minors, T3 Elites, and higher: 30%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
       }
      ]
     }
@@ -52276,6 +54284,23 @@
        "text": "• Elites, Minibosses, and Bosses: 50%"
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": "."
+      }
+     ]
     }
    ]
   }
@@ -52379,6 +54404,23 @@
       },
       {
        "text": "[PVP: 2%]"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in "
+      },
+      {
+       "text": "our explainer blog post on the Clarity website",
+       "link": "https://url.d2clarity.com/chunk-energy-scalars"
+      },
+      {
+       "text": ". (Super Energy gains are unaffected)"
       }
      ]
     }
@@ -52625,7 +54667,17 @@
     {
      "linesContent": [
       {
-       "text": "Grenade or Powered Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%."
+       "text": "Grenade or Elemental Melee Kills matching the element of the Weapon grant Golden Tricorn x2 for 10 seconds, increasing weapon damage by 50%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
       }
      ]
     },
