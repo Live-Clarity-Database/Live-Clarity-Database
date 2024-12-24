@@ -59,14 +59,14 @@
    "type": "none",
    "editor": {
     "en": {
-     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.\n\nvar ChunkEnergyScalars = Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar ChunkEnergyUnaffected = Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar MeleeAbilityDisambiguation = Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future.",
+     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.\n\nvar ChunkEnergyScalars = Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar ChunkEnergyUnaffected = Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar MeleeAbilityDisambiguation = Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future.\n\ntemp",
      "secondary": ""
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1735003214494,
+      "lastUpdate": 1735009171746,
       "updatedBy": "Stardust"
      }
     },
@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -3772,7 +3772,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5234,7 +5234,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5477,7 +5477,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -5838,7 +5838,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6033,7 +6033,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -6582,7 +6582,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7530,7 +7530,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7669,7 +7669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7696,7 +7696,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8202,7 +8202,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8257,7 +8257,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8367,7 +8367,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8421,7 +8421,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8504,7 +8504,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8585,7 +8585,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9168,7 +9168,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9250,7 +9250,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9633,7 +9633,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10465,7 +10465,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10834,7 +10834,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11056,7 +11056,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -11276,7 +11276,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -12001,7 +12001,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13066,7 +13066,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13963,7 +13963,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -14106,7 +14106,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15841,7 +15841,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16131,7 +16131,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16659,7 +16659,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -16933,7 +16933,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17320,7 +17320,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17471,7 +17471,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -17669,7 +17669,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20583,7 +20583,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20773,7 +20773,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24406,7 +24406,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25469,7 +25469,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -25663,7 +25663,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26103,7 +26103,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26456,7 +26456,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26649,7 +26649,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -27856,7 +27856,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -28609,7 +28609,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29053,7 +29053,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29188,7 +29188,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29215,7 +29215,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29523,7 +29523,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30347,7 +30347,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33628,7 +33628,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33709,7 +33709,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34557,7 +34557,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -34805,7 +34805,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -35986,7 +35986,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36592,7 +36592,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36646,7 +36646,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37471,7 +37471,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37831,7 +37831,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -37887,7 +37887,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39276,7 +39276,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -40292,7 +40292,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41145,7 +41145,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41315,7 +41315,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41512,7 +41512,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -41842,7 +41842,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -44807,7 +44807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -46779,7 +46779,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -47026,7 +47026,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49036,7 +49036,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49877,7 +49877,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50264,7 +50264,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51062,7 +51062,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51801,7 +51801,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51855,7 +51855,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52778,7 +52778,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52807,7 +52807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -52892,7 +52892,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -53145,7 +53145,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -53740,7 +53740,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55712,7 +55712,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56131,7 +56131,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57156,7 +57156,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57264,7 +57264,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57793,7 +57793,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58290,7 +58290,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58566,7 +58566,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58964,7 +58964,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59375,7 +59375,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59593,7 +59593,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59730,7 +59730,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60140,7 +60140,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60248,7 +60248,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -60275,7 +60275,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61374,7 +61374,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735003218459,
+   "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
