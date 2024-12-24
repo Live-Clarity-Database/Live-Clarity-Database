@@ -640,7 +640,7 @@
   "name": "Vanishing Execution",
   "itemHash": 2203146422,
   "itemName": "Assassin's Cowl",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -868,7 +868,7 @@
  "362132288": {
   "hash": 362132288,
   "name": "Ember of Torches",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -958,11 +958,11 @@
  "362132301": {
   "hash": 362132301,
   "name": "Ember of Blistering",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:solar:720178909361995786>Ignition Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:solar:720178909361995786>Ignition Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "365154968": {
@@ -988,11 +988,11 @@
  "377010989": {
   "hash": 377010989,
   "name": "Impact Induction",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "378204240": {
@@ -1042,11 +1042,11 @@
   "name": "Bring the Heat",
   "itemHash": 1734844650,
   "itemName": "Ashen Wake",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors: 25%\n• Elites: 50%\n• Players, Minibosses, and Bosses: 100%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Fusion Grenades have Fastball intrinsically and detonate on impact, stunning Unstoppable Champions on hit.\n\nFusion Grenade Kills refund Grenade Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors: 25%\n• Elites: 50%\n• Players, Minibosses, and Bosses: 100%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "384759955": {
@@ -1188,11 +1188,11 @@
  "426473317": {
   "hash": 426473317,
   "name": "Gambler's Dodge",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "431220296": {
@@ -1350,11 +1350,11 @@
   "name": "Wish-Dragon Teeth",
   "itemHash": 475652357,
   "itemName": "Young Ahamkara's Spine",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Intrinsically grants Fastball to all grenades.\n\nEnhances <:solar:720178909361995786>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<:solar:720178909361995786>Solar Ability Hits grant <:pve:922884406073507930>33% <:pvp:922884468275019856>[8%] Tripmine Grenade Energy. 0.3 second cooldown between energy gains.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Intrinsically grants Fastball to all grenades.\n\nEnhances <:solar:720178909361995786>Tripmine Grenades:\n• 14% increased Explosion damage\n• Explosion Length and Width are increased to 14 meters\n• Explosions don't have any damage falloff\n• Explosion no longer deals self-damage\n• Last 20 seconds longer (10s🠚30s)\n• Grants Tripmine Grenades 70 HP\n\n<:solar:720178909361995786>Solar Ability Hits grant <:pve:922884406073507930>33% <:pvp:922884468275019856>[8%] Tripmine Grenade Energy. 0.3 second cooldown between energy gains.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "481860151": {
@@ -1384,7 +1384,7 @@
  "489583096": {
   "hash": 489583096,
   "name": "Towering Barricade",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1394,7 +1394,7 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1508,7 +1508,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "stats": {
    "Guard Charge Rate": [
     {
@@ -1537,7 +1537,7 @@
  "534479613": {
   "hash": 534479613,
   "name": "Arc Scavenger",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1551,7 +1551,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 🡅11% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 🡅22%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)"
+   "en": "Weapon Kills grant 🡅11% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 🡅22%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)"
   }
  },
  "537774540": {
@@ -1567,11 +1567,11 @@
  "537774541": {
   "hash": 537774541,
   "name": "Whisper of Torment",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while <:stasis:915198000727461909>Frost Armor is active.\n\n1 second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while <:stasis:915198000727461909>Frost Armor is active.\n\n1 second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "537774542": {
@@ -1587,7 +1587,7 @@
  "537774543": {
   "hash": 537774543,
   "name": "Whisper of Impetus",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1599,17 +1599,17 @@
   "name": "Beyond The Veil",
   "itemHash": 1935198785,
   "itemName": "Omnioculus",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants an extra <:void:720178940240461864>Smoke Bomb Melee Ability Charge.\n\n<:void:720178940240461864>Invisibility now grants <:pve:922884406073507930>50% <:pvp:922884468275019856>[10%] Damage Resistance (Resist x4).\n\n<:void:720178940240461864>Cloaking allies grants them the same Damage Resist benefits and refunds 50% Melee Ability Energy per ally made invisible.\n\nDamage Resistance does not apply while in Super.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants an extra <:void:720178940240461864>Smoke Bomb Melee Ability Charge.\n\n<:void:720178940240461864>Invisibility now grants <:pve:922884406073507930>50% <:pvp:922884468275019856>[10%] Damage Resistance (Resist x4).\n\n<:void:720178940240461864>Cloaking allies grants them the same Damage Resist benefits and refunds 50% Melee Ability Energy per ally made invisible.\n\nDamage Resistance does not apply while in Super.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "554409585": {
   "hash": 554409585,
   "name": "Heavy Ammo Finder",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1777,11 +1777,11 @@
   "name": "Probability Matrix",
   "itemHash": 903984858,
   "itemName": "Lucky Raspberry",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:arc:720178925317128243>Arcbolt Grenades can chain an additional time (3🠚4) and apply Disruption.\n\nTriggering <:arc:720178925317128243>Jolt damage grants 20% Arcbolt Grenade Energy.\n\n<:arc:720178925317128243>Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:arc:720178925317128243>Arcbolt Grenades can chain an additional time (3🠚4) and apply Disruption.\n\nTriggering <:arc:720178925317128243>Jolt damage grants 20% Arcbolt Grenade Energy.\n\n<:arc:720178925317128243>Ionic Trace Pickups grant 5% additional Arcbolt Grenade Energy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "595108252": {
@@ -1799,7 +1799,7 @@
   "name": "Cross Counter",
   "itemHash": 4165919945,
   "itemName": "Liar's Handshake",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1865,7 +1865,7 @@
   "name": "Warlord's End",
   "itemHash": 2822465023,
   "itemName": "Felwinter's Helm",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2029,11 +2029,11 @@
  "691659142": {
   "hash": 691659142,
   "name": "Pugilist",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Melee Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\n\nDealing Melee Damage grants 35 Handling for 3 seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "692285813": {
@@ -2155,11 +2155,11 @@
   "name": "Dearly Departed",
   "itemHash": 2177524718,
   "itemName": "The Stag",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants <:pve:922884406073507930>25% <:pvp:922884468275019856>[5%] Damage Resistance (Resist x2) to you and allies inside Rifts you create. (<:solar:720178909361995786>Well of Radiance does not count but you can cast a Rift inside it for the benefits)\n\nReaching Critical Health grants the Dearly Departed buff, granting <:pve:922884406073507930>50% <:pvp:922884468275019856>[25%] Class Ability Energy.\n\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\n\nDying spawns a Healing Rift at your location.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants <:pve:922884406073507930>25% <:pvp:922884468275019856>[5%] Damage Resistance (Resist x2) to you and allies inside Rifts you create. (<:solar:720178909361995786>Well of Radiance does not count but you can cast a Rift inside it for the benefits)\n\nReaching Critical Health grants the Dearly Departed buff, granting <:pve:922884406073507930>50% <:pvp:922884468275019856>[25%] Class Ability Energy.\n\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\n\nDying spawns a Healing Rift at your location.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "736000386": {
@@ -2197,7 +2197,7 @@
  "744594675": {
   "hash": 744594675,
   "name": "Well-Rounded",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2249,11 +2249,11 @@
  "766321425": {
   "hash": 766321425,
   "name": "Bray Inheritance",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\n\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\n\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "769440797": {
@@ -2425,7 +2425,7 @@
   "name": "Seriously, Watch Out",
   "itemHash": 136355432,
   "itemName": "Mk. 44 Stand Asides",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -2667,11 +2667,11 @@
  "880644845": {
   "hash": 880644845,
   "name": "Strategist",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "883366072": {
@@ -2809,11 +2809,11 @@
   "name": "Fervid Coldsnap",
   "itemHash": 3259193988,
   "itemName": "Osmiomancy Gloves",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants <:stasis:915198000727461909>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster.\n\nDamaging an enemy with <:stasis:915198000727461909>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants <:stasis:915198000727461909>Coldsnap Grenades an extra Ability Charge, better tracking, and travel 17.5% farther and faster.\n\nDamaging an enemy with <:stasis:915198000727461909>Coldsnap Grenades grants Grenade Ability Energy.\n\nGrenade Energy gains based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Enemy Players: 7%\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 22%\n• T3 Minors, T2 Elites: 34%\n• T4 Minors, T3 Elites, and higher: 50%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "923806249": {
@@ -2867,11 +2867,11 @@
   "name": "Fusion Harness",
   "itemHash": 2082483156,
   "itemName": "Starfire Protocol",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants the following with <:solar:720178909361995786>Fusion Grenades equipped:\n• An extra Grenade Charge\n• 100% Class Ability Energy on Fusion Grenade Kills\n• Passive 20% Additional Base Grenade Ability Recharge Rate\n\nWhile in an Empowering Rift or <:solar:720178909361995786>Well of Radiance:\n• Weapon Kills grant 20% <:solar:720178909361995786>Fusion Grenade Energy\n• Weapon Hits grant 2.5% <:solar:720178909361995786>Fusion Grenade Ability Energy (0.4 second cooldown between activations)\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants the following with <:solar:720178909361995786>Fusion Grenades equipped:\n• An extra Grenade Charge\n• 100% Class Ability Energy on Fusion Grenade Kills\n• Passive 20% Additional Base Grenade Ability Recharge Rate\n\nWhile in an Empowering Rift or <:solar:720178909361995786>Well of Radiance:\n• Weapon Kills grant 20% <:solar:720178909361995786>Fusion Grenade Energy\n• Weapon Hits grant 2.5% <:solar:720178909361995786>Fusion Grenade Ability Energy (0.4 second cooldown between activations)\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "926976844": {
@@ -3153,11 +3153,11 @@
  "1039115606": {
   "hash": 1039115606,
   "name": "Orbs of Restoration",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1044888195": {
@@ -3249,11 +3249,11 @@
  "1051276351": {
   "hash": 1051276351,
   "name": "Ember of Searing",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Killing <:solar:720178909361995786>Scorched enemies spawns a <:solar:720178909361995786>Firesprite and grants Melee Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%\n• T3 Minors, T2 Elites: 17.5%\n• Players: 20%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing <:solar:720178909361995786>Scorched enemies spawns a <:solar:720178909361995786>Firesprite and grants Melee Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%\n• T3 Minors, T2 Elites: 17.5%\n• Players: 20%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1057935015": {
@@ -3335,11 +3335,11 @@
   "name": "Embers of Light",
   "itemHash": 235591051,
   "itemName": "Promethium Spur",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Requires a <:solar:720178909361995786>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<:solar:720178909361995786>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<:solar:720178909361995786>Solar Weapon Kills grant Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <:pvp:922884468275019856>Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Requires a <:solar:720178909361995786>Solar Super to be equipped to function.\n\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<:solar:720178909361995786>Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n\n<:solar:720178909361995786>Solar Weapon Kills grant Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• <:pvp:922884468275019856>Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\n\nEnergy gains are doubled while standing in a Rift.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1097608874": {
@@ -3395,11 +3395,11 @@
  "1125986156": {
   "hash": 1125986156,
   "name": "Utility Finisher",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1126264488": {
@@ -3449,7 +3449,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1140096971": {
@@ -3501,11 +3501,11 @@
   "name": "Stylostixis",
   "itemHash": 1955548646,
   "itemName": "Mataiodoxía",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Arcane Needles Shield-Piercing properties.\n\nScoring an Arcane Needle hit on an enemy marks them with a vertical mark for 10 seconds. Marked Enemies cause nearby targets to become Suspended on death.\n\nScoring 2 Arcane Needle hits on a Marked Enemy triggers a Explosion, dealing up to ? damage and Suspending targets within ? meters.\n\nArcane Needle Kills and Killing Suspended targets grant Melee Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 15%\n• T2 Minors, T1 Elites: 22.2%\n• T3 Minors, T2 Elites, Enemy Players: 33%\n• T4 Minors, T3 Elites, and higher: 100%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Arcane Needles Shield-Piercing properties.\n\nScoring an Arcane Needle hit on an enemy marks them with a vertical mark for 10 seconds. Marked Enemies cause nearby targets to become Suspended on death.\n\nScoring 2 Arcane Needle hits on a Marked Enemy triggers a Explosion, dealing up to ? damage and Suspending targets within ? meters.\n\nArcane Needle Kills and Killing Suspended targets grant Melee Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 15%\n• T2 Minors, T1 Elites: 22.2%\n• T3 Minors, T2 Elites, Enemy Players: 33%\n• T4 Minors, T3 Elites, and higher: 100%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1149703256": {
@@ -3527,7 +3527,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nGrenade Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "1155472384": {
@@ -3559,7 +3559,7 @@
   "name": "Horns of Doom",
   "itemHash": 241462141,
   "itemName": "Doom Fang Pauldron",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -3631,11 +3631,11 @@
  "1170405455": {
   "hash": 1170405455,
   "name": "Restorative Finisher",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1171147302": {
@@ -4079,7 +4079,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1282157891": {
@@ -4311,11 +4311,11 @@
   "name": "Wish-Dragon's Talons",
   "itemHash": 3717431477,
   "itemName": "Wishful Ignorance",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants an additional Frenzied Blade Ability Charge.\n\nFrenzied Blade or Flechette Storm Hits grant a Stack of 'Wish-Dragon's Talons' for ? seconds. Maximum of 3? Stacks.\n\nCan only grant 1 Stack per ability usage.\n\n'Wish-Dragon's Talons' grants increased Frenzied Blade and Flechette Storm damage.\n\nDamage increase at 1|2|3 Stacks:\n• Frenzied Blade: 20% | 50% | 100%\n• Flechette Storm: 10% | 25% | 50%\n\nBanner of War's Pulses grant 5% Frenzied Blade Ability Energy and an additional 5% for each ally within 10 meters.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants an additional Frenzied Blade Ability Charge.\n\nFrenzied Blade or Flechette Storm Hits grant a Stack of 'Wish-Dragon's Talons' for ? seconds. Maximum of 3? Stacks.\n\nCan only grant 1 Stack per ability usage.\n\n'Wish-Dragon's Talons' grants increased Frenzied Blade and Flechette Storm damage.\n\nDamage increase at 1|2|3 Stacks:\n• Frenzied Blade: 20% | 50% | 100%\n• Flechette Storm: 10% | 25% | 50%\n\nBanner of War's Pulses grant 5% Frenzied Blade Ability Energy and an additional 5% for each ally within 10 meters.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1359896290": {
@@ -4353,11 +4353,11 @@
   "name": "Ionic Conductor",
   "itemHash": 1849149215,
   "itemName": "Fallen Sunstar",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:arc:720178925317128243>Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per <:arc:720178925317128243>Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\n<:arc:720178925317128243>Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:arc:720178925317128243>Ionic Traces move faster and grant doubled Ability Energy.\n\nTotal ability energy gained per <:arc:720178925317128243>Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n\n<:arc:720178925317128243>Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1378047685": {
@@ -5049,7 +5049,7 @@
  "1631667848": {
   "hash": 1631667848,
   "name": "Grave Robber",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5313,11 +5313,11 @@
   "name": "Uncanny Arrows",
   "itemHash": 193869523,
   "itemName": "Orpheus Rig",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\n\nMoebius Quiver can fire an additional volley per Super Activation.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy is unaffected)"
+   "en": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\n\nMoebius Quiver can fire an additional volley per Super Activation.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy is unaffected)"
   }
  },
  "1694242450": {
@@ -5345,11 +5345,11 @@
  "1702976605": {
   "hash": 1702976605,
   "name": "Classy Contender",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Kills grant 5% Class Ability Energy.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Kills grant 5% Class Ability Energy.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1709236482": {
@@ -5467,11 +5467,11 @@
  "1727069365": {
   "hash": 1727069365,
   "name": "Spark of Momentum",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Sliding over Ammo Bricks refills your held weapon from reserves and grants Melee Energy.\n\n<:special:968793055631114330>Special Ammo Bricks grant 20% Melee Energy and <:heavy:968793055652106320>Heavy Ammo Bricks grant 50%.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Sliding over Ammo Bricks refills your held weapon from reserves and grants Melee Energy.\n\n<:special:968793055631114330>Special Ammo Bricks grant 20% Melee Energy and <:heavy:968793055652106320>Heavy Ammo Bricks grant 50%.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1727069366": {
@@ -5591,11 +5591,11 @@
  "1750845415": {
   "hash": 1750845415,
   "name": "Innervation",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1754714824": {
@@ -5643,11 +5643,11 @@
  "1763780622": {
   "hash": 1763780622,
   "name": "Melee Kickstart",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\n\nMelee Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1771339417": {
@@ -5873,11 +5873,11 @@
  "1848187513": {
   "hash": 1848187513,
   "name": "Invigoration",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1853177948": {
@@ -6057,7 +6057,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 🡅11% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 🡅22%.\n\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
+   "en": "Weapon Kills grant 🡅11% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 🡅22%.\n\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
   }
  },
  "1919923227": {
@@ -6065,7 +6065,7 @@
   "name": "Overflowing Light",
   "itemHash": 1341951177,
   "itemName": "Heart of Inmost Light",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6079,7 +6079,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1926441324": {
@@ -6097,7 +6097,7 @@
   "name": "Close Enough",
   "itemHash": 121305948,
   "itemName": "Geomag Stabilizers",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6127,7 +6127,7 @@
  "1954620775": {
   "hash": 1954620775,
   "name": "Timed Payload",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6137,7 +6137,7 @@
  "1955165503": {
   "hash": 1955165503,
   "name": "Rimestealer",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -6179,11 +6179,11 @@
   "name": "Hammer of the Gods",
   "itemHash": 1703598057,
   "itemName": "Point-Contact Cannon Brace",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:arc:720178925317128243>Thunderclap strikes enemies within ? meters with Lightning, dealing <:pve:922884406073507930>200 <:pvp:922884468275019856>[50] damage. Lightning Strike damage is doubled while <:arc:720178925317128243>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\n<:arc:720178925317128243>Thunderclap Kills refund Melee Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:arc:720178925317128243>Thunderclap strikes enemies within ? meters with Lightning, dealing <:pve:922884406073507930>200 <:pvp:922884468275019856>[50] damage. Lightning Strike damage is doubled while <:arc:720178925317128243>Amplified.\n\nKills with Lightning Strikes grant ?% Melee energy.\n\n<:arc:720178925317128243>Thunderclap Kills refund Melee Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1971149752": {
@@ -6295,11 +6295,11 @@
  "2030760728": {
   "hash": 2030760728,
   "name": "Energy Transfer",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 1.5% when Melee Damage is Blocked\n• 1% when non-Melee Damage is Blocked\n• 0.5% when damage isn't Blocked (getting hit from behind)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 1.5% when Melee Damage is Blocked\n• 1% when non-Melee Damage is Blocked\n• 0.5% when damage isn't Blocked (getting hit from behind)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2031584061": {
@@ -6309,7 +6309,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAttaching to targets with a Grapple triggers the mod but Grapple Melees do not.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAttaching to targets with a Grapple triggers the mod but Grapple Melees do not.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2037312142": {
@@ -6983,11 +6983,11 @@
  "2272984664": {
   "hash": 2272984664,
   "name": "Echo of Provision",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\n\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the <:void:720178940240461864>Chaos Accelerant aspect)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\n\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the <:void:720178940240461864>Chaos Accelerant aspect)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2272984665": {
@@ -7013,11 +7013,11 @@
  "2272984667": {
   "hash": 2272984667,
   "name": "Echo of Exchange",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Melee Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Melee Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2272984668": {
@@ -7199,7 +7199,7 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7253,11 +7253,11 @@
   "name": "Solar Rampart",
   "itemHash": 2384488862,
   "itemName": "Khepri's Horn",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:solar:720178909361995786>Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nUpon casting a Barricade Class Ability:\nUnleashes a <:solar:720178909361995786>Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry.\n\nThe Wave deals <:pve:922884406073507930>480 <:pvp:922884468275019856>[100] damage and applies <:pve:922884406073507930>60 <:pvp:922884468275019856>[30] <:solar:720178909361995786>Scorch Stacks (<:pve:922884406073507930>90 <:pvp:922884468275019856>[45] with <:solar:720178909361995786>Ember of Ashes).\n\nDamage and <:solar:720178909361995786>Scorch are separately applied by both the initial and returning waves. <:solar:720178909361995786>Solar Wave is not affected by <:solar:720178909361995786>Roaring Flames."
+   "en": "<:solar:720178909361995786>Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nUpon casting a Barricade Class Ability:\nUnleashes a <:solar:720178909361995786>Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry.\n\nThe Wave deals <:pve:922884406073507930>480 <:pvp:922884468275019856>[100] damage and applies <:pve:922884406073507930>60 <:pvp:922884468275019856>[30] <:solar:720178909361995786>Scorch Stacks (<:pve:922884406073507930>90 <:pvp:922884468275019856>[45] with <:solar:720178909361995786>Ember of Ashes).\n\nDamage and <:solar:720178909361995786>Scorch are separately applied by both the initial and returning waves. <:solar:720178909361995786>Solar Wave is not affected by <:solar:720178909361995786>Roaring Flames."
   }
  },
  "2360754333": {
@@ -7527,7 +7527,7 @@
  "2447449706": {
   "hash": 2447449706,
   "name": "Heavy Handed",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7681,11 +7681,11 @@
  "2483898431": {
   "hash": 2483898431,
   "name": "Whisper of Hunger",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:stasis:915198000727461909>Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:stasis:915198000727461909>Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2485657760": {
@@ -7701,11 +7701,11 @@
  "2489430594": {
   "hash": 2489430594,
   "name": "Indomitability",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2495011826": {
@@ -7867,11 +7867,11 @@
   "name": "Null Factor",
   "itemHash": 322173891,
   "itemName": "Mask of Fealty",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:stasis:915198000727461909>Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small <:stasis:915198000727461909>Stasis Crystal.\n\nShattering a <:stasis:915198000727461909>Stasis Crystal or <:stasis:915198000727461909>Frozen Enemy with <:stasis:915198000727461909>Withering Blade releases a spread of 3 <:stasis:915198000727461909>Withering Blades.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:stasis:915198000727461909>Withering Blade hits and bounces grant 7.5% Melee Ability Energy. Additionally, the 1st and 3rd bounces spawn a Small <:stasis:915198000727461909>Stasis Crystal.\n\nShattering a <:stasis:915198000727461909>Stasis Crystal or <:stasis:915198000727461909>Frozen Enemy with <:stasis:915198000727461909>Withering Blade releases a spread of 3 <:stasis:915198000727461909>Withering Blades.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2577472338": {
@@ -7973,7 +7973,7 @@
  "2595839237": {
   "hash": 2595839237,
   "name": "Special Ammo Finder",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7983,7 +7983,7 @@
  "2610012052": {
   "hash": 2610012052,
   "name": "Golden Tricorn",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8193,7 +8193,7 @@
   "name": "Upgraded Sensor Pack",
   "itemHash": 1321354572,
   "itemName": "Knucklehead Radar",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8239,7 +8239,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "On Weapon Kill:\nGrants 🡅9% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Ability Energy Gain is increased by 12.5%. (8%🠚9%)"
+   "en": "On Weapon Kill:\nGrants 🡅9% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Ability Energy Gain is increased by 12.5%. (8%🠚9%)"
   }
  },
  "2679249093": {
@@ -8291,7 +8291,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2711519341": {
@@ -8413,7 +8413,7 @@
   "name": "Helium Spirals",
   "itemHash": 3787517196,
   "itemName": "Sunbracers",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8557,11 +8557,11 @@
  "2793473444": {
   "hash": 2793473444,
   "name": "Absolution",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2793548555": {
@@ -8611,11 +8611,11 @@
   "name": "Rites of Ember",
   "itemHash": 2316914168,
   "itemName": "Dawn Chorus",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "<:solar:720178909361995786>Daybreak Projectiles deal 90% increased damage and apply 30 <:solar:720178909361995786>Scorch on hit (40 with <:solar:720178909361995786>Ember of Ashes).\n\n(Daybreak Projectiles can often hit twice for double damage and double <:solar:720178909361995786>Scorch)\n\n<:solar:720178909361995786>Scorch (from all sources) deals <:pve:922884406073507930>200% <:pvp:922884468275019856>[50%] increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused <:solar:720178909361995786>Ignitions)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "<:solar:720178909361995786>Daybreak Projectiles deal 90% increased damage and apply 30 <:solar:720178909361995786>Scorch on hit (40 with <:solar:720178909361995786>Ember of Ashes).\n\n(Daybreak Projectiles can often hit twice for double damage and double <:solar:720178909361995786>Scorch)\n\n<:solar:720178909361995786>Scorch (from all sources) deals <:pve:922884406073507930>200% <:pvp:922884468275019856>[50%] increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused <:solar:720178909361995786>Ignitions)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2800865663": {
@@ -8645,7 +8645,7 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8711,7 +8711,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2817499044": {
@@ -8729,11 +8729,11 @@
   "name": "Dynamic Duo",
   "itemHash": 3084282676,
   "itemName": "Getaway Artist",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Holding [Grenade] consumes your <:arc:720178925317128243>Arc Grenade to make you <:arc:720178925317128243>Amplified and summon a '<:arc:720178925317128243>Sentient Arc Soul' for 20 seconds.\n\nSentient <:arc:720178925317128243>Arc Soul information:\n• Counts as generic <:arc:720178925317128243>Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have <:void:720178940240461864>Devour active)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Holding [Grenade] consumes your <:arc:720178925317128243>Arc Grenade to make you <:arc:720178925317128243>Amplified and summon a '<:arc:720178925317128243>Sentient Arc Soul' for 20 seconds.\n\nSentient <:arc:720178925317128243>Arc Soul information:\n• Counts as generic <:arc:720178925317128243>Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have <:void:720178940240461864>Devour active)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2826187530": {
@@ -8825,7 +8825,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 🡅1.56% when Melee Damage is Blocked\n• 🡅1.5% when non-Melee Damage is Blocked\n• 🡅0.63% when damage isn't Blocked (getting hit from behind)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order."
+   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 🡅1.56% when Melee Damage is Blocked\n• 🡅1.5% when non-Melee Damage is Blocked\n• 🡅0.63% when damage isn't Blocked (getting hit from behind)\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order."
   }
  },
  "2859149211": {
@@ -9347,7 +9347,7 @@
  "3038247973": {
   "hash": 3038247973,
   "name": "Explosive Payload",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9587,7 +9587,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 🡅11% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 🡅22%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
+   "en": "Weapon Kills grant 🡅11% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 🡅22%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
   }
  },
  "3124871000": {
@@ -9723,7 +9723,7 @@
  "3181984586": {
   "hash": 3181984586,
   "name": "Charged Up",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9737,7 +9737,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3186078099": {
@@ -9793,11 +9793,11 @@
  "3192552691": {
   "hash": 3192552691,
   "name": "Thread of Generation",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Dealing damage grants Grenade Ability Energy for each damage instance.\n\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Dealing damage grants Grenade Ability Energy for each damage instance.\n\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3194351027": {
@@ -9935,7 +9935,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3252839262": {
@@ -10329,7 +10329,7 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10511,7 +10511,7 @@
   "name": "Spheromatik Trigger",
   "itemHash": 2326396534,
   "itemName": "Severance Enclosure",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -10629,11 +10629,11 @@
  "3469412968": {
   "hash": 3469412968,
   "name": "Whisper of Refraction",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Killing <:stasis:915198000727461909>Frozen or <:stasis:915198000727461909>Slowed enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing <:stasis:915198000727461909>Frozen or <:stasis:915198000727461909>Slowed enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3469412969": {
@@ -10839,11 +10839,11 @@
  "3523296417": {
   "hash": 3523296417,
   "name": "Demolitionist",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\n\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Grenade Ability Energy.\n\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\n\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3523746922": {
@@ -10977,11 +10977,11 @@
  "3592538738": {
   "hash": 3592538738,
   "name": "Wellspring",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3598972737": {
@@ -10997,11 +10997,11 @@
  "3599522901": {
   "hash": 3599522901,
   "name": "Momentum Transfer",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAttaching to targets with a Grapple triggers the mod but Grapple Melees do not.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\n\nMelee Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAttaching to targets with a Grapple triggers the mod but Grapple Melees do not.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3609952942": {
@@ -11061,7 +11061,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3640170453": {
@@ -11111,7 +11111,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "3662465906": {
@@ -11119,11 +11119,11 @@
   "name": "Dreaded Visage",
   "itemHash": 3883866764,
   "itemName": "Mask of the Quiet One",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <:void:720178940240461864>Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you <:void:720178940240461864>Devour.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\n\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\n\nIf a <:void:720178940240461864>Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you <:void:720178940240461864>Devour.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3662465907": {
@@ -11131,7 +11131,7 @@
   "name": "Transfusion Matrix",
   "itemHash": 3216110440,
   "itemName": "An Insurmountable Skullfort",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11165,7 +11165,7 @@
   "name": "Scissor Fingers",
   "itemHash": 978537162,
   "itemName": "Ophidia Spathe",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11225,11 +11225,11 @@
  "3685945823": {
   "hash": 3685945823,
   "name": "Focusing Strike",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "3700496672": {
@@ -11365,11 +11365,11 @@
  "3726719281": {
   "hash": 3726719281,
   "name": "Bolstering Detonation",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\n\nClass Ability Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3728676938": {
@@ -11491,7 +11491,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\n\nAbilities with multiple charges do not receive any energy if they already have a full charge.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3794558792": {
@@ -11717,11 +11717,11 @@
   "name": "New Tricks",
   "itemHash": 1053737370,
   "itemName": "Shinobu's Vow",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants an extra <:arc:720178925317128243>Skip Grenade Charge.\n\n<:arc:720178925317128243>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <:pve:922884406073507930>4.2% <:pvp:922884468275019856>[1.4%] Grenade Ability Energy. (Each drone can hit enemies 2-3 times)\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants an extra <:arc:720178925317128243>Skip Grenade Charge.\n\n<:arc:720178925317128243>Skip Grenade drones chase enemies much more aggressively.\n\nDrone Hits grant <:pve:922884406073507930>4.2% <:pvp:922884468275019856>[1.4%] Grenade Ability Energy. (Each drone can hit enemies 2-3 times)\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3907865655": {
@@ -11811,7 +11811,7 @@
   "name": "Abyssal Extractors",
   "itemHash": 3381022971,
   "itemName": "Nezarec's Sin",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -11859,7 +11859,7 @@
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Only usable while on the ground.\n\nPerforms a deft tumble in your movement input's direction.\n\nRemoves tracking from PVE Combatant projectiles and disables Aim Assist on you for the duration of the animation.\n\nGrants 100% Melee Ability Energy if used within 15 meters of an enemy.\n\nAbility energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3937312904": {
@@ -12135,11 +12135,11 @@
  "4004774873": {
   "hash": 4004774873,
   "name": "One-Two Finisher",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4004774874": {
@@ -12175,11 +12175,11 @@
  "4004774877": {
   "hash": 4004774877,
   "name": "Explosive Finisher",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\n\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4008116374": {
@@ -12219,11 +12219,11 @@
  "4039026690": {
   "hash": 4039026690,
   "name": "Distribution",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4045335048": {
@@ -12323,7 +12323,7 @@
  "4082225868": {
   "hash": 4082225868,
   "name": "Swashbuckler",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12399,7 +12399,7 @@
   "name": "Touch of Venom",
   "itemHash": 2757274117,
   "itemName": "Khepri's Sting",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12473,11 +12473,11 @@
  "4139916815": {
   "hash": 4139916815,
   "name": "Bray Legacy",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\n\nDoes not grant any energy to abilities that you already have a full charge of.\n\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2%\n• VS Velocity Baton: 0.365%\n• VS Gravitic Arrest: 0.425%\n• VS Chill Inhibitor: 3.5%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\n\nDoes not grant any energy to abilities that you already have a full charge of.\n\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2%\n• VS Velocity Baton: 0.365%\n• VS Gravitic Arrest: 0.425%\n• VS Chill Inhibitor: 3.5%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4146729347": {
@@ -12525,11 +12525,11 @@
  "4160037471": {
   "hash": 4160037471,
   "name": "Outreach",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability usage grants Melee Energy.\n\nMelee Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Class Ability usage grants Melee Energy.\n\nMelee Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4172222323": {
@@ -12597,11 +12597,11 @@
  "4182064480": {
   "hash": 4182064480,
   "name": "Grenade Kickstart",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\n\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\n\nGrenade Energy gains with 2|3|etc. 'charges':\n<:pve:922884406073507930>[PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n<:pvp:922884468275019856>[PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4183521337": {
@@ -12617,11 +12617,11 @@
  "4188291233": {
   "hash": 4188291233,
   "name": "Bomber",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability usage grants Grenade Energy.\n\nGrenade Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Class Ability usage grants Grenade Energy.\n\nGrenade Energy Gains with 1|2|3 Mods:\n<:pve:922884406073507930>12% <:pvp:922884468275019856>[6%] | <:pve:922884406073507930>17% <:pvp:922884468275019856>[8.5%] | <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4190535237": {
@@ -12671,7 +12671,7 @@
  "4208512210": {
   "hash": 4208512210,
   "name": "Thread of Propagation",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12711,21 +12711,21 @@
  "4208512218": {
   "hash": 4208512218,
   "name": "Thread of Mind",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Killing Suspensded enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n\n1? second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing Suspensded enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n\n1? second cooldown between activations.\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4208512219": {
   "hash": 4208512219,
   "name": "Thread of Fury",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Dealing damage with Tangles grants Melee Energy per damage instance based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Dealing damage with Tangles grants Melee Energy per damage instance based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4208512220": {
@@ -12893,11 +12893,11 @@
  "4264904777": {
   "hash": 4264904777,
   "name": "Dawning Surprise",
-  "lastUpload": 1735000733120,
+  "lastUpload": 1735003218459,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\n\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\n\nActivation progress on Kills by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\n\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\n\nActivation progress on Kills by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4267244538": {
@@ -12907,7 +12907,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4267945040": {
