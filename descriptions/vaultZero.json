@@ -538,7 +538,7 @@
   "name": "Attrition Orbs",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants 0.8% Super Energy.\nDoes not require Direct Hits. Hit counter persists through stow.\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Other: 67% of Magazine Size rounded down + 2"
+   "en": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants 0.8% Super Energy.\nDoes not require Direct Hits. Hit counter persists through stow.\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Grenade Launchers: 11 Hits\n• Other: 67% of Magazine Size rounded down + 2"
   }
  },
  "247725512": {
@@ -2451,7 +2451,7 @@
   "name": "Attrition Orbs",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants [enh]1.1% Super Energy.\nDoes not require Direct Hits. Hit counter persists through stow.\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Other: 67% of Magazine Size rounded down + 2\n[enh] Spawned Orbs grant 37.5?% more Super Energy (0.8%⁠🠚⁠1.1?⁠%)."
+   "en": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants [enh]1.1% Super Energy.\nDoes not require Direct Hits. Hit counter persists through stow.\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Grenade Launchers: 11 Hits\n• Other: 67% of Magazine Size rounded down + 2\n[enh] Spawned Orbs grant 37.5?% more Super Energy (0.8%⁠🠚⁠1.1?⁠%)."
   }
  },
  "987673306": {
@@ -2597,7 +2597,7 @@
   "name": "Adaptive Munitions",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: 29% per hit, up to 435%\n• Machine Guns, Auto/Pulse/Trace Rifles: 33.33% per hit, up to 500%\n• Linear Fusion Rifles: 150% per hit, up to 450%\n• Bows, Glaives, Hand Cannons, Scout Rifles: 166.67% per hit, up to 500%"
+   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: untested\n• Machine Guns, Auto/Pulse/Trace Rifles: 10% per hit, up to 50%\n• Linear Fusion Rifles: 22% per hit, up to 44%\n• Bows, Glaives, Hand Cannons, Scout Rifles: 25% per hit, up to 50%"
   }
  },
  "1050127423": {
@@ -8481,7 +8481,7 @@
   "name": "Adaptive Munitions",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: [enh]34.8% per hit, up to [enh]522%\n• Machine Guns, Auto/Pulse/Trace Rifles: [enh]40% per hit, up to [enh]600%\n• Linear Fusion Rifles: [enh]180% per hit, up to [enh]540%\n• Bows, Glaives, Hand Cannons, Scout Rifles: [enh]200% per hit, up to [enh]600%\n[enh] The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)"
+   "en": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nDamage increase by Weapon Archetype:\n• Fusion Rifles: untested\n• Machine Guns, Auto/Pulse/Trace Rifles: [enh]14% per hit, up to [enh]70%\n• Linear Fusion Rifles: [enh]30.8% per hit, up to [enh]61.6%\n• Bows, Glaives, Hand Cannons, Scout Rifles: [enh]35% per hit, up to [enh]70%\n[enh] The damage buff is increased by ~40%."
   }
  },
  "3436462433": {

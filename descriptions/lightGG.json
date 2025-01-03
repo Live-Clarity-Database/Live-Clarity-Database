@@ -3329,11 +3329,11 @@
  "243981275": {
   "hash": 243981275,
   "name": "Attrition Orbs",
-  "lastUpload": 1723486934727,
+  "lastUpload": 1735912353479,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723486685407,
+     "lastUpdate": 1735910100900,
      "updatedBy": "Stardust"
     }
    }
@@ -3378,6 +3378,13 @@
      "linesContent": [
       {
        "text": "• Swords: 10 Hits"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grenade Launchers: 11 Hits"
       }
      ]
     },
@@ -7499,7 +7506,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1735061916617,
+  "lastUpload": 1735912353479,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -14772,6 +14779,13 @@
     {
      "linesContent": [
       {
+       "text": "• Grenade Launchers: 11 Hits"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "• Other: 67% of Magazine Size rounded down + 2"
       }
      ]
@@ -15340,11 +15354,11 @@
  "1048183818": {
   "hash": 1048183818,
   "name": "Adaptive Munitions",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1735912353479,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1730995398937,
+     "lastUpdate": 1735911396358,
      "updatedBy": "Stardust"
     }
    }
@@ -15381,28 +15395,28 @@
     {
      "linesContent": [
       {
-       "text": "• Fusion Rifles: 29% per hit, up to 435%"
+       "text": "• Fusion Rifles: untested"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Machine Guns, Auto/Pulse/Trace Rifles: 33.33% per hit, up to 500%"
+       "text": "• Machine Guns, Auto/Pulse/Trace Rifles: 10% per hit, up to 50%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Linear Fusion Rifles: 150% per hit, up to 450%"
+       "text": "• Linear Fusion Rifles: 22% per hit, up to 44%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Bows, Glaives, Hand Cannons, Scout Rifles: 166.67% per hit, up to 500%"
+       "text": "• Bows, Glaives, Hand Cannons, Scout Rifles: 25% per hit, up to 50%"
       }
      ]
     }
@@ -48961,21 +48975,7 @@
     {
      "linesContent": [
       {
-       "text": "• Fusion Rifles: "
-      },
-      {
-       "text": "🡅",
-       "classNames": [ "enhancedArrow" ]
-      },
-      {
-       "text": "34.8% per hit, up to "
-      },
-      {
-       "text": "🡅",
-       "classNames": [ "enhancedArrow" ]
-      },
-      {
-       "text": "522%"
+       "text": "• Fusion Rifles: untested"
       }
      ]
     },
@@ -48989,14 +48989,14 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "40% per hit, up to "
+       "text": "14% per hit, up to "
       },
       {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "600%"
+       "text": "70%"
       }
      ]
     },
@@ -49010,14 +49010,14 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "180% per hit, up to "
+       "text": "30.8% per hit, up to "
       },
       {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "540%"
+       "text": "61.6%"
       }
      ]
     },
@@ -49031,14 +49031,14 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "200% per hit, up to "
+       "text": "35% per hit, up to "
       },
       {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "600%"
+       "text": "70%"
       }
      ]
     },
@@ -49052,7 +49052,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)"
+       "text": " The damage buff is increased by ~40%."
       }
      ]
     }
