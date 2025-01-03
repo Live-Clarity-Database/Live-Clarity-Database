@@ -3819,14 +3819,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants #e${0.8+#d}% Super Energy.\n\nDoes not require Direct Hits. Hit counter persists through stow.\n\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Other: 67% of Magazine Size rounded down + 2\n\nenhanced (\nvar d = 0.3\n#e Spawned Orbs grant 37.5?% more Super Energy (0.8%⁠🠚⁠1.1?⁠%).\n)",
+     "main": "Scoring multiple Hits against enemies within 5 seconds of each spawns an Orb of Power that grants #e${0.8+#d}% Super Energy.\n\nDoes not require Direct Hits. Hit counter persists through stow.\n\nHit requirements for activation:\n• Bows: 5 Hits\n• Swords: 10 Hits\n• Grenade Launchers: 11 Hits\n• Other: 67% of Magazine Size rounded down + 2\n\nenhanced (\nvar d = 0.3\n#e Spawned Orbs grant 37.5?% more Super Energy (0.8%⁠🠚⁠1.1?⁠%).\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723486685407,
+      "lastUpdate": 1735910100900,
       "updatedBy": "Stardust"
      }
     },
@@ -3836,7 +3836,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723486934727,
+   "lastUpload": 1735912353479,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8202,7 +8202,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735061916617,
+   "lastUpload": 1735912353479,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -15952,14 +15952,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\nDamage increase by Weapon Archetype:\n• Fusion Rifles: #e${29 * #d}% per hit, up to #e${435 * #d}%\n• Machine Guns, Auto/Pulse/Trace Rifles: #e${33.333 * #d}% per hit, up to #e${500 * #d}%\n• Linear Fusion Rifles: #e${150 * #d}% per hit, up to #e${450 * #d}%\n• Bows, Glaives, Hand Cannons, Scout Rifles: #e${166.6666 * #d}% per hit, up to #e${500 * #d}%\n\nenhanced (\nvar d = 1.2\n#e The damage buff is increased by 20%. (e.g. 150%⁠🠚⁠180%)\n)",
+     "main": "Hits against Barrier Champion or non-matching Elemental Shields deal increasingly higher damage.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\nDamage increase by Weapon Archetype:\n• Fusion Rifles: untested //#e${ * #d}% per hit, up to #e${ * #d}%\n• Machine Guns, Auto/Pulse/Trace Rifles: #e${10 * #d}% per hit, up to #e${50 * #d}%\n• Linear Fusion Rifles: #e${22 * #d}% per hit, up to #e${44 * #d}%\n• Bows, Glaives, Hand Cannons, Scout Rifles: #e${25 * #d}% per hit, up to #e${50 * #d}%\n\nenhanced (\nvar d = 1.4\n#e The damage buff is increased by ~40%.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1730995398937,
+      "lastUpdate": 1735911396358,
       "updatedBy": "Stardust"
      }
     },
@@ -15969,7 +15969,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1735912353479,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
