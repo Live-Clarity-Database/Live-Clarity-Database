@@ -104,7 +104,7 @@
   "name": "Dual Loader",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Reloading loads 1 additional round at a time."
+   "en": "Reloading loads 1 additional round into the magazine at a time."
   }
  },
  "25692695": {
@@ -130,7 +130,7 @@
   "name": "Sword Logic",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant Stacks of Sword Logic.\nThe number of Stacks and the buff duration are tied to the highest [Enemy Rank](https://url.d2clarity.com/combatants) killed since activation:\n• Minors: 1 Stack for 5.5 seconds\n• Elites, Players: 2 Stacks for 7.5 seconds\n• Minibosses and Players in their Super: 3 Stacks for 10.5 seconds\n• Bosses: 4 Stacks for 15.5 seconds\nDamage increase at 1|2|3|4 Stacks:\n15% | [pve]25% [pvp][20%] | 35% | 50%\nAdditional Kills refresh the buff duration to the duration tied to the highest Enemy Rank killed."
+   "en": "Weapon Kills grant Stacks of Sword Logic.\nThe number of Stacks and the buff duration are tied to the highest [Enemy Rank](https://url.d2clarity.com/combatants) killed since activation:\n• Minors: 1 Stack for 5.5 seconds\n• Elites, Players: 2 Stacks for 7.5 seconds\n• Players in their Super and Minibosses: 3 Stacks for 10.5 seconds\n• Bosses: 4 Stacks for 15.5 seconds\nDamage increase at 1|2|3|4 Stacks:\n15% | [pve]25% [pvp][20%] | 35% | 50%\nAdditional Kills refresh the buff duration to the duration tied to the highest Enemy Rank killed."
   }
  },
  "40492375": {
@@ -202,7 +202,7 @@
   "name": "Explosive Payload",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n[enh] Passively grants 5 Reload Speed."
+   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact.\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more. [pvp]On Hand Cannons, the Payload deals 7% decreased damage in PvP.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n[enh] Passively grants 5 Reload Speed."
   }
  },
  "79448657": {
@@ -276,7 +276,7 @@
   "name": "Void/Strand Dual Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Void]Void or [Strand]Strand Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Void]Void or [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "117669763": {
@@ -286,7 +286,7 @@
   "itemName": "Radiant Dance Machines",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "'Multi-Dodge Ready' appears on the Buff List while within 15 meters of an enemy.\nDodging while Multi-Dodge is ready allows you to chain dodges infinitely for 6 seconds. Additional kills extend the buff duration by 5 seconds, up to the maximum of 11 seconds.\nMulti-Dodge Dodges don't activate:\n• [Stasis]Winter's Shroud and [Strand]Threaded Specter Aspects\n• Dynamo, Bomber, Outreach, and Distribution Armor Mods\n[Strand]Ensnaring Slam removes the buff after one usage."
+   "en": "Grants the followng benefits while a [primary]Primary Weapon is readied:\n• Grants ? Airborne Effectiveness\n• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights\n[primary]Primary Weapon Multikills grant ?% Class Ability energy.\nWhile your Class Ability is charged, [primary]Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges."
   }
  },
  "117884138": {
@@ -370,7 +370,7 @@
   "name": "Dragonfly",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling).\n[enh] Passively grants 5 Reload Speed."
+   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] weapon-matching elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling).\n[enh] Passively grants 5 Reload Speed."
   }
  },
  "176919422": {
@@ -776,7 +776,7 @@
   "name": "Ember of Blistering",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "[Solar]Ignition Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "[Solar]Ignition Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed targets:\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 12.25%\n• T3 Minors, T2 Elites: 16.5%\n• Players: 20.75%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "365154968": {
@@ -784,7 +784,7 @@
   "name": "Target Lock",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Successive Hits within 0.2 seconds of each grant a ramping Damage Buff after scoring 12.5% of the Magazine Capacity as hits (20% on SMGs). Missing deactivates the buff.\nStacks displayed on-screen are only visual aides, the buff [ramps up with each shot](https://url.d2clarity.com/PvETargetLock) once active. Reaches maximum strength at 5 Stacks.\n% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%\nAll thresholds are increased by 60% for Submachine Guns, initially triggering at 20% and maxing out at 176.53%.\nDamage Buff ramps up from [pve]16.73% [pvp][10.46%] to [pve]40% [pvp][25%] upon reaching maximum strength.\nAssuming no missed shots, it provides roughly a [pve]25% [pvp][15.85%] [Damage Buff on average](https://url.d2clarity.com/PvETargetLock) after firing 100% of the Magazine Capacity."
+   "en": "Successive Hits within 0.2 seconds of each grant a ramping Damage Buff after scoring 12.5% of the Magazine Capacity as hits (20% on SMGs). Missing deactivates the buff.\nStacks displayed on-screen are only visual aides, the buff [ramps up with each shot](https://url.d2clarity.com/PvETargetLock) once active. Reaches maximum strength at 5 Stacks.\n% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%\nDamage Buff ramps up from [pve]16.73% [pvp][10.46%] to [pve]40% [pvp][25%] upon reaching maximum strength.\nAssuming no missed shots, it provides roughly a [pve]25% [pvp][15.85%] [Damage Buff on average](https://url.d2clarity.com/PvETargetLock) after firing 100% of the Magazine Capacity."
   }
  },
  "371216963": {
@@ -800,7 +800,7 @@
   "name": "Impact Induction",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nGrenade Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nGrenade Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "378204240": {
@@ -1034,7 +1034,7 @@
   "name": "Headseeker",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:\n• Increases Precision Multiplier by 0.1175\n• 3% increased Aim Assist Cone size"
+   "en": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:\n• 20% increased Precision Bonus (complicated, see specific damage increases below)\n• 3% increased Aim Assist Cone size\nPrecision damage increases by weapon type/frame:\n• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%\n• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%\n[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage.\nThe distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent."
   }
  },
  "461595545": {
@@ -1172,7 +1172,7 @@
   "name": "Rangefinder",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Aiming Down Sights grants 10% increased Effective Zoom and 5% faster Projectile Speed.\nThe Effective Zoom increase pushes out Aim Assist Falloff by 10%, reduces (Absolute) Recoil by 10% and narrows the Accuracy and Aim Assist Cones by the same amount. (This is the normal behavior of Zoom and isn't unique to Rangefinder)\n[enh] Passively grants 5 Handling."
+   "en": "Aiming Down Sights grants 10% increased Effective Zoom and 5% increased Projectile Speed.\nThe Effective Zoom increase pushes out Aim Assist Falloff by 10%, reduces (Absolute) Recoil by 10% and narrows the Accuracy and Aim Assist Cones by the same amount. (This is the normal behavior of Zoom and isn't unique to Rangefinder)\n[enh] Passively grants 5 Handling."
   }
  },
  "511914882": {
@@ -1204,7 +1204,7 @@
   "name": "Thermodynamic Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar or [Stasis]Stasis Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar or [Stasis]Stasis Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "529188544": {
@@ -1255,7 +1255,7 @@
   "name": "Pugilist",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant [enh]11% Melee Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant [enh]22%.\nDealing Melee Damage grants 35 Handling for 3 seconds.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)"
+   "en": "Weapon Kills grant [enh]11% Melee Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant [enh]22%.\nDealing Melee Damage grants 35 Handling for 3 seconds.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Melee Ability Energy gains are increased by 10%. (e.g. 10%🠚11%)"
   }
  },
  "537774540": {
@@ -1271,7 +1271,7 @@
   "name": "Whisper of Torment",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while [Stasis]Frost Armor is active.\n1 second cooldown between activations.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Receiving damage from an enemy grants 7% Grenade Energy. This is increased to 12% while [Stasis]Frost Armor is active.\n1 second cooldown between activations.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "537774542": {
@@ -1403,7 +1403,7 @@
   "name": "Moving Target",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants 10 Aim Assist while Aiming Down Sights (ADS) and decreases ADS Movement Speed Penalty by 10%."
+   "en": "Grants the following while Aiming Down Sights (ADS):\n• 10 Aim Assist\n• 10% decreased ADS Movement Speed Penalty"
   }
  },
  "591790007": {
@@ -1459,7 +1459,7 @@
   "itemName": "Liar's Handshake",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While you have an [Arc]Arc Melee Ability equipped:\nReceiving Melee damage or scoring an [Arc]Arc Elemental Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds.\nCross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's Melee deals [Arc]Arc Damage.\nThe 'One-Two Punch' perk's Melee damage buff is decreased to 40% when Cross Counter is active.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "While you have an [Arc]Arc Melee Ability equipped:\nReceiving Melee damage or scoring an [Arc]Arc Elemental Melee Hit grants the 'Cross Counter' buff for your next Melee Attack within 3 seconds.\nCross Counter grants 200% increased Melee damage and restores ? HP on Melee Hits. Cross Counter's Melee deals [Arc]Arc Damage.\nThe One-Two Punch perk's Melee damage buff is decreased to 40% when Cross Counter is active.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "598607952": {
@@ -1561,7 +1561,7 @@
   "name": "Sword Logic",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant Stacks of Sword Logic.\nThe number of Stacks and the buff duration are tied to the highest [Enemy Rank](https://url.d2clarity.com/combatants) killed since activation:\n• Minors: 1 Stack for [enh]6.5 seconds\n• Elites, Players: 2 Stacks for [enh]8.5 seconds\n• Minibosses and Players in their Super: 3 Stacks for [enh]11.5 seconds\n• Bosses: 4 Stacks for [enh]16.5 seconds\nDamage increase at 1|2|3|4 Stacks:\n15% | [pve]25% [pvp][20%] | 35% | 50%\nAdditional Kills refresh the buff duration to the duration tied to the highest Enemy Rank killed.\n[enh] Buff Duration is increased by 1 second."
+   "en": "Weapon Kills grant Stacks of Sword Logic.\nThe number of Stacks and the buff duration are tied to the highest [Enemy Rank](https://url.d2clarity.com/combatants) killed since activation:\n• Minors: 1 Stack for [enh]6.5 seconds\n• Elites, Players: 2 Stacks for [enh]8.5 seconds\n• Players in their Super and Minibosses: 3 Stacks for [enh]11.5 seconds\n• Bosses: 4 Stacks for [enh]16.5 seconds\nDamage increase at 1|2|3|4 Stacks:\n15% | [pve]25% [pvp][20%] | 35% | 50%\nAdditional Kills refresh the buff duration to the duration tied to the highest Enemy Rank killed.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "657773637": {
@@ -1645,7 +1645,7 @@
   "name": "Pugilist",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Melee Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\nDealing Melee Damage grants 35 Handling for 3 seconds.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Melee Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\nDealing Melee Damage grants 35 Handling for 3 seconds.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "692285813": {
@@ -1705,7 +1705,7 @@
   "name": "Elemental Capacitor",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants Passive Bonuses based on the element of your selected Super's element:\n• [Solar]Solar: [enh]55 Reload Speed\n• [Arc]Arc: [enh]55 Handling\n• [Void]Void: [enh]25 Stability\n• [Strand]Strand: [enh]25 Airborne Effectiveness\n• [Stasis]Stasis: [enh]25 Recoil Direction & 20% reduced ADS Movement Speed Penalty\n[enh] Stat Bonuses are increased by 5."
+   "en": "Grants Passive Bonuses based on the element of your selected Super's element:\n• [Solar]Solar: [enh]55 Reload Speed\n• [Arc]Arc: [enh]55 Handling\n• [Void]Void: [enh]25 Stability\n• [Strand]Strand: [enh]25 Airborne Effectiveness\n• [Stasis]Stasis: [enh]25 Recoil Direction & 20% decreased ADS Movement Speed Penalty\n[enh] Stat Bonuses are increased by 5."
   }
  },
  "711628886": {
@@ -1729,7 +1729,7 @@
   "name": "Jolting Feedback",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: [enh]14 | [Arc]11\n• Pulse Rifles: [enh]13 | [Arc]10\n• Submachine Guns (theoretical): [enh]17? | [Arc]13?\n• Grenade Launchers: [enh]2 | [Arc]2\n[enh] Number of Hits required while not [Arc]Amplified is decreased by 1?."
+   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Submachine Guns: [enh]17 | [Arc]13\n• Auto Rifles: [enh]14 | [Arc]11\n• Pulse Rifles: [enh]13 | [Arc]10\n• Grenade Launchers: [enh]2 | [Arc]2\n[enh] Number of Hits required while not [Arc]Amplified is decreased by 1?."
   }
  },
  "721001747": {
@@ -1747,7 +1747,7 @@
   "itemName": "The Stag",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants [pve]25% [pvp][5%] Damage Resistance (Resist x2) to you and allies inside Rifts you create. ([Solar]Well of Radiance does not count but you can cast a Rift inside it for the benefits)\nReaching Critical Health grants the Dearly Departed buff, granting [pve]50% [pvp][25%] Class Ability Energy.\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\nDying spawns a Healing Rift at your location.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants [pve]25% [pvp][5%] Damage Resistance (Resist x2) to you and allies inside Rifts you create. ([Solar]Well of Radiance does not count but you can cast a Rift inside it for the benefits)\nReaching Critical Health grants the Dearly Departed buff, granting [pve]50% [pvp][25%] Class Ability Energy.\nBuff lasts until you are no longer at Critical Health, essentially serving as a cooldown.\nDying spawns a Healing Rift at your location.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "736000386": {
@@ -1823,7 +1823,7 @@
   "name": "Bray Inheritance",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.354%\n• Posterity: 0.463%\n• Commemoration: 0.42%\n• Heritage: 0.86%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Hits grant Grenade, Melee, and Class Ability Energy. Does not require Direct Hits.\nAbility Energy gains on Hits by weapon:\n• Trustee: 0.35%\n• Posterity: 0.45%\n• Commemoration: 0.4%\n• Heritage: 0.85%\n• Succession: 1.5%\n• Bequest: 2% (Grenade and Class Ability only)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "769440797": {
@@ -1889,7 +1889,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis.\n[enh] Passively grants 5 Handling."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble or The Rock) do not trigger the perk.\n[enh] Passively grants 5 Handling."
   }
  },
  "781192741": {
@@ -1905,7 +1905,7 @@
   "name": "One-Two Punch",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Hitting a target with [enh]10 of the 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\nAgainst [Bosses and Vehicles](https://url.d2clarity.com/combatants), this is increased to 150% for the following melee options:\nAll Unpowered Melees, [Arc]Combination Blow, [Arc]Disorienting Blow, [Arc]Chain Lightning, and [Strand]Grapple Melee\nThe following options do not benefit from the perk:\n• Hunters: [Solar]Proximity Explosive Knife's and [Void]Snare Bomb's detonations, [Arc]Tempest Strike, [Stasis]Withering Blade, [Strand]Threaded Spike\n• Titans: [Solar]Throwing Hammer, [Solar]Consecration, [Arc]Thunderclap, [Void]Shield Throw, [Strand]Flechette Storm\n• Warlocks: all abilities except [Arc]Chain Lightning and [Strand]Grapple Melee\nThe buff does not stack with the passive Melee Damage Increase against [Stasis]Frozen non-Boss targets. The [higher buff of the two](https://docs.google.com/spreadsheets/d/1N_zEcw3-pGL2jGUCGaAHjoKEr_VIbDc7-UWel-DGmys/) takes precedence. (Freeze being higher in every non-Boss case with the exception of [Stasis]Shiver Strike and [Stasis]Howl of the Storm in PVE)\n[enh] Requires 2 fewer Shotgun Pellets to activate."
+   "en": "Hitting a target with [enh]10 of the 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\nThe following options do not benefit from the perk:\n• Hunters: [Solar]Proximity Explosive Knife's and [Void]Snare Bomb's detonations, [Arc]Tempest Strike, [Stasis]Withering Blade, [Strand]Threaded Spike\n• Titans: [Solar]Throwing Hammer, [Solar]Consecration, [Arc]Thunderclap, [Void]Shield Throw, [Strand]Flechette Storm\n• Warlocks: all abilities except [Arc]Chain Lightning and [Strand]Grapple Melee\nThe buff does not stack with the passive Melee Damage Increase against [Stasis]Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of [Stasis]Shiver Strike and [Stasis]Howl of the Storm in PVE)\n[enh] Requires 2 fewer Shotgun Pellets to activate."
   }
  },
  "792400107": {
@@ -1983,7 +1983,7 @@
   "name": "Phase Magazine",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
+   "en": "Sets the Submachine Gun's damage and Magazine profile to that of a Precision Frame."
   }
  },
  "830369300": {
@@ -2023,7 +2023,7 @@
   "name": "Stasis Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Stasis]Stasis Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Stasis]Stasis Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "838219733": {
@@ -2163,7 +2163,7 @@
   "name": "Strategist",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Class Ability Energy.\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\nClass Ability Usage grants ? Stability for ? seconds.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Class Ability Energy.\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\nClass Ability Usage grants ? Stability for ? seconds.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "883366072": {
@@ -2207,7 +2207,7 @@
   "name": "Kinetic Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Kinetic Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Kinetic Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "902934539": {
@@ -2337,7 +2337,7 @@
   "itemName": "Eternal Warrior",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Scoring 2 to 3 [Arc]Arc Kills within 10 seconds of each grants 1 Stack of [Arc]Arc Weapon Surge for [pve]11 [pvp][6] seconds. Maximum of 4 Stacks. [Arc]Arc Kills while at 4 Stacks refresh the buff's duration.\nGrants a 75 HP Overshield upon casting the [Arc]Fists of Havoc Super that negates Precision Damage. As long as it does not get fully destroyed, the overshield regenerates over 7 seconds after not receiving damage for 5 seconds.\nOnce [Arc]Fists of Havoc ends, it grants 4 Stacks of [Arc]Arc Weapon Surge for [pve]30 [pvp][6] seconds."
+   "en": "Scoring 2 to 3 [Arc]Arc Kills within 10 seconds of each grants 1 Stack of [Arc]Arc Weapon Surge for [pve]11 [pvp][6] seconds. Maximum of 4 Stacks. [Arc]Arc Kills while at 4 Stacks refresh the buff's duration.\nGrants a 75 HP Overshield upon casting the [Arc]Fists of Havoc Super that negates Precision Damage. As long as it does not get fully destroyed, the overshield regenerates over 7 seconds after not receiving damage for 5 seconds.\nScoring Kills with [Arc]Fists of Havoc refunds ?% Super Energy.\nOnce [Arc]Fists of Havoc ends, it grants 4 Stacks of [Arc]Arc Weapon Surge for [pve]30 [pvp][6] seconds."
   }
  },
  "930692523": {
@@ -2369,7 +2369,7 @@
   "name": "Impulse Amplifier",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Passively grants:\n• 35% increased Projectile Velocity\n• 20 Reload Speed\n• 0.85x Reload Duration Multiplier\nRocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead of the 0.85x of other weapons."
+   "en": "Passively grants:\n• 35% increased Projectile Velocity\n• 20 Reload Speed\n• 0.85x Reload Duration Multiplier\nRocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead."
   }
  },
  "953234331": {
@@ -2401,7 +2401,7 @@
   "name": "Danger Zone",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Increases Blast Radius by ?% and reduces Self-Damage while within 15 meters of 3 enemies.\nEffect lingers for 3.5 seconds once no longer surrounded.\nGrenade Launchers: 40% reduced Self-Damage\nRocket Launchers: 99.99% reduced Self-Damage and allows for rocket jumping"
+   "en": "Increases Blast Radius by ?% and decreased Self-Damage while within 15 meters of 3 enemies.\nEffect lingers for 3.5 seconds once no longer surrounded.\nGrenade Launchers: 40% decreased Self-Damage\nRocket Launchers: 99.99% decreased Self-Damage and allows for rocket jumping"
   }
  },
  "965934024": {
@@ -2557,7 +2557,7 @@
   "name": "Orbs of Restoration",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\nAbilities with multiple charges do not receive any energy if they already have a full charge.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\nAbilities with multiple charges do not receive any energy if they already have a full charge.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1044888195": {
@@ -2637,7 +2637,7 @@
   "name": "Ember of Searing",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Killing [Solar]Scorched enemies spawns a [Solar]Firesprite and grants Melee Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%\n• T3 Minors, T2 Elites: 17.5%\n• Players: 20%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing [Solar]Scorched enemies spawns a [Solar]Firesprite and grants Melee Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 8%\n• T2 Minors, T1 Elites: 15%\n• T3 Minors, T2 Elites: 17.5%\n• Players: 20%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1057935015": {
@@ -2681,7 +2681,7 @@
   "name": "Danger Zone",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Increases Blast Radius by ?% and reduces Self-Damage while within 15 meters of 3 enemies.\nEffect lingers for 3.5 seconds once no longer surrounded.\nGrenade Launchers: 40% reduced Self-Damage\nRocket Launchers: 99.99% reduced Self-Damage and allows for rocket jumping\n[enh] Passively grants 5 Blast Radius."
+   "en": "Increases Blast Radius by ?% and decreased Self-Damage while within 15 meters of 3 enemies.\nEffect lingers for 3.5 seconds once no longer surrounded.\nGrenade Launchers: 40% decreased Self-Damage\nRocket Launchers: 99.99% decreased Self-Damage and allows for rocket jumping\n[enh] Passively grants 5 Blast Radius."
   }
  },
  "1079896271": {
@@ -2697,7 +2697,7 @@
   "name": "Solar Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "1095471953": {
@@ -2707,7 +2707,7 @@
   "itemName": "Promethium Spur",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Requires a [Solar]Solar Super to be equipped to function.\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Solar Weapon Kills grant Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• [pvp]Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\nEnergy gains are doubled while standing in a Rift.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Requires a [Solar]Solar Super to be equipped to function.\nKills while standing in a Rift with your Class Ability charged consume that charge to spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Daybreak Kills also spawn a Healing and Empowering Rift at Enemy Death Location.\n[Solar]Solar Weapon Kills grant Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 4.5%\n• T2 Minors, T1 Elites: 6.5%\n• [pvp]Players: 7.5%\n• T3 Minors, T2 Elites: 10%\n• T4 Minors, T3 Elites: 15%\n• T4 Elites, Minibosses: 20%\n• Bosses: 25%\nEnergy gains are doubled while standing in a Rift.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1097608874": {
@@ -2755,7 +2755,7 @@
   "name": "Utility Finisher",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Class Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1126264488": {
@@ -2779,7 +2779,7 @@
   "name": "Withering Gaze",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Aiming Down Sights for 1.5 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed."
+   "en": "Aiming Down Sights (ADS) for 1.5 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed."
   }
  },
  "1135494563": {
@@ -2795,7 +2795,7 @@
   "name": "Melee Kickstart",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\nMelee Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\nMelee Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1140096971": {
@@ -2859,7 +2859,7 @@
   "name": "Impact Induction",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nGrenade Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Grenade Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nGrenade Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "1155472384": {
@@ -2947,7 +2947,7 @@
   "name": "Restorative Finisher",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finishers consume 2 Stacks of Armor Charge and grant 50% Ability Energy to your least-charged Ability.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1171147302": {
@@ -2955,7 +2955,7 @@
   "name": "Feeding Frenzy",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• [enh]13 | [enh]55 | [enh]65 | [enh]85 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier\n[enh] Increases Reload Speed Stat bonus by 5 at 1-3 Stacks and by 10 at 4 Stacks."
+   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• [enh]13 | [enh]55 | [enh]65 | [enh]85 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier\n[enh] Increases Reload Speed Stat bonus by 5 at 1-3 Stacks and by 10 at 4 Stacks."
   }
  },
  "1171887445": {
@@ -3095,7 +3095,7 @@
   "name": "Void Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Void]Void Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Void]Void Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "1211775759": {
@@ -3105,7 +3105,7 @@
   "itemName": "Stormdancer's Brace",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Kills during [Arc]Stormtrance grant a Stack of 'Ascending Amplitude' for 8 seconds.\nAscending Amplitude increases [Arc]Stormtrance's damage by 10% per Stack, up to 100% at 10 Stacks.\nRefunds up to 50% of Super Energy based on the number of enemies killed with your Super."
+   "en": "Decreases the Super Energy cost of [Arc]Stormtrance's Ionic Blink by 50%.\nKills during [Arc]Stormtrance grant a Stack of 'Ascending Amplitude' for 8 seconds. Maximum of 10 Stacks.\nAscending Amplitude increases [Arc]Stormtrance's damage by 20% per Stack.\nRefunds up to 30% of Super Energy based on the number of enemies killed with your Super."
   }
  },
  "1218765758": {
@@ -3185,7 +3185,7 @@
   "name": "Extrovert",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Weapon Kills while within 15 meters of 3 enemies or a Nightmare restore 60 HP after a 0.25 second delay.\n3 second cooldown between activations."
+   "en": "Weapon Kills while within 15 meters of 3 enemies or a Nightmare restore 60 HP after a 0.25 second delay.\nGlaive Melee Kills also count.\n3 second cooldown between activations."
   }
  },
  "1255614814": {
@@ -3237,7 +3237,7 @@
   "itemName": "Revision Zero",
   "type": "Weapon Catalyst Exotic",
   "descriptions": {
-   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• 8 | 50 | 60 | 75 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier"
+   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• 8 | 50 | 60 | 75 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier"
   }
  },
  "1266037486": {
@@ -3475,7 +3475,7 @@
   "itemName": "Secant Filaments",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Empowering Rifts you cast grant [overload]Overload Shot to you and allies inside it, allowing weapons to cause [overload]Disruption on hit.\nWeapons with a Breaker Type (either intrinsic or from Artifact Perks) will not benefit from this.\nEmpowering Rifts cast by you with a [Void]Void Super equipped have additional behaviors:\n• Standing in the Rift grants you [Void]Devour for 11 seconds (unaffected by [Void]Echo of Persistence)\n• Exiting and re-entering the Rift sets the duration of [Void]Devour to 11 seconds (even if you had a longer duration)\nKills can refresh the duration of [Void]Devour granted by Secant Filaments up to 11 seconds (22 with [Void]Echo of Persistence)."
+   "en": "Empowering Rifts you cast grant [overload]Overload Shot to you and allies inside it, allowing weapons to cause [overload]Disruption on hit.\nWeapons with a Breaker Type (either intrinsic or from Artifact Perks) will not benefit from this.\nKills with [Void]Devour active grant you ?% Class Ability energy.\nEmpowering Rifts cast by you with a [Void]Void Super equipped have additional behaviors:\n• Standing in the Rift grants you [Void]Devour for 11 seconds (unaffected by [Void]Echo of Persistence)\n• Exiting and re-entering the Rift sets the duration of [Void]Devour to 11 seconds (even if you had a longer duration)\nKills can refresh the duration of [Void]Devour granted by Secant Filaments up to 11 seconds (22 with [Void]Echo of Persistence)."
   }
  },
  "1347741687": {
@@ -3535,7 +3535,7 @@
   "itemName": "Fallen Sunstar",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Arc]Ionic Traces move faster and grant doubled Ability Energy.\nTotal ability energy gained per [Arc]Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n[Arc]Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "[Arc]Ionic Traces move faster and grant doubled Ability Energy.\nTotal ability energy gained per [Arc]Ionic Trace:\nGrenade: 25% | Melee: 25% | Class Ability: 30%\n[Arc]Ionic Trace pickups grant 10% Grenade, Melee, and Class Ability energy to allies within 15 meters.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1378047685": {
@@ -3581,7 +3581,7 @@
   "name": "Kinetic Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Kinetic Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Kinetic Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "1395789926": {
@@ -3747,7 +3747,7 @@
   "itemName": "Renewal Grasps",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Increases [Stasis]Duskfield Grenade radius by 25% and spawns a Medium [Stasis]Stasis Crystal in its center.\nEnemies inside a [Stasis]Duskfield Grenade's Slowing Field deal [pve]50% [pvp][20%] decreased damage.\nYou and allies immediately receive 1 Stack of [Stasis]Frost Armor upon entering the [Stasis]Slowing Field and receive additional Stacks for every 0.9 seconds they stay in the field.\nWhen combined with the [Stasis]Touch of Winter aspect:\n• Increases [Stasis]Crystal size from Medium to Large\n• Radius increase stacks additively for a total of 75%"
+   "en": "Increases [Stasis]Duskfield Grenade radius by 25% and spawns a Medium [Stasis]Stasis Crystal in its center.\nEnemies inside a [Stasis]Duskfield Grenade's Slowing Field deal [pve]50% [pvp][20%] decreased damage.\nYou and allies immediately receive 1 Stack of [Stasis]Frost Armor upon entering the [Stasis]Slowing Field and receive additional Stacks for every 0.5 seconds they stay in the field.\nWhen combined with the [Stasis]Touch of Winter aspect:\n• Increases [Stasis]Crystal size from Medium to Large\n• Radius increase stacks additively for a total of 75%"
   }
  },
  "1458010786": {
@@ -3807,7 +3807,7 @@
   "name": "Tap the Trigger",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Starting to fire the weapon grants the following benefits for [enh]0.76 seconds:\n• 40 Stability\n• 50% decreased Recoil\n• 10% decreased Accuracy Cone Size\nFusion Rifles Only Receive 25% of the benefits.\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\n[enh] Stronger Effect. Duration is increased by 0.16 seconds."
+   "en": "Starting to fire the weapon grants the following benefits for [enh]0.76 seconds:\n• 40 Stability\n• 50% decreased Recoil\n• 10% decreased Accuracy Cone Size\nFusion Rifles only receive 25% of the benefits.\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\n[enh] Stronger Effect. Duration is increased by 0.16 seconds."
   }
  },
  "1523832109": {
@@ -3899,7 +3899,7 @@
   "name": "Kinetic Tremors",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds.\nEach shockwave deals up to [pve]120 [pvp][20] damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on [Minor and Elite](https://url.d2clarity.com/combatants) PvE Combatants.\nShockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on [primary]Primary, 15% on [special]Special), and its [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling). They also count as non-direct Hits with the weapon for other interactions.\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\nHits Required for Activation:\n• Submachine Guns: [enh]13\n• Auto Rifles: [enh]11\n• Pulse Rifles: [enh]10\n• Non-burst Sidearms: [enh]7\n• Hand Cannons, Scout Rifles: [enh]5\n• Bows, Sniper Rifles: [enh]2\n[enh] Hit Requirements are decreased by 1."
+   "en": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds.\nEach shockwave deals up to [pve]90 [pvp][20] damage in a 5? meter radius. Shockwaves deal 33.33% more damage when activated on [Miniboss or higher tier](https://url.d2clarity.com/combatants) PvE Combatants.\nShockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on [primary]Primary, 15% on [special]Special), and its [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling). They also count as non-direct Hits with the weapon for other interactions.\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\nHits Required for Activation:\n• Submachine Guns: [enh]13\n• Auto Rifles: [enh]11\n• Pulse Rifles: [enh]10\n• Non-burst Sidearms: [enh]7\n• Hand Cannons, Scout Rifles: [enh]5\n• Bows, Sniper Rifles: [enh]2\n[enh] Hit Requirements are decreased by 1."
   }
  },
  "1550063955": {
@@ -3917,7 +3917,7 @@
   "name": "Explosive Head",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nPayload detonation time after hitting a target or surface varies on draw and distance.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n[enh] Passively grants 5 Accuracy."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nPayload detonation time after hitting a target or surface varies on draw and distance.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n[enh] Passively grants 5 Accuracy."
   }
  },
  "1553790504": {
@@ -3993,7 +3993,7 @@
   "name": "Heating Up",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant the following for 5.5 seconds:\n• 15 Stability and 20 Recoil Direction\n• 15% decreased Accuracy Cone Size\n• 15% decreased Accuracy Cone Growth\nStacks 2 times. Cone scalars stack multiplicatively (15%⁠🠚⁠27.75%). Buff remains active while stowed."
+   "en": "Weapon Kills grant a Stack of Heating Up for 5.5 seconds. Maximum of 2 Stacks.\nBenefits at 1|2 Stacks of Heating Up:\n• 15|30 Stability\n• 20|40 Recoil Direction\n• 15%|25% decreased Accuracy Cone Size\n• 15%|25% decreased Accuracy Cone Growth\nBuff remains active while stowed."
   }
  },
  "1583705720": {
@@ -4025,7 +4025,7 @@
   "name": "Replenishing Aegis",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Refills 1 round into the Magazine from reserves upon blocking damage.\n1 second cooldown after activation. Does not work while the magazine is overfilled (assumed).\n[enh] Refill cooldown is reduced."
+   "en": "Refills 1 round into the Magazine from reserves upon blocking damage.\n1 second cooldown after activation. Does not work while the magazine is overfilled (assumed).\n[enh] Refill cooldown is decreased."
   }
  },
  "1598147670": {
@@ -4065,7 +4065,7 @@
   "name": "Fragile Focus",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Passively grants 20 Range but deactivates if you drop to 0 Shield HP (Critical Health).\nBuff reactivates 0.5 seconds after your Shields HP fully regenerates.\n[enh] Reactivation delay is reduced by 0.5 seconds."
+   "en": "Passively grants 20 Range but deactivates if you drop to 0 Shield HP (Critical Health).\nBuff reactivates 0.5 seconds after your Shields HP fully regenerates.\n[enh] Reactivation delay is decreased by 0.5 seconds."
   }
  },
  "1618208178": {
@@ -4189,7 +4189,7 @@
   "itemName": "Crest of Alpha Lupi",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Class Ability usage restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you.\n5 second cooldown between activations.\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• [Void]Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)"
+   "en": "Class Ability usage heals you and allies within 12 meters as long as they have line of sight to you.\nCasting a Barricade restores 80 Health and 75 Shield HP. Using [Arc]Thruster restores 60 Health.\n5 second cooldown between activations.\nSuper Abilities generate an extra Orb of Power that grants 7.14% Super Energy (regular Super Orb).\nSpecific Interactions:\n• Roaming Supers generate an Orb with the first Kill instead of needing at least 2 Kills for that\n• [Void]Ward of Dawn generates 4 Orbs with each granting 3.57% Super Energy (up from 3 Orbs granting 2.3% each for a ~2x increase)"
   }
  },
  "1667892711": {
@@ -4315,7 +4315,7 @@
   "itemName": "Orpheus Rig",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\nMoebius Quiver can fire an additional volley per Super Activation.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy is unaffected)"
+   "en": "Deadfall returns Ability Energy per Enemy Tethered:\n• X% Super Energy up to the maximum of 50%\n• 10% Grenade, Melee, and Class Ability Energy\nMoebius Quiver can fire an additional volley per Super Activation.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy is unaffected)"
   }
  },
  "1694242450": {
@@ -4341,7 +4341,7 @@
   "name": "Classy Contender",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Kills grant 5% Class Ability Energy.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Kills grant 5% Class Ability Energy.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1709236482": {
@@ -4439,7 +4439,7 @@
   "name": "Spark of Momentum",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Sliding over Ammo Bricks refills your held weapon from reserves and grants Melee Energy.\n[special]Special Ammo Bricks grant 20% Melee Energy and [heavy]Heavy Ammo Bricks grant 50%.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Sliding over Ammo Bricks refills your held weapon from reserves and grants Melee Energy.\n[special]Special Ammo Bricks grant 20% Melee Energy and [heavy]Heavy Ammo Bricks grant 50%.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1727069366": {
@@ -4539,7 +4539,7 @@
   "name": "Innervation",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Grenade Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1754714824": {
@@ -4581,7 +4581,7 @@
   "name": "Melee Kickstart",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\nMelee Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Melee Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Melee Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Melee Energy refunds.\nMelee Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nBug: Doesn't work if you have more recharged Melee Ability Energy than a single ability charge.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1771339417": {
@@ -4605,7 +4605,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble or The Rock) do not trigger the perk."
   }
  },
  "1781551382": {
@@ -4733,7 +4733,7 @@
   "itemName": "Citan's Ramparts",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Replaces Towering Barricade with Assault Barricade:\n• Allows caster and allies to shoot through it\n• 33% decreased HP (500🠚375?)\n• Takes 25% increased damage from Enemy Players\n• 50% decreased duration (20🠚10 seconds)\n• 72.4% increased cooldown time"
+   "en": "Replaces Towering Barricade with an Assault Barricade that allows the caster and their allies to shoot through it.\nAssault Barricades take 60% increased damage from Enemy Players, effectively decreasing its HP from 500 to 312.5 in PvP."
   }
  },
  "1834163303": {
@@ -4767,7 +4767,7 @@
   "name": "Invigoration",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Melee Ability Energy on Orb of Power Pickups with 1|2|3 Mods equipped.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1853177948": {
@@ -4805,7 +4805,7 @@
   "name": "Hip-Fire Grip",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants the following benefits while hipfiring:\n• 25 Stability and 15 Aim Assist\n• 2.7° larger Precision Aim Angle\n• 30% decreased Accuracy Cone Size\n• 20% increased Aim Assist Falloff Distance\n• 20% increased Damage Falloff Distance\nThe Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
+   "en": "Grants the following benefits while hipfiring:\n• 25 Stability and 15 Aim Assist\n• 2.7° larger Precision Aim Cone Angle\n• 30% decreased Accuracy Cone Size\n• 20% increased Aim Assist Falloff Distance\n• 20% increased Damage Falloff Distance\nThe Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\nPvP-specific note: the Precision Aim Cone Angle increase essentially just allows you to hit Crits while aimed above or slightly to the side of the head. (This is already the default behavior of Submachine Guns, Sidearms, Bows, Machine Guns, and Linear Fusion Rifles so it does not affect them)"
   }
  },
  "1870851715": {
@@ -4823,7 +4823,7 @@
   "itemName": "Rime-coat Raiment",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Enhances [Stasis]Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium [Stasis]Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a [Stasis]Stasis Storm in a ? meter radius\nStanding in the [Stasis]Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\nShooting consumes a Stack of Icicle, releasing a [Stasis]Stasis Projectile that deals [pve]50 [pvp][?] damage and applies [pve]50 [pvp][20] [Stasis]Slow Stacks for ? seconds.\nIcicle can fire every 0.2 seconds. Icicle Stacks expire if you leave the [Stasis]Stasis Storm for more than 2 seconds."
+   "en": "Enhances [Stasis]Bleak Watcher:\n• Targeting Range is increased to ? meters (+?%)\n• Creates 4 outward-tilted Medium [Stasis]Stasis Crystals around where it spawns (these respawn after 15 seconds)\n• Releases a [Stasis]Stasis Storm in a 3 meter radius\nStanding in the [Stasis]Stasis Storm grants a Stack of 'Icicle' every second. Maximum of 5 Stacks.\nShooting consumes a Stack of Icicle, releasing a [Stasis]Stasis Projectile that deals [pve]50 [pvp][?] damage and applies [pve]50 [pvp][20] [Stasis]Slow Stacks for ? seconds.\nIcicle can fire every 0.2 seconds. Icicle Stacks expire if you leave the [Stasis]Stasis Storm for more than 2 seconds."
   }
  },
  "1878756191": {
@@ -4865,7 +4865,7 @@
   "name": "Tap the Trigger",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Starting to fire the weapon grants the following benefits for 0.6 seconds:\n• 40 Stability\n• 50% decreased Recoil\n• 10% decreased Accuracy Cone Size\nFusion Rifles Only Receive 25% of the benefits.\n[Controller-Only] Weapon fires the instant trigger pressure is applied."
+   "en": "Starting to fire the weapon grants the following benefits for 0.6 seconds:\n• 40 Stability\n• 50% decreased Recoil\n• 10% decreased Accuracy Cone Size\nFusion Rifles only receive 25% of the benefits.\n[Controller-Only] Weapon fires the instant trigger pressure is applied."
   }
  },
  "1891463783": {
@@ -4905,7 +4905,7 @@
   "name": "Full Court",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Starts linearly increasing Explosive Damage 0.2 seconds after the projectile is fired. Reaches maximum strength after 1.1 seconds at 25%.\n[enh] Passively grants 5 Blast Radius."
+   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\n[enh] Passively grants 5 Blast Radius."
   }
  },
  "1906147653": {
@@ -4913,7 +4913,7 @@
   "name": "Demolitionist",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant [enh]11% Grenade Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant [enh]22%.\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
+   "en": "Weapon Kills grant [enh]11% Grenade Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant [enh]22%.\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Grenade Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
   }
  },
  "1919923227": {
@@ -4931,7 +4931,7 @@
   "name": "Grenade Kickstart",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\nGrenade Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\nGrenade Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "1926441324": {
@@ -4939,7 +4939,7 @@
   "name": "Destabilizing Rounds",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills cause enemies to explode into a burst of [Void]Void energy, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\n3 second cooldown between activations.\n[enh] Cooldown is reduced."
+   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for 2 seconds.\n1 second cooldown between activations.\n[enh] Activation cooldown is decreased by 0.5? seconds."
   }
  },
  "1939153390": {
@@ -4949,7 +4949,7 @@
   "itemName": "Geomag Stabilizers",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Collecting [Arc]Ionic Traces grants 2% Super Energy with [Arc]Chaos Reach selected.\n[Arc]Chaos Reach refunds 10% Super Energy on hit.\n0.75 second cooldown between refunds.\nThis can increase [Arc]Chaos Reach duration by ~120%."
+   "en": "Collecting [Arc]Ionic Traces grants 7% Super Energy with [Arc]Chaos Reach selected.\nWhile at 6 Stacks of [Arc]Bolt Charge or higher, sprinting grants you a Stack of [Arc]Bolt Charge every ? seconds.\n[Arc]Chaos Reach refunds 10% Super Energy on hit.\n0.75 second cooldown between refunds. This can increase [Arc]Chaos Reach duration by ~120%."
   }
  },
  "1941225610": {
@@ -5033,7 +5033,7 @@
   "itemName": "Verity's Brow",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Kills with Weapons matching your Grenade Element grant a Stack of 'Death Throes' for 11 seconds. Maximum of 5 Stacks.\nDeath Throes improves Grenade Recharge Rate and Grenade damage:\n• 50%|100%|150%|200%|250% Additional Base Grenade Recharge Rate at 1|2|3|4|5 Stacks\n• [pve]PVE: 40%|55%|70%|85%|100% increased damage\n• [pvp]PVP: 20%|40%|60%|80%|100% increased damage\nOn Grenade Ability usage with active Death Throes Stacks, for 5 seconds:\nAllies receive 'Feel The Flames' while within 20 meters of you.\n'Feel the Flames' grants 10x Grenade Recharge Rate.\n(Grenade Regeneration Rate Multiplier is applied after all additive Grenade Recharge Rate modifiers.)"
+   "en": "Kills with Weapons matching your Grenade Element grant a Stack of Death Throes. Maximum of 5 Stacks.\nStacks decay one at a time over 8|7|6|5|4 seconds for the 1st|...|5th Stacks.\nDeath Throes benefits at 1|2|3|4|5 Stacks:\n• 0.5%|1%|1.5%|2%|2.5% Grenade Energy per second\n• [pve]PVE: 40%|55%|70%|85%|100% increased Grenade damage\n• [pvp]PVP: 20%|40%|60%|80%|100% increased Grenade damage\nOn Grenade Ability usage with active Death Throes Stacks, for 5 seconds:\nAllies receive 'Feel The Flames' while within 20 meters of you.\n'Feel the Flames' grants 10x Grenade Recharge Rate.\n(Grenade Regeneration Rate Multiplier is applied after all additive Grenade Recharge Rate modifiers.)"
   }
  },
  "1988485648": {
@@ -5109,7 +5109,7 @@
   "name": "Energy Transfer",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 1.5% when Melee Damage is Blocked\n• 1% when non-Melee Damage is Blocked\n• 0.5% when damage isn't Blocked (getting hit from behind)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• 1.5% when Melee Damage is Blocked\n• 1% when non-Melee Damage is Blocked\n• 0.5% when damage isn't Blocked (getting hit from behind)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2031584061": {
@@ -5117,7 +5117,7 @@
   "name": "Momentum Transfer",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\nMelee Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAttaching to targets with a [Strand]Grapple triggers the mod but [Strand]Grapple Melees do not.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\nMelee Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAttaching to targets with a [Strand]Grapple triggers the mod but [Strand]Grapple Melees do not.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2037312142": {
@@ -5149,7 +5149,7 @@
   "name": "Destabilizing Rounds",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills cause enemies to explode into a burst of [Void]Void energy, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\n3 second cooldown between activations."
+   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for 2 seconds.\n1.5 second cooldown between activations."
   }
  },
  "2053642371": {
@@ -5337,7 +5337,7 @@
   "name": "High Ground",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][5%] | [pve]17.5% [pvp][10%] | [pve]25% [pvp][15%]\nWhile you are not airborne:\nDamaging targets that are 2 meters [pvp][5 for Primary weapons] lower in elevation than the ground you stand on immediately grants all 3 Stacks [pvp][Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point.\n[enh] Passively grants 5 Reload Speed."
+   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][5%] | [pve]17.5% [pvp][10%] | [pve]25% [pvp][15%]\nWhile you are not airborne:\nDamaging targets that are 2 meters [pvp][5 for Primary weapons] lower in elevation than the ground you stand on immediately grants all 3 Stacks [pvp][Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is **generally** their lowest point.\n[enh] Passively grants 5 Reload Speed."
   }
  },
  "2145198832": {
@@ -5423,7 +5423,7 @@
   "itemName": "Gwisin Vest",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While in Spectral Blades:\nRefunds Super Energy on Heavy Attack based on the number of [Void]Spectral Blade Kills.\nSuper Energy Refund after 1|2|3|4|5+ Kills:\n[pve]• PVE: 11.1% | 14.3% | 16.5% | 16.9% | 17.1%\n[pvp]• PVP: 8.3% | 12.5% | 14.2% | 15.8% | 16.7%"
+   "en": "Leaving [Void]Invisibility while within 15? meters of an enemy releases a cloud of smoke that [Void]Weakens enemies and lasts ? seconds.\nWhile in [Void]Spectral Blades:\nRefunds Super Energy on Heavy Attack based on the number of [Void]Spectral Blade Hits and Kills scored before doing so."
   }
  },
  "2192678015": {
@@ -5469,7 +5469,7 @@
   "itemName": "Phoenix Protocol",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants additional Super Energy on Kills (by either you or allies) while inside your [Solar]Well of Radiance and below 50% Super Energy.\nAmount of Super Energy gained is reduced by 1.5% for each successive Kill, down to a minimum of 4% Super Energy per Kill:\n10% 🠚 8.5% 🠚 7% 🠚 5.5% 🠚 4% 🠚 4% ..."
+   "en": "Grants additional Super Energy on Kills (by either you or allies) while inside your [Solar]Well of Radiance and below 50% Super Energy.\nAmount of Super Energy gained is decreased by 1.5% for each successive Kill, down to a minimum of 4% Super Energy per Kill:\n10% 🠚 8.5% 🠚 7% 🠚 5.5% 🠚 4% 🠚 4% ..."
   }
  },
  "2209081648": {
@@ -5575,7 +5575,7 @@
   "name": "Flash Counter",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Upon Blocking an attack from an enemy within ? meters within 0.5 seconds of starting to Guard:\n[Lite](https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit?gid=263629622#rangeid=1218524482) [Void]Suppresses and [Void]Weakens the enemy for 4 seconds, making them receive 20% increased damage.\n([Void]Weaken is normally only a 15% debuff)"
+   "en": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
   }
  },
  "2245839670": {
@@ -5665,7 +5665,7 @@
   "name": "Echo of Provision",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the [Void]Chaos Accelerant aspect)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grenade Ability Damage grants Melee Energy once per Damage Instance.\n'Damage Over Time' grenades only provide Melee Energy once per damage tick regardless of the number of enemies damaged. Other grenades only grant Melee Energy once per submunition.\nMelee Energy granted per Damage Instance:\n• 3%: Void Spike, Void Wall, Scatter Grenade, and Vortex Grenade\n• 8%: Axion Bolt, Suppressor Grenade, and Magnetic Grenade (including when used with the [Void]Chaos Accelerant aspect)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2272984665": {
@@ -5689,7 +5689,7 @@
   "name": "Echo of Exchange",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Melee Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Melee Kills grant Grenade Energy based on the [Enemy Rank](https://url.d2clarity.com/combatants) of the killed target:\n• Tier 1 (T1) Minors: 7.5%\n• T2 Minors, T1 Elites: 11%\n• T3 Minors, T2 Elites, and Players: 16.25%\n• T4 Minors, T3 Elites, and higher: 25%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2272984668": {
@@ -5839,7 +5839,7 @@
   "name": "High Ground",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][5%] | [pve]17.5% [pvp][10%] | [pve]25% [pvp][15%]\nWhile you are not airborne:\nDamaging targets that are 2 meters [pvp][5 for Primary weapons] lower in elevation than the ground you stand on immediately grants all 3 Stacks [pvp][Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is generally their lowest point."
+   "en": "Scoring a Kill grants [pve]1 [pvp][2] Stacks of 'High Ground' for 7 seconds. Maximum of 3 Stacks.\nWeapon damage increases at 1|2|3 Stacks:\n[pve]10% [pvp][5%] | [pve]17.5% [pvp][10%] | [pve]25% [pvp][15%]\nWhile you are not airborne:\nDamaging targets that are 2 meters [pvp][5 for Primary weapons] lower in elevation than the ground you stand on immediately grants all 3 Stacks [pvp][Primary weapons only grant 1 Stack] of the buff. The damage increase is applied to the shot triggering the perk as well.\nThe reference point of enemies' elevation is **generally** their lowest point."
   }
  },
  "2319885414": {
@@ -5883,7 +5883,7 @@
   "itemName": "Khepri's Horn",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Solar]Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nUpon casting a Barricade Class Ability:\nUnleashes a [Solar]Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry.\nThe Wave deals [pve]480 [pvp][100] damage and applies [pve]60 [pvp][30] [Solar]Scorch Stacks ([pve]90 [pvp][45] with [Solar]Ember of Ashes).\nDamage and [Solar]Scorch are separately applied by both the initial and returning waves. [Solar]Solar Wave is not affected by [Solar]Roaring Flames."
+   "en": "[Solar]Solar Kills grant 15% Class Ability Energy. 1? second cooldown between activations.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nUpon casting a Barricade Class Ability with a [Solar]Solar Super equipped:\nUnleashes 3 [Solar]Solar Waves from the front of the barricade that travel 18.5 meters and have tracking capabilities.\nThe Waves deal [pve]480 [pvp][100] damage and apply [pve]60 [pvp][30] [Solar]Scorch Stacks ([pve]90 [pvp][45] with [Solar]Ember of Ashes).\nEnemies [pve]Hit [pvp][Killed] by the Waves leave behind a [Solar]Sunspot at their location.\n[Solar]Solar Wave is not affected by [Solar]Roaring Flames."
   }
  },
  "2360754333": {
@@ -5997,7 +5997,7 @@
   "name": "Focused Fury",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Scoring 50% of the Base Magazine Capacity as Precision Hits grants 20% increased damage for [enh]12 seconds.\nStowing or Reloading the weapon resets the Precision Hit counter but the buff remains active while stowed.\n[enh] Buff Duration is increased by 1 second."
+   "en": "Scoring 50% of the Base Magazine Capacity as Precision Hits grants 20% increased damage for [enh]12 seconds.\nStowing or Reloading the weapon resets the Precision Hit counter. The buff remains active while stowed.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "2407398462": {
@@ -6087,7 +6087,7 @@
   "name": "Tex Balanced Stock",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring 4 Hip-Fire Hits within 4? seconds of each grants the following benefits for 4 seconds:\n• 20 Range, Handling, and Reload Speed\n• 0.9x Reload Duration Multiplier\n• 1.5° larger Precision Aim Cone\n• Decreases ADS Movement Speed Penalty by 10%\nScoring additional Hip-Fire Hits refreshes the buff duration."
+   "en": "Scoring 4 Hip-Fire Hits within 4? seconds of each grants the following benefits for 4 seconds:\n• 20 Range, Handling, and Reload Speed\n• 0.9x Reload Duration Multiplier\n• 1.5° larger Precision Aim Cone\n• 10% decreased ADS Movement Speed Penalty\nScoring additional Hip-Fire Hits refreshes the buff duration."
   }
  },
  "2445247031": {
@@ -6229,7 +6229,7 @@
   "name": "Whisper of Hunger",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "[Stasis]Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "[Stasis]Stasis Shards grant increased Melee Energy:\n• Small Shards: 10% 🠚 17.5%\n• Large Shards: 50% 🠚 75%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2485657760": {
@@ -6245,7 +6245,7 @@
   "name": "Indomitability",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant ability energy based on your Super's elemental alignment:\n• Light Super: 5% Grenade Ability Energy\n• Dark Super: 5% Melee Ability Energy\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2495011826": {
@@ -6407,7 +6407,7 @@
   "itemName": "Outbreak Perfected",
   "type": "Weapon Trait Exotic",
   "descriptions": {
-   "en": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:\n• Increases Precision Multiplier by 0.1175\n• 3% increased Aim Assist Cone size"
+   "en": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:\n• 20% increased Precision Bonus (complicated, see specific damage increases below)\n• 3% increased Aim Assist Cone size\nPrecision damage increases by weapon type/frame:\n• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%\n• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%\n[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage.\nThe distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent."
   }
  },
  "2578928835": {
@@ -6623,7 +6623,7 @@
   "itemName": "Foetracer",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]11 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilities.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]15 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilities.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
   }
  },
  "2663272110": {
@@ -6633,7 +6633,7 @@
   "itemName": "Celestial Nighthawk",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Modifies [Solar]Golden Gun to only fire a single shot that deals 650% increased damage.\n(A Celestial Nighthawk Precision Hit is ~72.1% more damage compared to 3 Precision Hits with Marksman Golden Gun. Also, please only use it with Marksman Golden Gun)\nScoring a [Solar]Golden Gun Kill refunds 33% Super Energy and causes the enemy to explode, dealing up to [pve]400 [pvp][?] damage in a ? meter radius.\nPrecision Kills grant 1.5-4.5% Super Energy depending on [Enemy Rank](https://url.d2clarity.com/combatants)."
+   "en": "Modifies [Solar]Golden Gun to only fire a single shot that deals 650% increased damage.\n(A Celestial Nighthawk Precision Hit is ~72.1% more damage compared to 3 Precision Hits with Marksman Golden Gun. Also, please only use it with Marksman Golden Gun in PvE)\nScoring a [Solar]Golden Gun Kill refunds 33% Super Energy and causes the enemy to explode, dealing up to [pve]400 [pvp][?] damage in a ? meter radius.\nPrecision Kills grant 1.5-4.5% Super Energy depending on [Enemy Rank](https://url.d2clarity.com/combatants)."
   }
  },
  "2663272111": {
@@ -6677,7 +6677,7 @@
   "name": "Wellspring",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "On Weapon Kill:\nGrants [enh]9% Ability Energy split equally amongst all uncharged abilities.\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Ability Energy Gain is increased by 12.5%. (8%🠚9%)"
+   "en": "On Weapon Kill:\nGrants [enh]9% Ability Energy split equally amongst all uncharged abilities.\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Ability Energy Gain is increased by 12.5%. (8%🠚9%)"
   }
  },
  "2679249093": {
@@ -6685,7 +6685,7 @@
   "name": "One-Two Punch",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Hitting a target with all 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\nAgainst [Bosses and Vehicles](https://url.d2clarity.com/combatants), this is increased to 150% for the following melee options:\nAll Unpowered Melees, [Arc]Combination Blow, [Arc]Disorienting Blow, [Arc]Chain Lightning, and [Strand]Grapple Melee\nThe following options do not benefit from the perk:\n• Hunters: [Solar]Proximity Explosive Knife's and [Void]Snare Bomb's detonations, [Arc]Tempest Strike, [Stasis]Withering Blade, [Strand]Threaded Spike\n• Titans: [Solar]Throwing Hammer, [Solar]Consecration, [Arc]Thunderclap, [Void]Shield Throw, [Strand]Flechette Storm\n• Warlocks: all abilities except [Arc]Chain Lightning and [Strand]Grapple Melee\nThe buff does not stack with the passive Melee Damage Increase against [Stasis]Frozen non-Boss targets. The [higher buff of the two](https://docs.google.com/spreadsheets/d/1N_zEcw3-pGL2jGUCGaAHjoKEr_VIbDc7-UWel-DGmys/) takes precedence. (Freeze being higher in every non-Boss case with the exception of [Stasis]Shiver Strike and [Stasis]Howl of the Storm in PVE)"
+   "en": "Hitting a target with all 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\nThe following options do not benefit from the perk:\n• Hunters: [Solar]Proximity Explosive Knife's and [Void]Snare Bomb's detonations, [Arc]Tempest Strike, [Stasis]Withering Blade, [Strand]Threaded Spike\n• Titans: [Solar]Throwing Hammer, [Solar]Consecration, [Arc]Thunderclap, [Void]Shield Throw, [Strand]Flechette Storm\n• Warlocks: all abilities except [Arc]Chain Lightning and [Strand]Grapple Melee\nThe buff does not stack with the passive Melee Damage Increase against [Stasis]Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of [Stasis]Shiver Strike and [Stasis]Howl of the Storm in PVE)"
   }
  },
  "2682205016": {
@@ -6743,7 +6743,7 @@
   "name": "Moving Target",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants 10 Aim Assist while Aiming Down Sights (ADS) and decreases ADS Movement Speed Penalty by 10%.\n[enh] Aim Assist bonus is slightly increased."
+   "en": "Grants the following while Aiming Down Sights (ADS):\n• 10 Aim Assist\n• 10% decreased ADS Movement Speed Penalty\n[enh] Aim Assist bonus is slightly increased."
   }
  },
  "2719698929": {
@@ -6783,7 +6783,7 @@
   "name": "Arc Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "2726471870": {
@@ -6865,7 +6865,7 @@
   "name": "Heating Up",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant the following for [enh]6.5 seconds:\n• 15 Stability and 20 Recoil Direction\n• 15% decreased Accuracy Cone Size\n• 15% decreased Accuracy Cone Growth\nStacks 2 times. Cone scalars stack multiplicatively (15%⁠🠚⁠27.75%). Buff remains active while stowed.\n[enh] Buff Duration is increased by 1 second."
+   "en": "Weapon Kills grant a Stack of Heating Up for [enh]6.5 seconds. Maximum of 2 Stacks.\nBenefits at 1|2 Stacks of Heating Up:\n• 15|30 Stability\n• 20|40 Recoil Direction\n• 15%|25% decreased Accuracy Cone Size\n• 15%|25% decreased Accuracy Cone Growth\nBuff remains active while stowed.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "2748801589": {
@@ -6897,7 +6897,7 @@
   "name": "Void Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Void]Void Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Void]Void Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "2779035018": {
@@ -6905,7 +6905,7 @@
   "name": "Feeding Frenzy",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• 8 | 50 | 60 | 75 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier"
+   "en": "Weapon Kills grant 1 Stack of Feeding Frenzy for 3.5 seconds, increasing the Reload Speed of the weapon. Maximum of 5 Stacks.\nBonuses at 1|2|3|4|5 Stacks:\n• 8 | 50 | 60 | 75 | 100 Reload Speed Stat\n• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier"
   }
  },
  "2782457288": {
@@ -6937,7 +6937,7 @@
   "name": "Absolution",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2793548555": {
@@ -6981,7 +6981,7 @@
   "itemName": "Dawn Chorus",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "[Solar]Daybreak Projectiles deal 90% increased damage and apply 30 [Solar]Scorch on hit (40 with [Solar]Ember of Ashes).\n(Daybreak Projectiles can often hit twice for double damage and double [Solar]Scorch)\n[Solar]Scorch (from all sources) deals [pve]200% [pvp][50%] increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused [Solar]Ignitions)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "[Solar]Daybreak Projectiles deal 90% increased damage and apply 30 [Solar]Scorch on hit (40 with [Solar]Ember of Ashes).\n(Daybreak Projectiles can often hit twice for double damage and double [Solar]Scorch)\n[Solar]Scorch (from all sources) deals [pve]200% [pvp][50%] increased damage and each Damage Tick grants 5% Melee Ability Energy. (Damage increase does not apply to caused [Solar]Ignitions)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2800865663": {
@@ -7009,7 +7009,7 @@
   "itemName": "Sealed Ahamkara Grasps",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Melee Hits grant the following for 5.5 seconds:\n• 50 Airborne Effectiveness\n• ? Mobility\n• ?% increased Jump Height\n+ Refills the Magazine of your held weapon from reserves\nElemental Melee Hits refill the Magazines of all your equipped weapons.\n7 second cooldown between activations.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED\nElemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds.\nNightmare Fuel grants ? Handling and ? Airborne Effectiveness.\nReadying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel.\nGaining or refreshing the duration of Nightmare Fuel refills the magazine of all stowed weapons from reserves.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "2805854721": {
@@ -7025,7 +7025,7 @@
   "name": "Arc/Strand Siphon Combo",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc or [Strand]Strand Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc or [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "2814973067": {
@@ -7077,7 +7077,7 @@
   "itemName": "Getaway Artist",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Holding [Grenade] consumes your [Arc]Arc Grenade to make you [Arc]Amplified and summon a '[Arc]Sentient Arc Soul' for 20 seconds.\nSentient [Arc]Arc Soul information:\n• Counts as generic [Arc]Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have [Void]Devour active)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Holding [Grenade] consumes your [Arc]Arc Grenade to make you [Arc]Amplified and summon a '[Arc]Sentient Arc Soul' for 20 seconds.\nSentient [Arc]Arc Soul information:\n• Counts as generic [Arc]Arc Ability damage and not Grenade Ability damage\n• Grants 5% Grenade Energy once per burst if it damages an enemy (this does not work if you have [Void]Devour active)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "2826187530": {
@@ -7103,7 +7103,7 @@
   "name": "Solar/Strand Dual Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar or [Strand]Strand Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar or [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "2838996248": {
@@ -7135,7 +7135,7 @@
   "name": "Rangefinder",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Aiming Down Sights grants 10% increased Effective Zoom and 5% faster Projectile Speed.\nThe Effective Zoom increase pushes out Aim Assist Falloff by 10%, reduces (Absolute) Recoil by 10% and narrows the Accuracy and Aim Assist Cones by the same amount. (This is the normal behavior of Zoom and isn't unique to Rangefinder)"
+   "en": "Aiming Down Sights grants 10% increased Effective Zoom and 5% increased Projectile Speed.\nThe Effective Zoom increase pushes out Aim Assist Falloff by 10%, reduces (Absolute) Recoil by 10% and narrows the Accuracy and Aim Assist Cones by the same amount. (This is the normal behavior of Zoom and isn't unique to Rangefinder)"
   }
  },
  "2848615171": {
@@ -7143,7 +7143,7 @@
   "name": "Dragonfly",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling)."
+   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] weapon-matching elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling)."
   }
  },
  "2856365672": {
@@ -7151,7 +7151,7 @@
   "name": "Energy Transfer",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• [enh]1.56% when Melee Damage is Blocked\n• [enh]1.5% when non-Melee Damage is Blocked\n• [enh]0.63% when damage isn't Blocked (getting hit from behind)\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order."
+   "en": "Every point of damage taken while Guarding grants Class Ability Energy:\n• [enh]1.56% when Melee Damage is Blocked\n• [enh]1.5% when non-Melee Damage is Blocked\n• [enh]0.63% when damage isn't Blocked (getting hit from behind)\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Increases Class Ability Energy gains by an additive 0.055%, 0.5%, and 0.125% in that order."
   }
  },
  "2859149211": {
@@ -7167,7 +7167,7 @@
   "name": "Flash Counter",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Upon Blocking an attack from an enemy within ? meters within 0.5 seconds of starting to Guard:\n[Lite](https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit?gid=263629622#rangeid=1218524482) [Void]Suppresses and [Void]Weakens the enemy for 4 seconds, making them receive 20% increased damage.\n([Void]Weaken is normally only a 15% debuff)\n[enh] Passively grants 10 Ammo Capacity."
+   "en": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage.\n[enh] Passively grants 10 Ammo Capacity."
   }
  },
  "2866798147": {
@@ -7241,7 +7241,7 @@
   "name": "Full Court",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Starts linearly increasing Explosive Damage 0.2 seconds after the projectile is fired. Reaches maximum strength after 1.1 seconds at 25%."
+   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase."
   }
  },
  "2889515627": {
@@ -7277,7 +7277,7 @@
   "name": "Focused Fury",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring 50% of the Base Magazine Capacity as Precision Hits grants 20% increased damage for 11 seconds.\nStowing or Reloading the weapon resets the Precision Hit counter but the buff remains active while stowed."
+   "en": "Scoring 50% of the Base Magazine Capacity as Precision Hits grants 20% increased damage for 11 seconds.\nStowing or Reloading the weapon resets the Precision Hit counter. The buff remains active while stowed."
   }
  },
  "2896748467": {
@@ -7309,7 +7309,7 @@
   "name": "Withering Gaze",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Aiming Down Sights for [enh]1.4 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed.\n[enh] Activation time is decreased by 0.1 seconds."
+   "en": "Aiming Down Sights (ADS) for [enh]1.4 seconds without firing causes your next Direct Hit to apply [Void]Weaken.\nTimer starts as soon as ADS input is pressed.\n[enh] Activation time is decreased by 0.1 seconds."
   }
  },
  "2911329003": {
@@ -7361,7 +7361,7 @@
   "name": "Target Lock",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Successive Hits within 0.2 seconds of each grant a ramping Damage Buff after scoring 12.5% of the Magazine Capacity as hits (20% on SMGs). Missing deactivates the buff.\nStacks displayed on-screen are only visual aides, the buff [ramps up with each shot](https://url.d2clarity.com/PvETargetLock) once active. Reaches maximum strength at 5 Stacks.\n% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%\nAll thresholds are increased by 60% for Submachine Guns, initially triggering at 20% and maxing out at 176.53%.\nDamage Buff ramps up from [enh][pve]18.82% [pvp][12.55%] to [enh][pve]45% [pvp][30%] upon reaching maximum strength.\nAssuming no missed shots, it provides roughly a [enh][pve]28.13% [pvp][19.02%] [Damage Buff on average](https://url.d2clarity.com/PvETargetLock) after firing 100% of the Magazine Capacity.\n[enh] Damage Buff is increased by [pve]12.5% [pvp][20%]."
+   "en": "Successive Hits within 0.2 seconds of each grant a ramping Damage Buff after scoring 12.5% of the Magazine Capacity as hits (20% on SMGs). Missing deactivates the buff.\nStacks displayed on-screen are only visual aides, the buff [ramps up with each shot](https://url.d2clarity.com/PvETargetLock) once active. Reaches maximum strength at 5 Stacks.\n% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%\nDamage Buff ramps up from [enh][pve]18.82% [pvp][12.55%] to [enh][pve]45% [pvp][30%] upon reaching maximum strength.\nAssuming no missed shots, it provides roughly a [enh][pve]28.13% [pvp][19.02%] [Damage Buff on average](https://url.d2clarity.com/PvETargetLock) after firing 100% of the Magazine Capacity.\n[enh] Damage Buff is increased by [pve]12.5% [pvp][20%]."
   }
  },
  "2946784966": {
@@ -7495,7 +7495,7 @@
   "name": "Osmosis",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble) do not trigger Osmosis."
+   "en": "Grenade Ability usage refills 50% of your Magazine (rounded up) from reserves and changes the weapon's element to match your Grenade Ability until stowed.\nMagazine Refill cannot be triggered again without stowing the weapon first.\nKinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants.\nTranscendence Grenades count as the element of your equipped Grenade Ability.\nMost perks that replace your Grenade Ability with a custom throwable (such as [Solar]Gunpowder Gamble or The Rock) do not trigger the perk."
   }
  },
  "3000428062": {
@@ -7575,7 +7575,7 @@
   "name": "Explosive Payload",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
+   "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact.\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more. [pvp]On Hand Cannons, the Payload deals 7% decreased damage in PvP.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "3042219245": {
@@ -7757,7 +7757,7 @@
   "name": "Hip-Fire Grip",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants the following benefits while hipfiring:\n• 25 Stability and 15 Aim Assist\n• 2.7° larger Precision Aim Angle\n• 30% decreased Accuracy Cone Size\n• 20% increased Aim Assist Falloff Distance\n• 20% increased Damage Falloff Distance\nThe Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n[enh] Stronger Effect."
+   "en": "Grants the following benefits while hipfiring:\n• 25 Stability and 15 Aim Assist\n• 2.7° larger Precision Aim Cone Angle\n• 30% decreased Accuracy Cone Size\n• 20% increased Aim Assist Falloff Distance\n• 20% increased Damage Falloff Distance\nThe Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\nPvP-specific note: the Precision Aim Cone Angle increase essentially just allows you to hit Crits while aimed above or slightly to the side of the head. (This is already the default behavior of Submachine Guns, Sidearms, Bows, Machine Guns, and Linear Fusion Rifles so it does not affect them)\n[enh] Stronger Effect."
   }
  },
  "3120212825": {
@@ -7765,7 +7765,7 @@
   "name": "Strategist",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills grant [enh]11% Class Ability Energy.\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant [enh]22%.\nClass Ability Usage grants ? Stability for ? seconds.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
+   "en": "Weapon Kills grant [enh]11% Class Ability Energy.\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant [enh]22%.\nClass Ability Usage grants ? Stability for ? seconds.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n[enh] Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
   }
  },
  "3124871000": {
@@ -7791,7 +7791,7 @@
   "name": "Dual Loader",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Reloading loads [enh]2 additional rounds at a time.\n[enh] Loads in 1 more round at a time."
+   "en": "Reloading loads [enh]2 additional rounds into the magazine at a time.\n[enh] Loads in 1 more round at a time."
   }
  },
  "3146691100": {
@@ -7887,7 +7887,7 @@
   "name": "Absolution",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Orb of Power Pickups:\nGrants 5%|7.5%|10% Grenade, Melee, and Class Ability Energy with 1|2|3 Mods equipped.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3186078099": {
@@ -7903,7 +7903,7 @@
   "name": "Stasis Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Stasis]Stasis Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Stasis]Stasis Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "3192552688": {
@@ -7935,7 +7935,7 @@
   "name": "Thread of Generation",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Dealing damage grants Grenade Ability Energy for each damage instance.\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Dealing damage grants Grenade Ability Energy for each damage instance.\nGrenade Ability Energy Gains vary depending on the source and the amount of damage dealt. Generally, more damage means more energy.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3194351027": {
@@ -8047,7 +8047,7 @@
   "name": "Bolstering Detonation",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3252839262": {
@@ -8145,7 +8145,7 @@
   "name": "Strand Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Strand]Strand Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "3291427296": {
@@ -8369,7 +8369,7 @@
   "name": "Explosive Head",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nPayload detonation time after hitting a target or surface varies on draw and distance.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\nPayload detonation time after hitting a target or surface varies on draw and distance.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "3373736292": {
@@ -8377,7 +8377,7 @@
   "name": "Sticky Grenades",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\nIncreases Detonation damage by 30% and decreases Impact damage by 85%.\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 100 Blast Radius: 11% increased total damage"
+   "en": "Grenades stick to impacted surfaces for up to ? seconds and detonate once an enemy gets within ? meters.\nIncreases Detonation damage by 30% and decreases Impact damage by 85%.\nDue to the ratio of Detonation and Impact damage being tied to the Blast Radius stat on Grenade Launchers, a higher stat will be more beneficial:\n• 20 Blast Radius: 6% decreased total damage\n• 48 Blast Radius: unchanged total damage\n• 100 Blast Radius: 11% increased total damage"
   }
  },
  "3400784728": {
@@ -8611,7 +8611,7 @@
   "name": "Whisper of Refraction",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Killing [Stasis]Frozen or [Stasis]Slowed enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing [Stasis]Frozen or [Stasis]Slowed enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 9%\n• T2 Minors, T1 Elites: 13%\n• Enemy Players: 15%\n• T3 Minors, T2 Elites: 20%\n• T4 Minors, T3 Elites: 30%\n• T4 Elites, Minibosses: 40%\n• Bosses: 50%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3469412969": {
@@ -8749,7 +8749,7 @@
   "name": "Elemental Capacitor",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants Passive Bonuses based on the element of your selected Super's element:\n• [Solar]Solar: 50 Reload Speed\n• [Arc]Arc: 50 Handling\n• [Void]Void: 20 Stability\n• [Strand]Strand: 20 Airborne Effectiveness\n• [Stasis]Stasis: 20 Recoil Direction & 20% reduced ADS Movement Speed Penalty"
+   "en": "Grants Passive Bonuses based on the element of your selected Super's element:\n• [Solar]Solar: 50 Reload Speed\n• [Arc]Arc: 50 Handling\n• [Void]Void: 20 Stability\n• [Strand]Strand: 20 Airborne Effectiveness\n• [Stasis]Stasis: 20 Recoil Direction & 20% decreased ADS Movement Speed Penalty"
   }
  },
  "3513791699": {
@@ -8781,7 +8781,7 @@
   "name": "Demolitionist",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Grenade Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Grenade Ability Energy.\nKills with Sniper Rifles, Shotguns, Glaives, and Fusion Rifles grant 20%.\nUsing your Grenade Ability refills the Magazine with a 3 second cooldown.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3523746922": {
@@ -8893,7 +8893,7 @@
   "name": "Wellspring",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\nAbilities with multiple charges only receive one third of the ability energy normally split to them once they have a full ability charge ready.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3598972737": {
@@ -8909,7 +8909,7 @@
   "name": "Momentum Transfer",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\nMelee Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAttaching to targets with a [Strand]Grapple triggers the mod but [Strand]Grapple Melees do not.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Melee Ability Energy upon dealing Grenade Ability damage. 7 second cooldown between activations.\nMelee Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAttaching to targets with a [Strand]Grapple triggers the mod but [Strand]Grapple Melees do not.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3609952942": {
@@ -8997,7 +8997,7 @@
   "name": "Focusing Strike",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "3662465906": {
@@ -9007,7 +9007,7 @@
   "itemName": "Mask of the Quiet One",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\nIf a [Void]Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you [Void]Devour.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Kills at Critical Health fully restore Health. (Shields are not restored)\nTaking damage from enemies grants 5% Grenade, Melee, and Class Ability Energy. 1 second cooldown between activations.\nIf a [Void]Void Super Ability is equipped:\nScoring a Kill at Critical Health or 3 Kills within 5 seconds of each grants you [Void]Devour.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3662465907": {
@@ -9017,7 +9017,7 @@
   "itemName": "An Insurmountable Skullfort",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Powered [Arc]Arc Melee Kills refund a Melee Ability Charge and start Health Regeneration.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Powered [Arc]Arc Melee Kills refund a Melee Ability Charge and start Health Regeneration.\nMelee Hits grant Melee ability energy:\n• ?++%: Powered Melee Hits\n• ?+%: Melee Hits with [Arc]Knockout active\n• ?%: Unpowered Melee and Glaive Melee Hits\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "3663096260": {
@@ -9093,7 +9093,7 @@
   "name": "Focusing Strike",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grants Class Ability Energy upon dealing Elemental Melee Damage. 7 second cooldown between activations.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "3700496672": {
@@ -9209,7 +9209,7 @@
   "name": "Bolstering Detonation",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants Class Ability Energy upon dealing Grenade Ability Damage. 7 second cooldown after activation.\nClass Ability Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3728676938": {
@@ -9291,7 +9291,7 @@
   "name": "Radar Booster",
   "type": "Weapon Mod",
   "descriptions": {
-   "en": "Passively increases maximum Radar Range by 8 meters."
+   "en": "Passively increases maximum Radar Range by 8 meters (48⁠🠚⁠56 meters)."
   }
  },
  "3789184904": {
@@ -9307,7 +9307,7 @@
   "name": "Orbs of Restoration",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\nAbilities with multiple charges do not receive any energy if they already have a full charge.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Grants 10%|13%|15% Ability Energy to the least-charged Ability on Orb of Power pickups.\nAbilities with multiple charges do not receive any energy if they already have a full charge.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "3794558792": {
@@ -9323,7 +9323,7 @@
   "name": "Impact Casing",
   "type": "Weapon Perk",
   "descriptions": {
-   "en": "Increases Impact Damage by 10%, resulting in a 2.2% total damage increase (not accounting for other damage perks).\nHigh-Impact Rocket Launchers only receive a 1.03% total damage increase."
+   "en": "Increases Impact damage by 10%, resulting in a 2.2% total damage increase (not accounting for other damage perks).\nHigh-Impact Rocket Launchers only receive a 1.03% total damage increase."
   }
  },
  "3797647183": {
@@ -9409,7 +9409,7 @@
   "name": "Harmonic Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Weapon matching your Super Element.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a Weapon matching your Super Element.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "3846931924": {
@@ -9425,7 +9425,7 @@
   "name": "Arc Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "3854948620": {
@@ -9449,7 +9449,7 @@
   "name": "Dragonfly",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling)."
+   "en": "Precision Kills cause targets to explode, dealing up to [pve]123.89 [pvp][95.3] weapon-matching elemental damage in a 4.5 meter radius.\nExplosions inherit the weapon's [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling)."
   }
  },
  "3874977694": {
@@ -9467,7 +9467,7 @@
   "name": "Impulse Amplifier",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Passively grants:\n• 35% increased Projectile Velocity\n• [enh]25 Reload Speed\n• 0.85x Reload Duration Multiplier\nRocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead of the 0.85x of other weapons.\n[enh] Reload Speed Bonus is increased by 5."
+   "en": "Passively grants:\n• 35% increased Projectile Velocity\n• [enh]25 Reload Speed\n• 0.85x Reload Duration Multiplier\nRocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead.\n[enh] Reload Speed Bonus is increased by 5."
   }
  },
  "3887037435": {
@@ -9483,7 +9483,7 @@
   "name": "Kinetic Tremors",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds.\nEach shockwave deals up to [pve]120 [pvp][20] damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on [Minor and Elite](https://url.d2clarity.com/combatants) PvE Combatants.\nShockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on [primary]Primary, 15% on [special]Special), and its [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling). They also count as non-direct Hits with the weapon for other interactions.\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\nHits Required for Activation:\n• Submachine Guns: 14\n• Auto Rifles: 12\n• Pulse Rifles: 11\n• Non-burst Sidearms: 8\n• Hand Cannons, Scout Rifles: 6\n• Bows, Sniper Rifles: 3"
+   "en": "Scoring multiple Direct Hits against a target within 3 seconds of each emits 3 damaging shockwaves from its location at the time of activation. Hit counter persists through stow.\nShockwaves appear 0.25 seconds after scoring enough Hits and have a 1 second delay between each pulse. With Bows, the initial delay is decreased to 0.167 seconds.\nEach shockwave deals up to [pve]90 [pvp][20] damage in a 5? meter radius. Shockwaves deal 33.33% more damage when activated on [Miniboss or higher tier](https://url.d2clarity.com/combatants) PvE Combatants.\nShockwaves inherit Weapon Damage Buffs (certain weapon perks' damage buffs are not inherited), the weapon's passive Kinetic Damage Bonus in PVE (10% on [primary]Primary, 15% on [special]Special), and its [Combatant Damage Scaling](https://url.d2clarity.com/combatant-scaling). They also count as non-direct Hits with the weapon for other interactions.\nThe perk cannot be retriggered by anyone on a target until 2? seconds after the last shockwave.\nHits Required for Activation:\n• Submachine Guns: 14\n• Auto Rifles: 12\n• Pulse Rifles: 11\n• Non-burst Sidearms: 8\n• Hand Cannons, Scout Rifles: 6\n• Bows, Sniper Rifles: 3"
   }
  },
  "3907299874": {
@@ -9541,7 +9541,7 @@
   "name": "Strand Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Strand]Strand Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with with a [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "3927722942": {
@@ -9647,7 +9647,7 @@
   "name": "Jolting Feedback",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Auto Rifles: 15 | [Arc]11\n• Pulse Rifles: 14 | [Arc]10\n• Submachine Guns (theoretical): 18? | [Arc]13?\n• Grenade Launchers: 3 | [Arc]2"
+   "en": "Scoring multiple Direct Hits with the weapon within 3? seconds of each causes the next Direct Hit to apply [Arc]Jolt.\nBeing [Arc]Amplified decreases the number of Hits required.\nHits needed to activate normally | while [Arc]Amplified:\n• Submachine Guns: 18 | [Arc]13\n• Auto Rifles: 15 | [Arc]11\n• Pulse Rifles: 14 | [Arc]10\n• Grenade Launchers: 3 | [Arc]2"
   }
  },
  "3967134106": {
@@ -9683,7 +9683,7 @@
   "name": "No Distractions",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants 35% Flinch Resistance after [enh]0.9 seconds of Aiming Down Sights (ADS) without firing. Remains active until you're no longer ADS.\nTimer starts as soon as the ADS input is pressed.\n[enh] Activation time is reduced by 10%."
+   "en": "Grants 35% Flinch Resistance after [enh]0.9 seconds of Aiming Down Sights (ADS) without firing. Remains active until you're no longer ADS.\nTimer starts as soon as the ADS input is pressed.\n[enh] Activation time is decreased by 0.1 seconds."
   }
  },
  "3977735242": {
@@ -9765,7 +9765,7 @@
   "name": "Veist Stinger",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Hits have a chance to activate Veist Stinger for 7 seconds, granting the following bonuses:\n• Refills 25% of Magazine from reserves on activation\n• Decreases ADS Movement Speed Penalty by 10%\n• Grants 15% decreased Draw Time to Bows\n• Grants ? Charge Rate to Swords\n4 second cooldown between activations.\nActivation Chance on hits:\n• Auto Rifle, Submachine Gun: 2%\n• Sidearm: 4%\n• Bow, Linear Fusion Rifle, Sniper Rifle: 10%"
+   "en": "Hits have a chance to activate Veist Stinger for 7 seconds, granting the following bonuses:\n• Refills 25% of Magazine from reserves on activation\n• 10% decreased ADS Movement Speed Penalty\n• 15% decreased Draw Time to Bows\n• ? Charge Rate to Swords\n4 second cooldown between activations.\nActivation Chance on hits:\n• Auto Rifle, Submachine Gun: 2%\n• Sidearm: 4%\n• Bow, Linear Fusion Rifle, Sniper Rifle: 10%"
   }
  },
  "3989629871": {
@@ -9773,7 +9773,7 @@
   "name": "Skulking Wolf",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "On Enemy Player Kills while at or below 90 HP:\nGrants an Enhanced Radar and removes you from passively pinging enemy radars for 10 seconds.\nFiring weapons will still ping enemy radars for 2 seconds. (Radar Blip indicates that it's only visible for 0.75 seconds; this is inaccurate)"
+   "en": "Weapon Kills while at or below 90 HP grant the following benefits for 10 seconds:\n• Enhanced Radar (6⁠🠚⁠12 sectors)\n• Removes you from passively pinging enemy radars\n• PvE Combatants become less accurate when targeting you\nFiring weapons will still ping enemy radars for 2 seconds. (Radar Blip indicates that it's only visible for 0.75 seconds; this is inaccurate)"
   }
  },
  "3993379141": {
@@ -9831,7 +9831,7 @@
   "name": "One-Two Finisher",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finishers consume 3 or more Stacks of Armor Charge and grant Melee Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4004774874": {
@@ -9863,7 +9863,7 @@
   "name": "Explosive Finisher",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Finisher consume 3 or more Stacks of Armor Charge and grant Grenade Ability Energy.\nEnergy Gains with 3|4|5|6 Stacks Consumed:\n70% | 80% | 90% | 100%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4008116374": {
@@ -9899,7 +9899,7 @@
   "name": "Distribution",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: [pve]4% [pvp][2%] | [pve]6% [pvp][3%] | [pve]7% [pvp][3.5%]\n• Super Energy: [pve]2% [pvp][1%] | [pve]3% [pvp][1.5%] | [pve]4% [pvp][2%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: [pve]4% [pvp][2%] | [pve]6% [pvp][3%] | [pve]7% [pvp][3.5%]\n• Super Energy: [pve]2% [pvp][1%] | [pve]3% [pvp][1.5%] | [pve]4% [pvp][2%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4045335048": {
@@ -9907,7 +9907,7 @@
   "name": "Headseeker",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:\n• Increases Precision Multiplier by 0.1175\n• 3% increased Aim Assist Cone size\n[enh] Passively grants 5 Stability."
+   "en": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:\n• 20% increased Precision Bonus (complicated, see specific damage increases below)\n• 3% increased Aim Assist Cone size\nPrecision damage increases by weapon type/frame:\n• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%\n• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%\n[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage.\nThe distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent.\n[enh] Passively grants 5 Stability."
   }
  },
  "4046357305": {
@@ -9925,7 +9925,7 @@
   "itemName": "Star-Eater Scales",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Orbs of Power grant an additional 2% Super Energy.\nThis is reduced to 0.5% if [Solar]Golden Gun is the selected Super Ability.\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks.\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks"
+   "en": "Orbs of Power grant an additional 2% Super Energy.\nThis is decreased to 0.5% if [Solar]Golden Gun is the selected Super Ability.\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks.\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks"
   }
  },
  "4049631843": {
@@ -10105,7 +10105,7 @@
   "name": "Bray Legacy",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits.\nDoes not grant any energy to abilities that you already have a full charge of.\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2%\n• VS Velocity Baton: 0.365%\n• VS Gravitic Arrest: 0.425%\n• VS Chill Inhibitor: 3.5%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Hits with the weapon grant ability energy to the most charged ability. Does not require Direct Hits.\nDoes not grant any energy to abilities that you already have a full charge of.\nAbility energy gains by weapon:\n• VS Pyroelectric Propellant: 0.2%\n• VS Velocity Baton: 0.365%\n• VS Gravitic Arrest: 0.425%\n• VS Chill Inhibitor: 3.5%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4146729347": {
@@ -10147,7 +10147,7 @@
   "name": "Outreach",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Class Ability usage grants Melee Energy.\nMelee Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Class Ability usage grants Melee Energy.\nMelee Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4172222323": {
@@ -10205,7 +10205,7 @@
   "name": "Grenade Kickstart",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\nGrenade Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "When a Grenade Ability Charge is fully consumed and you have active Armor Charges:\nConsumes active Armor Charges and grants Grenade Ability Energy.\nEach Mod and Stack of Armor Charge counts as one 'charge' for Grenade Energy refunds.\nGrenade Energy gains with 2|3|etc. 'charges':\n[pve][PVE] 16.2% | 21.7% | 28.4% | 34.4% | 38.4% | 41.3% | 43.4% | 45%\n[pvp][PVP] 12.5% | 14.2% | 16.2% | 18.7% | 21.7% | 25% | 28.4% | 31.6%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4183521337": {
@@ -10221,7 +10221,7 @@
   "name": "Bomber",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Class Ability usage grants Grenade Energy.\nGrenade Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Class Ability usage grants Grenade Energy.\nGrenade Energy Gains with 1|2|3 Mods:\n[pve]12% [pvp][6%] | [pve]17% [pvp][8.5%] | [pve]20% [pvp][10%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4190535237": {
@@ -10231,7 +10231,7 @@
   "itemName": "Ursa Furiosa",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Increases movement speed by 15% while guarding with [Void]Unbreakable or [Void]Sentinel Shield.\nBlocking damage with [Void]Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\nDamage Blocked with an active [Void]Overshield does not count towards the Super Energy Refund.\n[Void]Unbreakable grants up to [pve]20% [pvp][10%] Super Energy after receiving [pve]? [pvp][90] damage."
+   "en": "Increases movement speed by 15% while guarding with [Void]Unbreakable or [Void]Sentinel Shield.\nBlocking damage with [Void]Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\nDamage Blocked with an active [Void]Overshield does not count towards the Super Energy Refund.\n[Void]Unbreakable grants up to [pve]?% [pvp][?%] Grenade energy after receiving [pve]? [pvp][?] damage."
   }
  },
  "4190643473": {
@@ -10297,7 +10297,7 @@
   "name": "Thread of Mind",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Killing [Strand]Suspensded enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n1? second cooldown between activations.\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Killing [Strand]Suspensded enemies grants Class Ability Energy based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 12%\n• T3 Minors, T2 Elites, Players: 15%\n• T4 Minors, T3 Elites, and higher: 30%\n1? second cooldown between activations.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4208512219": {
@@ -10305,7 +10305,7 @@
   "name": "Thread of Fury",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Dealing damage with [Strand]Tangles grants Melee Energy per damage instance based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Dealing damage with [Strand]Tangles grants Melee Energy per damage instance based on [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10%\n• T2 Minors, T1 Elites: 18%\n• T3 Minors, T2 Elites: 20%\n• Players: 25%\n• T4 Minors, T3 Elites, and higher: 30%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4208512220": {
@@ -10357,7 +10357,7 @@
   "itemName": "Rain of Fire",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\nFusion Rifle and Linear Fusion Rifle Kills grant [Solar]Radiant for 7.5 seconds.\nAir Dodges refill all equipped weapons from reserves. Air Dodges include both [Solar]Icarus Dash and [Strand]Weavewalk."
+   "en": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\nFusion Rifle and Linear Fusion Rifle Kills grant [Solar]Radiant for 7.5 seconds (11.25 with [Solar]Ember of Solace).\nAir Dodges refill all equipped weapons from reserves. Air Dodges include both [Solar]Icarus Dash and [Strand]Weavewalk."
   }
  },
  "4223976499": {
@@ -10427,7 +10427,7 @@
   "name": "Solar Siphon",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar Weapon.\nKills within 1 seconds of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
+   "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
  "4259872956": {
@@ -10445,7 +10445,7 @@
   "name": "Dawning Surprise",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\nActivation progress on Kills by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Scoring multiple Kills with the weapon spawns a Dawning Gift for you and allies. Dawning Gifts remain on the ground for 10 seconds.\nPicking up Dawning Gifts grants 10% Grenade, Melee, and Class Ability Energy, restores 22 HP, and starts Health Regeneration.\nActivation progress on Kills by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors and Guardians: 16.66%\n• Elites, Minibosses, and Bosses: 50%\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "4267244538": {
@@ -10453,7 +10453,7 @@
   "name": "Distribution",
   "type": "Armor Mod General",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: [pve]4% [pvp][2%] | [pve]6% [pvp][3%] | [pve]7% [pvp][3.5%]\n• Super Energy: [pve]2% [pvp][1%] | [pve]3% [pvp][1.5%] | [pve]4% [pvp][2%]\nAbility energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: [pve]4% [pvp][2%] | [pve]6% [pvp][3%] | [pve]7% [pvp][3.5%]\n• Super Energy: [pve]2% [pvp][1%] | [pve]3% [pvp][1.5%] | [pve]4% [pvp][2%]\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4267945040": {

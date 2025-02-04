@@ -783,13 +783,13 @@
  "25606670": {
   "hash": 25606670,
   "name": "Dual Loader",
-  "lastUpload": 1719594243302,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1719481233940,
+     "lastUpdate": 1738596318003,
      "updatedBy": "Stardust"
     }
    }
@@ -799,7 +799,7 @@
     {
      "linesContent": [
       {
-       "text": "Reloading loads 1 additional round at a time."
+       "text": "Reloading loads 1 additional round into the magazine at a time."
       }
      ]
     }
@@ -809,13 +809,13 @@
  "31345821": {
   "hash": 31345821,
   "name": "Sword Logic",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723396254790,
+     "lastUpdate": 1738608666559,
      "updatedBy": "Stardust"
     }
    }
@@ -862,7 +862,7 @@
     {
      "linesContent": [
       {
-       "text": "• Minibosses and Players in their Super: 3 Stacks for 10.5 seconds"
+       "text": "• Players in their Super and Minibosses: 3 Stacks for 10.5 seconds"
       }
      ]
     },
@@ -1487,7 +1487,20 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
+       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The Payload deals 30% increased damage in PvE and staggers PvE Combatants more. "
+      },
+      {
+       "text": "On Hand Cannons, the Payload deals 7% decreased damage in PvP."
       }
      ]
     },
@@ -2007,7 +2020,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -2029,13 +2042,13 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727527014703,
+     "lastUpdate": 1738642973464,
      "updatedBy": "Stardust"
     }
    }
@@ -2045,7 +2058,27 @@
     {
      "linesContent": [
       {
-       "text": "'Multi-Dodge Ready' appears on the Buff List while within 15 meters of an enemy."
+       "text": "Grants the followng benefits while a "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon is readied:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grants ? Airborne Effectiveness"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights"
       }
      ]
     },
@@ -2055,7 +2088,10 @@
     {
      "linesContent": [
       {
-       "text": "Dodging while Multi-Dodge is ready allows you to chain dodges infinitely for 6 seconds. Additional kills extend the buff duration by 5 seconds, up to the maximum of 11 seconds."
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapon Multikills grant ?% Class Ability energy."
       }
      ]
     },
@@ -2065,46 +2101,13 @@
     {
      "linesContent": [
       {
-       "text": "Multi-Dodge Dodges don't activate:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• "
+       "text": "While your Class Ability is charged, "
       },
       {
-       "classNames": [ "stasis" ]
+       "classNames": [ "primary" ]
       },
       {
-       "text": "Winter's Shroud and "
-      },
-      {
-       "classNames": [ "strand" ]
-      },
-      {
-       "text": "Threaded Specter Aspects"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Dynamo, Bomber, Outreach, and Distribution Armor Mods"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "classNames": [ "strand" ]
-      },
-      {
-       "text": "Ensnaring Slam removes the buff after one usage."
+       "text": "Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges."
       }
      ]
     }
@@ -2598,7 +2601,7 @@
        "text": "[PVP: 95.3]"
       },
       {
-       "text": " elemental damage in a 4.5 meter radius."
+       "text": " weapon-matching elemental damage in a 4.5 meter radius."
       }
      ]
     },
@@ -5479,7 +5482,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -5495,13 +5498,13 @@
  "365154968": {
   "hash": 365154968,
   "name": "Target Lock",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722344363919,
+     "lastUpdate": 1738608801026,
      "updatedBy": "Stardust"
     }
    }
@@ -5538,16 +5541,6 @@
      "linesContent": [
       {
        "text": "% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "All thresholds are increased by 60% for Submachine Guns, initially triggering at 20% and maxing out at 176.53%."
       }
      ]
     },
@@ -5718,7 +5711,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -6886,13 +6879,13 @@
  "460017080": {
   "hash": 460017080,
   "name": "Headseeker",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727524948871,
+     "lastUpdate": 1738601610875,
      "updatedBy": "Stardust"
     }
    }
@@ -6902,14 +6895,14 @@
     {
      "linesContent": [
       {
-       "text": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:"
+       "text": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Increases Precision Multiplier by 0.1175"
+       "text": "• 20% increased Precision Bonus (complicated, see specific damage increases below)"
       }
      ]
     },
@@ -6917,6 +6910,50 @@
      "linesContent": [
       {
        "text": "• 3% increased Aim Assist Cone size"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Precision damage increases by weapon type/frame:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent."
       }
      ]
     }
@@ -7784,7 +7821,7 @@
     {
      "linesContent": [
       {
-       "text": "Aiming Down Sights grants 10% increased Effective Zoom and 5% faster Projectile Speed."
+       "text": "Aiming Down Sights grants 10% increased Effective Zoom and 5% increased Projectile Speed."
       }
      ]
     },
@@ -8020,7 +8057,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -8040,7 +8077,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1736001993822,
+  "lastUpload": 1738687242983,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -8253,7 +8290,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -8407,7 +8444,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -9427,18 +9464,14 @@
  "588594999": {
   "hash": 588594999,
   "name": "Moving Target",
-  "lastUpload": 1709226265485,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1709218100768,
+     "lastUpdate": 1738605722047,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670271614789,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -9447,7 +9480,21 @@
     {
      "linesContent": [
       {
-       "text": "Grants 10 Aim Assist while Aiming Down Sights (ADS) and decreases ADS Movement Speed Penalty by 10%."
+       "text": "Grants the following while Aiming Down Sights (ADS):"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 10 Aim Assist"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 10% decreased ADS Movement Speed Penalty"
       }
      ]
     }
@@ -9765,13 +9812,13 @@
   "name": "Cross Counter",
   "itemHash": 4165919945,
   "itemName": "Liar's Handshake",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734649693578,
+     "lastUpdate": 1738639960805,
      "updatedBy": "Stardust"
     }
    }
@@ -9826,7 +9873,7 @@
     {
      "linesContent": [
       {
-       "text": "The 'One-Two Punch' perk's Melee damage buff is decreased to 40% when Cross Counter is active."
+       "text": "The One-Two Punch perk's Melee damage buff is decreased to 40% when Cross Counter is active."
       }
      ]
     },
@@ -10398,7 +10445,7 @@
     {
      "linesContent": [
       {
-       "text": "• Minibosses and Players in their Super: 3 Stacks for "
+       "text": "• Players in their Super and Minibosses: 3 Stacks for "
       },
       {
        "text": "🡅",
@@ -10891,7 +10938,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -11384,7 +11431,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "25 Recoil Direction & 20% reduced ADS Movement Speed Penalty"
+       "text": "25 Recoil Direction & 20% decreased ADS Movement Speed Penalty"
       }
      ]
     },
@@ -11550,6 +11597,26 @@
     {
      "linesContent": [
       {
+       "text": "• Submachine Guns: "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "17 | "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "13"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "• Auto Rifles: "
       },
       {
@@ -11584,26 +11651,6 @@
       },
       {
        "text": "10"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Submachine Guns (theoretical): "
-      },
-      {
-       "text": "🡅",
-       "classNames": [ "enhancedArrow" ]
-      },
-      {
-       "text": "17? | "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "13?"
       }
      ]
     },
@@ -11794,7 +11841,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -11964,13 +12011,13 @@
  "766321425": {
   "hash": 766321425,
   "name": "Bray Inheritance",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734439015239,
+     "lastUpdate": 1738609124126,
      "updatedBy": "Stardust"
     }
    }
@@ -11997,28 +12044,28 @@
     {
      "linesContent": [
       {
-       "text": "• Trustee: 0.354%"
+       "text": "• Trustee: 0.35%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Posterity: 0.463%"
+       "text": "• Posterity: 0.45%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Commemoration: 0.42%"
+       "text": "• Commemoration: 0.4%"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Heritage: 0.86%"
+       "text": "• Heritage: 0.85%"
       }
      ]
     },
@@ -12042,7 +12089,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -12337,7 +12384,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Gunpowder Gamble) do not trigger Osmosis."
+       "text": "Gunpowder Gamble or "
+      },
+      {
+       "text": "The Rock"
+      },
+      {
+       "text": ") do not trigger the perk."
       }
      ]
     },
@@ -12498,53 +12551,6 @@
     {
      "linesContent": [
       {
-       "text": "Against "
-      },
-      {
-       "text": "Bosses and Vehicles"
-      },
-      {
-       "text": ", this is increased to 150% for the following melee options:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "All Unpowered Melees, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Combination Blow, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Disorienting Blow, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Chain Lightning, and "
-      },
-      {
-       "classNames": [ "strand" ]
-      },
-      {
-       "text": "Grapple Melee"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
        "text": "The following options do not benefit from the perk:"
       }
      ]
@@ -12678,7 +12684,7 @@
        "text": "higher buff of the two"
       },
       {
-       "text": " takes precedence. (Freeze being higher in every non-Boss case with the exception of "
+       "text": " takes precedence. (Freeze being higher in every case with the exception of "
       },
       {
        "classNames": [ "stasis" ]
@@ -13161,18 +13167,14 @@
  "830282363": {
   "hash": 830282363,
   "name": "Phase Magazine",
-  "lastUpload": 1676311977242,
+  "lastUpload": 1738687242983,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1676223773311,
+     "lastUpdate": 1738606632348,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670274886466,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -13181,7 +13183,7 @@
     {
      "linesContent": [
       {
-       "text": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
+       "text": "Sets the Submachine Gun's damage and Magazine profile to that of a Precision Frame."
       }
      ]
     }
@@ -13344,7 +13346,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -14079,7 +14081,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -14384,7 +14386,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -15142,13 +15144,13 @@
   "name": "Resolute",
   "itemHash": 2808156426,
   "itemName": "Eternal Warrior",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723244680512,
+     "lastUpdate": 1738685643036,
      "updatedBy": "Stardust"
     }
    }
@@ -15205,6 +15207,22 @@
       },
       {
        "text": "Fists of Havoc Super that negates Precision Damage. As long as it does not get fully destroyed, the overshield regenerates over 7 seconds after not receiving damage for 5 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Scoring Kills with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Fists of Havoc refunds ?% Super Energy."
       }
      ]
     },
@@ -15353,13 +15371,13 @@
  "951095735": {
   "hash": 951095735,
   "name": "Impulse Amplifier",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727525088813,
+     "lastUpdate": 1738602319613,
      "updatedBy": "Stardust"
     }
    }
@@ -15400,7 +15418,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead of the 0.85x of other weapons."
+       "text": "Rocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead."
       }
      ]
     }
@@ -15579,13 +15597,13 @@
  "960810156": {
   "hash": 960810156,
   "name": "Danger Zone",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1721147698624,
+     "lastUpdate": 1738595335493,
      "updatedBy": "Stardust"
     }
    }
@@ -15595,7 +15613,7 @@
     {
      "linesContent": [
       {
-       "text": "Increases Blast Radius by ?% and reduces Self-Damage while within 15 meters of 3 enemies."
+       "text": "Increases Blast Radius by ?% and decreased Self-Damage while within 15 meters of 3 enemies."
       }
      ]
     },
@@ -15615,7 +15633,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Launchers: 40% reduced Self-Damage"
+       "text": "Grenade Launchers: 40% decreased Self-Damage"
       }
      ]
     },
@@ -15625,7 +15643,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket Launchers: 99.99% reduced Self-Damage and allows for rocket jumping"
+       "text": "Rocket Launchers: 99.99% decreased Self-Damage and allows for rocket jumping"
       }
      ]
     }
@@ -16401,7 +16419,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -16927,7 +16945,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -16959,7 +16977,7 @@
     {
      "linesContent": [
       {
-       "text": "Increases Blast Radius by ?% and reduces Self-Damage while within 15 meters of 3 enemies."
+       "text": "Increases Blast Radius by ?% and decreased Self-Damage while within 15 meters of 3 enemies."
       }
      ]
     },
@@ -16979,7 +16997,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Launchers: 40% reduced Self-Damage"
+       "text": "Grenade Launchers: 40% decreased Self-Damage"
       }
      ]
     },
@@ -16989,7 +17007,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket Launchers: 99.99% reduced Self-Damage and allows for rocket jumping"
+       "text": "Rocket Launchers: 99.99% decreased Self-Damage and allows for rocket jumping"
       }
      ]
     },
@@ -17091,7 +17109,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -17249,7 +17267,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -17567,7 +17585,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -17645,13 +17663,13 @@
  "1134488199": {
   "hash": 1134488199,
   "name": "Withering Gaze",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731005872069,
+     "lastUpdate": 1738686562567,
      "updatedBy": "Stardust"
     }
    }
@@ -17661,7 +17679,7 @@
     {
      "linesContent": [
       {
-       "text": "Aiming Down Sights for 1.5 seconds without firing causes your next Direct Hit to apply "
+       "text": "Aiming Down Sights (ADS) for 1.5 seconds without firing causes your next Direct Hit to apply "
       },
       {
        "classNames": [ "void" ]
@@ -17862,7 +17880,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -18335,7 +18353,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -19137,7 +19155,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -19220,7 +19238,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier"
+       "text": "• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier"
       }
      ]
     },
@@ -19817,7 +19835,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -19839,13 +19857,13 @@
   "name": "Ascending Amplitude",
   "itemHash": 1996008488,
   "itemName": "Stormdancer's Brace",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715798889738,
+     "lastUpdate": 1738638512174,
      "updatedBy": "Stardust"
     }
    }
@@ -19855,13 +19873,29 @@
     {
      "linesContent": [
       {
+       "text": "Decreases the Super Energy cost of "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Stormtrance's Ionic Blink by 50%."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "Kills during "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Stormtrance grant a Stack of 'Ascending Amplitude' for 8 seconds."
+       "text": "Stormtrance grant a Stack of 'Ascending Amplitude' for 8 seconds. Maximum of 10 Stacks."
       }
      ]
     },
@@ -19877,7 +19911,7 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Stormtrance's damage by 10% per Stack, up to 100% at 10 Stacks."
+       "text": "Stormtrance's damage by 20% per Stack."
       }
      ]
     },
@@ -19887,7 +19921,7 @@
     {
      "linesContent": [
       {
-       "text": "Refunds up to 50% of Super Energy based on the number of enemies killed with your Super."
+       "text": "Refunds up to 30% of Super Energy based on the number of enemies killed with your Super."
       }
      ]
     }
@@ -19933,13 +19967,13 @@
  "1250481499": {
   "hash": 1250481499,
   "name": "Extrovert",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722369487370,
+     "lastUpdate": 1738613712228,
      "updatedBy": "Stardust"
     }
    }
@@ -19950,6 +19984,16 @@
      "linesContent": [
       {
        "text": "Weapon Kills while within 15 meters of 3 enemies or a Nightmare restore 60 HP after a 0.25 second delay."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Glaive Melee Kills also count."
       }
      ]
     },
@@ -20263,7 +20307,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier"
+       "text": "• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier"
       }
      ]
     }
@@ -21001,13 +21045,13 @@
   "name": "Devouring Rift",
   "itemHash": 511888814,
   "itemName": "Secant Filaments",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723142150495,
+     "lastUpdate": 1738636985650,
      "updatedBy": "Stardust"
     }
    }
@@ -21040,6 +21084,22 @@
      "linesContent": [
       {
        "text": "Weapons with a Breaker Type (either intrinsic or from Artifact Perks) will not benefit from this."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Kills with "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Devour active grant you ?% Class Ability energy."
       }
      ]
     },
@@ -21439,7 +21499,7 @@
  "1365187766": {
   "hash": 1365187766,
   "name": "Gutshot Straight",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -21670,7 +21730,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -21762,7 +21822,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -22619,13 +22679,13 @@
   "name": "Depths of Duskfield",
   "itemHash": 2169905051,
   "itemName": "Renewal Grasps",
-  "lastUpload": 1729372904933,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729102535817,
+     "lastUpdate": 1738642993612,
      "updatedBy": "Stardust"
     }
    }
@@ -22697,7 +22757,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Slowing Field and receive additional Stacks for every 0.9 seconds they stay in the field."
+       "text": "Slowing Field and receive additional Stacks for every 0.5 seconds they stay in the field."
       }
      ]
     },
@@ -23098,7 +23158,7 @@
     {
      "linesContent": [
       {
-       "text": "Fusion Rifles Only Receive "
+       "text": "Fusion Rifles only receive "
       },
       {
        "text": "25% of the benefits"
@@ -23612,7 +23672,7 @@
        "text": "Each shockwave deals up to "
       },
       {
-       "text": "120"
+       "text": "90"
       },
       {
        "text": " "
@@ -23621,10 +23681,10 @@
        "text": "[PVP: 20]"
       },
       {
-       "text": " damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on "
+       "text": " damage in a 5? meter radius. Shockwaves deal 33.33% more damage when activated on "
       },
       {
-       "text": "Minor and Elite"
+       "text": "Miniboss or higher tier"
       },
       {
        "text": " PvE Combatants."
@@ -23798,7 +23858,17 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
+       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -24323,18 +24393,14 @@
  "1570042021": {
   "hash": 1570042021,
   "name": "Heating Up",
-  "lastUpload": 1712883202187,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712879238083,
+     "lastUpdate": 1738602037742,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670269117249,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -24343,28 +24409,45 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills grant the following for 5.5 seconds:"
+       "text": "Weapon Kills grant a Stack of Heating Up for 5.5 seconds. Maximum of 2 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Benefits at 1|2 Stacks of Heating Up:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15 Stability and 20 Recoil Direction"
+       "text": "• 15|30 Stability"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15% decreased Accuracy Cone Size"
+       "text": "• 20|40 Recoil Direction"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15% decreased "
+       "text": "• 15%|25% decreased Accuracy Cone Size"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 15%|25% decreased "
       },
       {
        "text": "Accuracy Cone Growth"
@@ -24377,7 +24460,7 @@
     {
      "linesContent": [
       {
-       "text": "Stacks 2 times. Cone scalars stack multiplicatively (15%⁠🠚⁠27.75%). Buff remains active while stowed."
+       "text": "Buff remains active while stowed."
       }
      ]
     }
@@ -24573,7 +24656,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Refill cooldown is reduced."
+       "text": " Refill cooldown is decreased."
       }
      ]
     }
@@ -24947,7 +25030,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Reactivation delay is reduced by 0.5 seconds."
+       "text": " Reactivation delay is decreased by 0.5 seconds."
       }
      ]
     }
@@ -25627,13 +25710,13 @@
   "name": "Survival Well",
   "itemHash": 1591207519,
   "itemName": "Crest of Alpha Lupi",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731155603108,
+     "lastUpdate": 1738685373310,
      "updatedBy": "Stardust"
     }
    }
@@ -25643,7 +25726,23 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability usage restores 80 Health and 75 Shield HP to you as well as allies within 12 meters as long as they have line of sight to you."
+       "text": "Class Ability usage heals you and allies within 12 meters as long as they have line of sight to you."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Casting a Barricade restores 80 Health and 75 Shield HP. Using "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Thruster restores 60 Health."
       }
      ]
     },
@@ -26262,7 +26361,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -26382,7 +26481,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -26820,7 +26919,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -27408,7 +27507,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -27606,7 +27705,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -27736,13 +27835,13 @@
  "1774574192": {
   "hash": 1774574192,
   "name": "Osmosis",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731793487516,
+     "lastUpdate": 1738606405710,
      "updatedBy": "Stardust"
     }
    }
@@ -27798,7 +27897,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Gunpowder Gamble) do not trigger Osmosis."
+       "text": "Gunpowder Gamble or "
+      },
+      {
+       "text": "The Rock"
+      },
+      {
+       "text": ") do not trigger the perk."
       }
      ]
     }
@@ -28298,13 +28403,13 @@
   "name": "Assault Barricade",
   "itemHash": 1190497097,
   "itemName": "Citan's Ramparts",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729535860219,
+     "lastUpdate": 1738684910675,
      "updatedBy": "Stardust"
     }
    }
@@ -28314,42 +28419,17 @@
     {
      "linesContent": [
       {
-       "text": "Replaces Towering Barricade with Assault Barricade:"
+       "text": "Replaces Towering Barricade with an Assault Barricade that allows the caster and their allies to shoot through it."
       }
      ]
     },
     {
-     "linesContent": [
-      {
-       "text": "• Allows caster and allies to shoot through it"
-      }
-     ]
+     "classNames": [ "spacer" ]
     },
     {
      "linesContent": [
       {
-       "text": "• 33% decreased HP (500🠚375?)"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Takes 25% increased damage from Enemy Players"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• 50% decreased duration (20🠚10 seconds)"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• 72.4% increased cooldown time"
+       "text": "Assault Barricades take 60% increased damage from Enemy Players, effectively decreasing its HP from 500 to 312.5 in PvP."
       }
      ]
     }
@@ -28754,7 +28834,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -28897,13 +28977,13 @@
  "1866048759": {
   "hash": 1866048759,
   "name": "Hip-Fire Grip",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722179713158,
+     "lastUpdate": 1738604252025,
      "updatedBy": "Stardust"
     }
    }
@@ -28927,7 +29007,7 @@
     {
      "linesContent": [
       {
-       "text": "• 2.7° larger Precision Aim Angle"
+       "text": "• 2.7° larger Precision Aim Cone Angle"
       }
      ]
     },
@@ -28959,6 +29039,16 @@
      "linesContent": [
       {
        "text": "The Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "PvP-specific note: the Precision Aim Cone Angle increase essentially just allows you to hit Crits while aimed above or slightly to the side of the head. (This is already the default behavior of Submachine Guns, Sidearms, Bows, Machine Guns, and Linear Fusion Rifles so it does not affect them)"
       }
      ]
     }
@@ -29045,13 +29135,13 @@
   "name": "Bleak Domain",
   "itemHash": 4060793397,
   "itemName": "Rime-coat Raiment",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731153712818,
+     "lastUpdate": 1738636747781,
      "updatedBy": "Stardust"
     }
    }
@@ -29100,7 +29190,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis Storm in a ? meter radius"
+       "text": "Stasis Storm in a 3 meter radius"
       }
      ]
     },
@@ -29304,13 +29394,13 @@
  "1890422124": {
   "hash": 1890422124,
   "name": "Tap the Trigger",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722343199951,
+     "lastUpdate": 1738686718379,
      "updatedBy": "Stardust"
     }
    }
@@ -29351,7 +29441,7 @@
     {
      "linesContent": [
       {
-       "text": "Fusion Rifles Only Receive "
+       "text": "Fusion Rifles only receive "
       },
       {
        "text": "25% of the benefits"
@@ -29515,7 +29605,17 @@
     {
      "linesContent": [
       {
-       "text": "Starts linearly increasing Explosive Damage 0.2 seconds after the projectile is fired. Reaches maximum strength after 1.1 seconds at 25%."
+       "text": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Reaches maximum strength after 1.1 seconds at a 25% damage increase."
       }
      ]
     },
@@ -29604,7 +29704,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -29903,7 +30003,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -29935,13 +30035,7 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills cause enemies to explode into a burst of "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Void energy, applying "
+       "text": "Weapon Kills cause enemies to explode, applying "
       },
       {
        "classNames": [ "void" ]
@@ -29957,7 +30051,29 @@
     {
      "linesContent": [
       {
-       "text": "3 second cooldown between activations."
+       "text": "If the explosion applied "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Volatile to a nearby enemy, you gain "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Volatile Rounds for 2 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "1 second cooldown between activations."
       }
      ]
     },
@@ -29971,7 +30087,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Cooldown is reduced."
+       "text": " Activation cooldown is decreased by 0.5? seconds."
       }
      ]
     }
@@ -29983,13 +30099,13 @@
   "name": "Close Enough",
   "itemHash": 121305948,
   "itemName": "Geomag Stabilizers",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734439878511,
+     "lastUpdate": 1738614639352,
      "updatedBy": "Stardust"
     }
    }
@@ -30005,13 +30121,35 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Ionic Traces grants 2% Super Energy with "
+       "text": "Ionic Traces grants 7% Super Energy with "
       },
       {
        "classNames": [ "arc" ]
       },
       {
        "text": "Chaos Reach selected."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "While at 6 Stacks of "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Bolt Charge or higher, sprinting grants you a Stack of "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Bolt Charge every ? seconds."
       }
      ]
     },
@@ -30031,17 +30169,7 @@
     {
      "linesContent": [
       {
-       "text": "0.75 second cooldown between refunds."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "This can increase "
+       "text": "0.75 second cooldown between refunds. This can increase "
       },
       {
        "classNames": [ "arc" ]
@@ -30344,13 +30472,13 @@
  "1966281507": {
   "hash": 1966281507,
   "name": "Replenishing Aegis",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722264491738,
+     "lastUpdate": 1738606689473,
      "updatedBy": "Stardust"
     }
    }
@@ -30616,13 +30744,13 @@
   "name": "The Fourth Magic",
   "itemHash": 2428181146,
   "itemName": "Verity's Brow",
-  "lastUpload": 1729536274338,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729536058337,
+     "lastUpdate": 1738637659994,
      "updatedBy": "Stardust"
     }
    }
@@ -30632,7 +30760,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills with Weapons matching your Grenade Element grant a Stack of 'Death Throes' for 11 seconds. Maximum of 5 Stacks."
+       "text": "Kills with Weapons matching your Grenade Element grant a Stack of Death Throes. Maximum of 5 Stacks."
       }
      ]
     },
@@ -30642,14 +30770,24 @@
     {
      "linesContent": [
       {
-       "text": "Death Throes improves Grenade Recharge Rate and Grenade damage:"
+       "text": "Stacks decay one at a time over 8|7|6|5|4 seconds for the 1st|...|5th Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Death Throes benefits at 1|2|3|4|5 Stacks:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 50%|100%|150%|200%|250% Additional Base Grenade Recharge Rate at 1|2|3|4|5 Stacks"
+       "text": "• 0.5%|1%|1.5%|2%|2.5% Grenade Energy per second"
       }
      ]
     },
@@ -30659,7 +30797,7 @@
        "text": "• "
       },
       {
-       "text": "PVE: 40%|55%|70%|85%|100% increased damage"
+       "text": "PVE: 40%|55%|70%|85%|100% increased Grenade damage"
       }
      ]
     },
@@ -30669,7 +30807,7 @@
        "text": "• "
       },
       {
-       "text": "PVP: 20%|40%|60%|80%|100% increased damage"
+       "text": "PVP: 20%|40%|60%|80%|100% increased Grenade damage"
       }
      ]
     },
@@ -31143,7 +31281,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -31254,7 +31392,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -31472,13 +31610,13 @@
  "2048641572": {
   "hash": 2048641572,
   "name": "Destabilizing Rounds",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723137602134,
+     "lastUpdate": 1738595790588,
      "updatedBy": "Stardust"
     }
    }
@@ -31488,13 +31626,7 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills cause enemies to explode into a burst of "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Void energy, applying "
+       "text": "Weapon Kills cause enemies to explode, applying "
       },
       {
        "classNames": [ "void" ]
@@ -31510,7 +31642,29 @@
     {
      "linesContent": [
       {
-       "text": "3 second cooldown between activations."
+       "text": "If the explosion applied "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Volatile to a nearby enemy, you gain "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Volatile Rounds for 2 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "1.5 second cooldown between activations."
       }
      ]
     }
@@ -32684,7 +32838,13 @@
     {
      "linesContent": [
       {
-       "text": "The reference point of enemies' elevation is generally their lowest point."
+       "text": "The reference point of enemies' elevation is "
+      },
+      {
+       "text": "generally"
+      },
+      {
+       "text": " their lowest point."
       }
      ]
     },
@@ -33101,22 +33261,14 @@
   "name": "Roving Assassin",
   "itemHash": 1474735276,
   "itemName": "Gwisin Vest",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715799328570,
+     "lastUpdate": 1738639474666,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665696387572,
-     "updatedBy": "tritonesub251"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670678750983,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -33125,7 +33277,35 @@
     {
      "linesContent": [
       {
-       "text": "While in Spectral Blades:"
+       "text": "Leaving "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Invisibility while within 15? meters of an enemy releases a cloud of smoke that "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Weakens enemies and lasts ? seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "While in "
+      },
+      {
+       "classNames": [ "void" ]
+      },
+      {
+       "text": "Spectral Blades:"
       }
      ]
     },
@@ -33138,31 +33318,7 @@
        "classNames": [ "void" ]
       },
       {
-       "text": "Spectral Blade Kills."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Super Energy Refund after 1|2|3|4|5+ Kills:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• PVE: 11.1% | 14.3% | 16.5% | 16.9% | 17.1%"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• PVP: 8.3% | 12.5% | 14.2% | 15.8% | 16.7%"
+       "text": "Spectral Blade Hits and Kills scored before doing so."
       }
      ]
     }
@@ -33429,13 +33585,13 @@
   "name": "Battle-Hearth",
   "itemHash": 4057299719,
   "itemName": "Phoenix Protocol",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715798635718,
+     "lastUpdate": 1738615595102,
      "updatedBy": "Stardust"
     }
    }
@@ -33461,7 +33617,7 @@
     {
      "linesContent": [
       {
-       "text": "Amount of Super Energy gained is reduced by 1.5% for each successive Kill, down to a minimum of 4% Super Energy per Kill:"
+       "text": "Amount of Super Energy gained is decreased by 1.5% for each successive Kill, down to a minimum of 4% Super Energy per Kill:"
       }
      ]
     },
@@ -34014,13 +34170,13 @@
  "2244851822": {
   "hash": 2244851822,
   "name": "Flash Counter",
-  "lastUpload": 1729681695599,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1729680298701,
+     "lastUpdate": 1738597432764,
      "updatedBy": "Stardust"
     }
    }
@@ -34030,45 +34186,7 @@
     {
      "linesContent": [
       {
-       "text": "Upon Blocking an attack from an enemy within ? meters within 0.5 seconds of starting to Guard:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Lite"
-      },
-      {
-       "text": " "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Suppresses and "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Weakens the enemy for 4 seconds, making them receive 20% increased damage."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "("
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Weaken is normally only a 15% debuff)"
+       "text": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
       }
      ]
     }
@@ -34594,7 +34712,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -34777,7 +34895,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -35618,13 +35736,13 @@
  "2319119708": {
   "hash": 2319119708,
   "name": "High Ground",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734634577314,
+     "lastUpdate": 1738602171892,
      "updatedBy": "Stardust"
     }
    }
@@ -35732,7 +35850,13 @@
     {
      "linesContent": [
       {
-       "text": "The reference point of enemies' elevation is generally their lowest point."
+       "text": "The reference point of enemies' elevation is "
+      },
+      {
+       "text": "generally"
+      },
+      {
+       "text": " their lowest point."
       }
      ]
     }
@@ -35853,13 +35977,13 @@
   "name": "Solar Rampart",
   "itemHash": 2384488862,
   "itemName": "Khepri's Horn",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734439912560,
+     "lastUpdate": 1738686152476,
      "updatedBy": "Stardust"
     }
    }
@@ -35882,7 +36006,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -35898,20 +36022,26 @@
     {
      "linesContent": [
       {
-       "text": "Upon casting a Barricade Class Ability:"
+       "text": "Upon casting a Barricade Class Ability with a "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Solar Super equipped:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "Unleashes a "
+       "text": "Unleashes 3 "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Solar Wave from the front of the barricade that returns to the Barricade after traveling 18.5 meters or colliding with map geometry."
+       "text": "Solar Waves from the front of the barricade that travel 18.5 meters and have tracking capabilities."
       }
      ]
     },
@@ -35921,7 +36051,7 @@
     {
      "linesContent": [
       {
-       "text": "The Wave deals "
+       "text": "The Waves deal "
       },
       {
        "text": "480"
@@ -35933,7 +36063,7 @@
        "text": "[PVP: 100]"
       },
       {
-       "text": " damage and applies "
+       "text": " damage and apply "
       },
       {
        "text": "60"
@@ -35979,14 +36109,33 @@
     {
      "linesContent": [
       {
-       "text": "Damage and "
+       "text": "Enemies "
+      },
+      {
+       "text": "Hit"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: Killed]"
+      },
+      {
+       "text": " by the Waves leave behind a "
       },
       {
        "classNames": [ "solar" ]
       },
       {
-       "text": "Scorch are separately applied by both the initial and returning waves. "
-      },
+       "text": "Sunspot at their location."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
       {
        "classNames": [ "solar" ]
       },
@@ -36557,7 +36706,7 @@
     {
      "linesContent": [
       {
-       "text": "Stowing or Reloading the weapon resets the Precision Hit counter but the buff remains active while stowed."
+       "text": "Stowing or Reloading the weapon resets the Precision Hit counter. The buff remains active while stowed."
       }
      ]
     },
@@ -37053,13 +37202,13 @@
  "2437618208": {
   "hash": 2437618208,
   "name": "Tex Balanced Stock",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727528090373,
+     "lastUpdate": 1738614242070,
      "updatedBy": "Stardust"
     }
    }
@@ -37097,7 +37246,7 @@
     {
      "linesContent": [
       {
-       "text": "• Decreases ADS Movement Speed Penalty by 10%"
+       "text": "• 10% decreased ADS Movement Speed Penalty"
       }
      ]
     },
@@ -37278,18 +37427,14 @@
  "2451262963": {
   "hash": 2451262963,
   "name": "Fragile Focus",
-  "lastUpload": 1712008312346,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712001556403,
+     "lastUpdate": 1738597667612,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670266296920,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -37934,7 +38079,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -38026,7 +38171,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -39394,14 +39539,14 @@
     {
      "linesContent": [
       {
-       "text": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:"
+       "text": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Increases Precision Multiplier by 0.1175"
+       "text": "• 20% increased Precision Bonus (complicated, see specific damage increases below)"
       }
      ]
     },
@@ -39409,6 +39554,50 @@
      "linesContent": [
       {
        "text": "• 3% increased Aim Assist Cone size"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Precision damage increases by weapon type/frame:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent."
       }
      ]
     }
@@ -40760,13 +40949,13 @@
   "name": "Relentless Tracker",
   "itemHash": 896224899,
   "itemName": "Foetracer",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731791138233,
+     "lastUpdate": 1738638772653,
      "updatedBy": "Stardust"
     }
    }
@@ -40785,7 +40974,7 @@
        "text": " target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for "
       },
       {
-       "text": "11"
+       "text": "15"
       },
       {
        "text": " "
@@ -40872,22 +41061,14 @@
   "name": "Hawkeye Hack",
   "itemHash": 1321354573,
   "itemName": "Celestial Nighthawk",
-  "lastUpload": 1717205588650,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1717205575868,
+     "lastUpdate": 1738638757121,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665685669234,
-     "updatedBy": "tritonesub251"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670511030527,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -40912,7 +41093,7 @@
     {
      "linesContent": [
       {
-       "text": "(A Celestial Nighthawk Precision Hit is ~72.1% more damage compared to 3 Precision Hits with Marksman Golden Gun. Also, please only use it with Marksman Golden Gun)"
+       "text": "(A Celestial Nighthawk Precision Hit is ~72.1% more damage compared to 3 Precision Hits with Marksman Golden Gun. Also, please only use it with Marksman Golden Gun in PvE)"
       }
      ]
     },
@@ -41222,7 +41403,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -41252,13 +41433,13 @@
  "2679249093": {
   "hash": 2679249093,
   "name": "One-Two Punch",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722189085548,
+     "lastUpdate": 1738606007354,
      "updatedBy": "Stardust"
     }
    }
@@ -41269,53 +41450,6 @@
      "linesContent": [
       {
        "text": "Hitting a target with all 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Against "
-      },
-      {
-       "text": "Bosses and Vehicles"
-      },
-      {
-       "text": ", this is increased to 150% for the following melee options:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "All Unpowered Melees, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Combination Blow, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Disorienting Blow, "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "Chain Lightning, and "
-      },
-      {
-       "classNames": [ "strand" ]
-      },
-      {
-       "text": "Grapple Melee"
       }
      ]
     },
@@ -41458,7 +41592,7 @@
        "text": "higher buff of the two"
       },
       {
-       "text": " takes precedence. (Freeze being higher in every non-Boss case with the exception of "
+       "text": " takes precedence. (Freeze being higher in every case with the exception of "
       },
       {
        "classNames": [ "stasis" ]
@@ -41932,7 +42066,21 @@
     {
      "linesContent": [
       {
-       "text": "Grants 10 Aim Assist while Aiming Down Sights (ADS) and decreases ADS Movement Speed Penalty by 10%."
+       "text": "Grants the following while Aiming Down Sights (ADS):"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 10 Aim Assist"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 10% decreased ADS Movement Speed Penalty"
       }
      ]
     },
@@ -42282,13 +42430,13 @@
  "2724068510": {
   "hash": 2724068510,
   "name": "Arc Siphon",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723395205228,
+     "lastUpdate": 1738686475794,
      "updatedBy": "Stardust"
     }
    }
@@ -42314,7 +42462,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -42698,35 +42846,52 @@
     {
      "linesContent": [
       {
-       "text": "Weapon Kills grant the following for "
+       "text": "Weapon Kills grant a Stack of Heating Up for "
       },
       {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "6.5 seconds:"
+       "text": "6.5 seconds. Maximum of 2 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Benefits at 1|2 Stacks of Heating Up:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15 Stability and 20 Recoil Direction"
+       "text": "• 15|30 Stability"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15% decreased Accuracy Cone Size"
+       "text": "• 20|40 Recoil Direction"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• 15% decreased "
+       "text": "• 15%|25% decreased Accuracy Cone Size"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 15%|25% decreased "
       },
       {
        "text": "Accuracy Cone Growth"
@@ -42739,7 +42904,7 @@
     {
      "linesContent": [
       {
-       "text": "Stacks 2 times. Cone scalars stack multiplicatively (15%⁠🠚⁠27.75%). Buff remains active while stowed."
+       "text": "Buff remains active while stowed."
       }
      ]
     },
@@ -42884,7 +43049,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -42904,13 +43069,13 @@
  "2779035018": {
   "hash": 2779035018,
   "name": "Feeding Frenzy",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712001397855,
+     "lastUpdate": 1738597109535,
      "updatedBy": "Stardust"
     }
    }
@@ -42944,7 +43109,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.975x | 0.9x | 0.868x | 0.837x | 0.8x Reload Duration Multiplier"
+       "text": "• 0.975x | 0.9x | 0.87x | 0.84x | 0.8x Reload Duration Multiplier"
       }
      ]
     }
@@ -43189,7 +43354,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -43457,7 +43622,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -43610,13 +43775,13 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734539980589,
+     "lastUpdate": 1738643854512,
      "updatedBy": "Stardust"
     }
    }
@@ -43626,41 +43791,7 @@
     {
      "linesContent": [
       {
-       "text": "Melee Hits grant the following for 5.5 seconds:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• 50 Airborne Effectiveness"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• ? Mobility"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• ?% increased Jump Height"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "+ "
-      },
-      {
-       "text": "Refills"
-      },
-      {
-       "text": " the Magazine of your held weapon from reserves"
+       "text": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED"
       }
      ]
     },
@@ -43670,7 +43801,7 @@
     {
      "linesContent": [
       {
-       "text": "Elemental Melee Hits refill the Magazines of all your equipped weapons."
+       "text": "Elemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds."
       }
      ]
     },
@@ -43680,7 +43811,33 @@
     {
      "linesContent": [
       {
-       "text": "7 second cooldown between activations."
+       "text": "Nightmare Fuel grants ? Handling and ? Airborne Effectiveness."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Readying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Gaining or refreshing the duration of Nightmare Fuel "
+      },
+      {
+       "text": "refills"
+      },
+      {
+       "text": " the magazine of all stowed weapons from reserves."
       }
      ]
     },
@@ -43793,7 +43950,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -44166,7 +44323,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -44220,7 +44377,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -44379,13 +44536,13 @@
  "2846385770": {
   "hash": 2846385770,
   "name": "Rangefinder",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1728490694896,
+     "lastUpdate": 1738606589634,
      "updatedBy": "Stardust"
     }
    }
@@ -44395,7 +44552,7 @@
     {
      "linesContent": [
       {
-       "text": "Aiming Down Sights grants 10% increased Effective Zoom and 5% faster Projectile Speed."
+       "text": "Aiming Down Sights grants 10% increased Effective Zoom and 5% increased Projectile Speed."
       }
      ]
     },
@@ -44421,18 +44578,14 @@
  "2848615171": {
   "hash": 2848615171,
   "name": "Dragonfly",
-  "lastUpload": 1712922145112,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712921945641,
+     "lastUpdate": 1738596201681,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670270494489,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -44453,7 +44606,7 @@
        "text": "[PVP: 95.3]"
       },
       {
-       "text": " elemental damage in a 4.5 meter radius."
+       "text": " weapon-matching elemental damage in a 4.5 meter radius."
       }
      ]
     },
@@ -44546,7 +44699,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -44668,45 +44821,7 @@
     {
      "linesContent": [
       {
-       "text": "Upon Blocking an attack from an enemy within ? meters within 0.5 seconds of starting to Guard:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Lite"
-      },
-      {
-       "text": " "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Suppresses and "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Weakens the enemy for 4 seconds, making them receive 20% increased damage."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "("
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Weaken is normally only a 15% debuff)"
+       "text": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
       }
      ]
     },
@@ -44730,18 +44845,14 @@
  "2866798147": {
   "hash": 2866798147,
   "name": "No Distractions",
-  "lastUpload": 1709226265485,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1709218176401,
+     "lastUpdate": 1738605750036,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670272108628,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -45143,18 +45254,14 @@
  "2888557110": {
   "hash": 2888557110,
   "name": "Full Court",
-  "lastUpload": 1714568937735,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1714565471611,
+     "lastUpdate": 1738599954399,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670266897705,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -45163,7 +45270,17 @@
     {
      "linesContent": [
       {
-       "text": "Starts linearly increasing Explosive Damage 0.2 seconds after the projectile is fired. Reaches maximum strength after 1.1 seconds at 25%."
+       "text": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Reaches maximum strength after 1.1 seconds at a 25% damage increase."
       }
      ]
     }
@@ -45431,13 +45548,13 @@
  "2896038713": {
   "hash": 2896038713,
   "name": "Focused Fury",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722176765338,
+     "lastUpdate": 1738597653289,
      "updatedBy": "Stardust"
     }
    }
@@ -45457,7 +45574,7 @@
     {
      "linesContent": [
       {
-       "text": "Stowing or Reloading the weapon resets the Precision Hit counter but the buff remains active while stowed."
+       "text": "Stowing or Reloading the weapon resets the Precision Hit counter. The buff remains active while stowed."
       }
      ]
     }
@@ -45656,7 +45773,7 @@
     {
      "linesContent": [
       {
-       "text": "Aiming Down Sights for "
+       "text": "Aiming Down Sights (ADS) for "
       },
       {
        "text": "🡅",
@@ -45955,16 +46072,6 @@
      "linesContent": [
       {
        "text": "% of the Magazine Capacity as Hits required for each Visual Stack: 12.5%|35.5%|54.5%|74.5%|110.33%"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "All thresholds are increased by 60% for Submachine Guns, initially triggering at 20% and maxing out at 176.53%."
       }
      ]
     },
@@ -47035,7 +47142,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Gunpowder Gamble) do not trigger Osmosis."
+       "text": "Gunpowder Gamble or "
+      },
+      {
+       "text": "The Rock"
+      },
+      {
+       "text": ") do not trigger the perk."
       }
      ]
     }
@@ -47469,13 +47582,13 @@
  "3038247973": {
   "hash": 3038247973,
   "name": "Explosive Payload",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734634387152,
+     "lastUpdate": 1738596947882,
      "updatedBy": "Stardust"
     }
    }
@@ -47485,7 +47598,20 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
+       "text": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The Payload deals 30% increased damage in PvE and staggers PvE Combatants more. "
+      },
+      {
+       "text": "On Hand Cannons, the Payload deals 7% decreased damage in PvP."
       }
      ]
     },
@@ -48387,7 +48513,7 @@
     {
      "linesContent": [
       {
-       "text": "• 2.7° larger Precision Aim Angle"
+       "text": "• 2.7° larger Precision Aim Cone Angle"
       }
      ]
     },
@@ -48419,6 +48545,16 @@
      "linesContent": [
       {
        "text": "The Damage Falloff increase does not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "PvP-specific note: the Precision Aim Cone Angle increase essentially just allows you to hit Crits while aimed above or slightly to the side of the head. (This is already the default behavior of Submachine Guns, Sidearms, Bows, Machine Guns, and Linear Fusion Rifles so it does not affect them)"
       }
      ]
     },
@@ -48502,7 +48638,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -48590,7 +48726,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "2 additional rounds at a time."
+       "text": "2 additional rounds into the magazine at a time."
       }
      ]
     },
@@ -49046,7 +49182,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -49151,7 +49287,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -49385,7 +49521,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -50106,7 +50242,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -50714,7 +50850,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -51905,13 +52041,13 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734634379563,
+     "lastUpdate": 1738596581022,
      "updatedBy": "Stardust"
     }
    }
@@ -51921,7 +52057,17 @@
     {
      "linesContent": [
       {
-       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates on impact. The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
+       "text": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The Payload deals 30% increased damage in PvE and staggers PvE Combatants more."
       }
      ]
     },
@@ -51971,13 +52117,13 @@
  "3373736292": {
   "hash": 3373736292,
   "name": "Sticky Grenades",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731791257638,
+     "lastUpdate": 1738608549316,
      "updatedBy": "Stardust"
     }
    }
@@ -52015,6 +52161,13 @@
      "linesContent": [
       {
        "text": "• 20 Blast Radius: 6% decreased total damage"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 48 Blast Radius: unchanged total damage"
       }
      ]
     },
@@ -53404,7 +53557,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -54258,13 +54411,13 @@
  "3511092054": {
   "hash": 3511092054,
   "name": "Elemental Capacitor",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1721150366689,
+     "lastUpdate": 1738596398956,
      "updatedBy": "Stardust"
     }
    }
@@ -54339,7 +54492,7 @@
        "classNames": [ "stasis" ]
       },
       {
-       "text": "Stasis: 20 Recoil Direction & 20% reduced ADS Movement Speed Penalty"
+       "text": "Stasis: 20 Recoil Direction & 20% decreased ADS Movement Speed Penalty"
       }
      ]
     }
@@ -54489,7 +54642,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -55060,7 +55213,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -55220,7 +55373,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -55917,7 +56070,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -56010,7 +56163,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -56028,13 +56181,13 @@
   "name": "Transfusion Matrix",
   "itemHash": 3216110440,
   "itemName": "An Insurmountable Skullfort",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734651842408,
+     "lastUpdate": 1738685849171,
      "updatedBy": "Stardust"
     }
    }
@@ -56051,6 +56204,43 @@
       },
       {
        "text": "Arc Melee Kills refund a Melee Ability Charge and start Health Regeneration."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Melee Hits grant Melee ability energy:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?++%: Powered Melee Hits"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?+%: Melee Hits with "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "Knockout active"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?%: Unpowered Melee and Glaive Melee Hits"
       }
      ]
     },
@@ -56668,7 +56858,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -57349,7 +57539,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -57930,13 +58120,13 @@
  "3785661089": {
   "hash": 3785661089,
   "name": "Radar Booster",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1738687242983,
   "type": "Weapon Mod",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1728492313884,
+     "lastUpdate": 1738614380659,
      "updatedBy": "Stardust"
     }
    }
@@ -57946,7 +58136,7 @@
     {
      "linesContent": [
       {
-       "text": "Passively increases maximum Radar Range by 8 meters."
+       "text": "Passively increases maximum Radar Range by 8 meters (48⁠🠚⁠56 meters)."
       }
      ]
     }
@@ -58018,7 +58208,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -58034,13 +58224,13 @@
  "3796465595": {
   "hash": 3796465595,
   "name": "Impact Casing",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Perk",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722180179904,
+     "lastUpdate": 1738602272352,
      "updatedBy": "Stardust"
     }
    }
@@ -58050,7 +58240,7 @@
     {
      "linesContent": [
       {
-       "text": "Increases Impact Damage by 10%, resulting in a 2.2% total damage increase (not accounting for other damage perks)."
+       "text": "Increases Impact damage by 10%, resulting in a 2.2% total damage increase (not accounting for other damage perks)."
       }
      ]
     },
@@ -58894,7 +59084,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -58988,7 +59178,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -59138,7 +59328,7 @@
        "text": "[PVP: 95.3]"
       },
       {
-       "text": " elemental damage in a 4.5 meter radius."
+       "text": " weapon-matching elemental damage in a 4.5 meter radius."
       }
      ]
     },
@@ -59217,7 +59407,7 @@
     {
      "linesContent": [
       {
-       "text": "Rocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead of the 0.85x of other weapons."
+       "text": "Rocket Launchers uniquely receive a 0.8x Reload Duration Multiplier instead."
       }
      ]
     },
@@ -59290,13 +59480,13 @@
  "3891536761": {
   "hash": 3891536761,
   "name": "Kinetic Tremors",
-  "lastUpload": 1733341931143,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1733341912049,
+     "lastUpdate": 1738605549780,
      "updatedBy": "Stardust"
     }
    }
@@ -59329,7 +59519,7 @@
        "text": "Each shockwave deals up to "
       },
       {
-       "text": "120"
+       "text": "90"
       },
       {
        "text": " "
@@ -59338,10 +59528,10 @@
        "text": "[PVP: 20]"
       },
       {
-       "text": " damage in a 5? meter radius. Shockwaves deal 25% less damage when activated on "
+       "text": " damage in a 5? meter radius. Shockwaves deal 33.33% more damage when activated on "
       },
       {
-       "text": "Minor and Elite"
+       "text": "Miniboss or higher tier"
       },
       {
        "text": " PvE Combatants."
@@ -59793,7 +59983,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -60437,13 +60627,13 @@
  "3966416502": {
   "hash": 3966416502,
   "name": "Jolting Feedback",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731015744734,
+     "lastUpdate": 1738605371877,
      "updatedBy": "Stardust"
     }
    }
@@ -60498,6 +60688,19 @@
     {
      "linesContent": [
       {
+       "text": "• Submachine Guns: 18 | "
+      },
+      {
+       "classNames": [ "arc" ]
+      },
+      {
+       "text": "13"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "• Auto Rifles: 15 | "
       },
       {
@@ -60518,19 +60721,6 @@
       },
       {
        "text": "10"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "• Submachine Guns (theoretical): 18? | "
-      },
-      {
-       "classNames": [ "arc" ]
-      },
-      {
-       "text": "13?"
       }
      ]
     },
@@ -60648,7 +60838,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Activation time is reduced by 10%."
+       "text": " Activation time is decreased by 0.1 seconds."
       }
      ]
     }
@@ -60999,18 +61189,14 @@
  "3988215619": {
   "hash": 3988215619,
   "name": "Veist Stinger",
-  "lastUpload": 1712883202187,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1712881964382,
+     "lastUpdate": 1738614267674,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670343537301,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -61039,21 +61225,21 @@
     {
      "linesContent": [
       {
-       "text": "• Decreases ADS Movement Speed Penalty by 10%"
+       "text": "• 10% decreased ADS Movement Speed Penalty"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants 15% decreased Draw Time to Bows"
+       "text": "• 15% decreased Draw Time to Bows"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants ? Charge Rate to Swords"
+       "text": "• ? Charge Rate to Swords"
       }
      ]
     },
@@ -61104,13 +61290,13 @@
  "3989629871": {
   "hash": 3989629871,
   "name": "Skulking Wolf",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722375393205,
+     "lastUpdate": 1738614014018,
      "updatedBy": "Stardust"
     }
    }
@@ -61120,14 +61306,28 @@
     {
      "linesContent": [
       {
-       "text": "On Enemy Player Kills while at or below 90 HP:"
+       "text": "Weapon Kills while at or below 90 HP grant the following benefits for 10 seconds:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "Grants an Enhanced Radar and removes you from passively pinging enemy radars for 10 seconds."
+       "text": "• Enhanced Radar (6⁠🠚⁠12 sectors)"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Removes you from passively pinging enemy radars"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• PvE Combatants become less accurate when targeting you"
       }
      ]
     },
@@ -61396,7 +61596,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -61555,7 +61755,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -61796,7 +61996,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -61827,14 +62027,14 @@
     {
      "linesContent": [
       {
-       "text": "Dealing Non-Precision damage grants the following benefits for 0.55 seconds:"
+       "text": "Dealing non-Precision Direct damage grants the following benefits for 0.55 seconds:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Increases Precision Multiplier by 0.1175"
+       "text": "• 20% increased Precision Bonus (complicated, see specific damage increases below)"
       }
      ]
     },
@@ -61842,6 +62042,50 @@
      "linesContent": [
       {
        "text": "• 3% increased Aim Assist Cone size"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Precision damage increases by weapon type/frame:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Pulse Rifles: Adaptive: 7.1%, Aggressive Burst: 10%, Heavy Burst: 9.5%, High-Impact: 8.74%, Lightweight: 6.3%, Rapid-Fire: 10.3%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Sidearms: Adaptive Burst: 8.46%, Heavy Burst: {We don't have a Death by Scorn}%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "[Bug] Heavy Burst Hand Cannons: 7% increased Weakspot damage."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The distinction between Weakspots and Critspots is complicated and we might write an explainer blog post about it eventually. For the purposes of PvP, the two are equivalent."
       }
      ]
     },
@@ -61903,13 +62147,13 @@
   "name": "Feast of Light",
   "itemHash": 1001356380,
   "itemName": "Star-Eater Scales",
-  "lastUpload": 1719594243302,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1719592317727,
+     "lastUpdate": 1738686530052,
      "updatedBy": "Stardust"
     }
    }
@@ -61926,7 +62170,7 @@
     {
      "linesContent": [
       {
-       "text": "This is reduced to 0.5% if "
+       "text": "This is decreased to 0.5% if "
       },
       {
        "classNames": [ "solar" ]
@@ -61959,7 +62203,7 @@
     {
      "linesContent": [
       {
-       "text": "• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage"
+       "text": "• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds"
       }
      ]
     },
@@ -63004,13 +63248,13 @@
  "4139916815": {
   "hash": 4139916815,
   "name": "Bray Legacy",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738687242983,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734439020860,
+     "lastUpdate": 1738613432202,
      "updatedBy": "Stardust"
     }
    }
@@ -63020,7 +63264,7 @@
     {
      "linesContent": [
       {
-       "text": "Hits with the weapon grant ability energy to the least charged ability. Does not require Direct Hits."
+       "text": "Hits with the weapon grant ability energy to the most charged ability. Does not require Direct Hits."
       }
      ]
     },
@@ -63078,7 +63322,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -63289,7 +63533,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -63610,7 +63854,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -63738,7 +63982,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -63756,13 +64000,13 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1734026812437,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734026561919,
+     "lastUpdate": 1738686346462,
      "updatedBy": "Stardust"
     }
    }
@@ -63832,16 +64076,16 @@
        "text": "Unbreakable grants up to "
       },
       {
-       "text": "20%"
+       "text": "?%"
       },
       {
        "text": " "
       },
       {
-       "text": "[PVP: 10%]"
+       "text": "[PVP: ?%]"
       },
       {
-       "text": " Super Energy after receiving "
+       "text": " Grenade energy after receiving "
       },
       {
        "text": "?"
@@ -63850,7 +64094,7 @@
        "text": " "
       },
       {
-       "text": "[PVP: 90]"
+       "text": "[PVP: ?]"
       },
       {
        "text": " damage."
@@ -64294,7 +64538,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -64383,7 +64627,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -64604,13 +64848,13 @@
   "name": "Soaring Fusilier",
   "itemHash": 1624882687,
   "itemName": "Rain of Fire",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1738687242983,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715799908268,
+     "lastUpdate": 1738615643024,
      "updatedBy": "Stardust"
     }
    }
@@ -64636,7 +64880,13 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Radiant for 7.5 seconds."
+       "text": "Radiant for 7.5 seconds (11.25 with "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Ember of Solace)."
       }
      ]
     },
@@ -65349,7 +65599,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills within 1 seconds of an activation do not count."
+       "text": "Kills within 1 second of an activation do not count."
       }
      ]
     },
@@ -65483,7 +65733,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
@@ -65615,7 +65865,7 @@
     {
      "linesContent": [
       {
-       "text": "Ability energy gained is affected by your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
+       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
       },
       {
        "text": "our explainer blog post on the Clarity website"
