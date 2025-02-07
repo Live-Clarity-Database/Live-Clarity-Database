@@ -211,6 +211,16 @@
    "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more. On Hand Cannons, the Payload deals 7% decreased damage in PvP.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n[PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n\n[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Reload Speed."
   }
  },
+ "74393640": {
+  "hash": 74393640,
+  "name": "Facet of Defiance",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Finishers trigger an Elemental explosion that deals up to 150 Super-Matching Elemental Damage and applies a Super-Matching Elemental Debuff in a ? meter radius.\n\nElemental Debuffs applied:\n• Arc: Jolt\n• Solar: 40 Scorch Stacks\n• Void: Volatile\n• Stasis: ? Slow Stacks for ? seconds\n• Strand: Sever"
+  }
+ },
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
@@ -331,6 +341,106 @@
   "uploadedBy": "Stardust",
   "descriptions": {
    "en": "Precision Kills create a Large Stasis Crystal at the target's location.\n\n[Tier 1-2 Minor and Tier 1 Elite](https://url.d2clarity.com/combatants) Combatants only spawn a Medium Stasis Crystal.\n\nCreating 5 Crystals within ? seconds prevents the perk from activating for 5 seconds."
+  }
+ },
+ "124726496": {
+  "hash": 124726496,
+  "name": "Facet of Blessing",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Melee Kills start health regeneration.\n\nWhile Transcendent, this also applies to allies within ? meters."
+  }
+ },
+ "124726497": {
+  "hash": 124726497,
+  "name": "Facet of Command",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Freezing or Suppressing an enemy refills your readied weapon's magazine from reserves and grants 20? Stability, ? Aim Assist, and 40 Airborne Effectiveness for 11 seconds.\n\n4 second cooldown between activations.\n\nKilling Frozen or Suppressed Enemies spawns a Stasis Shard or Void Breach respectively."
+  }
+ },
+ "124726498": {
+  "hash": 124726498,
+  "name": "Facet of Purpose",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Collecting Orbs of Power grants Elemental buffs based on your equipped Super's element:\n• Arc: 1 Bolt Charge Stack\n• Solar: Restoration x1 for 5 seconds\n• Void: 22.5 HP Overshield for 5 seconds\n• Stasis: 2 Frost Armor Stacks for 9 seconds\n• Strand: Woven Mail for 5 seconds"
+  }
+ },
+ "124726499": {
+  "hash": 124726499,
+  "name": "Facet of Ruin",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Ignitions have 20?% increased radius.\n\nShattering enemies or destroying Crystals creates an additional damage instance, dealing up to 25 [9] damage in a 10 [8] meter radius.\n\nDamage falls off to 17 [4] damage at the edge of the radius."
+  }
+ },
+ "124726500": {
+  "hash": 124726500,
+  "name": "Facet of Mending",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Grenade Ability Kills grant you Cure x1.\n\nPrismatic Grenade Kills grant you Cure x2."
+  }
+ },
+ "124726501": {
+  "hash": 124726501,
+  "name": "Facet of Honor",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Collecting Elemental Pickups or destroying a Tangle grants additional Transcendence Energy of the matching alignment:\n• Ionic Traces, Firesprites, Void Breaches: 7.5% Light Transcendence Energy\n• Stasis Shards: 5% Darkness Transcendence Energy\n• Tangles: 10% Darkness Transcendence Energy"
+  }
+ },
+ "124726502": {
+  "hash": 124726502,
+  "name": "Facet of Sacrifice",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Ability Kills with an active Arc, Solar, or Void Elemental buff grant an additional 1% [?%] Darkness Transcendence Energy."
+  }
+ },
+ "124726503": {
+  "hash": 124726503,
+  "name": "Facet of Bravery",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Grenade Kills grant Volatile Rounds to Void Weapons for 11 seconds.\n\nPowered Melee Kills (and Melee Kills with Knockout active) grant Unraveling Rounds to Strand Weapons for 11 seconds.\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+  }
+ },
+ "124726504": {
+  "hash": 124726504,
+  "name": "Facet of Dominance",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Void Grenade Ability damage applies Weaken for 6 [?] seconds.\n\nArc Grenade Ability damage applies Jolt."
+  }
+ },
+ "124726505": {
+  "hash": 124726505,
+  "name": "Facet of Awakening",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Scoring a Super Kill or Killing 3 enemies with Elemental Damage within 6 seconds of each spawns an Elemental Pickup.\n\nThe type of Elemental Pickup is determined by the Damage Type of the final Kill.\n\n5 second cooldown between spawning the same Pickup again. Spawned Tangles share the 12 second global spawn cooldown with the Fragment.\n\nKills with the element of the spawned Pickup while the cooldown is active do not count towards spawning another Elemental Pickup.\n\nElemental Pickups include Firesprites, Ionic Traces, Stasis Shards, Tangles, and Void Breaches."
   }
  },
  "127335543": {
@@ -1212,7 +1322,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1738951046405,
   "stats": {
    "Guard Charge Rate": [
     {
@@ -6406,6 +6516,106 @@
    "en": "Grants 30 Handling and 40 Reload Speed while within 15 meters of an ally.\n\nBuff lingers for 1.5 seconds once you're no longer near allies."
   }
  },
+ "2626922114": {
+  "hash": 2626922114,
+  "name": "Facet of Balance",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Scoring 3 Kills within ? seconds of each with Light-aligned damage grants 10% Melee energy.\n\nScoring 3 Kills within ? seconds of each with Dark-aligned damage grants 10% Grenade energy.\n\nLight Alignment: Arc, Solar, Void\nDarkness Alignment: Stasis, Strand"
+  }
+ },
+ "2626922115": {
+  "hash": 2626922115,
+  "name": "Facet of Justice",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Ability Kills while Transcendent trigger an explosion that deals up to 130 [?] Ability-Matching Elemental damage in a ? meter radius."
+  }
+ },
+ "2626922120": {
+  "hash": 2626922120,
+  "name": "Facet of Protection",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Grants 15% [?%] Damage Resistance while within 15? meters of 3 enemies.\n\nThe Damage Resistance is NOT increased while Transcendent, it simply stacks with Transcendence's 20% Damage Resistance for a total of 32%."
+  }
+ },
+ "2626922121": {
+  "hash": 2626922121,
+  "name": "Facet of Grace",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Kinetic Weapon Kills grant an additional 2% [?%] Light and Darkness Transcendence energy.\n\nSuper Kills grant an additional 2% [?%] Light and Darkness Transcendence Energy to you and allies within ? metres."
+  }
+ },
+ "2626922122": {
+  "hash": 2626922122,
+  "name": "Facet of Hope",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Elemental buffs grant 60% Additional Base Class Ability Regeneration Rate."
+  }
+ },
+ "2626922123": {
+  "hash": 2626922123,
+  "name": "Facet of Solitude",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Scoring multiple Precision Hits within 3 seconds of each causes your **next** damage instance within 3 seconds (from any source) to trigger a Severing Burst.\n\nSevering Burst applies Sever to enemies in a 3? meter radius. Radius is increased to ? meters while Transcendent.\n\nFurther Precision Hits within 4 seconds of an activation provide no activation progress.\n\nPrecision Hits required to prepare the Severing Burst:\n• 20% of magazine size rounded down + 1\n• Bows require 2 hits"
+  }
+ },
+ "2626922124": {
+  "hash": 2626922124,
+  "name": "Facet of Courage",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Light abilities deal 10% increased damage to enemies affected by Stasis or Strand elemental debuffs."
+  }
+ },
+ "2626922125": {
+  "hash": 2626922125,
+  "name": "Facet of Devotion",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Killing enemies affected by Stasis or Strand Elemental debuffs grants additional Light Transcendence Energy:\n• Minors: 1%\n• Elites: 3%\n• Minibosses and higher: 5%\n• Players: ?%"
+  }
+ },
+ "2626922126": {
+  "hash": 2626922126,
+  "name": "Facet of Dawn",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Elemental Melee Hits grant you Radiant for 4 seconds.\n\nElemental Melee Kills grant you and allies within ? meters Radiant for 4 seconds to.\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+  }
+ },
+ "2626922127": {
+  "hash": 2626922127,
+  "name": "Facet of Generosity",
+  "lastUpload": 1738951046405,
+  "type": "Subclass Fragment",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Kills while Transcendent spawn up to 4 Orbs of Power for allies that grant 7.15?% Super Energy.\n\nOrbs spawn upon passing specific point thresholds: 30, 50, 70, and 100 points for each orb.\n\nPoints gained per Kill by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10 points\n• T2 Minors, T1 Elites: 15 points\n• T3 Minors, T2 Elites: 20 points\n• T4 Minors, T3 Elites: 34 points\n• T4 Elites, Minibosses: 40 points\n• Bosses: 50 points\n• Players: ? points"
+  }
+ },
  "2634786903": {
   "hash": 2634786903,
   "name": "Void Holster",
@@ -6537,7 +6747,7 @@
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for 15 [6] seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with Solar abilities.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\nElemental Pickups include Firesprites, Ionic Traces, Stasis Shards, Strand Tangles, and Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for 15 [6] seconds.\n\nWeapon Surge duration is not refreshable. Currently does not work with Solar abilities.\n\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\n\nElemental Pickups include Firesprites, Ionic Traces, Stasis Shards, Tangles, and Void Breaches."
   }
  },
  "2663272110": {
@@ -7686,6 +7896,18 @@
    "en": "Increases Strand Weapon Damage while you have active Armor Charges:\n• PVE: 10%|17%|22%|25% increased damage with 1|2|3|4 Mods\n• PVP: 3%|4.5%|5.5%|6% increased damage\n\nThe 4th tier of the damage buff is only obtainable through Artifact Perks and Exotic Armor.\n\nArmor Charge now decays over time at the rate of 1 every 10 seconds by default."
   }
  },
+ "3117514172": {
+  "hash": 3117514172,
+  "name": "Stormbringer",
+  "itemHash": 2603483885,
+  "itemName": "Cloudstrike",
+  "lastUpload": 1675798177540,
+  "type": "Weapon Trait Exotic",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Rapid precision hits create a lightning storm at the point of impact."
+  }
+ },
  "3118144663": {
   "hash": 3118144663,
   "name": "Hip-Fire Grip",
@@ -8581,11 +8803,11 @@
  "3469412971": {
   "hash": 3469412971,
   "name": "Whisper of Fissures",
-  "lastUpload": 1719594243302,
+  "lastUpload": 1738951046405,
   "type": "Subclass Fragment",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Shattering enemies or Crystals creates an additional damage instance, dealing up to 25 [9] damage in a 10 [8] meter radius.\n\nDamage falls off to 17 [4] Damage at the edge of the radius."
+   "en": "Shattering enemies or Crystals creates an additional damage instance, dealing up to 25 [9] damage in a 10 [8] meter radius.\n\nDamage falls off to 17 [4] damage at the edge of the radius."
   }
  },
  "3469412974": {
@@ -9656,6 +9878,18 @@
   "uploadedBy": "Stardust",
   "descriptions": {
    "en": "After stowing a Weapon matching your Super Element:\nBegins to refill 10%|10%|15% of the stowed weapon's magazine (rounded up) from reserves every 2.5|2|2 seconds with 1|2|3 Mods equipped.\n\nDoes not work with Breech-Loaded Grenades Launchers and Rocket Launchers."
+  }
+ },
+ "3970637031": {
+  "hash": 3970637031,
+  "name": "Harbinger's Pulse",
+  "itemHash": 2208405142,
+  "itemName": "Telesto",
+  "lastUpload": 1675798177540,
+  "type": "Weapon Trait Exotic",
+  "uploadedBy": "Stardust",
+  "descriptions": {
+   "en": "Multikills with this weapon immediately reload your equipped Kinetic and Energy weapons from reserves."
   }
  },
  "3974407819": {

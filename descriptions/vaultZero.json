@@ -205,6 +205,14 @@
    "en": "Splits off 50% of the weapon's bodyshot damage into an Explosive Payload that detonates on impact.\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more. [pvp]On Hand Cannons, the Payload deals 7% decreased damage in PvP.\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n[pve][PvE] Total damage is increased by 15% of the weapon's bodyshot damage. For crits, the overall increase is roughly equal to 15% divided by the Crit Multiplier.\n[pvp][PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n[enh] Passively grants 5 Reload Speed."
   }
  },
+ "74393640": {
+  "hash": 74393640,
+  "name": "Facet of Defiance",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Finishers trigger an Elemental explosion that deals up to 150 Super-Matching Elemental Damage and applies a Super-Matching Elemental Debuff in a ? meter radius.\nElemental Debuffs applied:\n• [Arc]Arc: [Arc]Jolt\n• [Solar]Solar: 40 [Solar]Scorch Stacks\n• [Void]Void: [Void]Volatile\n• [Stasis]Stasis: ? [Stasis]Slow Stacks for ? seconds\n• [Strand]Strand: [Strand]Sever"
+  }
+ },
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
@@ -311,6 +319,86 @@
   "type": "Weapon Trait",
   "descriptions": {
    "en": "Precision Kills create a Large [Stasis]Stasis Crystal at the target's location.\n[Tier 1-2 Minor and Tier 1 Elite](https://url.d2clarity.com/combatants) Combatants only spawn a Medium [Stasis]Stasis Crystal.\nCreating 5 [Stasis]Crystals within ? seconds prevents the perk from activating for 5 seconds."
+  }
+ },
+ "124726496": {
+  "hash": 124726496,
+  "name": "Facet of Blessing",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Melee Kills start health regeneration.\nWhile Transcendent, this also applies to allies within ? meters."
+  }
+ },
+ "124726497": {
+  "hash": 124726497,
+  "name": "Facet of Command",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "[Stasis]Freezing or [Void]Suppressing an enemy refills your readied weapon's magazine from reserves and grants 20? Stability, ? Aim Assist, and 40 Airborne Effectiveness for 11 seconds.\n4 second cooldown between activations.\nKilling [Stasis]Frozen or [Void]Suppressed Enemies spawns a [Stasis]Stasis Shard or [Void]Void Breach respectively."
+  }
+ },
+ "124726498": {
+  "hash": 124726498,
+  "name": "Facet of Purpose",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Collecting Orbs of Power grants Elemental buffs based on your equipped Super's element:\n• [Arc]Arc: 1 [Arc]Bolt Charge Stack\n• [Solar]Solar: [Solar]Restoration x1 for 5 seconds\n• [Void]Void: 22.5 HP [Void]Overshield for 5 seconds\n• [Stasis]Stasis: 2 [Stasis]Frost Armor Stacks for 9 seconds\n• [Strand]Strand: [Strand]Woven Mail for 5 seconds"
+  }
+ },
+ "124726499": {
+  "hash": 124726499,
+  "name": "Facet of Ruin",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "[Solar]Ignitions have 20?% increased radius.\n[Stasis]Shattering enemies or destroying [Stasis]Crystals creates an additional damage instance, dealing up to [pve]25 [pvp][9] damage in a [pve]10 [pvp][8] meter radius.\nDamage falls off to [pve]17 [pvp][4] damage at the edge of the radius."
+  }
+ },
+ "124726500": {
+  "hash": 124726500,
+  "name": "Facet of Mending",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Grenade Ability Kills grant you [Solar]Cure x1.\nPrismatic Grenade Kills grant you [Solar]Cure x2."
+  }
+ },
+ "124726501": {
+  "hash": 124726501,
+  "name": "Facet of Honor",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Collecting Elemental Pickups or destroying a [Strand]Tangle grants additional Transcendence Energy of the matching alignment:\n• [Arc]Ionic Traces, [Solar]Firesprites, [Void]Void Breaches: 7.5% Light Transcendence Energy\n• [Stasis]Stasis Shards: 5% Darkness Transcendence Energy\n• [Strand]Tangles: 10% Darkness Transcendence Energy"
+  }
+ },
+ "124726502": {
+  "hash": 124726502,
+  "name": "Facet of Sacrifice",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Ability Kills with an active [Arc]Arc, [Solar]Solar, or [Void]Void Elemental buff grant an additional [pve]1% [pvp][?%] Darkness Transcendence Energy."
+  }
+ },
+ "124726503": {
+  "hash": 124726503,
+  "name": "Facet of Bravery",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Grenade Kills grant [Void]Volatile Rounds to [Void]Void Weapons for 11 seconds.\nPowered Melee Kills (and Melee Kills with [Arc]Knockout active) grant [Strand]Unraveling Rounds to [Strand]Strand Weapons for 11 seconds.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+  }
+ },
+ "124726504": {
+  "hash": 124726504,
+  "name": "Facet of Dominance",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "[Void]Void Grenade Ability damage applies [Void]Weaken for [pve]6 [pvp][?] seconds.\n[Arc]Arc Grenade Ability damage applies [Arc]Jolt."
+  }
+ },
+ "124726505": {
+  "hash": 124726505,
+  "name": "Facet of Awakening",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Scoring a Super Kill or Killing 3 enemies with Elemental Damage within 6 seconds of each spawns an Elemental Pickup.\nThe type of Elemental Pickup is determined by the Damage Type of the final Kill.\n5 second cooldown between spawning the same Pickup again. Spawned [Strand]Tangles share the 12 second global spawn cooldown with the Fragment.\nKills with the element of the spawned Pickup while the cooldown is active do not count towards spawning another Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Tangles, and [Void]Void Breaches."
   }
  },
  "127335543": {
@@ -6510,6 +6598,86 @@
    "en": "Grants 30 Handling and 40 Reload Speed while within 15 meters of an ally.\nBuff lingers for 1.5 seconds once you're no longer near allies."
   }
  },
+ "2626922114": {
+  "hash": 2626922114,
+  "name": "Facet of Balance",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Scoring 3 Kills within ? seconds of each with Light-aligned damage grants 10% Melee energy.\nScoring 3 Kills within ? seconds of each with Dark-aligned damage grants 10% Grenade energy.\nLight Alignment: [Arc]Arc, [Solar]Solar, [Void]Void\nDarkness Alignment: [Stasis]Stasis, [Strand]Strand"
+  }
+ },
+ "2626922115": {
+  "hash": 2626922115,
+  "name": "Facet of Justice",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Ability Kills while Transcendent trigger an explosion that deals up to [pve]130 [pvp][?] Ability-Matching Elemental damage in a ? meter radius."
+  }
+ },
+ "2626922120": {
+  "hash": 2626922120,
+  "name": "Facet of Protection",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Grants [pve]15% [pvp][?%] Damage Resistance while within 15? meters of 3 enemies.\nThe Damage Resistance is NOT increased while Transcendent, it simply stacks with Transcendence's 20% Damage Resistance for a total of 32%."
+  }
+ },
+ "2626922121": {
+  "hash": 2626922121,
+  "name": "Facet of Grace",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Kinetic Weapon Kills grant an additional [pve]2% [pvp][?%] Light and Darkness Transcendence energy.\nSuper Kills grant an additional [pve]2% [pvp][?%] Light and Darkness Transcendence Energy to you and allies within ? metres."
+  }
+ },
+ "2626922122": {
+  "hash": 2626922122,
+  "name": "Facet of Hope",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Elemental buffs grant 60% Additional Base Class Ability Regeneration Rate."
+  }
+ },
+ "2626922123": {
+  "hash": 2626922123,
+  "name": "Facet of Solitude",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Scoring multiple Precision Hits within 3 seconds of each causes your **next** damage instance within 3 seconds (from any source) to trigger a [Strand]Severing Burst.\n[Strand]Severing Burst applies [Strand]Sever to enemies in a 3? meter radius. Radius is increased to ? meters while Transcendent.\nFurther Precision Hits within 4 seconds of an activation provide no activation progress.\nPrecision Hits required to prepare the Severing Burst:\n• 20% of magazine size rounded down + 1\n• Bows require 2 hits"
+  }
+ },
+ "2626922124": {
+  "hash": 2626922124,
+  "name": "Facet of Courage",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Light abilities deal 10% increased damage to enemies affected by [Stasis]Stasis or [Strand]Strand elemental debuffs."
+  }
+ },
+ "2626922125": {
+  "hash": 2626922125,
+  "name": "Facet of Devotion",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Killing enemies affected by [Stasis]Stasis or [Strand]Strand Elemental debuffs grants additional Light Transcendence Energy:\n• Minors: 1%\n• Elites: 3%\n• Minibosses and higher: 5%\n• Players: ?%"
+  }
+ },
+ "2626922126": {
+  "hash": 2626922126,
+  "name": "Facet of Dawn",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Elemental Melee Hits grant you [Solar]Radiant for 4 seconds.\nElemental Melee Kills grant you and allies within ? meters [Solar]Radiant for 4 seconds to.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+  }
+ },
+ "2626922127": {
+  "hash": 2626922127,
+  "name": "Facet of Generosity",
+  "type": "Subclass Fragment",
+  "descriptions": {
+   "en": "Kills while Transcendent spawn up to 4 Orbs of Power for allies that grant 7.15?% Super Energy.\nOrbs spawn upon passing specific point thresholds: 30, 50, 70, and 100 points for each orb.\nPoints gained per Kill by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10 points\n• T2 Minors, T1 Elites: 15 points\n• T3 Minors, T2 Elites: 20 points\n• T4 Minors, T3 Elites: 34 points\n• T4 Elites, Minibosses: 40 points\n• Bosses: 50 points\n• Players: ? points"
+  }
+ },
  "2634786903": {
   "hash": 2634786903,
   "name": "Void Holster",
@@ -6623,7 +6791,7 @@
   "itemName": "Foetracer",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]15 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilities.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Strand Tangles, and [Void]Void Breaches."
+   "en": "Dealing Ability Damage to an [Elite, Miniboss, Boss, or Player](https://url.d2clarity.com/combatants) target highlights them and grants 4 Stacks of Weapon Surge matching the element of the used ability for [pve]15 [pvp][6] seconds.\nWeapon Surge duration is not refreshable. Currently does not work with [Solar]Solar abilities.\nKilling highlighted targets spawns a Subclass-Matching Elemental Pickup.\nElemental Pickups include [Solar]Firesprites, [Arc]Ionic Traces, [Stasis]Stasis Shards, [Strand]Tangles, and [Void]Void Breaches."
   }
  },
  "2663272110": {
@@ -8635,7 +8803,7 @@
   "name": "Whisper of Fissures",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "[Stasis]Shattering enemies or [Stasis]Crystals creates an additional damage instance, dealing up to [pve]25 [pvp][9] damage in a [pve]10 [pvp][8] meter radius.\nDamage falls off to [pve]17 [pvp][4] Damage at the edge of the radius."
+   "en": "[Stasis]Shattering enemies or [Stasis]Crystals creates an additional damage instance, dealing up to [pve]25 [pvp][9] damage in a [pve]10 [pvp][8] meter radius.\nDamage falls off to [pve]17 [pvp][4] damage at the edge of the radius."
   }
  },
  "3469412974": {
