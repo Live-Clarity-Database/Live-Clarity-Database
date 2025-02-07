@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1381,7 +1381,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2260,7 +2260,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2287,7 +2287,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2314,7 +2314,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2341,7 +2341,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2368,7 +2368,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2395,7 +2395,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2422,7 +2422,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2449,7 +2449,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2476,7 +2476,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2503,7 +2503,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8418,7 +8418,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26458,14 +26458,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <pve 150% /> <pvp [75%] /> Additional Base Class Ability Regeneration Rate.\n\nDeactivates once you have a full Class Ability charge.",
+     "main": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants <pve 150% /> <pvp [75%] /> Additional Base Class Ability Regeneration Rate.\n\nDeactivates once you have at least one Class Ability charge.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732212771249,
+      "lastUpdate": 1738951722804,
       "updatedBy": "Stardust"
      }
     },
@@ -26475,7 +26475,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26485,14 +26485,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Scoring a Melee Hit grants 15 Stability, 50 Reload Speed, and a 0.8x Reload Duration Multiplier for 5 seconds.\t\t\t\t",
+     "main": "Scoring a Melee Hit grants 15 Stability, 50 Reload Speed, and a 0.8x Reload Duration Multiplier for 5 seconds.\n\nWhile <arc/>Amplified:\n• Stronger effect\n• All sources of <arc/>Bolt Charge now grant an additional Stack",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717536720032,
+      "lastUpdate": 1738952069131,
       "updatedBy": "Stardust"
      }
     },
@@ -26502,7 +26502,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26512,14 +26512,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "<arc/>Arc Weapon Kills progress a counter that spawns an <arc/>Ionic Trace at the killed target's location upon reaching 100%.\n\nActivation progress granted by <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 34%\n• Elites, Players: 67%\n• Minibosses and Bosses: 100%",
+     "main": "Collecting <arc/>Ionic Traces grants a Stack of <arc/>Bolt Charge.\n\nScoring multiple <arc/>Arc Weapon Kills spawns an <arc/>Ionic Trace at the killed target's location.\n\nActivation progress granted by <link Enemy Rank [#CombatantClassifications] />:\n• Minors: 34%\n• Elites, Players: 67%\n• Minibosses and Bosses: 100%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1697807624575,
+      "lastUpdate": 1738951650598,
       "updatedBy": "Stardust"
      }
     },
@@ -26529,7 +26529,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1697894818765,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26539,14 +26539,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Killing a <arc/>Jolted enemy creates an <arc/>Ionic Trace.\n\n10 second cooldown between activations.\t\t",
+     "main": "Killing a <arc/>Jolted enemy or scoring a kill with a <arc/>Bolt Charge lightning bolt creates an <arc/>Ionic Trace.\n\n10 second cooldown between activations.\t\t",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1714216222007,
+      "lastUpdate": 1738952261760,
       "updatedBy": "Stardust"
      }
     },
@@ -26556,7 +26556,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1714219892088,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26593,14 +26593,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Sliding over Ammo Bricks <title refills [G_refill] /> your held weapon from reserves and grants Melee Energy.\n\n<special/>Special Ammo Bricks grant 20% Melee Energy and <heavy/>Heavy Ammo Bricks grant 50%.\n\n#ChunkEnergyScalars",
+     "main": "Collecting Ammo Bricks by sliding over them <title refills [G_refill] /> your held weapon's magazine from reserves and grants 3 Stacks of <arc/>Bolt Charge.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734439382635,
+      "lastUpdate": 1738952783562,
       "updatedBy": "Stardust"
      }
     },
@@ -26610,7 +26610,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39177,7 +39177,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39204,7 +39204,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39231,7 +39231,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39258,7 +39258,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39285,7 +39285,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39312,7 +39312,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39339,7 +39339,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39366,7 +39366,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39393,7 +39393,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39420,7 +39420,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -49159,14 +49159,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "Finishers make you <arc/>Amplified.",
+     "main": "Finishers make you <arc/>Amplified and grant 1 Stack of <arc/>Bolt Charge.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1697810192367,
+      "lastUpdate": 1738952847322,
       "updatedBy": "Stardust"
      }
     },
@@ -49176,7 +49176,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1697894818765,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51600,7 +51600,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738951046405,
+   "lastUpload": 1738953105058,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
