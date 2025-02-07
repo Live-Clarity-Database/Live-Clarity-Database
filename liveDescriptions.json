@@ -59,14 +59,14 @@
    "type": "none",
    "editor": {
     "en": {
-     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Strand Tangles, and <void/>Void Breaches.\n\nvar ChunkEnergyScalars = Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar ChunkEnergyUnaffected = Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar MeleeAbilityDisambiguation = Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future.",
+     "main": "// This variale only shows up on enhanced perks. DO NOT CHANGE IT\nvar e = 🡅\n\n// vvv User-defined variables vvv\nvar CombatantScaling = https://url.d2clarity.com/combatant-scaling\n\nvar CombatantClassifications = https://url.d2clarity.com/combatants\n\nvar DamageBuffs = https://url.d2clarity.com/DamageBuffs\n\nvar GlobalTangleCooldown = Shares the 12 second global <strand/>Tangle creation cooldown.\n\nvar Reload = Counts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nvar elementalPickup = Elemental Pickups include <solar/>Firesprites, <arc/>Ionic Traces, <stasis/>Stasis Shards, <strand/>Tangles, and <void/>Void Breaches.\n\nvar ChunkEnergyScalars = Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar ChunkEnergyUnaffected = Ability energy gained is NOT affected by Chunk Energy Scalars. Learn more about this mechanic in <link our explainer blog post on the Clarity website [https://url.d2clarity.com/chunk-energy-scalars] />.\n\nvar MeleeAbilityDisambiguation = Clarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future.",
      "secondary": ""
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738686694026,
+      "lastUpdate": 1738942725746,
       "updatedBy": "Stardust"
      }
     },
@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1738951046405,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1364,15 +1364,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Finishers trigger an Elemental explosion that deals up to 150 Super-Matching Elemental Damage and applies a Super-Matching Elemental Debuff in a ? meter radius.\n\nElemental Debuffs applied:\n• <arc/>Arc: <arc/>Jolt\n• <solar/>Solar: 40 <solar/>Scorch Stacks\n• <void/>Void: <void/>Volatile\n• <stasis/>Stasis: ? <stasis/>Slow Stacks for ? seconds\n• <strand/>Strand: <strand/>Sever",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944727860,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -1381,8 +1381,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "75282108": {
@@ -2243,15 +2243,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Melee Kills start health regeneration. \n\nWhile Transcendent, this also applies to allies within ? meters.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738943155258,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2260,8 +2260,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726497": {
@@ -2270,15 +2270,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "<stasis/>Freezing or <void/>Suppressing an enemy refills your readied weapon's magazine from reserves and grants 20? Stability, ? Aim Assist, and 40 Airborne Effectiveness for 11 seconds. \n\n4 second cooldown between activations.\n\nKilling <stasis/>Frozen or <void/>Suppressed Enemies spawns a <stasis/>Stasis Shard or <void/>Void Breach respectively.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738943907962,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2287,8 +2287,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726498": {
@@ -2297,15 +2297,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Collecting Orbs of Power grants Elemental buffs based on your equipped Super's element:\n• <arc/>Arc: 1 <arc/>Bolt Charge Stack\n• <solar/>Solar: <solar/>Restoration x1 for 5 seconds\n• <void/>Void: 22.5 HP <void/>Overshield for 5 seconds\n• <stasis/>Stasis: 2 <stasis/>Frost Armor Stacks for 9 seconds\n• <strand/>Strand: <strand/>Woven Mail for 5 seconds",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738946534699,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2314,8 +2314,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726499": {
@@ -2324,15 +2324,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "<solar/>Ignitions have 20?% increased radius.\n\n<stasis/>Shattering enemies or destroying <stasis/>Crystals creates an additional damage instance, dealing up to <pve 25 /> <pvp [9] /> damage in a <pve 10 /> <pvp [8] /> meter radius.\n\nDamage falls off to <pve 17 /> <pvp [4] /> damage at the edge of the radius.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738947030846,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2341,8 +2341,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726500": {
@@ -2351,15 +2351,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Grenade Ability Kills grant you <solar/>Cure x1.\n\nPrismatic Grenade Kills grant you <solar/>Cure x2.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738946307526,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2368,8 +2368,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726501": {
@@ -2378,15 +2378,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Collecting Elemental Pickups or destroying a <strand/>Tangle grants additional Transcendence Energy of the matching alignment:\n• <arc/>Ionic Traces, <solar/>Firesprites, <void/>Void Breaches: 7.5% Light Transcendence Energy \n• <stasis/>Stasis Shards: 5% Darkness Transcendence Energy\n• <strand/>Tangles: 10% Darkness Transcendence Energy",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738947149495,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2395,8 +2395,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726502": {
@@ -2405,15 +2405,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Ability Kills with an active <arc/>Arc, <solar/>Solar, or <void/>Void Elemental buff grant an additional <pve 1% /> <pvp [?%] /> Darkness Transcendence Energy.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738947126290,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2422,8 +2422,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726503": {
@@ -2432,15 +2432,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Grenade Kills grant <void/>Volatile Rounds to <void/>Void Weapons for 11 seconds.\n\nPowered Melee Kills (and Melee Kills with <arc/>Knockout active) grant <strand/>Unraveling Rounds to <strand/>Strand Weapons for 11 seconds.\n\n#MeleeAbilityDisambiguation",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738943833340,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2449,8 +2449,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726504": {
@@ -2459,15 +2459,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "<void/>Void Grenade Ability damage applies <void/>Weaken for <pve 6 /> <pvp [?] /> seconds.\n\n<arc/>Arc Grenade Ability damage applies <arc/>Jolt.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944961858,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2476,8 +2476,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "124726505": {
@@ -2486,15 +2486,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Scoring a Super Kill or Killing 3 enemies with Elemental Damage within 6 seconds of each spawns an Elemental Pickup.\n\nThe type of Elemental Pickup is determined by the Damage Type of the final Kill.\n\n5 second cooldown between spawning the same Pickup again. Spawned <strand/>Tangles share the 12 second global spawn cooldown with the Fragment.\n\nKills with the element of the spawned Pickup while the cooldown is active do not count towards spawning another Elemental Pickup.\n\n#elementalPickup",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738942742836,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -2503,8 +2503,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "127335543": {
@@ -3082,6 +3082,33 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "187655375": {
+   "hash": 187655375,
+   "name": "On the Prowl",
+   "type": "Subclass Aspect",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "187957397": {
    "name": "Halberdier's Reach",
    "itemName": "Triton Vice",
@@ -3549,6 +3576,33 @@
    "lastUpload": 1717539628564,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "222783511": {
+   "hash": 222783511,
+   "name": "Detonator Beam",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "224485255": {
    "hash": 224485255,
@@ -7754,6 +7808,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "496047945": {
+   "hash": 496047945,
+   "name": "Elemental Honing",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "499501121": {
    "hash": 499501121,
    "name": "Dark-Forged Trigger",
@@ -8085,6 +8166,141 @@
    "inLiveDatabase": false,
    "uploadToLive": false
   },
+  "521275122": {
+   "hash": 521275122,
+   "name": "Unraveling Orbs",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "521275123": {
+   "hash": 521275123,
+   "name": "Legend Incarnate",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "521275124": {
+   "hash": 521275124,
+   "name": "Volatile Marksman",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "521275125": {
+   "hash": 521275125,
+   "name": "Deep Alchemy",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "521275126": {
+   "hash": 521275126,
+   "name": "Overclock and Load",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "521530777": {
    "name": "Thermodynamic Siphon",
    "hash": 521530777,
@@ -8202,7 +8418,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1738951046405,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9302,195 +9518,6 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
-  "611645144": {
-   "name": "Concussive Reload",
-   "hash": 611645144,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "611645145": {
-   "name": "Retinal Burn",
-   "hash": 611645145,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "611645146": {
-   "hash": 611645146,
-   "name": "Curative Orbs",
-   "type": "Armor Mod Seasonal",
-   "lastUpload": 1732216978211,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
-  },
-  "611645147": {
-   "name": "Void Renewal",
-   "hash": 611645147,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "611645149": {
-   "name": "Armor of Eramis",
-   "hash": 611645149,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "611645150": {
-   "name": "Hail The Storm",
-   "hash": 611645150,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "611645151": {
-   "name": "Debilitating Wave",
-   "hash": 611645151,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
   "615063266": {
    "hash": 615063266,
    "name": "Graviton Lance Catalyst",
@@ -9686,6 +9713,35 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "626115084": {
+   "hash": 626115084,
+   "name": "Ruinscribe's Forge",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 331231237,
+   "itemName": "Finality's Auger"
+  },
   "630329983": {
    "hash": 630329983,
    "name": "Ride the Bull",
@@ -9879,33 +9935,6 @@
    "inLiveDatabase": true,
    "itemHash": 347366834,
    "itemName": "Ace of Spades"
-  },
-  "651554065": {
-   "hash": 651554065,
-   "name": "Rocket-Assisted Frame",
-   "type": "Weapon Frame Enhanced",
-   "lastUpload": 1717719212230,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
   },
   "656200654": {
    "hash": 656200654,
@@ -10520,6 +10549,33 @@
    "lastUpload": 1731793916910,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "692399809": {
+   "hash": 692399809,
+   "name": "Reciprocity",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "694879972": {
    "hash": 694879972,
@@ -11939,6 +11995,35 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "818149482": {
+   "hash": 818149482,
+   "name": "Finality's Auger Catalyst",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 331231237,
+   "itemName": "Finality's Auger"
+  },
   "818211479": {
    "name": "Shattering Blade",
    "hash": 818211479,
@@ -13007,6 +13092,33 @@
    "lastUpload": 1680554889429,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "878237828": {
+   "hash": 878237828,
+   "name": "Willing Vessel",
+   "type": "Weapon Trait Origin",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "878286503": {
    "hash": 878286503,
@@ -14628,6 +14740,33 @@
    "lastUpload": 1738687242983,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "960997401": {
+   "hash": 960997401,
+   "name": "Tear",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "961505134": {
    "hash": 961505134,
@@ -16652,6 +16791,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "1089671869": {
+   "hash": 1089671869,
+   "name": "Elemental Honing",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "1095471953": {
    "name": "Embers of Light",
@@ -19689,6 +19855,33 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "1293395728": {
+   "hash": 1293395728,
+   "name": "Ionic Sentry",
+   "type": "Subclass Aspect",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "1293395729": {
    "hash": 1293395729,
    "name": "Electrostatic Mind",
@@ -20183,6 +20376,141 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "1319563986": {
+   "hash": 1319563986,
+   "name": "Defibrillating Blast",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1319563987": {
+   "hash": 1319563987,
+   "name": "Void Flux",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1319563988": {
+   "hash": 1319563988,
+   "name": "Elemental Supercharger",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1319563989": {
+   "hash": 1319563989,
+   "name": "Heavy Ordnance Regeneration",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1319563991": {
+   "hash": 1319563991,
+   "name": "Particle Reconstruction",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "1319823571": {
    "hash": 1319823571,
@@ -22122,6 +22450,33 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "1464081238": {
+   "hash": 1464081238,
+   "name": "Demoralize",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "1467527085": {
    "hash": 1467527085,
    "name": "Extended Barrel",
@@ -22477,6 +22832,60 @@
    "lastUpload": 1723480728683,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "1491926336": {
+   "hash": 1491926336,
+   "name": "Ranged Lens RLR5",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1491926337": {
+   "hash": 1491926337,
+   "name": "Focus Lens FLS2",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "1496699324": {
    "hash": 1496699324,
@@ -23992,6 +24401,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "1600429811": {
+   "hash": 1600429811,
+   "name": "Paracausal Fluid",
+   "type": "Weapon Trait Origin",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "1602994568": {
    "hash": 1602994568,
    "name": "Controlled Demolition",
@@ -24368,6 +24804,35 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "1629848687": {
+   "hash": 1629848687,
+   "name": "Phase Converter",
+   "type": "Weapon Perk Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 3725585710,
+   "itemName": "Lodestar"
   },
   "1630940558": {
    "name": "Percussive Flames",
@@ -24782,6 +25247,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "1656549675": {
+   "hash": 1656549675,
+   "name": "Storm's Keep",
+   "type": "Subclass Aspect",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "1656957541": {
    "hash": 1656957541,
@@ -28599,6 +29091,141 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "1910921744": {
+   "hash": 1910921744,
+   "name": "Armaments of Ambition",
+   "type": "Weapon Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1910921745": {
+   "hash": 1910921745,
+   "name": "Power of Ambition",
+   "type": "Weapon Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1910921746": {
+   "hash": 1910921746,
+   "name": "Armaments of Resolve",
+   "type": "Weapon Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1910921747": {
+   "hash": 1910921747,
+   "name": "Power of Resolve",
+   "type": "Weapon Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "1910921751": {
+   "hash": 1910921751,
+   "name": "Willbreaker Munitions",
+   "type": "Weapon Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "1919923227": {
    "name": "Overflowing Light",
    "itemName": "Heart of Inmost Light",
@@ -30200,6 +30827,35 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "2018366981": {
+   "hash": 2018366981,
+   "name": "Lodestar Catalyst",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 3725585710,
+   "itemName": "Lodestar"
+  },
   "2019952880": {
    "hash": 2019952880,
    "name": "Serve the Colony",
@@ -30797,195 +31453,6 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
-  },
-  "2071562744": {
-   "hash": 2071562744,
-   "name": "Emergency Flare",
-   "type": "Armor Mod Seasonal",
-   "lastUpload": 1732216978211,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
-  },
-  "2071562745": {
-   "name": "Frenzied Hunger",
-   "hash": 2071562745,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "2071562746": {
-   "name": "Fell the Revenant",
-   "hash": 2071562746,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "2071562747": {
-   "name": "Rapid Impacts",
-   "hash": 2071562747,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "2071562748": {
-   "name": "Killing Breeze",
-   "hash": 2071562748,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "2071562749": {
-   "name": "Enhanced Ether Generator",
-   "hash": 2071562749,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "2071562751": {
-   "name": "One with Frost",
-   "hash": 2071562751,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
   },
   "2073244114": {
    "name": "Lone Wolf",
@@ -32154,6 +32621,35 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "2174503023": {
+   "hash": 2174503023,
+   "name": "Arc Alignment",
+   "type": "Weapon Trait Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 3725585710,
+   "itemName": "Lodestar"
+  },
   "2175577211": {
    "name": "Powerful Friends",
    "hash": 2175577211,
@@ -32387,6 +32883,141 @@
    "lastUpload": 1717539628564,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "2193118393": {
+   "hash": 2193118393,
+   "name": "Longview SLR10",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2193118396": {
+   "hash": 2193118396,
+   "name": "Ambush SLH25",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2193118397": {
+   "hash": 2193118397,
+   "name": "EagleEye SLR20",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2193118398": {
+   "hash": 2193118398,
+   "name": "Shortgaze SLH10",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2193118399": {
+   "hash": 2193118399,
+   "name": "Longview SLR20",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2194294579": {
    "name": "Better Already",
@@ -32944,6 +33575,35 @@
    "lastUpload": 1709252348445,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "2223032959": {
+   "hash": 2223032959,
+   "name": "Ruinscribe's Beacon",
+   "type": "Weapon Trait Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 331231237,
+   "itemName": "Finality's Auger"
   },
   "2223914385": {
    "hash": 2223914385,
@@ -34101,6 +34761,141 @@
    "inLiveDatabase": false,
    "itemHash": 4207066264,
    "itemName": "Microcosm"
+  },
+  "2297703040": {
+   "hash": 2297703040,
+   "name": "Overload Machine Guns",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2297703041": {
+   "hash": 2297703041,
+   "name": "Piercing Sidearms",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2297703043": {
+   "hash": 2297703043,
+   "name": "Unstoppable Fusion",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2297703046": {
+   "hash": 2297703046,
+   "name": "Anti-Barrier Sniper Rifle",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2297703047": {
+   "hash": 2297703047,
+   "name": "Unstoppable Glaive",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2298656195": {
    "name": "Circle of Life",
@@ -35451,6 +36246,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "2410284308": {
+   "hash": 2410284308,
+   "name": "TrueSight IS",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2410284310": {
    "hash": 2410284310,
@@ -37813,6 +38635,33 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "2589407652": {
+   "hash": 2589407652,
+   "name": "Timelost Magazine",
+   "type": "Weapon Trait Origin",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "2590710093": {
    "name": "Tireless Blade",
    "hash": 2590710093,
@@ -37893,6 +38742,141 @@
    "lastUpload": 1735009175023,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "2596646296": {
+   "hash": 2596646296,
+   "name": "Dreadful Finisher",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2596646298": {
+   "hash": 2596646298,
+   "name": "Flashover",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2596646299": {
+   "hash": 2596646299,
+   "name": "Maligned Harvest",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2596646300": {
+   "hash": 2596646300,
+   "name": "No Bell",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2596646301": {
+   "hash": 2596646301,
+   "name": "Horde Shuttle",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2607392828": {
    "name": "Heart Piercer",
@@ -38176,15 +39160,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Scoring 3 Kills within ? seconds of each with Light-aligned damage grants 10% Melee energy.\n\nScoring 3 Kills within ? seconds of each with Dark-aligned damage grants 10% Grenade energy.\n\nLight Alignment: <arc/>Arc, <solar/>Solar, <void/>Void\nDarkness Alignment: <stasis/>Stasis, <strand/>Strand",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944552925,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38193,8 +39177,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922115": {
@@ -38203,15 +39187,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Ability Kills while Transcendent trigger an explosion that deals up to <pve 130 /> <pvp [?] /> Ability-Matching Elemental damage in a ? meter radius.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738946277681,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38220,8 +39204,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922120": {
@@ -38230,15 +39214,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Grants <pve 15% /> <pvp [?%] /> Damage Resistance while within 15? meters of 3 enemies.\n\nThe Damage Resistance is NOT increased while Transcendent, it simply stacks with Transcendence's 20% Damage Resistance for a total of 32%.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738946410601,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38247,8 +39231,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922121": {
@@ -38257,15 +39241,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Kinetic Weapon Kills grant an additional <pve 2% /> <pvp [?%] /> Light and Darkness Transcendence energy.\n\nSuper Kills grant an additional <pve 2% /> <pvp [?%] /> Light and Darkness Transcendence Energy to you and allies within ? metres.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738947156338,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38274,8 +39258,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922122": {
@@ -38284,15 +39268,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Elemental buffs grant 60% Additional Base Class Ability Regeneration Rate.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738946240166,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38301,8 +39285,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922123": {
@@ -38311,15 +39295,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Scoring multiple Precision Hits within 3 seconds of each causes your <bold next /> damage instance within 3 seconds (from any source) to trigger a <strand/>Severing Burst.\n\n<strand/>Severing Burst applies <strand/>Sever to enemies in a 3? meter radius. Radius is increased to ? meters while Transcendent.\n\nFurther Precision Hits within 4 seconds of an activation provide no activation progress.\n\nPrecision Hits required to prepare the Severing Burst:\n• 20% of magazine size rounded down + 1\n• Bows require 2 hits",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738948706706,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38328,8 +39312,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922124": {
@@ -38338,15 +39322,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Light abilities deal 10% increased damage to enemies affected by <stasis/>Stasis or <strand/>Strand elemental debuffs.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944770537,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38355,8 +39339,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922125": {
@@ -38365,15 +39349,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Killing enemies affected by <stasis/>Stasis or <strand/>Strand Elemental debuffs grants additional Light Transcendence Energy:\n• Minors: 1%\n• Elites: 3%\n• Minibosses and higher: 5%\n• Players: ?%",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944820224,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38382,8 +39366,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922126": {
@@ -38392,15 +39376,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Elemental Melee Hits grant you <solar/>Radiant for 4 seconds.\n\nElemental Melee Kills grant you and allies within ? meters <solar/>Radiant for 4 seconds to.\n\n#MeleeAbilityDisambiguation",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738944444837,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38409,8 +39393,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2626922127": {
@@ -38419,15 +39403,15 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Kills while Transcendent spawn up to 4 Orbs of Power for allies that grant 7.15?% Super Energy.\n\nOrbs spawn upon passing specific point thresholds: 30, 50, 70, and 100 points for each orb.\n\nPoints gained per Kill by <link Enemy Rank [#CombatantClassifications] />:\n• Tier 1 (T1) Minors: 10 points\n• T2 Minors, T1 Elites: 15 points\n• T3 Minors, T2 Elites: 20 points\n• T4 Minors, T3 Elites: 34 points\n• T4 Elites, Minibosses: 40 points\n• Bosses: 50 points\n• Players: ? points",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
+      "lastUpdate": 1738945385549,
+      "updatedBy": "Stardust"
      }
     },
     "stats": {
@@ -38436,8 +39420,8 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1734026812437,
-   "inLiveDatabase": false,
+   "lastUpload": 1738951046405,
+   "inLiveDatabase": true,
    "uploadToLive": false
   },
   "2628485816": {
@@ -38499,6 +39483,33 @@
    "name": "Balanced Glide",
    "type": "Subclass Movement",
    "lastUpload": 1677677992214,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "2633604463": {
+   "hash": 2633604463,
+   "name": "Rolling Storm",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
    "uploadedBy": "Stardust",
    "editor": {
     "en": {
@@ -40461,6 +41472,33 @@
    "itemHash": 1891561814,
    "itemName": "Whisper of the Worm"
   },
+  "2732913576": {
+   "hash": 2732913576,
+   "name": "Red Dot-OAS",
+   "type": "Weapon Perk",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "2732913578": {
    "hash": 2732913578,
    "name": "Red Dot-ORS",
@@ -41731,6 +42769,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "2813913866": {
+   "hash": 2813913866,
+   "name": "Demoralize",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "2814973067": {
    "hash": 2814973067,
    "name": "Markov Chain",
@@ -41896,6 +42961,33 @@
    "lastUpload": 1729072787613,
    "inLiveDatabase": false,
    "uploadToLive": true
+  },
+  "2817677128": {
+   "hash": 2817677128,
+   "name": "Melee Momentum",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "2818140350": {
    "name": "Dynamic Duo",
@@ -46069,195 +47161,6 @@
    "itemHash": 2603483885,
    "itemName": "Cloudstrike"
   },
-  "3117519992": {
-   "name": "Old God's Rite",
-   "hash": 3117519992,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3117519993": {
-   "hash": 3117519993,
-   "name": "Arc Compounding",
-   "type": "Armor Mod Seasonal",
-   "lastUpload": 1732216978211,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
-  },
-  "3117519994": {
-   "name": "Kinetic Impacts",
-   "hash": 3117519994,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3117519995": {
-   "name": "Served Cold",
-   "hash": 3117519995,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3117519996": {
-   "name": "Conductive Cosmic Crystal",
-   "hash": 3117519996,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3117519997": {
-   "name": "Supernova",
-   "hash": 3117519997,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3117519998": {
-   "name": "Brain Freeze",
-   "hash": 3117519998,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
   "3118144663": {
    "name": "Hip-Fire Grip",
    "hash": 3118144663,
@@ -47546,6 +48449,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "3218042543": {
+   "hash": 3218042543,
+   "name": "Rolling Storm",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "3224649746": {
    "name": "Void Loader",
    "hash": 3224649746,
@@ -47857,6 +48787,33 @@
    "inLiveDatabase": true,
    "itemHash": 400096939,
    "itemName": "Outbreak Perfected"
+  },
+  "3244229373": {
+   "hash": 3244229373,
+   "name": "Tear",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "3245543337": {
    "name": "Bolstering Detonation",
@@ -50626,14 +51583,14 @@
    "type": "Subclass Fragment",
    "editor": {
     "en": {
-     "main": "<stasis/>Shattering enemies or <stasis/>Crystals creates an additional damage instance, dealing up to <pve 25 /> <pvp [9] /> damage in a <pve 10 /> <pvp [8] /> meter radius.\n\nDamage falls off to <pve 17 /> <pvp [4] /> Damage at the edge of the radius.\n\n// This translates to <pve 12.5% /> <pvp [4.5%] /> total <stasis/>Shatter Damage Increase.",
+     "main": "<stasis/>Shattering enemies or <stasis/>Crystals creates an additional damage instance, dealing up to <pve 25 /> <pvp [9] /> damage in a <pve 10 /> <pvp [8] /> meter radius.\n\nDamage falls off to <pve 17 /> <pvp [4] /> damage at the edge of the radius.\n\n// This translates to <pve 12.5% /> <pvp [4.5%] /> total <stasis/>Shatter Damage Increase.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719510972793,
+      "lastUpdate": 1738946993697,
       "updatedBy": "Stardust"
      }
     },
@@ -50643,7 +51600,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1738951046405,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50866,6 +51823,33 @@
    "lastUpload": 1727530279353,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "3488129416": {
+   "hash": 3488129416,
+   "name": "Support Frame",
+   "type": "Weapon Frame",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "3489809232": {
    "hash": 3489809232,
@@ -51090,6 +52074,35 @@
    "inLiveDatabase": true,
    "itemHash": 2069224589,
    "itemName": "One Thousand Voices"
+  },
+  "3505000148": {
+   "hash": 3505000148,
+   "name": "Starlight Beam",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 3725585710,
+   "itemName": "Lodestar"
   },
   "3511092054": {
    "name": "Elemental Capacitor",
@@ -51721,6 +52734,33 @@
    "itemHash": 542203595,
    "itemName": "Edge of Concurrence"
   },
+  "3555252274": {
+   "hash": 3555252274,
+   "name": "Recycled Energy",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "3556461530": {
    "name": "Voltaic Mirror",
    "itemName": "Blight Ranger",
@@ -52046,6 +53086,141 @@
    "lastUpload": 1680554889429,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "3585856464": {
+   "hash": 3585856464,
+   "name": "Disruptor Spike",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "3585856465": {
+   "hash": 3585856465,
+   "name": "Photonic Flare",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "3585856469": {
+   "hash": 3585856469,
+   "name": "Hold the Line",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "3585856470": {
+   "hash": 3585856470,
+   "name": "Dielectric",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "3585856471": {
+   "hash": 3585856471,
+   "name": "King's Vestige",
+   "type": "Armor Mod Seasonal",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "3591914291": {
    "hash": 3591914291,
@@ -53721,6 +54896,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "3713215006": {
+   "hash": 3713215006,
+   "name": "Recycled Energy",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "3717985200": {
    "name": "Psychohack",
    "hash": 3717985200,
@@ -54506,6 +55708,33 @@
    "itemHash": 776191470,
    "itemName": "Tommy's Matchbook"
   },
+  "3773585912": {
+   "hash": 3773585912,
+   "name": "Melee Momentum",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "3774850330": {
    "hash": 3774850330,
    "name": "Precision Frame",
@@ -54886,195 +56115,6 @@
    "uploadedBy": "Stardust",
    "lastUpload": 1723480728683,
    "inLiveDatabase": true,
-   "uploadToLive": false
-  },
-  "3803076560": {
-   "name": "Unstoppable Pulse Rifle",
-   "hash": 3803076560,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3803076561": {
-   "name": "Overload Submachine Gun",
-   "hash": 3803076561,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3803076562": {
-   "name": "Anti-Barrier Scout Rifle",
-   "hash": 3803076562,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3803076564": {
-   "name": "Authorized Mods: Grenades",
-   "hash": 3803076564,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3803076565": {
-   "hash": 3803076565,
-   "name": "Authorized Mods: Melee",
-   "type": "Armor Mod Seasonal",
-   "lastUpload": 1732216978211,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
-  },
-  "3803076566": {
-   "name": "Overload Breechloaded Grenade Launcher",
-   "hash": 3803076566,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "3803076567": {
-   "name": "Anti-Barrier Shotgun",
-   "hash": 3803076567,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
    "uploadToLive": false
   },
   "3808234135": {
@@ -57645,6 +58685,33 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "4008730744": {
+   "hash": 4008730744,
+   "name": "Minor Boons: Light Speed",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "4008973208": {
    "hash": 4008973208,
    "name": "Lightweight Frame",
@@ -57902,6 +58969,249 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "4025508322": {
+   "hash": 4025508322,
+   "name": "Minor Boons: Dark Armor",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508323": {
+   "hash": 4025508323,
+   "name": "Minor Boons: Full Spectrum",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508328": {
+   "hash": 4025508328,
+   "name": "Minor Boons: The Deep",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508329": {
+   "hash": 4025508329,
+   "name": "Minor Boons: Brawl",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508330": {
+   "hash": 4025508330,
+   "name": "Minor Boons: The Sky",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508332": {
+   "hash": 4025508332,
+   "name": "Minor Boons: Trench Fighter",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508333": {
+   "hash": 4025508333,
+   "name": "Minor Boons: CQC",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508334": {
+   "hash": 4025508334,
+   "name": "Minor Boons: Tank",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
+  "4025508335": {
+   "hash": 4025508335,
+   "name": "Minor Boons: Abilities",
+   "type": "Ghost Mod",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "4036525828": {
    "hash": 4036525828,
    "name": "Aggressive Frame",
@@ -57928,195 +59238,6 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
-  },
-  "4037132128": {
-   "name": "Wind Chill",
-   "hash": 4037132128,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132130": {
-   "name": "Total Carnage",
-   "hash": 4037132130,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132131": {
-   "name": "Crystalline Converter",
-   "hash": 4037132131,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132132": {
-   "name": "Trace Evidence",
-   "hash": 4037132132,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132133": {
-   "name": "Power from Pain",
-   "hash": 4037132133,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132134": {
-   "name": "Finders Keepers",
-   "hash": 4037132134,
-   "type": "Armor Mod Seasonal",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    },
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   },
-   "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
-   "inLiveDatabase": false,
-   "uploadToLive": false
-  },
-  "4037132135": {
-   "hash": 4037132135,
-   "name": "The Thick of It",
-   "type": "Armor Mod Seasonal",
-   "lastUpload": 1732216978211,
-   "uploadedBy": "Stardust",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
-    }
-   },
-   "uploadToLive": false,
-   "inLiveDatabase": false
   },
   "4039026690": {
    "name": "Distribution",
@@ -58396,6 +59517,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "4070834277": {
+   "hash": 4070834277,
+   "name": "Reciprocity",
+   "type": "Weapon Trait Enhanced",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "4071163871": {
    "name": "Threat Detector",
@@ -60355,6 +61503,33 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "4198902903": {
+   "hash": 4198902903,
+   "name": "Detonator Beam",
+   "type": "Weapon Trait",
+   "lastUpload": 1738951046405,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
   },
   "4200236906": {
    "name": "Gutshot Straight",
@@ -62518,6 +63693,14 @@
      ]
     },
     {
+     "name": "Finality's Auger",
+     "has": [
+      626115084,
+      818149482,
+      2223032959
+     ]
+    },
+    {
      "name": "Forerunner",
      "has": [
       2984682260,
@@ -62640,6 +63823,15 @@
       265542500,
       2362217257,
       2399646028
+     ]
+    },
+    {
+     "name": "Lodestar",
+     "has": [
+      3505000148,
+      1629848687,
+      2018366981,
+      2174503023
      ]
     },
     {
@@ -63265,7 +64457,8 @@
       1294026524,
       1458010786,
       1636108362,
-      2622129339
+      2622129339,
+      3488129416
      ]
     },
     {
@@ -63320,6 +64513,7 @@
       1458010786,
       2189829540,
       2757685314,
+      3468089894,
       3923638944
      ]
     },
@@ -63855,7 +65049,6 @@
      "name": "Sidearm",
      "has": [
       368110299,
-      651554065,
       687584589,
       749936529,
       1225770249,
@@ -64041,6 +65234,10 @@
     "name": "Pulse Monitor",
     "linkedWith": 1685378950
    },
+   "222783511": {
+    "name": "Detonator Beam",
+    "linkedWith": 4198902903
+   },
    "243981275": {
     "name": "Attrition Orbs",
     "linkedWith": 984655331
@@ -64125,6 +65322,10 @@
     "name": "Threat Detector",
     "linkedWith": 4071163871
    },
+   "496047945": {
+    "name": "Elemental Honing",
+    "linkedWith": 1089671869
+   },
    "509074078": {
     "name": "Steady Hands",
     "linkedWith": 843318450
@@ -64200,6 +65401,10 @@
    "691659142": {
     "name": "Pugilist",
     "linkedWith": 536173722
+   },
+   "692399809": {
+    "name": "Reciprocity",
+    "linkedWith": 4070834277
    },
    "699525795": {
     "name": "Eye of the Storm",
@@ -64305,6 +65510,10 @@
     "name": "Danger Zone",
     "linkedWith": 1077019636
    },
+   "960997401": {
+    "name": "Tear",
+    "linkedWith": 3244229373
+   },
    "968510818": {
     "name": "Envious Assassin",
     "linkedWith": 424370782
@@ -64332,6 +65541,10 @@
    "1077019636": {
     "name": "Danger Zone",
     "linkedWith": 960810156
+   },
+   "1089671869": {
+    "name": "Elemental Honing",
+    "linkedWith": 496047945
    },
    "1119449540": {
     "name": "Loose Change",
@@ -64440,6 +65653,10 @@
    "1451849462": {
     "name": "Barrel Constrictor",
     "linkedWith": 4175584682
+   },
+   "1464081238": {
+    "name": "Demoralize",
+    "linkedWith": 2813913866
    },
    "1523649716": {
     "name": "Tap the Trigger",
@@ -64861,6 +66078,10 @@
     "name": "Ensemble",
     "linkedWith": 2495011826
    },
+   "2633604463": {
+    "name": "Rolling Storm",
+    "linkedWith": 3218042543
+   },
    "2652708987": {
     "name": "Successful Warm-Up",
     "linkedWith": 617966211
@@ -64921,9 +66142,17 @@
     "name": "Desperate Measures",
     "linkedWith": 2109543898
    },
+   "2813913866": {
+    "name": "Demoralize",
+    "linkedWith": 1464081238
+   },
    "2817499044": {
     "name": "Envious Arsenal",
     "linkedWith": 3987942396
+   },
+   "2817677128": {
+    "name": "Melee Momentum",
+    "linkedWith": 3773585912
    },
    "2840833776": {
     "name": "Shoot to Loot",
@@ -65097,6 +66326,14 @@
     "name": "Paracausal Affinity",
     "linkedWith": 3299896859
    },
+   "3218042543": {
+    "name": "Rolling Storm",
+    "linkedWith": 2633604463
+   },
+   "3244229373": {
+    "name": "Tear",
+    "linkedWith": 960997401
+   },
    "3291427296": {
     "name": "Air Trigger",
     "linkedWith": 1421772400
@@ -65197,6 +66434,10 @@
     "name": "Auto-Loading Holster",
     "linkedWith": 3300816228
    },
+   "3555252274": {
+    "name": "Recycled Energy",
+    "linkedWith": 3713215006
+   },
    "3563868667": {
     "name": "Clown Cartridge",
     "linkedWith": 2284787283
@@ -65249,6 +66490,10 @@
     "name": "Surrounded",
     "linkedWith": 781192741
    },
+   "3713215006": {
+    "name": "Recycled Energy",
+    "linkedWith": 3555252274
+   },
    "3719974635": {
     "name": "Eye of the Storm",
     "linkedWith": 699525795
@@ -65268,6 +66513,10 @@
    "3755250867": {
     "name": "Under Pressure",
     "linkedWith": 1645158859
+   },
+   "3773585912": {
+    "name": "Melee Momentum",
+    "linkedWith": 2817677128
    },
    "3797647183": {
     "name": "Ambitious Assassin",
@@ -65345,6 +66594,10 @@
     "name": "Physic",
     "linkedWith": 2980589453
    },
+   "4070834277": {
+    "name": "Reciprocity",
+    "linkedWith": 692399809
+   },
    "4071163871": {
     "name": "Threat Detector",
     "linkedWith": 494941759
@@ -65380,6 +66633,10 @@
    "4183521337": {
     "name": "Tireless Blade",
     "linkedWith": 2590710093
+   },
+   "4198902903": {
+    "name": "Detonator Beam",
+    "linkedWith": 222783511
    },
    "4200236906": {
     "name": "Gutshot Straight",
