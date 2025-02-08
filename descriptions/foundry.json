@@ -9109,7 +9109,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739033358171,
+  "lastUpload": 1739033900947,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -45799,13 +45799,13 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1739032704660,
+  "lastUpload": 1739033900947,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1739029835090,
+     "lastUpdate": 1739033895608,
      "updatedBy": "Stardust"
     }
    }
@@ -45831,7 +45831,7 @@
     {
      "linesContent": [
       {
-       "text": "Gaining or Nightmare Fuel "
+       "text": "Gaining Nightmare Fuel "
       },
       {
        "text": "refills"
