@@ -653,7 +653,7 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -717,7 +717,7 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -1685,7 +1685,7 @@
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -2149,7 +2149,7 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -2291,7 +2291,7 @@
  "120721526": {
   "hash": 120721526,
   "name": "Runneth Over",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -8381,7 +8381,7 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -9087,7 +9087,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -10530,13 +10530,13 @@
   "name": "Wraithmetal Mail",
   "itemHash": 2766109874,
   "itemName": "The Dragon's Shadow",
-  "lastUpload": 1709252348445,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1700152904302,
+     "lastUpdate": 1739032346171,
      "updatedBy": "Stardust"
     }
    }
@@ -10546,7 +10546,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation."
+       "text": "Class Ability usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation."
       }
      ]
     },
@@ -10566,14 +10566,14 @@
     {
      "linesContent": [
       {
-       "text": "Wraithmetal Mail:"
+       "text": "Wraithmetal Mail grants the following benefits:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants 50 Mobility"
+       "text": "• 50 Mobility"
       }
      ]
     },
@@ -10587,21 +10587,21 @@
     {
      "linesContent": [
       {
-       "text": "• Grants a 0.7x Ready/Stow Duration Multiplier"
+       "text": "• 0.7x Ready/Stow Duration Multiplier"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Increases Sprint Speed by 6.25%"
+       "text": "• 6.25% increased Sprint Speed"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Increases Slide Distance by 33%"
+       "text": "• 33% increased Slide Distance"
       }
      ]
     }
@@ -13696,7 +13696,7 @@
     {
      "linesContent": [
       {
-       "text": "The buff does not stack with the passive Melee Damage Increase against "
+       "text": "The buff does not stack with the passive Melee Damage increase against "
       },
       {
        "classNames": [ "stasis" ]
@@ -14822,13 +14822,13 @@
   "name": "Tight Fit",
   "itemHash": 2390471904,
   "itemName": "Speedloader Slacks",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1717534731083,
+     "lastUpdate": 1739032356992,
      "updatedBy": "Stardust"
     }
    }
@@ -14838,7 +14838,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds."
+       "text": "Class Ability usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds."
       }
      ]
     },
@@ -15059,13 +15059,13 @@
  "880644845": {
   "hash": 880644845,
   "name": "Strategist",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734438930389,
+     "lastUpdate": 1739032380744,
      "updatedBy": "Stardust"
     }
    }
@@ -15095,7 +15095,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage grants ? Stability for ? seconds."
+       "text": "Class Ability usage grants ? Stability for ? seconds."
       }
      ]
     },
@@ -23012,34 +23012,6 @@
    ]
   }
  },
- "1419069769": {
-  "hash": 1419069769,
-  "name": "Lightning Rounds",
-  "itemHash": 3325463374,
-  "itemName": "Thunderlord",
-  "lastUpload": 1675798177540,
-  "type": "Weapon Trait Exotic",
-  "uploadedBy": "Stardust",
-  "updateTracker": {
-   "descriptions": {
-    "en": {
-     "lastUpdate": 0,
-     "updatedBy": ""
-    }
-   }
-  },
-  "descriptions": {
-   "en": [
-    {
-     "linesContent": [
-      {
-       "text": "This weapon fires faster and more accurately the longer the trigger is held. Continous damage generates stunning lightning strikes."
-      }
-     ]
-    }
-   ]
-  }
- },
  "1420473289": {
   "hash": 1420473289,
   "name": "Blood Magic",
@@ -24021,13 +23993,13 @@
  "1489048135": {
   "hash": 1489048135,
   "name": "Explosive Pact",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722369407080,
+     "lastUpdate": 1739032581500,
      "updatedBy": "Stardust"
     }
    }
@@ -24037,7 +24009,7 @@
     {
      "linesContent": [
       {
-       "text": "Grenade Ability Usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks."
+       "text": "Grenade Ability usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks."
       }
      ]
     },
@@ -24047,7 +24019,26 @@
     {
      "linesContent": [
       {
+       "classNames": [ "solar" ]
+      },
+      {
        "text": "Healing Grenade orb pickups (by anyone) and Grenade Kills grant 1 Stack each."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Running over a "
+      },
+      {
+       "text": "Speaker's Sight"
+      },
+      {
+       "text": " Healing Turret does not grant any Stacks."
       }
      ]
     },
@@ -24996,7 +24987,7 @@
     {
      "linesContent": [
       {
-       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface depends on the distance."
       }
      ]
     },
@@ -25939,7 +25930,7 @@
  "1600429811": {
   "hash": 1600429811,
   "name": "Paracausal Fluid",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -26001,7 +25992,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage while within 15 meters of an enemy grants Super Ability Energy."
+       "text": "Class Ability usage while within 15 meters of an enemy grants Super Ability Energy."
       }
      ]
     },
@@ -30936,13 +30927,13 @@
   "name": "Overflowing Light",
   "itemHash": 1341951177,
   "itemName": "Heart of Inmost Light",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734539171489,
+     "lastUpdate": 1739032598517,
      "updatedBy": "Stardust"
     }
    }
@@ -30962,7 +30953,7 @@
     {
      "linesContent": [
       {
-       "text": "e.g.: Barricade Usage 🠚 Empowered Grenade and Melee Abilities"
+       "text": "e.g.: Barricade usage 🠚 Empowered Grenade and Melee Abilities"
       }
      ]
     },
@@ -30989,7 +30980,7 @@
     {
      "linesContent": [
       {
-       "text": "• 10% | 20% increased melee damage"
+       "text": "• 10% | 20% increased Melee damage"
       }
      ]
     },
@@ -31061,7 +31052,7 @@
        "text": "[PVP: 20%]"
       },
       {
-       "text": " increased grenade damage"
+       "text": " increased Grenade damage"
       }
      ]
     },
@@ -31312,7 +31303,7 @@
   "name": "Close Enough",
   "itemHash": 121305948,
   "itemName": "Geomag Stabilizers",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -38024,13 +38015,13 @@
  "2414626352": {
   "hash": 2414626352,
   "name": "Dynamo",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1739032704660,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727528028825,
+     "lastUpdate": 1739032404922,
      "updatedBy": "Stardust"
     }
    }
@@ -38040,7 +38031,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage while within 15 meters of an enemy grants Super Ability Energy."
+       "text": "Class Ability usage while within 15 meters of an enemy grants Super Ability Energy."
       }
      ]
     },
@@ -40994,7 +40985,7 @@
  "2589407652": {
   "hash": 2589407652,
   "name": "Timelost Magazine",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -43398,13 +43389,13 @@
  "2679249093": {
   "hash": 2679249093,
   "name": "One-Two Punch",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738606007354,
+     "lastUpdate": 1739032274186,
      "updatedBy": "Stardust"
     }
    }
@@ -43545,7 +43536,7 @@
     {
      "linesContent": [
       {
-       "text": "The buff does not stack with the passive Melee Damage Increase against "
+       "text": "The buff does not stack with the passive Melee Damage increase against "
       },
       {
        "classNames": [ "stasis" ]
@@ -45740,7 +45731,7 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -50749,7 +50740,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage grants ? Stability for ? seconds."
+       "text": "Class Ability usage grants ? Stability for ? seconds."
       }
      ]
     },
@@ -52338,7 +52329,7 @@
  "3244229373": {
   "hash": 3244229373,
   "name": "Tear",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -54231,13 +54222,13 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738596581022,
+     "lastUpdate": 1739032257502,
      "updatedBy": "Stardust"
     }
    }
@@ -54267,7 +54258,7 @@
     {
      "linesContent": [
       {
-       "text": "Payload detonation time after hitting a target or surface varies on draw and distance."
+       "text": "Payload detonation time after hitting a target or surface depends on the distance."
       }
      ]
     },
@@ -58568,13 +58559,13 @@
   "name": "Scissor Fingers",
   "itemHash": 978537162,
   "itemName": "Ophidia Spathe",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734539655601,
+     "lastUpdate": 1739032646140,
      "updatedBy": "Stardust"
     }
    }
@@ -58600,7 +58591,7 @@
     {
      "linesContent": [
       {
-       "text": "All Melee Charges are recharged simultaneously."
+       "text": "All Melee charges are recharged simultaneously."
       }
      ]
     },
@@ -58655,14 +58646,20 @@
     {
      "linesContent": [
       {
-       "text": "• Knife Kills restore 1 Charge"
+       "text": "• Knife Kills restore 1 charge"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Knife Trick Precision Kills and Direct "
+       "text": "• "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Knife Trick Precision Kills and Direct "
       },
       {
        "classNames": [ "solar" ]
@@ -58674,7 +58671,7 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Scorch restore both Charges"
+       "text": "Scorch restore both charges"
       }
      ]
     }
@@ -59614,18 +59611,14 @@
   "name": "Burning Souls",
   "itemHash": 3562696927,
   "itemName": "Wormhusk Crown",
-  "lastUpload": 1679418784735,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1679418727730,
+     "lastUpdate": 1739032455202,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670511456078,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -59634,7 +59627,7 @@
     {
      "linesContent": [
       {
-       "text": "Restores 67 HP on Class Ability Usage."
+       "text": "Class Ability usage restores 67 HP."
       }
      ]
     }
@@ -60608,13 +60601,13 @@
   "name": "See Me, Feel Me",
   "itemHash": 461841403,
   "itemName": "Gyrfalcon's Hauberk",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1727526882348,
+     "lastUpdate": 1739032663049,
      "updatedBy": "Stardust"
     }
    }
@@ -60708,7 +60701,7 @@
     {
      "linesContent": [
       {
-       "text": "• Consumed on Class Abiliy usage, granting the user a 40 HP "
+       "text": "• Consumed on Class Ability usage, granting the user a 40 HP "
       },
       {
        "classNames": [ "void" ]
@@ -62370,7 +62363,7 @@
   "name": "Conduction Tines",
   "itemHash": 3381022969,
   "itemName": "Crown of Tempests",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -63141,7 +63134,7 @@
  "3978468247": {
   "hash": 3978468247,
   "name": "Discord",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -64005,22 +63998,14 @@
   "name": "Misdirection",
   "itemHash": 1163283805,
   "itemName": "Gemini Jester",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1715800360693,
+     "lastUpdate": 1739032462938,
      "updatedBy": "Stardust"
-    },
-    "ko": {
-     "lastUpdate": 1665695942877,
-     "updatedBy": "tritonesub251"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670677929937,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -64029,7 +64014,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage applies Misdirection to enemies within 22 meters."
+       "text": "Class Ability usage applies Misdirection to enemies within 22 meters."
       }
      ]
     },
@@ -64076,13 +64061,13 @@
  "4039026690": {
   "hash": 4039026690,
   "name": "Distribution",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734441230007,
+     "lastUpdate": 1739032475610,
      "updatedBy": "Stardust"
     }
    }
@@ -64092,7 +64077,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy."
+       "text": "Class Ability usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy."
       }
      ]
     },
@@ -64343,7 +64328,7 @@
   "name": "Feast of Light",
   "itemHash": 1001356380,
   "itemName": "Star-Eater Scales",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
@@ -66243,13 +66228,13 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738686346462,
+     "lastUpdate": 1739032693158,
      "updatedBy": "Stardust"
     }
    }
@@ -66297,13 +66282,7 @@
     {
      "linesContent": [
       {
-       "text": "Damage Blocked with an active "
-      },
-      {
-       "classNames": [ "void" ]
-      },
-      {
-       "text": "Overshield does not count towards the Super Energy Refund."
+       "text": "Damage Blocked with an active Overshield does not count towards the Super Energy Refund."
       }
      ]
     },
@@ -68008,7 +67987,7 @@
     {
      "linesContent": [
       {
-       "text": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy."
+       "text": "Class Ability usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy."
       }
      ]
     },

@@ -106,7 +106,7 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -116,7 +116,7 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -268,7 +268,7 @@
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -362,7 +362,7 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -382,7 +382,7 @@
  "120721526": {
   "hash": 120721526,
   "name": "Runneth Over",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1511,7 +1511,7 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Subclass Class",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -1635,7 +1635,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "stats": {
    "Guard Charge Rate": [
     {
@@ -1880,11 +1880,11 @@
   "name": "Wraithmetal Mail",
   "itemHash": 2766109874,
   "itemName": "The Dragon's Shadow",
-  "lastUpload": 1709252348445,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nWraithmetal Mail:\n• Grants 50 Mobility\n• Sets Handling and Reload Speed to 100\n• Grants a 0.7x Ready/Stow Duration Multiplier\n• Increases Sprint Speed by 6.25%\n• Increases Slide Distance by 33%"
+   "en": "Class Ability usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation.\n\nCounts as a manual reload and will activate reload-triggered perks such as Kill Clip.\n\nWraithmetal Mail grants the following benefits:\n• 50 Mobility\n• Sets Handling and Reload Speed to 100\n• 0.7x Ready/Stow Duration Multiplier\n• 6.25% increased Sprint Speed\n• 33% increased Slide Distance"
   }
  },
  "593361146": {
@@ -2490,7 +2490,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Hitting a target with 🡅10 of the 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• Hunters: <:solar:720178909361995786>Proximity Explosive Knife's and <:void:720178940240461864>Snare Bomb's detonations, <:arc:720178925317128243>Tempest Strike, <:stasis:915198000727461909>Withering Blade, Threaded Spike\n• Titans: <:solar:720178909361995786>Throwing Hammer, <:solar:720178909361995786>Consecration, <:arc:720178925317128243>Thunderclap, <:void:720178940240461864>Shield Throw, Flechette Storm\n• Warlocks: all abilities except <:arc:720178925317128243>Chain Lightning and Grapple Melee\n\nThe buff does not stack with the passive Melee Damage Increase against <:stasis:915198000727461909>Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of <:stasis:915198000727461909>Shiver Strike and <:stasis:915198000727461909>Howl of the Storm in PVE)\n\n🡅 Requires 2 fewer Shotgun Pellets to activate."
+   "en": "Hitting a target with 🡅10 of the 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• Hunters: <:solar:720178909361995786>Proximity Explosive Knife's and <:void:720178940240461864>Snare Bomb's detonations, <:arc:720178925317128243>Tempest Strike, <:stasis:915198000727461909>Withering Blade, Threaded Spike\n• Titans: <:solar:720178909361995786>Throwing Hammer, <:solar:720178909361995786>Consecration, <:arc:720178925317128243>Thunderclap, <:void:720178940240461864>Shield Throw, Flechette Storm\n• Warlocks: all abilities except <:arc:720178925317128243>Chain Lightning and Grapple Melee\n\nThe buff does not stack with the passive Melee Damage increase against <:stasis:915198000727461909>Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of <:stasis:915198000727461909>Shiver Strike and <:stasis:915198000727461909>Howl of the Storm in PVE)\n\n🡅 Requires 2 fewer Shotgun Pellets to activate."
   }
  },
  "792400107": {
@@ -2728,11 +2728,11 @@
   "name": "Tight Fit",
   "itemHash": 2390471904,
   "itemName": "Speedloader Slacks",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds.\n\nWhile Tight Fit is active:\n• Kills or Dodges grant an additional Stack up to a maximum of 5 and refresh the duration of the buff.\n• Allies within 15 meters receive the same number of Stacks as the wearer (post Stack-gains) when the buff is refreshed.\n\nStat Bonuses at 1|2|3|4|5 Stacks:\n• 30|35|40|45|50 Airborne Effectiveness\n• 40|40|45|50|55 Handling and Reload Speed\n• 1x|0.925x|0.915x|0.91x|0.89x Reload Duration Multiplier"
+   "en": "Class Ability usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds.\n\nWhile Tight Fit is active:\n• Kills or Dodges grant an additional Stack up to a maximum of 5 and refresh the duration of the buff.\n• Allies within 15 meters receive the same number of Stacks as the wearer (post Stack-gains) when the buff is refreshed.\n\nStat Bonuses at 1|2|3|4|5 Stacks:\n• 30|35|40|45|50 Airborne Effectiveness\n• 40|40|45|50|55 Handling and Reload Speed\n• 1x|0.925x|0.915x|0.91x|0.89x Reload Duration Multiplier"
   }
  },
  "859780267": {
@@ -2804,11 +2804,11 @@
  "880644845": {
   "hash": 880644845,
   "name": "Strategist",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 10% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Weapon Kills grant 10% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 20%.\n\nClass Ability usage grants ? Stability for ? seconds.\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
   }
  },
  "883366072": {
@@ -4595,18 +4595,6 @@
    "en": "Upon damaging 3 Separate Enemies within 3 seconds of each, for 🡅11 seconds:\n• 35 Handling and Reload Speed\n• 10 Stability and Range\n• 5% increased Damage Falloff Distance\n• 0.95x Reload Duration Multiplier\n\nBuff duration cannot be refreshed.\n\n🡅 Buff duration is increased by 1 second."
   }
  },
- "1419069769": {
-  "hash": 1419069769,
-  "name": "Lightning Rounds",
-  "itemHash": 3325463374,
-  "itemName": "Thunderlord",
-  "lastUpload": 1675798177540,
-  "type": "Weapon Trait Exotic",
-  "uploadedBy": "Stardust",
-  "descriptions": {
-   "en": "This weapon fires faster and more accurately the longer the trigger is held. Continous damage generates stunning lightning strikes."
-  }
- },
  "1420473289": {
   "hash": 1420473289,
   "name": "Blood Magic",
@@ -4800,11 +4788,11 @@
  "1489048135": {
   "hash": 1489048135,
   "name": "Explosive Pact",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grenade Ability Usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks.\n\nHealing Grenade orb pickups (by anyone) and Grenade Kills grant 1 Stack each.\n\nBenefits at 1|2|3|4|5 Stacks of Explosive Pact:\n• ? Stability\n• 8|16|20|24|44 Reload Speed\n• 0.98x|0.98x|0.975x|0.96x|0.945x Reload Duration Multiplier"
+   "en": "Grenade Ability usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks.\n\n<:solar:720178909361995786>Healing Grenade orb pickups (by anyone) and Grenade Kills grant 1 Stack each.\n\nRunning over a Speaker's Sight Healing Turret does not grant any Stacks.\n\nBenefits at 1|2|3|4|5 Stacks of Explosive Pact:\n• ? Stability\n• 8|16|20|24|44 Reload Speed\n• 0.98x|0.98x|0.975x|0.96x|0.945x Reload Duration Multiplier"
   }
  },
  "1496699324": {
@@ -4984,7 +4972,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<:pve:922884406073507930>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<:pvp:922884468275019856>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Accuracy."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface depends on the distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<:pve:922884406073507930>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<:pvp:922884468275019856>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\n🡅 Passively grants 5 Accuracy."
   }
  },
  "1553790504": {
@@ -5144,7 +5132,7 @@
  "1600429811": {
   "hash": 1600429811,
   "name": "Paracausal Fluid",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -5158,7 +5146,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<:pve:922884406073507930>2.5% <:pvp:922884468275019856>[1.25%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2.4%]\n\nEnergy Multipliers based on Class:\nHunters: 1x | Titans: 1.2x | Warlocks: 2x"
+   "en": "Class Ability usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<:pve:922884406073507930>2.5% <:pvp:922884468275019856>[1.25%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2.4%]\n\nEnergy Multipliers based on Class:\nHunters: 1x | Titans: 1.2x | Warlocks: 2x"
   }
  },
  "1607056502": {
@@ -6232,11 +6220,11 @@
   "name": "Overflowing Light",
   "itemHash": 1341951177,
   "itemName": "Heart of Inmost Light",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds.\n\ne.g.: Barricade Usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased melee damage\n• <:pve:922884406073507930>400% <:pvp:922884468275019856>[100%] | <:pve:922884406073507930>800% <:pvp:922884468275019856>[200%] Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%] | <:pve:922884406073507930>35% <:pvp:922884468275019856>[20%] increased grenade damage\n• <:pve:922884406073507930>400% <:pvp:922884468275019856>[100%] | <:pve:922884406073507930>800% <:pvp:922884468275019856>[200%] Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds.\n\ne.g.: Barricade usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased Melee damage\n• <:pve:922884406073507930>400% <:pvp:922884468275019856>[100%] | <:pve:922884406073507930>800% <:pvp:922884468275019856>[200%] Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <:pve:922884406073507930>20% <:pvp:922884468275019856>[10%] | <:pve:922884406073507930>35% <:pvp:922884468275019856>[20%] increased Grenade damage\n• <:pve:922884406073507930>400% <:pvp:922884468275019856>[100%] | <:pve:922884406073507930>800% <:pvp:922884468275019856>[200%] Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does\n\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "1924584408": {
@@ -6264,7 +6252,7 @@
   "name": "Close Enough",
   "itemHash": 121305948,
   "itemName": "Geomag Stabilizers",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -7602,11 +7590,11 @@
  "2414626352": {
   "hash": 2414626352,
   "name": "Dynamo",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1739032704660,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<:pve:922884406073507930>2.5% <:pvp:922884468275019856>[1.25%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2.4%]\n\nEnergy Multipliers based on Class:\nHunters: 1x | Titans: 1.2x | Warlocks: 2x"
+   "en": "Class Ability usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<:pve:922884406073507930>2.5% <:pvp:922884468275019856>[1.25%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2.4%]\n\nEnergy Multipliers based on Class:\nHunters: 1x | Titans: 1.2x | Warlocks: 2x"
   }
  },
  "2416023159": {
@@ -8120,7 +8108,7 @@
  "2589407652": {
   "hash": 2589407652,
   "name": "Timelost Magazine",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Origin",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -8532,11 +8520,11 @@
  "2679249093": {
   "hash": 2679249093,
   "name": "One-Two Punch",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Hitting a target with all 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• Hunters: <:solar:720178909361995786>Proximity Explosive Knife's and <:void:720178940240461864>Snare Bomb's detonations, <:arc:720178925317128243>Tempest Strike, <:stasis:915198000727461909>Withering Blade, Threaded Spike\n• Titans: <:solar:720178909361995786>Throwing Hammer, <:solar:720178909361995786>Consecration, <:arc:720178925317128243>Thunderclap, <:void:720178940240461864>Shield Throw, Flechette Storm\n• Warlocks: all abilities except <:arc:720178925317128243>Chain Lightning and Grapple Melee\n\nThe buff does not stack with the passive Melee Damage Increase against <:stasis:915198000727461909>Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of <:stasis:915198000727461909>Shiver Strike and <:stasis:915198000727461909>Howl of the Storm in PVE)"
+   "en": "Hitting a target with all 12 Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• Hunters: <:solar:720178909361995786>Proximity Explosive Knife's and <:void:720178940240461864>Snare Bomb's detonations, <:arc:720178925317128243>Tempest Strike, <:stasis:915198000727461909>Withering Blade, Threaded Spike\n• Titans: <:solar:720178909361995786>Throwing Hammer, <:solar:720178909361995786>Consecration, <:arc:720178925317128243>Thunderclap, <:void:720178940240461864>Shield Throw, Flechette Storm\n• Warlocks: all abilities except <:arc:720178925317128243>Chain Lightning and Grapple Melee\n\nThe buff does not stack with the passive Melee Damage increase against <:stasis:915198000727461909>Frozen non-Boss targets. The [higher buff of the two](https://url.d2clarity.com/melee-buff-interactions) takes precedence. (Freeze being higher in every case with the exception of <:stasis:915198000727461909>Shiver Strike and <:stasis:915198000727461909>Howl of the Storm in PVE)"
   }
  },
  "2682205016": {
@@ -8932,7 +8920,7 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -9884,7 +9872,7 @@
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Weapon Kills grant 🡅11% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 🡅22%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
+   "en": "Weapon Kills grant 🡅11% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant 🡅22%.\n\nClass Ability usage grants ? Stability for ? seconds.\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars).\n\n🡅 Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)"
   }
  },
  "3124871000": {
@@ -10238,7 +10226,7 @@
  "3244229373": {
   "hash": 3244229373,
   "name": "Tear",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait Enhanced",
   "uploadedBy": "Stardust"
  },
@@ -10643,11 +10631,11 @@
  "3365897133": {
   "hash": 3365897133,
   "name": "Explosive Head",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<:pve:922884406073507930>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<:pvp:922884468275019856>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
+   "en": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface depends on the distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<:pve:922884406073507930>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<:pvp:922884468275019856>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits."
   }
  },
  "3373736292": {
@@ -11479,11 +11467,11 @@
   "name": "Scissor Fingers",
   "itemHash": 978537162,
   "itemName": "Ophidia Spathe",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants an extra <:solar:720178909361995786>Solar Melee Ability charge.\n\nAll Melee Charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\n<:solar:720178909361995786>Throwing Knife Kills increase <:solar:720178909361995786>Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <:solar:720178909361995786>Knock 'Em Down Aspect while <:solar:720178909361995786>Radiant:\n• Knife Kills restore 1 Charge\n• Knife Trick Precision Kills and Direct <:solar:720178909361995786>Ignition Kills in which Knife Trick applies <:solar:720178909361995786>Scorch restore both Charges"
+   "en": "Grants an extra <:solar:720178909361995786>Solar Melee Ability charge.\n\nAll Melee charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\n<:solar:720178909361995786>Throwing Knife Kills increase <:solar:720178909361995786>Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <:solar:720178909361995786>Knock 'Em Down Aspect while <:solar:720178909361995786>Radiant:\n• Knife Kills restore 1 charge\n• <:solar:720178909361995786>Knife Trick Precision Kills and Direct <:solar:720178909361995786>Ignition Kills in which Knife Trick applies <:solar:720178909361995786>Scorch restore both charges"
   }
  },
  "3673922083": {
@@ -11669,11 +11657,11 @@
   "name": "Burning Souls",
   "itemHash": 3562696927,
   "itemName": "Wormhusk Crown",
-  "lastUpload": 1679418784735,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Restores 67 HP on Class Ability Usage."
+   "en": "Class Ability usage restores 67 HP."
   }
  },
  "3726719281": {
@@ -11863,11 +11851,11 @@
   "name": "See Me, Feel Me",
   "itemHash": 461841403,
   "itemName": "Gyrfalcon's Hauberk",
-  "lastUpload": 1727530279353,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Grants <:void:720178940240461864>Volatile Rounds for <:pve:922884406073507930>9 <:pvp:922884468275019856>[3] seconds upon exiting <:void:720178940240461864>Void Invisibility, making hits with Void Weapons apply <:void:720178940240461864>Volatile.\n\nOn Finishers while affected by <:void:720178940240461864>Void Invisibility:\n• Grants a 35% Weapon Damage Buff for 6 seconds\n• Grants you and allies within 24 meters the Reserve Overshield buff\n\nReserve Overshield:\n• Grants 500% Additional Base Class Ability Regeneration Rate\n• Consumed on Class Abiliy usage, granting the user a 40 HP <:void:720178940240461864>Void Overshield for 10 seconds\n\n(Letting the timer run out with Echo of Persistence equipped will not grant you <:void:720178940240461864>Volatile Rounds. <:void:720178940240461864>Volatile explosions do not count as damage originating from your weapon.)"
+   "en": "Grants <:void:720178940240461864>Volatile Rounds for <:pve:922884406073507930>9 <:pvp:922884468275019856>[3] seconds upon exiting <:void:720178940240461864>Void Invisibility, making hits with Void Weapons apply <:void:720178940240461864>Volatile.\n\nOn Finishers while affected by <:void:720178940240461864>Void Invisibility:\n• Grants a 35% Weapon Damage Buff for 6 seconds\n• Grants you and allies within 24 meters the Reserve Overshield buff\n\nReserve Overshield:\n• Grants 500% Additional Base Class Ability Regeneration Rate\n• Consumed on Class Ability usage, granting the user a 40 HP <:void:720178940240461864>Void Overshield for 10 seconds\n\n(Letting the timer run out with Echo of Persistence equipped will not grant you <:void:720178940240461864>Volatile Rounds. <:void:720178940240461864>Volatile explosions do not count as damage originating from your weapon.)"
   }
  },
  "3810173190": {
@@ -12149,7 +12137,7 @@
   "name": "Conduction Tines",
   "itemHash": 3381022969,
   "itemName": "Crown of Tempests",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12295,7 +12283,7 @@
  "3978468247": {
   "hash": 3978468247,
   "name": "Discord",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Weapon Trait",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12523,21 +12511,21 @@
   "name": "Misdirection",
   "itemHash": 1163283805,
   "itemName": "Gemini Jester",
-  "lastUpload": 1715800461024,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage applies Misdirection to enemies within 22 meters.\n\nMisdirection:\n• Deals ~0 damage but counts as a Hit\n• <:pve:922884406073507930>PVE: Disorients Minors and Elites for 5 seconds\n• <:pvp:922884468275019856>PVP: briefly distorts audio, Disorients, and disables Radar for 5 seconds"
+   "en": "Class Ability usage applies Misdirection to enemies within 22 meters.\n\nMisdirection:\n• Deals ~0 damage but counts as a Hit\n• <:pve:922884406073507930>PVE: Disorients Minors and Elites for 5 seconds\n• <:pvp:922884468275019856>PVP: briefly distorts audio, Disorients, and disables Radar for 5 seconds"
   }
  },
  "4039026690": {
   "hash": 4039026690,
   "name": "Distribution",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739032704660,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4045335048": {
@@ -12565,7 +12553,7 @@
   "name": "Feast of Light",
   "itemHash": 1001356380,
   "itemName": "Star-Eater Scales",
-  "lastUpload": 1739031345713,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
@@ -12953,11 +12941,11 @@
   "name": "Ursine Guard",
   "itemHash": 1848640623,
   "itemName": "Ursa Furiosa",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739032704660,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Increases movement speed by 15% while guarding with <:void:720178940240461864>Unbreakable or <:void:720178940240461864>Sentinel Shield.\n\nBlocking damage with <:void:720178940240461864>Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active <:void:720178940240461864>Overshield does not count towards the Super Energy Refund.\n\n<:void:720178940240461864>Unbreakable grants up to <:pve:922884406073507930>?% <:pvp:922884468275019856>[?%] Grenade energy after receiving <:pve:922884406073507930>? <:pvp:922884468275019856>[?] damage."
+   "en": "Increases movement speed by 15% while guarding with <:void:720178940240461864>Unbreakable or <:void:720178940240461864>Sentinel Shield.\n\nBlocking damage with <:void:720178940240461864>Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active Overshield does not count towards the Super Energy Refund.\n\n<:void:720178940240461864>Unbreakable grants up to <:pve:922884406073507930>?% <:pvp:922884468275019856>[?%] Grenade energy after receiving <:pve:922884406073507930>? <:pvp:922884468275019856>[?] damage."
   }
  },
  "4190643473": {
@@ -13231,7 +13219,7 @@
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
+   "en": "Class Ability usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%] | <:pve:922884406073507930>6% <:pvp:922884468275019856>[3%] | <:pve:922884406073507930>7% <:pvp:922884468275019856>[3.5%]\n• Super Energy: <:pve:922884406073507930>2% <:pvp:922884468275019856>[1%] | <:pve:922884406073507930>3% <:pvp:922884468275019856>[1.5%] | <:pve:922884406073507930>4% <:pvp:922884468275019856>[2%]\n\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars). (Super Energy gains are unaffected)"
   }
  },
  "4267945040": {
