@@ -218,7 +218,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "82180537": {
@@ -226,7 +226,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "82994288": {
@@ -310,7 +310,7 @@
   "name": "Runneth Over",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally within 15 meters.\nOverfill amount maxes out at 50%."
+   "en": "While within 15 meters of allies:\n• Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally. Maximum of a 50% overfill.\n• Swords receive increased Charge Rate\n• Bows receive decreased Draw Time"
   }
  },
  "124408337": {
@@ -573,6 +573,11 @@
    "en": "Grants the following for 7 seconds upon breaking an enemy's shield or destroying a [Vehicle or Construct](https://url.d2clarity.com/combatants):\n• 40 Reload Speed\n• 0.95x Reload Duration Multiplier\n• 0.9x Draw Time Multiplier"
   }
  },
+ "222783511": {
+  "hash": 222783511,
+  "name": "Detonator Beam",
+  "type": "Weapon Trait Enhanced"
+ },
  "229003538": {
   "hash": 229003538,
   "name": "Adept Blast Radius",
@@ -784,7 +789,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "362132288": {
@@ -1237,6 +1242,14 @@
    "en": "Grants 1|2 Stacks while within 15 meters of 1|2+ enemies.\nBonuses at 1|2 Stacks:\n• [enh]19|[enh]44 Stability\n• [enh]19|[enh]63 Reload Speed\n• [enh]28|100 Handling\n• 0.9x|0.81x Handling Animation Duration Multiplier\n[enh] Grants 4? more stability when active as well as 1|3 more Reload Speed at 1|2 Stacks."
   }
  },
+ "496047945": {
+  "hash": 496047945,
+  "name": "Elemental Honing",
+  "type": "Weapon Trait Enhanced",
+  "descriptions": {
+   "en": "Dealing Elemental Damage grants a Stack of Elemental Honing for [enh]23 seconds for each unique Element used. Maximum of 5 stacks.\nGaining a Stacks refreshes the buff duration. Duration cannot be refreshed at 5 Stacks.\nBuff can be activated while stowed. Kinetic Damage does not trigger the buff.\nWeapon damage increase at 1|2|3|4|5 Stacks:\n• Elemental Weapons: 2.5%|10%|20%|30%|35%\n• Kinetic Weapons: 10%|20%|30%|35%|40%\n[enh] Buff duration is increased by 3 seconds."
+  }
+ },
  "501717180": {
   "hash": 501717180,
   "name": "Ionic Return",
@@ -1417,7 +1430,7 @@
   "name": "Loose Change",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Applying an Elemental Debuff grants the following benefits for [enh]5 seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\nBuff can be activated while stowed.\n[enh] Buff Duration is increased by 0.5 seconds."
+   "en": "Applying an Elemental Debuff grants the following benefits for [enh]10 seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\nBuff can be activated while stowed.\n[enh] Buff Duration is increased by 1 second."
   }
  },
  "563069569": {
@@ -1441,7 +1454,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "569260333": {
@@ -1744,6 +1757,14 @@
   "type": "Armor Trait Exotic",
   "descriptions": {
    "en": "Replaces Gambler's and Marksman's Dodge with Shift if you have a [Stasis]Stasis Super equipped. (Does not work with [Solar]Acrobat's Dodge)\nShift effectively acts as a fast horizontal teleport and has a travel distance of 10 meters. Shift renders you completely invisible (except for a trail) and invulnerable for the duration of the animation.\nShift usage grants 4 Stacks of [Arc]Arc and [Stasis]Stasis Weapon Surge for 11 seconds.\nShift usage uniquely grants Lord of Wolves 4 Stacks of [Solar]Solar Weapon Surge for 11 seconds.\nClass Ability Energy is locked to 0% while the Weapon Surge buff is active."
+  }
+ },
+ "692399809": {
+  "hash": 692399809,
+  "name": "Reciprocity",
+  "type": "Weapon Trait",
+  "descriptions": {
+   "en": "Hitting allies with healing projectiles from the weapon restores 3 HP to you for each projectile."
   }
  },
  "699525795": {
@@ -2259,7 +2280,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "883550427": {
@@ -2313,7 +2334,7 @@
   "name": "Discord",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants the following for [enh]8 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n[enh] Buff Duration is increased by 1? second."
+   "en": "Grants the following for [enh]8 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n[enh] Buff Duration is increased by 1? second."
   }
  },
  "908147344": {
@@ -2788,6 +2809,14 @@
    "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with a [Solar]Solar Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
+ "1089671869": {
+  "hash": 1089671869,
+  "name": "Elemental Honing",
+  "type": "Weapon Trait",
+  "descriptions": {
+   "en": "Dealing Elemental Damage grants a Stack of Elemental Honing for 20 seconds for each unique Element used. Maximum of 5 stacks.\nGaining a Stacks refreshes the buff duration. Duration cannot be refreshed at 5 Stacks.\nBuff can be activated while stowed. Kinetic Damage does not trigger the buff.\nWeapon damage increase at 1|2|3|4|5 Stacks:\n• Elemental Weapons: 2.5%|10%|20%|30%|35%\n• Kinetic Weapons: 10%|20%|30%|35%|40%"
+  }
+ },
  "1095471953": {
   "hash": 1095471953,
   "name": "Embers of Light",
@@ -2827,7 +2856,7 @@
   "name": "Loose Change",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Applying an Elemental Debuff grants the following benefits for 4.5 seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\nBuff can be activated while stowed."
+   "en": "Applying an Elemental Debuff grants the following benefits for 9 seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\nBuff can be activated while stowed."
   }
  },
  "1125523126": {
@@ -3825,7 +3854,7 @@
   "name": "Barrel Constrictor",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Kills with the weapon reduce Pellet Spread by 20% for 7.5 seconds.\nBuff duration cannot be refreshed."
+   "en": "Kills with the weapon reduce Pellet/Projectile Spread by 20% for 7.5 seconds.\nBuff duration cannot be refreshed."
   }
  },
  "1457189155": {
@@ -3846,12 +3875,20 @@
    "en": "Superb handling. Move faster with this weapon equipped."
   }
  },
+ "1464081238": {
+  "hash": 1464081238,
+  "name": "Demoralize",
+  "type": "Weapon Trait",
+  "descriptions": {
+   "en": "Precision Kills apply [Void]Weaken to enemies within ? meters of the target for ? seconds.\n1.5? second cooldown between activations."
+  }
+ },
  "1471995745": {
   "hash": 1471995745,
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "1489048135": {
@@ -3961,7 +3998,7 @@
   "name": "Redirection",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Hits against [Minor Combatants](https://url.d2clarity.com/combatants) grant 1 Stack of Redirection. Maximum of 20 Stacks.\nStacks remain active while stowed.\nHits against [Elite or higher-ranked Combatants](https://url.d2clarity.com/combatants) consume up to [enh]4 Stacks to grant [enh]25% increased damage per Stack consumed.\n[enh] Damage increase per Stack is increased by 25% and the maximum buff requires 1 less Stack. (20%⁠🠚⁠25%)"
+   "en": "Hits against [Minor Combatants](https://url.d2clarity.com/combatants) grant 2 Stacks of Redirection. Maximum of 30 Stacks.\nStacks remain active while stowed.\nHits against [Elite or higher-ranked Combatants](https://url.d2clarity.com/combatants) consume up to [enh]2 Stacks to grant [enh]50% increased damage per Stack consumed.\n[enh] Maximum number of Stacks consumed per shot is decreased by 1. Damage increase granted by each Stack is increased to 50% (from 33%)."
   }
  },
  "1546637391": {
@@ -4121,7 +4158,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "1600092898": {
@@ -4130,6 +4167,14 @@
   "type": "Weapon Trait",
   "descriptions": {
    "en": "Grants the following for 2 seconds upon readying:\n• 30% decreased Charge Time\n• 20% decreased damage\n• 100 Handling\nWeapon must be stowed for 3 seconds before readying for the perk to activate.\nLinear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
+  }
+ },
+ "1600429811": {
+  "hash": 1600429811,
+  "name": "Paracausal Fluid",
+  "type": "Weapon Trait Origin",
+  "descriptions": {
+   "en": "Scoring Hits with the weapon grants 2 Stacks of Paracausal Fluid for 3 seconds.\nBuff drops to Paracausal Fluid x1 when stowed.\nParacausal Fluid x2 grants ? Handling, 50 Mobility, and ? Charge Rate (Swords)."
   }
  },
  "1604394872": {
@@ -4487,7 +4532,7 @@
   "name": "Spark of Focus",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants [pve]150% [pvp][75%] Additional Base Class Ability Regeneration Rate.\nDeactivates once you have a full Class Ability charge."
+   "en": "After 1.25 seconds of sprinting and while maintaining both sprint and a movement speed of at least 5 meters per second:\nGrants [pve]150% [pvp][75%] Additional Base Class Ability Regeneration Rate.\nDeactivates once you have at least one Class Ability charge."
   }
  },
  "1727069361": {
@@ -4495,7 +4540,7 @@
   "name": "Spark of Frequency",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Scoring a Melee Hit grants 15 Stability, 50 Reload Speed, and a 0.8x Reload Duration Multiplier for 5 seconds."
+   "en": "Scoring a Melee Hit grants 15 Stability, 50 Reload Speed, and a 0.8x Reload Duration Multiplier for 5 seconds.\nWhile [Arc]Amplified:\n• Stronger effect\n• All sources of [Arc]Bolt Charge now grant an additional Stack"
   }
  },
  "1727069362": {
@@ -4503,7 +4548,7 @@
   "name": "Spark of Discharge",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "[Arc]Arc Weapon Kills progress a counter that spawns an [Arc]Ionic Trace at the killed target's location upon reaching 100%.\nActivation progress granted by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors: 34%\n• Elites, Players: 67%\n• Minibosses and Bosses: 100%"
+   "en": "Collecting [Arc]Ionic Traces grants a Stack of [Arc]Bolt Charge.\nScoring multiple [Arc]Arc Weapon Kills spawns an [Arc]Ionic Trace at the killed target's location.\nActivation progress granted by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Minors: 34%\n• Elites, Players: 67%\n• Minibosses and Bosses: 100%"
   }
  },
  "1727069363": {
@@ -4511,7 +4556,7 @@
   "name": "Spark of Ions",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Killing a [Arc]Jolted enemy creates an [Arc]Ionic Trace.\n10 second cooldown between activations."
+   "en": "Killing a [Arc]Jolted enemy or scoring a kill with a [Arc]Bolt Charge lightning bolt creates an [Arc]Ionic Trace.\n10 second cooldown between activations."
   }
  },
  "1727069364": {
@@ -4527,7 +4572,7 @@
   "name": "Spark of Momentum",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Sliding over Ammo Bricks refills your held weapon from reserves and grants Melee Energy.\n[special]Special Ammo Bricks grant 20% Melee Energy and [heavy]Heavy Ammo Bricks grant 50%.\nAbility energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in [our explainer blog post on the Clarity website](https://url.d2clarity.com/chunk-energy-scalars)."
+   "en": "Collecting Ammo Bricks by sliding over them refills your held weapon's magazine from reserves and grants 3 Stacks of [Arc]Bolt Charge."
   }
  },
  "1727069366": {
@@ -4993,7 +5038,7 @@
   "name": "Full Court",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\n[enh] Passively grants 5 Blast Radius."
+   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\nDamage increase also applies to Area Denial Frame Grenade Launcher lingering pools.\n[enh] Passively grants 5 Blast Radius."
   }
  },
  "1906147653": {
@@ -5027,7 +5072,7 @@
   "name": "Destabilizing Rounds",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for 2 seconds.\n1 second cooldown between activations.\n[enh] Activation cooldown is decreased by 0.5? seconds."
+   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for [enh]5.25 seconds.\n1.5 second cooldown between activations.\n[enh] [Void]Volatile Rounds duration is increased by 0.75 seconds."
   }
  },
  "1939153390": {
@@ -5163,7 +5208,7 @@
   "name": "Ambitious Assassin",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Upon finishing a reload within 6 seconds of a Weapon Kill:\nOverfills Magazine from reserves based on the amount of Kills scored within 7 seconds of each.\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\nOverfill amount per Kill scored:\n• [primary]Primary Weapons: 20%\n• [special]Special and [heavy]Power Weapons: 10%."
+   "en": "Reloading after scoring Kills with the weapon overfills the magazine from reserves based on the number of Kills scored.\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\nOverfill amount per Kill scored:\n• [primary]Primary Weapons: 20%\n• [special]Special and [heavy]Power Weapons: 10%."
   }
  },
  "2012877834": {
@@ -5237,7 +5282,7 @@
   "name": "Destabilizing Rounds",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for 2 seconds.\n1.5 second cooldown between activations."
+   "en": "Weapon Kills cause enemies to explode, applying [Void]Volatile to enemies in a 6.5 meter radius around the target.\nIf the explosion applied [Void]Volatile to a nearby enemy, you gain [Void]Volatile Rounds for 4.5 seconds.\n1.5 second cooldown between activations."
   }
  },
  "2053642371": {
@@ -5467,7 +5512,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "2172504645": {
@@ -5663,7 +5708,7 @@
   "name": "Flash Counter",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
+   "en": "Taking damage while Guarding emits a blast in a wide, 8? meter long cone in front of you. The blast disorients enemies hit by it and deals up to [pve]110 [pvp][?] weapon-matching elemental damage."
   }
  },
  "2245839670": {
@@ -6532,6 +6577,14 @@
    "en": "Weapon Kills grant 2 Stacks of Shot Swap. Maximum of 8 Stacks.\nGrants 100? Ready/Stow Handling while you have active Stacks. Readying or stowing the weapon consumes 1 Stack."
   }
  },
+ "2589407652": {
+  "hash": 2589407652,
+  "name": "Timelost Magazine",
+  "type": "Weapon Trait Origin",
+  "descriptions": {
+   "en": "Weapon Kills grant an additional 1?% Super Energy.\nUpon your Super ending:\n• Grants 100% increased **Base** Magazine Capacity for 20 seconds\n• Refills magazine from reserves\nBuff can be activated while stowed.\nThe increased Base Magazine Capacity will be considered the baseline for other perks such as Overflow."
+  }
+ },
  "2590710093": {
   "hash": 2590710093,
   "name": "Tireless Blade",
@@ -6676,6 +6729,14 @@
   "type": "Subclass Fragment",
   "descriptions": {
    "en": "Kills while Transcendent spawn up to 4 Orbs of Power for allies that grant 7.15?% Super Energy.\nOrbs spawn upon passing specific point thresholds: 30, 50, 70, and 100 points for each orb.\nPoints gained per Kill by [Enemy Rank](https://url.d2clarity.com/combatants):\n• Tier 1 (T1) Minors: 10 points\n• T2 Minors, T1 Elites: 15 points\n• T3 Minors, T2 Elites: 20 points\n• T4 Minors, T3 Elites: 34 points\n• T4 Elites, Minibosses: 40 points\n• Bosses: 50 points\n• Players: ? points"
+  }
+ },
+ "2633604463": {
+  "hash": 2633604463,
+  "name": "Rolling Storm",
+  "type": "Weapon Trait Enhanced",
+  "descriptions": {
+   "en": "Weapon Kills grant 1 Stack of [Arc]Bolt Charge.\nWhile [Arc]Amplified, this is increased to 2 Stacks.\n[enh] Weapon Kills with no active [Arc]Bolt Charge Stacks grant an additional Stack."
   }
  },
  "2634786903": {
@@ -7196,6 +7257,14 @@
    "en": "Spawns an Orb of Power upon scoring 2 Kills within ? seconds of each with an [Arc]Arc or [Strand]Strand Weapon.\nKills within 1 second of an activation do not count.\nSpawned Orbs of Power grant 2.5%|3.25%|4.4% Super Energy with 1|2|3 Mods equipped."
   }
  },
+ "2813913866": {
+  "hash": 2813913866,
+  "name": "Demoralize",
+  "type": "Weapon Trait Enhanced",
+  "descriptions": {
+   "en": "Precision Kills apply [Void]Weaken to enemies within ? meters of the target for ? seconds.\n[enh]1? second cooldown between activations.\n[enh] Cooldown is decreased by 0.5? seconds."
+  }
+ },
  "2814973067": {
   "hash": 2814973067,
   "name": "Markov Chain",
@@ -7335,7 +7404,7 @@
   "name": "Flash Counter",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage.\n[enh] Passively grants 10 Ammo Capacity."
+   "en": "Taking damage while Guarding emits a blast in a wide, 8? meter long cone in front of you. The blast disorients enemies hit by it and deals up to [pve]110 [pvp][?] weapon-matching elemental damage.\n[enh] Passively grants 10 Ammo Capacity."
   }
  },
  "2866798147": {
@@ -7409,7 +7478,7 @@
   "name": "Full Court",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase."
+   "en": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\nDamage increase also applies to Area Denial Frame Grenade Launcher lingering pools."
   }
  },
  "2889515627": {
@@ -8135,7 +8204,7 @@
   "name": "Redirection",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Hits against [Minor Combatants](https://url.d2clarity.com/combatants) grant 1 Stack of Redirection. Maximum of 20 Stacks.\nStacks remain active while stowed.\nHits against [Elite or higher-ranked Combatants](https://url.d2clarity.com/combatants) consume up to 5 Stacks to grant 20% increased damage per Stack consumed."
+   "en": "Hits against [Minor Combatants](https://url.d2clarity.com/combatants) grant 2 Stacks of Redirection. Maximum of 30 Stacks.\nStacks remain active while stowed.\nHits against [Elite or higher-ranked Combatants](https://url.d2clarity.com/combatants) consume up to 3 Stacks to grant 33% increased damage per Stack consumed."
   }
  },
  "3208647503": {
@@ -8152,6 +8221,14 @@
   "type": "Weapon Trait",
   "descriptions": {
    "en": "Scoring a Kill from any source matching the elemental alignment of the weapon grants 20% increased damage for 6 seconds.\nBuff can activate while stowed.\nLight Alignment: [Arc]Arc, [Solar]Solar, [Void]Void\nDarkness Alignment: [Stasis]Stasis, [Strand]Strand"
+  }
+ },
+ "3218042543": {
+  "hash": 3218042543,
+  "name": "Rolling Storm",
+  "type": "Weapon Trait",
+  "descriptions": {
+   "en": "Weapon Kills grant 1 Stack of [Arc]Bolt Charge.\nWhile [Arc]Amplified, this is increased to 2 Stacks."
   }
  },
  "3224649746": {
@@ -8209,6 +8286,11 @@
   "descriptions": {
    "en": "This weapon does more damage to enemies based on the number of SIVA nanites that attach to them."
   }
+ },
+ "3244229373": {
+  "hash": 3244229373,
+  "name": "Tear",
+  "type": "Weapon Trait Enhanced"
  },
  "3245543337": {
   "hash": 3245543337,
@@ -8281,7 +8363,7 @@
   "name": "Spark of Volts",
   "type": "Subclass Fragment",
   "descriptions": {
-   "en": "Finishers make you [Arc]Amplified."
+   "en": "Finishers make you [Arc]Amplified and grant 1 Stack of [Arc]Bolt Charge."
   }
  },
  "3277705905": {
@@ -9311,7 +9393,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "3719974635": {
@@ -9409,7 +9491,7 @@
   "name": "Psychohack",
   "type": "Weapon Trait Origin",
   "descriptions": {
-   "en": "Scoring multiple hits lowers the target's damage output by 10% for [pve]5 [pvp][3] seconds.\nDuration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
+   "en": "Scoring multiple Hits on targets Exhausts them.\nExhaust duration cannot be refreshed.\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles"
   }
  },
  "3755250867": {
@@ -9499,7 +9581,7 @@
   "name": "Ambitious Assassin",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Upon finishing a reload within 6 seconds of a Weapon Kill:\nOverfills Magazine from reserves based on the amount of Kills scored within [enh]8 seconds of each.\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\nOverfill amount per Kill scored:\n• [primary]Primary Weapons: 20%\n• [special]Special and [heavy]Power Weapons: 10%.\n[enh] Passively grants 5 Reload Speed. Allowed time between Kills is increased by 1 second."
+   "en": "Reloading after scoring Kills with the weapon overfills the magazine from reserves based on the number of Kills scored.\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\nOverfill amount per Kill scored:\n• [primary]Primary Weapons: 20%\n• [special]Special and [heavy]Power Weapons: 10%.\n[enh] Passively grants 5 Reload Speed."
   }
  },
  "3798468567": {
@@ -9875,7 +9957,7 @@
   "name": "Discord",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants the following for 7 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
+   "en": "Grants the following for 7 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
   }
  },
  "3978937353": {
@@ -10122,6 +10204,14 @@
    "en": "When upgraded to a Masterwork, this weapon will obtain enhanced capabilities, such as increased stats and/or additional perks."
   }
  },
+ "4070834277": {
+  "hash": 4070834277,
+  "name": "Reciprocity",
+  "type": "Weapon Trait Enhanced",
+  "descriptions": {
+   "en": "Hitting allies with healing projectiles from the weapon restores [enh]3.5 HP to you for each projectile.\n[enh] Restores an additional 0.5 HP per healing shot."
+  }
+ },
  "4071163871": {
   "hash": 4071163871,
   "name": "Threat Detector",
@@ -10349,7 +10439,7 @@
   "name": "Barrel Constrictor",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Kills with the weapon reduce Pellet Spread by 20% for [enh]8.5 seconds.\nBuff duration cannot be refreshed.\n[enh] Buff duration is increased by 1 second."
+   "en": "Kills with the weapon reduce Pellet/Projectile Spread by 20% for [enh]8.5 seconds.\nBuff duration cannot be refreshed.\n[enh] Buff duration is increased by 1 second."
   }
  },
  "4180586736": {

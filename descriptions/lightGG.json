@@ -1467,7 +1467,7 @@
  "74393640": {
   "hash": 74393640,
   "name": "Facet of Defiance",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -1566,11 +1566,11 @@
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1723407522220,
+     "lastUpdate": 1738974499846,
      "updatedBy": "Stardust"
     }
    }
@@ -1580,19 +1580,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -1602,7 +1590,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -1678,19 +1666,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -1700,7 +1676,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -2111,16 +2087,12 @@
  "120721526": {
   "hash": 120721526,
   "name": "Runneth Over",
-  "lastUpload": 1713910661434,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1713910652520,
+     "lastUpdate": 1738975199185,
      "updatedBy": "Stardust"
-    },
-    "zh-chs": {
-     "lastUpdate": 1670342981308,
-     "updatedBy": "Mistwalker"
     }
    }
   },
@@ -2129,17 +2101,28 @@
     {
      "linesContent": [
       {
-       "text": "Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally within 15 meters."
+       "text": "While within 15 meters of allies:"
       }
      ]
     },
     {
-     "classNames": [ "spacer" ]
+     "linesContent": [
+      {
+       "text": "• Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally. Maximum of a 50% overfill."
+      }
+     ]
     },
     {
      "linesContent": [
       {
-       "text": "Overfill amount maxes out at 50%."
+       "text": "• Swords receive increased Charge Rate"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Bows receive decreased Draw Time"
       }
      ]
     }
@@ -2206,7 +2189,7 @@
  "124726496": {
   "hash": 124726496,
   "name": "Facet of Blessing",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2240,7 +2223,7 @@
  "124726497": {
   "hash": 124726497,
   "name": "Facet of Command",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2299,7 +2282,7 @@
  "124726498": {
   "hash": 124726498,
   "name": "Facet of Purpose",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2388,7 +2371,7 @@
  "124726499": {
   "hash": 124726499,
   "name": "Facet of Ruin",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2471,7 +2454,7 @@
  "124726500": {
   "hash": 124726500,
   "name": "Facet of Mending",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2511,7 +2494,7 @@
  "124726501": {
   "hash": 124726501,
   "name": "Facet of Honor",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2574,7 +2557,7 @@
  "124726502": {
   "hash": 124726502,
   "name": "Facet of Sacrifice",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2619,7 +2602,7 @@
  "124726503": {
   "hash": 124726503,
   "name": "Facet of Bravery",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2678,7 +2661,7 @@
  "124726504": {
   "hash": 124726504,
   "name": "Facet of Dominance",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -2730,7 +2713,7 @@
  "124726505": {
   "hash": 124726505,
   "name": "Facet of Awakening",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -3739,6 +3722,19 @@
      ]
     }
    ]
+  }
+ },
+ "222783511": {
+  "hash": 222783511,
+  "name": "Detonator Beam",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738955710981,
+     "updatedBy": "Stardust"
+    }
+   }
   }
  },
  "229003538": {
@@ -5070,19 +5066,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -5092,7 +5076,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -7932,6 +7916,95 @@
    ]
   }
  },
+ "496047945": {
+  "hash": 496047945,
+  "name": "Elemental Honing",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738955730409,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Dealing Elemental Damage grants a Stack of Elemental Honing for "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "23 seconds for each unique Element used. Maximum of 5 stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Gaining a Stacks refreshes the buff duration. Duration cannot be refreshed at 5 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Buff can be activated while stowed. Kinetic Damage does not trigger the buff."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Weapon damage increase at 1|2|3|4|5 Stacks:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Elemental Weapons: 2.5%|10%|20%|30%|35%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Kinetic Weapons: 10%|20%|30%|35%|40%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": " Buff duration is increased by 3 seconds."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "501717180": {
   "hash": 501717180,
   "name": "Ionic Return",
@@ -8248,7 +8321,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -9073,7 +9146,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "5 seconds:"
+       "text": "10 seconds:"
       }
      ]
     },
@@ -9111,7 +9184,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Buff Duration is increased by 0.5 seconds."
+       "text": " Buff Duration is increased by 1 second."
       }
      ]
     }
@@ -9196,19 +9269,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -9218,7 +9279,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -11015,6 +11076,30 @@
      "linesContent": [
       {
        "text": "Class Ability Energy is locked to 0% while the Weapon Surge buff is active."
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "692399809": {
+  "hash": 692399809,
+  "name": "Reciprocity",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738957678758,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Hitting allies with healing projectiles from the weapon restores 3 HP to you for each projectile."
       }
      ]
     }
@@ -13834,19 +13919,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -13856,7 +13929,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -14281,7 +14354,10 @@
        "text": "Primary Weapons, and refund 1 Ammo for "
       },
       {
-       "text": "Special Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
+       "text": "Special and "
+      },
+      {
+       "text": "Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
       }
      ]
     },
@@ -16624,6 +16700,74 @@
    ]
   }
  },
+ "1089671869": {
+  "hash": 1089671869,
+  "name": "Elemental Honing",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738955978073,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Dealing Elemental Damage grants a Stack of Elemental Honing for 20 seconds for each unique Element used. Maximum of 5 stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Gaining a Stacks refreshes the buff duration. Duration cannot be refreshed at 5 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Buff can be activated while stowed. Kinetic Damage does not trigger the buff."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Weapon damage increase at 1|2|3|4|5 Stacks:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Elemental Weapons: 2.5%|10%|20%|30%|35%"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Kinetic Weapons: 10%|20%|30%|35%|40%"
+      }
+     ]
+    }
+   ]
+  }
+ },
  "1095471953": {
   "hash": 1095471953,
   "name": "Embers of Light",
@@ -16926,11 +17070,11 @@
  "1119449540": {
   "hash": 1119449540,
   "name": "Loose Change",
-  "lastUpload": 1729072787613,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1728830522818,
+     "lastUpdate": 1738957373720,
      "updatedBy": "Stardust"
     }
    }
@@ -16940,7 +17084,7 @@
     {
      "linesContent": [
       {
-       "text": "Applying an Elemental Debuff grants the following benefits for 4.5 seconds:"
+       "text": "Applying an Elemental Debuff grants the following benefits for 9 seconds:"
       }
      ]
     },
@@ -21762,11 +21906,11 @@
  "1451849462": {
   "hash": 1451849462,
   "name": "Barrel Constrictor",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731002380445,
+     "lastUpdate": 1738953361882,
      "updatedBy": "Stardust"
     }
    }
@@ -21776,7 +21920,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills with the weapon reduce Pellet Spread by 20% for 7.5 seconds."
+       "text": "Kills with the weapon reduce Pellet/Projectile Spread by 20% for 7.5 seconds."
       }
      ]
     },
@@ -21896,6 +22040,43 @@
    ]
   }
  },
+ "1464081238": {
+  "hash": 1464081238,
+  "name": "Demoralize",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738953496999,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Precision Kills apply "
+      },
+      {
+       "text": "Weaken to enemies within ? meters of the target for ? seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "1.5? second cooldown between activations."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "1471995745": {
   "hash": 1471995745,
   "name": "Psychohack",
@@ -21913,19 +22094,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -21935,7 +22104,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -22495,7 +22664,7 @@
        "link": "https://url.d2clarity.com/combatants"
       },
       {
-       "text": " grant 1 Stack of Redirection. Maximum of 20 Stacks."
+       "text": " grant 2 Stacks of Redirection. Maximum of 30 Stacks."
       }
      ]
     },
@@ -22529,14 +22698,14 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "4 Stacks to grant "
+       "text": "2 Stacks to grant "
       },
       {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": "25% increased damage per Stack consumed."
+       "text": "50% increased damage per Stack consumed."
       }
      ]
     },
@@ -22550,7 +22719,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Damage increase per Stack is increased by 25% and the maximum buff requires 1 less Stack. (20%⁠🠚⁠25%)"
+       "text": " Maximum number of Stacks consumed per shot is decreased by 1. Damage increase granted by each Stack is increased to 50% (from 33%)."
       }
      ]
     }
@@ -23687,19 +23856,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -23709,7 +23866,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -23827,6 +23984,50 @@
      "linesContent": [
       {
        "text": "Linear Fusion Rifles only: firing the weapon refreshes the buff duration (but only at higher framerates)."
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "1600429811": {
+  "hash": 1600429811,
+  "name": "Paracausal Fluid",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738972940597,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Scoring Hits with the weapon grants 2 Stacks of Paracausal Fluid for 3 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Buff drops to Paracausal Fluid x1 when stowed."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Paracausal Fluid x2 grants ? Handling, 50 Mobility, and ? Charge Rate (Swords)."
       }
      ]
     }
@@ -25509,11 +25710,11 @@
  "1727069360": {
   "hash": 1727069360,
   "name": "Spark of Focus",
-  "lastUpload": 1732219732702,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732212771249,
+     "lastUpdate": 1738951722804,
      "updatedBy": "Stardust"
     }
    }
@@ -25552,7 +25753,7 @@
     {
      "linesContent": [
       {
-       "text": "Deactivates once you have a full Class Ability charge."
+       "text": "Deactivates once you have at least one Class Ability charge."
       }
      ]
     }
@@ -25562,11 +25763,11 @@
  "1727069361": {
   "hash": 1727069361,
   "name": "Spark of Frequency",
-  "lastUpload": 1717539628564,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1717536720032,
+     "lastUpdate": 1738952069131,
      "updatedBy": "Stardust"
     }
    }
@@ -25579,6 +25780,36 @@
        "text": "Scoring a Melee Hit grants 15 Stability, 50 Reload Speed, and a 0.8x Reload Duration Multiplier for 5 seconds."
       }
      ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "While "
+      },
+      {
+       "text": "Amplified:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Stronger effect"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• All sources of "
+      },
+      {
+       "text": "Bolt Charge now grant an additional Stack"
+      }
+     ]
     }
    ]
   }
@@ -25586,11 +25817,11 @@
  "1727069362": {
   "hash": 1727069362,
   "name": "Spark of Discharge",
-  "lastUpload": 1697894818765,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1697807624575,
+     "lastUpdate": 1738951650598,
      "updatedBy": "Stardust"
     }
    }
@@ -25600,10 +25831,29 @@
     {
      "linesContent": [
       {
-       "text": "Arc Weapon Kills progress a counter that spawns an "
+       "text": "Collecting "
       },
       {
-       "text": "Ionic Trace at the killed target's location upon reaching 100%."
+       "text": "Ionic Traces grants a Stack of "
+      },
+      {
+       "text": "Bolt Charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Scoring multiple "
+      },
+      {
+       "text": "Arc Weapon Kills spawns an "
+      },
+      {
+       "text": "Ionic Trace at the killed target's location."
       }
      ]
     },
@@ -25651,11 +25901,11 @@
  "1727069363": {
   "hash": 1727069363,
   "name": "Spark of Ions",
-  "lastUpload": 1714219892088,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1714216222007,
+     "lastUpdate": 1738952261760,
      "updatedBy": "Stardust"
     }
    }
@@ -25668,7 +25918,10 @@
        "text": "Killing a "
       },
       {
-       "text": "Jolted enemy creates an "
+       "text": "Jolted enemy or scoring a kill with a "
+      },
+      {
+       "text": "Bolt Charge lightning bolt creates an "
       },
       {
        "text": "Ionic Trace."
@@ -25718,11 +25971,11 @@
  "1727069365": {
   "hash": 1727069365,
   "name": "Spark of Momentum",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734439382635,
+     "lastUpdate": 1738952783562,
      "updatedBy": "Stardust"
     }
    }
@@ -25732,43 +25985,16 @@
     {
      "linesContent": [
       {
-       "text": "Sliding over Ammo Bricks "
+       "text": "Collecting Ammo Bricks by sliding over them "
       },
       {
        "text": "refills"
       },
       {
-       "text": " your held weapon from reserves and grants Melee Energy."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Special Ammo Bricks grant 20% Melee Energy and "
+       "text": " your held weapon's magazine from reserves and grants 3 Stacks of "
       },
       {
-       "text": "Heavy Ammo Bricks grant 50%."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Ability energy gained may be significantly decreased based on your selected ability's Chunk Energy Scalar. Learn more about this mechanic in "
-      },
-      {
-       "text": "our explainer blog post on the Clarity website",
-       "link": "https://url.d2clarity.com/chunk-energy-scalars"
-      },
-      {
-       "text": "."
+       "text": "Bolt Charge."
       }
      ]
     }
@@ -28269,6 +28495,16 @@
     {
      "linesContent": [
       {
+       "text": "Damage increase also applies to Area Denial Frame Grenade Launcher lingering pools."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
@@ -28692,7 +28928,14 @@
        "text": "Volatile to a nearby enemy, you gain "
       },
       {
-       "text": "Volatile Rounds for 2 seconds."
+       "text": "Volatile Rounds for "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "5.25 seconds."
       }
      ]
     },
@@ -28702,7 +28945,7 @@
     {
      "linesContent": [
       {
-       "text": "1 second cooldown between activations."
+       "text": "1.5 second cooldown between activations."
       }
      ]
     },
@@ -28716,7 +28959,10 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Activation cooldown is decreased by 0.5? seconds."
+       "text": " "
+      },
+      {
+       "text": "Volatile Rounds duration is increased by 0.75 seconds."
       }
      ]
     }
@@ -29634,11 +29880,11 @@
  "2010801679": {
   "hash": 2010801679,
   "name": "Ambitious Assassin",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1721144239218,
+     "lastUpdate": 1738953268298,
      "updatedBy": "Stardust"
     }
    }
@@ -29648,14 +29894,7 @@
     {
      "linesContent": [
       {
-       "text": "Upon finishing a reload within 6 seconds of a Weapon Kill:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Overfills Magazine from reserves based on the amount of Kills scored within 7 seconds of each."
+       "text": "Reloading after scoring Kills with the weapon overfills the magazine from reserves based on the number of Kills scored."
       }
      ]
     },
@@ -30144,11 +30383,11 @@
  "2048641572": {
   "hash": 2048641572,
   "name": "Destabilizing Rounds",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738595790588,
+     "lastUpdate": 1738955385840,
      "updatedBy": "Stardust"
     }
    }
@@ -30177,7 +30416,7 @@
        "text": "Volatile to a nearby enemy, you gain "
       },
       {
-       "text": "Volatile Rounds for 2 seconds."
+       "text": "Volatile Rounds for 4.5 seconds."
       }
      ]
     },
@@ -31436,19 +31675,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -31458,7 +31685,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -32546,11 +32773,11 @@
  "2244851822": {
   "hash": 2244851822,
   "name": "Flash Counter",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738597432764,
+     "lastUpdate": 1738957154805,
      "updatedBy": "Stardust"
     }
    }
@@ -32560,7 +32787,19 @@
     {
      "linesContent": [
       {
-       "text": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
+       "text": "Taking damage while Guarding emits a blast in a wide, 8? meter long cone in front of you. The blast disorients enemies hit by it and deals up to "
+      },
+      {
+       "text": "110"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: ?]"
+      },
+      {
+       "text": " weapon-matching elemental damage."
       }
      ]
     }
@@ -37747,6 +37986,87 @@
    ]
   }
  },
+ "2589407652": {
+  "hash": 2589407652,
+  "name": "Timelost Magazine",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738975717723,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Weapon Kills grant an additional 1?% Super Energy."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Upon your Super ending:"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• Grants 100% increased "
+      },
+      {
+       "text": "Base",
+       "classNames": [ "bold" ]
+      },
+      {
+       "text": " Magazine Capacity for 20 seconds"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• "
+      },
+      {
+       "text": "Refills"
+      },
+      {
+       "text": " magazine from reserves"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Buff can be activated while stowed."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "The increased Base Magazine Capacity will be considered the baseline for other perks such as Overflow."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "2590710093": {
   "hash": 2590710093,
   "name": "Tireless Blade",
@@ -38239,7 +38559,7 @@
  "2626922114": {
   "hash": 2626922114,
   "name": "Facet of Balance",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38305,7 +38625,7 @@
  "2626922115": {
   "hash": 2626922115,
   "name": "Facet of Justice",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38341,7 +38661,7 @@
  "2626922120": {
   "hash": 2626922120,
   "name": "Facet of Protection",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38387,7 +38707,7 @@
  "2626922121": {
   "hash": 2626922121,
   "name": "Facet of Grace",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38445,7 +38765,7 @@
  "2626922122": {
   "hash": 2626922122,
   "name": "Facet of Hope",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38469,7 +38789,7 @@
  "2626922123": {
   "hash": 2626922123,
   "name": "Facet of Solitude",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38550,7 +38870,7 @@
  "2626922124": {
   "hash": 2626922124,
   "name": "Facet of Courage",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38580,7 +38900,7 @@
  "2626922125": {
   "hash": 2626922125,
   "name": "Facet of Devotion",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38638,7 +38958,7 @@
  "2626922126": {
   "hash": 2626922126,
   "name": "Facet of Dawn",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38688,7 +39008,7 @@
  "2626922127": {
   "hash": 2626922127,
   "name": "Facet of Generosity",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -38779,6 +39099,63 @@
      "linesContent": [
       {
        "text": "• Players: ? points"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "2633604463": {
+  "hash": 2633604463,
+  "name": "Rolling Storm",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738958620489,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Weapon Kills grant 1 Stack of "
+      },
+      {
+       "text": "Bolt Charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "While "
+      },
+      {
+       "text": "Amplified, this is increased to 2 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": " Weapon Kills with no active "
+      },
+      {
+       "text": "Bolt Charge Stacks grant an additional Stack."
       }
      ]
     }
@@ -42063,6 +42440,61 @@
    ]
   }
  },
+ "2813913866": {
+  "hash": 2813913866,
+  "name": "Demoralize",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738953425609,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Precision Kills apply "
+      },
+      {
+       "text": "Weaken to enemies within ? meters of the target for ? seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "1? second cooldown between activations."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": " Cooldown is decreased by 0.5? seconds."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "2815817957": {
   "hash": 2815817957,
   "name": "Void Scavenger",
@@ -42866,7 +43298,19 @@
     {
      "linesContent": [
       {
-       "text": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage."
+       "text": "Taking damage while Guarding emits a blast in a wide, 8? meter long cone in front of you. The blast disorients enemies hit by it and deals up to "
+      },
+      {
+       "text": "110"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: ?]"
+      },
+      {
+       "text": " weapon-matching elemental damage."
       }
      ]
     },
@@ -43284,11 +43728,11 @@
  "2888557110": {
   "hash": 2888557110,
   "name": "Full Court",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738599954399,
+     "lastUpdate": 1738957330690,
      "updatedBy": "Stardust"
     }
    }
@@ -43309,6 +43753,16 @@
      "linesContent": [
       {
        "text": "Reaches maximum strength after 1.1 seconds at a 25% damage increase."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Damage increase also applies to Area Denial Frame Grenade Launcher lingering pools."
       }
      ]
     }
@@ -47454,11 +47908,11 @@
  "3201496230": {
   "hash": 3201496230,
   "name": "Redirection",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1722429123114,
+     "lastUpdate": 1738958352192,
      "updatedBy": "Stardust"
     }
    }
@@ -47475,7 +47929,7 @@
        "link": "https://url.d2clarity.com/combatants"
       },
       {
-       "text": " grant 1 Stack of Redirection. Maximum of 20 Stacks."
+       "text": " grant 2 Stacks of Redirection. Maximum of 30 Stacks."
       }
      ]
     },
@@ -47502,7 +47956,7 @@
        "link": "https://url.d2clarity.com/combatants"
       },
       {
-       "text": " consume up to 5 Stacks to grant 20% increased damage per Stack consumed."
+       "text": " consume up to 3 Stacks to grant 33% increased damage per Stack consumed."
       }
      ]
     }
@@ -47593,6 +48047,46 @@
       },
       {
        "text": "Strand"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "3218042543": {
+  "hash": 3218042543,
+  "name": "Rolling Storm",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738958793899,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Weapon Kills grant 1 Stack of "
+      },
+      {
+       "text": "Bolt Charge."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "While "
+      },
+      {
+       "text": "Amplified, this is increased to 2 Stacks."
       }
      ]
     }
@@ -47881,6 +48375,19 @@
      ]
     }
    ]
+  }
+ },
+ "3244229373": {
+  "hash": 3244229373,
+  "name": "Tear",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738972180229,
+     "updatedBy": "Stardust"
+    }
+   }
   }
  },
  "3245543337": {
@@ -48359,11 +48866,11 @@
  "3277705904": {
   "hash": 3277705904,
   "name": "Spark of Volts",
-  "lastUpload": 1697894818765,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1697810192367,
+     "lastUpdate": 1738952847322,
      "updatedBy": "Stardust"
     }
    }
@@ -48376,7 +48883,10 @@
        "text": "Finishers make you "
       },
       {
-       "text": "Amplified."
+       "text": "Amplified and grant 1 Stack of "
+      },
+      {
+       "text": "Bolt Charge."
       }
      ]
     }
@@ -51149,7 +51659,7 @@
  "3469412971": {
   "hash": 3469412971,
   "name": "Whisper of Fissures",
-  "lastUpload": 1738951046405,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -54345,19 +54855,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -54367,7 +54865,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -54905,19 +55403,7 @@
     {
      "linesContent": [
       {
-       "text": "Scoring multiple hits lowers the target's damage output by 10% for "
-      },
-      {
-       "text": "5"
-      },
-      {
-       "text": " "
-      },
-      {
-       "text": "[PVP: 3]"
-      },
-      {
-       "text": " seconds."
+       "text": "Scoring multiple Hits on targets Exhausts them."
       }
      ]
     },
@@ -54927,7 +55413,7 @@
     {
      "linesContent": [
       {
-       "text": "Duration cannot be refreshed."
+       "text": "Exhaust duration cannot be refreshed."
       }
      ]
     },
@@ -55420,21 +55906,7 @@
     {
      "linesContent": [
       {
-       "text": "Upon finishing a reload within 6 seconds of a Weapon Kill:"
-      }
-     ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Overfills Magazine from reserves based on the amount of Kills scored within "
-      },
-      {
-       "text": "🡅",
-       "classNames": [ "enhancedArrow" ]
-      },
-      {
-       "text": "8 seconds of each."
+       "text": "Reloading after scoring Kills with the weapon overfills the magazine from reserves based on the number of Kills scored."
       }
      ]
     },
@@ -55491,7 +55963,7 @@
        "classNames": [ "enhancedArrow" ]
       },
       {
-       "text": " Passively grants 5 Reload Speed. Allowed time between Kills is increased by 1 second."
+       "text": " Passively grants 5 Reload Speed."
       }
      ]
     }
@@ -57917,11 +58389,11 @@
  "3978468247": {
   "hash": 3978468247,
   "name": "Discord",
-  "lastUpload": 1723480728683,
+  "lastUpload": 1738975855601,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1721147959341,
+     "lastUpdate": 1738955611670,
      "updatedBy": "Stardust"
     }
    }
@@ -57968,7 +58440,10 @@
        "text": "Primary Weapons, and refund 1 Ammo for "
       },
       {
-       "text": "Special Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
+       "text": "Special and "
+      },
+      {
+       "text": "Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
       }
      ]
     }
@@ -59216,6 +59691,51 @@
    ]
   }
  },
+ "4070834277": {
+  "hash": 4070834277,
+  "name": "Reciprocity",
+  "lastUpload": 1738975855601,
+  "updateTracker": {
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1738957440519,
+     "updatedBy": "Stardust"
+    }
+   }
+  },
+  "descriptions": {
+   "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Hitting allies with healing projectiles from the weapon restores "
+      },
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": "3.5 HP to you for each projectile."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "🡅",
+       "classNames": [ "enhancedArrow" ]
+      },
+      {
+       "text": " Restores an additional 0.5 HP per healing shot."
+      }
+     ]
+    }
+   ]
+  }
+ },
  "4071163871": {
   "hash": 4071163871,
   "name": "Threat Detector",
@@ -60407,7 +60927,7 @@
     {
      "linesContent": [
       {
-       "text": "Kills with the weapon reduce Pellet Spread by 20% for "
+       "text": "Kills with the weapon reduce Pellet/Projectile Spread by 20% for "
       },
       {
        "text": "🡅",
