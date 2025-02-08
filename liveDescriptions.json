@@ -75,7 +75,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1381,7 +1381,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1449,14 +1449,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Scoring multiple hits lowers the target's damage output by 10% for <pve 5 /> <pvp [3] /> seconds.\n\nDuration cannot be refreshed.\n\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles",
+     "main": "Scoring multiple Hits on targets Exhausts them.\n\nExhaust duration cannot be refreshed.\n\nHit Requirements by Weapon Type:\n• 3  Hits: Bows, Glaives (both Projectile and Melee), Grenade/Rocket Launchers (Impact and Detonation damage count separately), Sniper Rifles\n• 7 Hits: Scout Rifles\n• 12 Hits: Sidearms\n• 13 Hits: Submachine Guns\n• 14 Hits: Fusion Rifles\n• 16 Hits: Auto Rifles",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1723407522220,
+      "lastUpdate": 1738974499846,
       "updatedBy": "Stardust"
      }
     },
@@ -1465,7 +1465,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2157,19 +2157,15 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally within 15 meters.\n\nOverfill amount maxes out at 50%.",
+     "main": "While within 15 meters of allies:\n• Finishing a reload overfills the Magazine from reserves by 10% of the Base Magazine Capacity (rounded up) for each ally. Maximum of a 50% overfill.\n• Swords receive increased Charge Rate\n• Bows receive decreased Draw Time",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1713910652520,
+      "lastUpdate": 1738975199185,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670342981308,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -2177,7 +2173,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1713910661434,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2260,7 +2256,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2287,7 +2283,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2314,7 +2310,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2341,7 +2337,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2368,7 +2364,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2395,7 +2391,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2422,7 +2418,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2449,7 +2445,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2476,7 +2472,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2503,7 +2499,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -3578,31 +3574,31 @@
    "uploadToLive": false
   },
   "222783511": {
-   "hash": 222783511,
    "name": "Detonator Beam",
+   "hash": 222783511,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 4198902903",
+     "secondary": "import secondary from 4198902903"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738955710981,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "224485255": {
    "hash": 224485255,
@@ -7809,31 +7805,31 @@
    "uploadToLive": false
   },
   "496047945": {
-   "hash": 496047945,
    "name": "Elemental Honing",
+   "hash": 496047945,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 1089671869",
+     "secondary": "import secondary from 1089671869"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738955730409,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "499501121": {
    "hash": 499501121,
@@ -8418,7 +8414,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -10551,31 +10547,31 @@
    "uploadToLive": false
   },
   "692399809": {
-   "hash": 692399809,
    "name": "Reciprocity",
+   "hash": 692399809,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Hitting allies with healing projectiles from the weapon restores #e${3+#d} HP to you for each projectile.\n\nenhanced (\nvar d = 0.5\n#e Restores an additional 0.5 HP per healing shot.\n)",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738957678758,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "694879972": {
    "hash": 694879972,
@@ -14742,31 +14738,31 @@
    "uploadToLive": false
   },
   "960997401": {
-   "hash": 960997401,
    "name": "Tear",
+   "hash": 960997401,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738972166184,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "961505134": {
    "hash": 961505134,
@@ -16793,31 +16789,31 @@
    "inLiveDatabase": true
   },
   "1089671869": {
-   "hash": 1089671869,
    "name": "Elemental Honing",
+   "hash": 1089671869,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Dealing Elemental Damage grants a Stack of Elemental Honing for #e${20+#d} seconds for each unique Element used. Maximum of 5 stacks.\n\nGaining a Stacks refreshes the buff duration. Duration cannot be refreshed at 5 Stacks.\n\nBuff can be activated while stowed. Kinetic Damage does not trigger the buff.\n\nWeapon damage increase at 1|2|3|4|5 Stacks:\n• Elemental Weapons: 2.5%|10%|20%|30%|35%\n• Kinetic Weapons: 10%|20%|30%|35%|40%\n\nenhanced (\nvar d = 3\n#e Buff duration is increased by 3 seconds.\n)",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738955978073,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1095471953": {
    "name": "Embers of Light",
@@ -17047,14 +17043,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Applying an Elemental Debuff grants the following benefits for #e${4.5+#d} seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\n\nBuff can be activated while stowed.\n\nenhanced (\nvar d = 0.5\n#e Buff Duration is increased by 0.5 seconds.\n)",
+     "main": "Applying an Elemental Debuff grants the following benefits for #e${9+#d} seconds:\n• 50 Reload Speed and 20 Aim Assist\n• 20% decreased ADS Movement Speed Penalty\n\nBuff can be activated while stowed.\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1 second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1728830522818,
+      "lastUpdate": 1738957373720,
       "updatedBy": "Stardust"
      }
     },
@@ -17064,7 +17060,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1729072787613,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22292,14 +22288,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Kills with the weapon reduce Pellet Spread by 20% for #e${7.5+#d} seconds.\n\nBuff duration cannot be refreshed.\n\nenhanced (\nvar d = 1\nvar f = 5\n#e Buff duration is increased by 1 second.\n)",
+     "main": "Kills with the weapon reduce Pellet/Projectile Spread by 20% for #e${7.5+#d} seconds.\n\nBuff duration cannot be refreshed.\n\nenhanced (\nvar d = 1\nvar f = 5\n#e Buff duration is increased by 1 second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1731002380445,
+      "lastUpdate": 1738953361882,
       "updatedBy": "Stardust"
      }
     },
@@ -22309,7 +22305,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1731793916910,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -22451,31 +22447,31 @@
    "inLiveDatabase": true
   },
   "1464081238": {
-   "hash": 1464081238,
    "name": "Demoralize",
+   "hash": 1464081238,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Precision Kills apply <void/>Weaken to enemies within ? meters of the target for ? seconds.\n\n#e${1.5-#d}? second cooldown between activations.\n\nenhanced (\nvar d = 0.5\n#e Cooldown is decreased by 0.5? seconds.\n)",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738953496999,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1467527085": {
    "hash": 1467527085,
@@ -24402,31 +24398,31 @@
    "uploadToLive": false
   },
   "1600429811": {
-   "hash": 1600429811,
    "name": "Paracausal Fluid",
+   "hash": 1600429811,
    "type": "Weapon Trait Origin",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Scoring Hits with the weapon grants 2 Stacks of Paracausal Fluid for 3 seconds.\n\nBuff drops to Paracausal Fluid x1 when stowed.\n\nParacausal Fluid x2 grants ? Handling, 50 Mobility, and ? Charge Rate (Swords).",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738972940597,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1602994568": {
    "hash": 1602994568,
@@ -26475,7 +26471,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26502,7 +26498,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26529,7 +26525,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26556,7 +26552,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -26610,7 +26606,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -30725,14 +30721,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Upon finishing a reload within 6 seconds of a Weapon Kill:\nOverfills Magazine from reserves based on the amount of Kills scored within #e${7+#d} seconds of each.\n\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\n\nOverfill amount per Kill scored:\n• <primary/>Primary Weapons: 20%\n• <special/>Special and <heavy/>Power Weapons: 10%.\n\nenhanced (\nvar d = 1\n#e Passively grants 5 Reload Speed. Allowed time between Kills is increased by 1 second.\n)",
+     "main": "Reloading after scoring Kills with the weapon overfills the magazine from reserves based on the number of Kills scored.\n\nOverfill amount maxes out at 150% of the Magazine Capacity. Always rounds up. Kill counter persists through stow.\n\nOverfill amount per Kill scored:\n• <primary/>Primary Weapons: 20%\n• <special/>Special and <heavy/>Power Weapons: 10%.\n\nenhanced (\nvar d = 1\n#e Passively grants 5 Reload Speed.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721144239218,
+      "lastUpdate": 1738953268298,
       "updatedBy": "Stardust"
      }
     },
@@ -30742,7 +30738,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -31271,14 +31267,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills cause enemies to explode, applying <void/>Volatile to enemies in a 6.5 meter radius around the target.\n\nIf the explosion applied <void/>Volatile to a nearby enemy, you gain <void/>Volatile Rounds for 2 seconds.\n\n${1.5-#d} second cooldown between activations.\n\nenhanced (\nvar d = 0.5\n#e Activation cooldown is decreased by 0.5? seconds.\n)",
+     "main": "Weapon Kills cause enemies to explode, applying <void/>Volatile to enemies in a 6.5 meter radius around the target.\n\nIf the explosion applied <void/>Volatile to a nearby enemy, you gain <void/>Volatile Rounds for #e${4.5+#d} seconds.\n\n1.5 second cooldown between activations.\n\nenhanced (\nvar d = 0.75\n#e <void/>Volatile Rounds duration is increased by 0.75 seconds.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738595790588,
+      "lastUpdate": 1738955385840,
       "updatedBy": "Stardust"
      }
     },
@@ -31288,7 +31284,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -33917,14 +33913,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Taking damage while Guarding emits a blast in a large cone in front of you, disorienting enemies hit by it and dealing up to ? damage.\n\nenhanced (\n#e Passively grants 10 Ammo Capacity.\n)",
+     "main": "Taking damage while Guarding emits a blast in a wide, 8? meter long cone in front of you. The blast disorients enemies hit by it and deals up to <pve 110 /> <pvp [?] /> weapon-matching elemental damage.\n\nenhanced (\n#e Passively grants 10 Ammo Capacity.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738597432764,
+      "lastUpdate": 1738957154805,
       "updatedBy": "Stardust"
      }
     },
@@ -33934,7 +33930,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38636,31 +38632,31 @@
    "inLiveDatabase": true
   },
   "2589407652": {
-   "hash": 2589407652,
    "name": "Timelost Magazine",
+   "hash": 2589407652,
    "type": "Weapon Trait Origin",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Weapon Kills grant an additional 1?% Super Energy.\n\nUpon your Super ending:\n• Grants 100% increased <bold Base /> Magazine Capacity for 20 seconds\n• <title Refills [G_refill] /> magazine from reserves\n\nBuff can be activated while stowed.\n\nThe increased Base Magazine Capacity will be considered the baseline for other perks such as Overflow.",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738975717723,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "2590710093": {
    "name": "Tireless Blade",
@@ -39177,7 +39173,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39204,7 +39200,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39231,7 +39227,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39258,7 +39254,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39285,7 +39281,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39312,7 +39308,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39339,7 +39335,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39366,7 +39362,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39393,7 +39389,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39420,7 +39416,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -39506,31 +39502,31 @@
    "inLiveDatabase": false
   },
   "2633604463": {
-   "hash": 2633604463,
    "name": "Rolling Storm",
+   "hash": 2633604463,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 3218042543",
+     "secondary": "import secondary from 3218042543"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738958620489,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "2634786903": {
    "name": "Void Holster",
@@ -42770,31 +42766,31 @@
    "uploadToLive": false
   },
   "2813913866": {
-   "hash": 2813913866,
    "name": "Demoralize",
+   "hash": 2813913866,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 1464081238",
+     "secondary": "import secondary from 1464081238"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738953425609,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "2814973067": {
    "hash": 2814973067,
@@ -43988,14 +43984,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\n\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
+     "main": "Starts linearly increasing Detonation damage 0.2 seconds after the grenade projectile is fired.\n\nReaches maximum strength after 1.1 seconds at a 25% damage increase.\n\nDamage increase also applies to Area Denial Frame Grenade Launcher lingering pools.\n\nenhanced (\n#e Passively grants 5 Blast Radius.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738599954399,
+      "lastUpdate": 1738957330690,
       "updatedBy": "Stardust"
      }
     },
@@ -44005,7 +44001,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48345,14 +48341,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Hits against <link Minor Combatants [#CombatantClassifications] /> grant 1 Stack of Redirection. Maximum of 20 Stacks.\n\nStacks remain active while stowed.\n\nHits against <link Elite or higher-ranked Combatants [#CombatantClassifications] /> consume up to #e${5-#d} Stacks to grant #e${20+#f}% increased damage per Stack consumed.\n\nenhanced (\nvar d = 1\nvar f = 5\n#e Damage increase per Stack is increased by 25% and the maximum buff requires 1 less Stack. (20%⁠🠚⁠25%)\n)",
+     "main": "Hits against <link Minor Combatants [#CombatantClassifications] /> grant 2 Stacks of Redirection. Maximum of 30 Stacks.\n\nStacks remain active while stowed.\n\nHits against <link Elite or higher-ranked Combatants [#CombatantClassifications] /> consume up to #e${3-#d} Stacks to grant #e${33+#f}% increased damage per Stack consumed.\n\nenhanced (\nvar d = 1\nvar f = 17\n#e Maximum number of Stacks consumed per shot is decreased by 1. Damage increase granted by each Stack is increased to 50% (from 33%).\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722429123114,
+      "lastUpdate": 1738958352192,
       "updatedBy": "Stardust"
      }
     },
@@ -48362,7 +48358,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48450,31 +48446,31 @@
    "uploadToLive": false
   },
   "3218042543": {
-   "hash": 3218042543,
    "name": "Rolling Storm",
+   "hash": 3218042543,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "Weapon Kills grant 1 Stack of <arc/>Bolt Charge.\n\nWhile <arc/>Amplified, this is increased to 2 Stacks.\n\nenhanced (\n#e Weapon Kills with no active <arc/>Bolt Charge Stacks grant an additional Stack.\n)",
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738958793899,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "3224649746": {
    "name": "Void Loader",
@@ -48789,31 +48785,31 @@
    "itemName": "Outbreak Perfected"
   },
   "3244229373": {
-   "hash": 3244229373,
    "name": "Tear",
+   "hash": 3244229373,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 960997401",
+     "secondary": "import secondary from 960997401"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738972180229,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "3245543337": {
    "name": "Bolstering Detonation",
@@ -49176,7 +49172,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -51600,7 +51596,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738953105058,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58035,14 +58031,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grants the following for #e${7+#d} seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\n\nWeapon Kills while Discord is active fully refill the Magazine of <primary/>Primary Weapons, and refund 1 Ammo for <special/>Special Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1? second.\n)",
+     "main": "Grants the following for #e${7+#d} seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\n\nWeapon Kills while Discord is active fully refill the Magazine of <primary/>Primary Weapons, and refund 1 Ammo for <special/>Special and <heavy/>Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1? second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1721147959341,
+      "lastUpdate": 1738955611670,
       "updatedBy": "Stardust"
      }
     },
@@ -58052,7 +58048,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1738975855601,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59519,31 +59515,31 @@
    "inLiveDatabase": true
   },
   "4070834277": {
-   "hash": 4070834277,
    "name": "Reciprocity",
+   "hash": 4070834277,
    "type": "Weapon Trait Enhanced",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "",
-     "secondary": ""
+     "main": "import main from 692399809",
+     "secondary": "import secondary from 692399809"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738957440519,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "4071163871": {
    "name": "Threat Detector",
@@ -61505,31 +61501,31 @@
    "inLiveDatabase": true
   },
   "4198902903": {
-   "hash": 4198902903,
    "name": "Detonator Beam",
+   "hash": 4198902903,
    "type": "Weapon Trait",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738955596113,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1738975855601,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "4200236906": {
    "name": "Gutshot Straight",
