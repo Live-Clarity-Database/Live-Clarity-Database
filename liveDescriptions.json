@@ -920,7 +920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -947,7 +947,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1465,7 +1465,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2039,7 +2039,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2173,7 +2173,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7746,7 +7746,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8414,7 +8414,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -9301,14 +9301,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Class Ability Usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation.\n\n#Reload\n\nWraithmetal Mail:\n• Grants 50 Mobility\n• Sets Handling and Reload Speed to 100\n• Grants a 0.7x Ready/Stow Duration Multiplier\n• Increases Sprint Speed by 6.25%\n• Increases Slide Distance by 33%",
+     "main": "Class Ability usage reloads all equipped weapons from reserves and grants the Wraithmetal Mail buff for 9 seconds at the end of the dodge animation.\n\n#Reload\n\nWraithmetal Mail grants the following benefits:\n• 50 Mobility\n• Sets Handling and Reload Speed to 100\n• 0.7x Ready/Stow Duration Multiplier\n• 6.25% increased Sprint Speed\n• 33% increased Slide Distance",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1700152904302,
+      "lastUpdate": 1739032346171,
       "updatedBy": "Stardust"
      }
     },
@@ -9318,7 +9318,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1709252348445,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -12817,14 +12817,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Class Ability Usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds.\n\nWhile Tight Fit is active:\n• Kills or Dodges grant an additional Stack up to a maximum of 5 and refresh the duration of the buff.\n• Allies within 15 meters receive the same number of Stacks as the wearer (post Stack-gains) when the buff is refreshed.\n\nStat Bonuses at 1|2|3|4|5 Stacks:\n• 30|35|40|45|50 Airborne Effectiveness\n• 40|40|45|50|55 Handling and Reload Speed\n• 1x|0.925x|0.915x|0.91x|0.89x Reload Duration Multiplier",
+     "main": "Class Ability usage grants 1 Stack of Tight Fit to the wearer and allies within 15 meters for 15 seconds.\n\nWhile Tight Fit is active:\n• Kills or Dodges grant an additional Stack up to a maximum of 5 and refresh the duration of the buff.\n• Allies within 15 meters receive the same number of Stacks as the wearer (post Stack-gains) when the buff is refreshed.\n\nStat Bonuses at 1|2|3|4|5 Stacks:\n• 30|35|40|45|50 Airborne Effectiveness\n• 40|40|45|50|55 Handling and Reload Speed\n• 1x|0.925x|0.915x|0.91x|0.89x Reload Duration Multiplier",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1717534731083,
+      "lastUpdate": 1739032356992,
       "updatedBy": "Stardust"
      }
     },
@@ -12834,7 +12834,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1717539628564,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -13176,14 +13176,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Weapon Kills grant #e${10*#d}% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant #e${20*#d}%.\n\nClass Ability Usage grants ? Stability for ? seconds.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.1\n#e Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
+     "main": "Weapon Kills grant #e${10*#d}% Class Ability Energy.\n\nKills with Fusion Rifles, Glaives, Shotguns, and Sniper Rifles grant #e${20*#d}%.\n\nClass Ability usage grants ? Stability for ? seconds.\n\n#ChunkEnergyScalars\n\nenhanced (\nvar d = 1.1\n#e Class Ability Energy gains are increased by 10%. (e.g. 10%⁠🠚⁠11%)\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734438930389,
+      "lastUpdate": 1739032380744,
       "updatedBy": "Stardust"
      }
     },
@@ -13193,7 +13193,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -14760,7 +14760,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -21814,33 +21814,33 @@
    "inLiveDatabase": true
   },
   "1419069769": {
-   "hash": 1419069769,
    "name": "Lightning Rounds",
+   "itemName": "Thunderlord",
+   "hash": 1419069769,
+   "itemHash": 3325463374,
    "type": "Weapon Trait Exotic",
-   "lastUpload": 1675798177540,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
-     "main": "This weapon fires faster and more accurately the longer the trigger is held. Continous damage generates stunning lightning strikes.",
-     "secondary": "This weapon fires faster and more accurately the longer the trigger is held. Continous damage generates stunning lightning strikes."
+     "main": "",
+     "secondary": ""
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1676225966209,
+      "updatedBy": "Icemourne"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
-   "itemHash": 3325463374,
-   "itemName": "Thunderlord"
+   "uploadToLive": false
   },
   "1420473289": {
    "name": "Blood Magic",
@@ -22808,14 +22808,14 @@
    "type": "Weapon Trait Origin",
    "editor": {
     "en": {
-     "main": "Grenade Ability Usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks.\n\nHealing Grenade orb pickups (by anyone) and Grenade Kills grant 1 Stack each.\n\nBenefits at 1|2|3|4|5 Stacks of Explosive Pact:\n• ? Stability\n• 8|16|20|24|44 Reload Speed\n• 0.98x|0.98x|0.975x|0.96x|0.945x Reload Duration Multiplier",
+     "main": "Grenade Ability usage grants 1 Stack of Explosive Pact for 7.5 seconds. Maximum of 5 Stacks.\n\n<solar/>Healing Grenade orb pickups (by anyone) and Grenade Kills grant 1 Stack each.\n\nRunning over a <yellow Speaker's Sight /> Healing Turret does not grant any Stacks.\n\nBenefits at 1|2|3|4|5 Stacks of Explosive Pact:\n• ? Stability\n• 8|16|20|24|44 Reload Speed\n• 0.98x|0.98x|0.975x|0.96x|0.945x Reload Duration Multiplier",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1722369407080,
+      "lastUpdate": 1739032581500,
       "updatedBy": "Stardust"
      }
     },
@@ -22825,7 +22825,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1723480728683,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24420,7 +24420,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29110,7 +29110,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29137,7 +29137,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29164,7 +29164,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29191,7 +29191,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29218,7 +29218,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29230,14 +29230,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds. \n\ne.g.: Barricade Usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased melee damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <pve 20% /> <pvp [10%] /> | <pve 35% /> <pvp [20%] /> increased grenade damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does\n\n#MeleeAbilityDisambiguation",
+     "main": "Grenade or Class Ability usage and dealing Elemental Melee damage grants the 'Empowered Abilities' buff to the other two abilities for 5 seconds. \n\ne.g.: Barricade usage 🠚 Empowered Grenade and Melee Abilities\n\nBuff display on the HUD is nonsensical and does not accurately represent the buff's behavior when chaining multiple abilities together.\n\nEmpowered Melee x1|x2 benefits:\n• 10% | 20% increased Melee damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Melee Regeneration Rate\n\nEmpowered Grenade x1|x2 benefits:\n• <pve 20% /> <pvp [10%] /> | <pve 35% /> <pvp [20%] /> increased Grenade damage\n• <pve 400% /> <pvp [100%] /> | <pve 800% /> <pvp [200%] /> Additional Base Grenade Regeneration Rate\n\nEmpowered Class Ability x1|x2 benefits:\n• 25%|50% Additional Base Class Ability Regeneration Rate\n• Does not grant any measurable benefit to Barricade HP despite stating it does\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734539171489,
+      "lastUpdate": 1739032598517,
       "updatedBy": "Stardust"
      }
     },
@@ -29247,7 +29247,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29691,7 +29691,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -36384,14 +36384,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Class Ability Usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<pve 2.5% /> <pvp [1.25%] /> | <pve 4% /> <pvp [2.4%] />\n\nEnergy Multipliers based on Class:\n<hunter/>Hunters: 1x | <titan/>Titans: 1.2x | <warlock/>Warlocks: 2x",
+     "main": "Class Ability usage while within 15 meters of an enemy grants Super Ability Energy.\n\nSuper Energy Gains with 1|2+ Mods:\n<pve 2.5% /> <pvp [1.25%] /> | <pve 4% /> <pvp [2.4%] />\n\nEnergy Multipliers based on Class:\n<hunter/>Hunters: 1x | <titan/>Titans: 1.2x | <warlock/>Warlocks: 2x",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727528028825,
+      "lastUpdate": 1739032404922,
       "updatedBy": "Stardust"
      }
     },
@@ -36401,7 +36401,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38654,7 +38654,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -40481,14 +40481,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Hitting a target with #d Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• <hunter/>Hunters: <solar/>Proximity Explosive Knife's and <void/>Snare Bomb's detonations, <arc/>Tempest Strike, <stasis/>Withering Blade, <strand/>Threaded Spike\n• <titan/>Titans: <solar/>Throwing Hammer, <solar/>Consecration, <arc/>Thunderclap, <void/>Shield Throw, <strand/>Flechette Storm\n• <warlock/>Warlocks: all abilities except <arc/>Chain Lightning and <strand/>Grapple Melee\n\nThe buff does not stack with the passive Melee Damage Increase against <stasis/>Frozen non-Boss targets. The <link higher buff of the two [https://url.d2clarity.com/melee-buff-interactions] /> takes precedence. (Freeze being higher in every case with the exception of <stasis/>Shiver Strike and <stasis/>Howl of the Storm in PVE)\n\nvar d = all 12\nenhanced (\nvar d = #e10 of the 12\n#e Requires 2 fewer Shotgun Pellets to activate.\n)",
+     "main": "Hitting a target with #d Shotgun Pellets in the spread increases the damage of your next Melee attack within 1.22 seconds by 100%. Stowing the weapon removes the buff.\n\nThe following options do not benefit from the perk:\n• <hunter/>Hunters: <solar/>Proximity Explosive Knife's and <void/>Snare Bomb's detonations, <arc/>Tempest Strike, <stasis/>Withering Blade, <strand/>Threaded Spike\n• <titan/>Titans: <solar/>Throwing Hammer, <solar/>Consecration, <arc/>Thunderclap, <void/>Shield Throw, <strand/>Flechette Storm\n• <warlock/>Warlocks: all abilities except <arc/>Chain Lightning and <strand/>Grapple Melee\n\nThe buff does not stack with the passive Melee Damage increase against <stasis/>Frozen non-Boss targets. The <link higher buff of the two [https://url.d2clarity.com/melee-buff-interactions] /> takes precedence. (Freeze being higher in every case with the exception of <stasis/>Shiver Strike and <stasis/>Howl of the Storm in PVE)\n\nvar d = all 12\nenhanced (\nvar d = #e10 of the 12\n#e Requires 2 fewer Shotgun Pellets to activate.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738606007354,
+      "lastUpdate": 1739032274186,
       "updatedBy": "Stardust"
      }
     },
@@ -40498,7 +40498,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42626,7 +42626,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48807,7 +48807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -50270,14 +50270,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface varies on draw and distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
+     "main": "Splits off 50% of the Bow's bodyshot damage into an Explosive Payload that detonates in a 3 meter radius on impact.\n\nThe Payload deals 30% increased damage in PvE and staggers PvE Combatants more.\n\nPayload detonation time after hitting a target or surface depends on the distance.\n\nThe remaining Impact damage portion receives an increased Crit Multiplier to compensate for the Payload not benefitting from crits.\n\n<pve/>[PvE] Total damage is increased by ~15% of the weapon's bodyshot damage. On crits, the overall increase is 10.33% for Precision Bows and 9.69% for Lightweight Bows.\n\n<pvp/>[PvP] Total damage remains roughly the same but can vary by 1-2% in either direction for crits.\n\nenhanced (\n#e Passively grants 5 Accuracy.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738596581022,
+      "lastUpdate": 1739032257502,
       "updatedBy": "Stardust"
      }
     },
@@ -50287,7 +50287,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -54344,14 +54344,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants an extra <solar/>Solar Melee Ability charge.\n\nAll Melee Charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\n<solar/>Throwing Knife Kills increase <solar/>Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <solar/>Knock 'Em Down Aspect while <solar/>Radiant:\n• Knife Kills restore 1 Charge\n• Knife Trick Precision Kills and Direct <solar/>Ignition Kills in which Knife Trick applies <solar/>Scorch restore both Charges",
+     "main": "Grants an extra <solar/>Solar Melee Ability charge.\n\nAll Melee charges are recharged simultaneously.\n(e.g.: both are recharged on Gambler's Dodge)\n\n<solar/>Throwing Knife Kills increase <solar/>Throwing Knife damage by 30%|60%|100% after 1|2|3 Kills for 5 seconds. Class Ability usage refreshes the buff's duration.\n\nInteraction with the <solar/>Knock 'Em Down Aspect while <solar/>Radiant:\n• Knife Kills restore 1 charge\n• <solar/>Knife Trick Precision Kills and Direct <solar/>Ignition Kills in which Knife Trick applies <solar/>Scorch restore both charges",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734539655601,
+      "lastUpdate": 1739032646140,
       "updatedBy": "Stardust"
      }
     },
@@ -54361,7 +54361,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -55161,19 +55161,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Restores 67 HP on Class Ability Usage.",
+     "main": "Class Ability usage restores 67 HP.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1679418727730,
+      "lastUpdate": 1739032455202,
       "updatedBy": "Stardust"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670511456078,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -55182,7 +55178,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1679418784735,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -56148,14 +56144,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants <void/>Volatile Rounds for <pve 9 /> <pvp [3] /> seconds upon exiting <void/>Void Invisibility, making hits with Void Weapons apply <void/>Volatile. \n\nOn Finishers while affected by <void/>Void Invisibility:\n• Grants a 35% Weapon Damage Buff for 6 seconds\n• Grants you and allies within 24 meters the Reserve Overshield buff\n\nReserve Overshield:\n• Grants 500% Additional Base Class Ability Regeneration Rate\n• Consumed on Class Abiliy usage, granting the user a 40 HP <void/>Void Overshield for 10 seconds\n\n(Letting the timer run out with Echo of Persistence equipped will not grant you <void/>Volatile Rounds. <void/>Volatile explosions do not count as damage originating from your weapon.)",
+     "main": "Grants <void/>Volatile Rounds for <pve 9 /> <pvp [3] /> seconds upon exiting <void/>Void Invisibility, making hits with Void Weapons apply <void/>Volatile. \n\nOn Finishers while affected by <void/>Void Invisibility:\n• Grants a 35% Weapon Damage Buff for 6 seconds\n• Grants you and allies within 24 meters the Reserve Overshield buff\n\nReserve Overshield:\n• Grants 500% Additional Base Class Ability Regeneration Rate\n• Consumed on Class Ability usage, granting the user a 40 HP <void/>Void Overshield for 10 seconds\n\n(Letting the timer run out with Echo of Persistence equipped will not grant you <void/>Volatile Rounds. <void/>Volatile explosions do not count as damage originating from your weapon.)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1727526882348,
+      "lastUpdate": 1739032663049,
       "updatedBy": "Stardust"
      }
     },
@@ -56165,7 +56161,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1727530279353,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57550,7 +57546,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58048,7 +58044,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58936,23 +58932,15 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Class Ability Usage applies Misdirection to enemies within 22 meters.\n\nMisdirection:\n• Deals ~0 damage but counts as a Hit\n• <pve PVE: Disorients Minors and Elites for 5 seconds />\n• <pvp PVP: briefly distorts audio, Disorients, and disables Radar for 5 seconds />",
+     "main": "Class Ability usage applies Misdirection to enemies within 22 meters.\n\nMisdirection:\n• Deals ~0 damage but counts as a Hit\n• <pve PVE: Disorients Minors and Elites for 5 seconds />\n• <pvp PVP: briefly distorts audio, Disorients, and disables Radar for 5 seconds />",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1715800360693,
+      "lastUpdate": 1739032462938,
       "updatedBy": "Stardust"
-     },
-     "ko": {
-      "lastUpdate": 1665695942877,
-      "updatedBy": "tritonesub251"
-     },
-     "zh-chs": {
-      "lastUpdate": 1670677929937,
-      "updatedBy": "Mistwalker"
      }
     },
     "stats": {
@@ -58961,7 +58949,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1715800461024,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59241,14 +59229,14 @@
    "type": "Armor Mod General",
    "editor": {
     "en": {
-     "main": "Class Ability Usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <pve 4% /> <pvp [2%] /> | <pve 6% /> <pvp [3%] /> | <pve 7% /> <pvp [3.5%] />\n• Super Energy: <pve 2% /> <pvp [1%] /> | <pve 3% /> <pvp [1.5%] /> | <pve 4% /> <pvp [2%] />\n\n#ChunkEnergyScalars (Super Energy gains are unaffected)",
+     "main": "Class Ability usage while within 15 meters of an enemy grants Grenade, Melee, Class Ability, and Super Energy.\n\nEnergy Gains with 1|2|3 Mods Equipped:\n• Ability Energy: <pve 4% /> <pvp [2%] /> | <pve 6% /> <pvp [3%] /> | <pve 7% /> <pvp [3.5%] />\n• Super Energy: <pve 2% /> <pvp [1%] /> | <pve 3% /> <pvp [1.5%] /> | <pve 4% /> <pvp [2%] />\n\n#ChunkEnergyScalars (Super Energy gains are unaffected)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734441230007,
+      "lastUpdate": 1739032475610,
       "updatedBy": "Stardust"
      }
     },
@@ -59258,7 +59246,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59369,7 +59357,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739031345713,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -61261,14 +61249,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Increases movement speed by 15% while guarding with <void/>Unbreakable or <void/>Sentinel Shield.\n\nBlocking damage with <void/>Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active <void/>Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve ?% /> <pvp [?%] /> Grenade energy after receiving <pve ? /> <pvp [?] /> damage.",
+     "main": "Increases movement speed by 15% while guarding with <void/>Unbreakable or <void/>Sentinel Shield.\n\nBlocking damage with <void/>Sentinel Shield refunds Super Energy after it ends. Maximum of a 50% refund.\n\nDamage Blocked with an active Overshield does not count towards the Super Energy Refund.\n\n<void/>Unbreakable grants up to <pve ?% /> <pvp [?%] /> Grenade energy after receiving <pve ? /> <pvp [?] /> damage.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738686346462,
+      "lastUpdate": 1739032693158,
       "updatedBy": "Stardust"
      }
     },
@@ -61278,7 +61266,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739032704660,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
