@@ -88,7 +88,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "25156515": {
@@ -96,7 +96,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "25606670": {
@@ -294,7 +294,7 @@
   "itemName": "Radiant Dance Machines",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Grants the followng benefits while a [primary]Primary Weapon is readied:\n• Grants ? Airborne Effectiveness\n• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights\n[primary]Primary Weapon Multikills grant ?% Class Ability energy.\nWhile your Class Ability is charged, [primary]Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges."
+   "en": "Grants the followng benefits while a [primary]Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range, 20? Stability, and 20 Airborne Effectiveness\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\nScoring multiple [primary]Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\nActivation progress granted by each [Enemy Rank](https://url.d2clarity.com/combatants):\nMinors: 34% | Elites and higher: ?% | Players: 100%\nStop using them with The Last Word in PvP I want to enjoy the game ty"
   }
  },
  "117884138": {
@@ -919,7 +919,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "383852321": {
@@ -927,7 +927,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "384759954": {
@@ -1223,7 +1223,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "489583098": {
@@ -2334,7 +2334,7 @@
   "name": "Discord",
   "type": "Weapon Trait Enhanced",
   "descriptions": {
-   "en": "Grants the following for [enh]8 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n[enh] Buff Duration is increased by 1? second."
+   "en": "Grants the following for [enh]8 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n[enh] Buff Duration is increased by 1? second."
   }
  },
  "908147344": {
@@ -3810,7 +3810,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "1444664839": {
@@ -3818,7 +3818,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "1447716563": {
@@ -5082,7 +5082,7 @@
   "itemName": "Geomag Stabilizers",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Collecting [Arc]Ionic Traces grants 7% Super Energy with [Arc]Chaos Reach selected.\nWhile at 6 Stacks of [Arc]Bolt Charge or higher, sprinting grants you a Stack of [Arc]Bolt Charge every ? seconds.\n[Arc]Chaos Reach refunds 10% Super Energy on hit.\n0.75 second cooldown between refunds. This can increase [Arc]Chaos Reach duration by ~120%."
+   "en": "Collecting [Arc]Ionic Traces grants 7% Super Energy with [Arc]Chaos Reach selected.\nWhile at 6 Stacks of [Arc]Bolt Charge or higher, after having sprinted for at least 3.8 seconds, maintaining sprint grants you a Stack of [Arc]Bolt Charge every 2 seconds.\n[Arc]Chaos Reach refunds 10% Super Energy on hit.\n0.75 second cooldown between refunds. This can increase [Arc]Chaos Reach duration by ~120%."
   }
  },
  "1941225610": {
@@ -5358,7 +5358,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2087010645": {
@@ -5610,7 +5610,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "2209081649": {
@@ -5618,7 +5618,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2209918983": {
@@ -6402,7 +6402,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2500502982": {
@@ -7004,7 +7004,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2724068510": {
@@ -7238,7 +7238,7 @@
   "itemName": "Sealed Ahamkara Grasps",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED\nElemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds.\nNightmare Fuel grants ? Handling and ? Airborne Effectiveness.\nReadying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel.\nGaining or refreshing the duration of Nightmare Fuel refills the magazine of all stowed weapons from reserves.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
+   "en": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. [Strand]Grapple Melees do not count.\nGaining or Nightmare Fuel refills the magazine of all stowed weapons from reserves.\nNightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active.\nReadying a different weapon after gaining Nightmare Fuel refreshes its duration and grants [pve]35% [pvp][20%] increased weapon damage ([Empowering Buff](https://url.d2clarity.com/DamageBuffs)). Swapping weapons again removes Nightmare Fuel.\nScoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill).\nNightmare Fuel's damage buff is currently being overridden by both [Solar]Radiant and [Solar]Well of Radiance.\nClarity tooltip editor's note: We're replacing the previous Powered Melee term with Elemental Melee. The former is now exclusively used for perks that require the consumption of a Melee Ability Charge. This note is temporary and will be removed in the future."
   }
  },
  "2805854721": {
@@ -7420,7 +7420,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "2868073561": {
@@ -7664,7 +7664,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "2979486803": {
@@ -7672,7 +7672,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "2979726427": {
@@ -8321,7 +8321,7 @@
   "name": "Rally Barricade",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants"
+   "en": "Only usable while on the ground.\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after.\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants"
   }
  },
  "3268255645": {
@@ -8953,7 +8953,7 @@
   "name": "Empowering Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nGrants a [pve]20% [pvp][15%] [Empowering Buff](https://url.d2clarity.com/DamageBuffs) to you and allies inside the Rift."
   }
  },
  "3492047641": {
@@ -8961,7 +8961,7 @@
   "name": "Healing Rift",
   "type": "Subclass Class",
   "descriptions": {
-   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
+   "en": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\nHeals you and allies in the Rift for 40 HP per second.\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times."
   }
  },
  "3492337375": {
@@ -9839,7 +9839,7 @@
   "itemName": "Crown of Tempests",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "While you have at least 1 [Arc]Arc Ability equipped:\n[Arc]Arc Ability and [Arc]Jolt Kills grant Conduction Tines for [pve]7 [pvp][4] seconds. Maximum of 3 Stacks.\nConduction Tines 1|2|3 grant the following:\n• 167.5%|335%|502.5% additional Base Grenade, Melee, and Super Regeneration Rate\n• 22%|44%|66% Decreased Passive Super Drain (with the exception of [Arc]Chaos Reach)"
+   "en": "While you have at least 1 [Arc]Arc Ability equipped:\n[Arc]Arc Ability and [Arc]Jolt Kills grant a Stack of Conduction Tines for [pve]7 [pvp][4] seconds. Maximum of 3 Stacks.\nThere is a very short cooldown for acquiring Stacks.\nConduction Tines 1|2|3 grant the following:\n• 167.5%|335%|502.5% additional Base Grenade, Melee, and Super Regeneration Rate\n• 22%|44%|66% Decreased Passive Super Drain (with the exception of [Arc]Chaos Reach)"
   }
  },
  "3933525366": {
@@ -9957,7 +9957,7 @@
   "name": "Discord",
   "type": "Weapon Trait",
   "descriptions": {
-   "en": "Grants the following for 7 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
+   "en": "Grants the following for 7 seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\nWeapon Kills while Discord is active fully refill the Magazine of [primary]Primary Weapons, and refund 1 Ammo for [special]Special and [heavy]Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)"
   }
  },
  "3978937353": {
@@ -10175,7 +10175,7 @@
   "itemName": "Star-Eater Scales",
   "type": "Armor Trait Exotic",
   "descriptions": {
-   "en": "Orbs of Power grant an additional 2% Super Energy.\nThis is decreased to 0.5% if [Solar]Golden Gun is the selected Super Ability.\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks.\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks"
+   "en": "Orbs of Power grant an additional 2% Super Energy.\nThis is decreased to 0.5% if [Solar]Golden Gun: Marksman is the selected Super Ability.\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks.\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks"
   }
  },
  "4049631843": {

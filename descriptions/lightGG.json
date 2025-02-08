@@ -605,11 +605,11 @@
  "25156514": {
   "hash": 25156514,
   "name": "Empowering Rift",
-  "lastUpload": 1732219732702,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732219651474,
+     "lastUpdate": 1739030965865,
      "updatedBy": "Stardust"
     }
    }
@@ -629,7 +629,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -668,11 +668,11 @@
  "25156515": {
   "hash": 25156515,
   "name": "Healing Rift",
-  "lastUpload": 1732219732702,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1732219660424,
+     "lastUpdate": 1739030976844,
      "updatedBy": "Stardust"
     }
    }
@@ -692,7 +692,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -1566,7 +1566,7 @@
  "79448657": {
   "hash": 79448657,
   "name": "Psychohack",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -1999,11 +1999,11 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738642973464,
+     "lastUpdate": 1739027390202,
      "updatedBy": "Stardust"
     }
    }
@@ -2016,21 +2016,42 @@
        "text": "Grants the followng benefits while a "
       },
       {
-       "text": "Primary Weapon is readied:"
+       "text": "Primary Weapon is readied and not Aiming Down Sights:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants ? Airborne Effectiveness"
+       "text": "• 30 Mobility"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights"
+       "text": "• ? Range, 20? Stability, and 20 Airborne Effectiveness"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 70% decreased Accuracy Cone Size"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?% increased Precision Aim Cone Angle"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?% increased Aim Assist Falloff Distance (maybe)"
       }
      ]
     },
@@ -2040,20 +2061,44 @@
     {
      "linesContent": [
       {
-       "text": "Primary Weapon Multikills grant ?% Class Ability energy."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "While your Class Ability is charged, "
+       "text": "Scoring multiple "
       },
       {
-       "text": "Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges."
+       "text": "Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Activation progress granted by each "
+      },
+      {
+       "text": "Enemy Rank",
+       "link": "https://url.d2clarity.com/combatants"
+      },
+      {
+       "text": ":"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Minors: 34% | Elites and higher: ?% | Players: 100%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Stop using them with The Last Word in PvP I want to enjoy the game ty"
       }
      ]
     }
@@ -2087,7 +2132,7 @@
  "120721526": {
   "hash": 120721526,
   "name": "Runneth Over",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -6020,7 +6065,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -6084,7 +6129,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -7645,11 +7690,11 @@
  "489583097": {
   "hash": 489583097,
   "name": "Rally Barricade",
-  "lastUpload": 1735009175023,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1734648524131,
+     "lastUpdate": 1739030847825,
      "updatedBy": "Stardust"
     }
    }
@@ -7754,7 +7799,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -8321,7 +8366,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -14324,7 +14369,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.75?x ADS Animation Duration Multiplier"
+       "text": "• 0.75x ADS Animation Duration Multiplier"
       }
      ]
     },
@@ -21684,7 +21729,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -21748,7 +21793,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -23993,7 +24038,7 @@
  "1600429811": {
   "hash": 1600429811,
   "name": "Paracausal Fluid",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -28974,11 +29019,11 @@
   "name": "Close Enough",
   "itemHash": 121305948,
   "itemName": "Geomag Stabilizers",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738614639352,
+     "lastUpdate": 1739026509456,
      "updatedBy": "Stardust"
     }
    }
@@ -29007,10 +29052,10 @@
        "text": "While at 6 Stacks of "
       },
       {
-       "text": "Bolt Charge or higher, sprinting grants you a Stack of "
+       "text": "Bolt Charge or higher, after having sprinted for at least 3.8 seconds, maintaining sprint grants you a Stack of "
       },
       {
-       "text": "Bolt Charge every ? seconds."
+       "text": "Bolt Charge every 2 seconds."
       }
      ]
     },
@@ -30760,7 +30805,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -32280,7 +32325,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -32343,7 +32388,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -36770,7 +36815,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -37989,7 +38034,7 @@
  "2589407652": {
   "hash": 2589407652,
   "name": "Timelost Magazine",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -41037,7 +41082,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -42263,11 +42308,11 @@
   "name": "Nightmare Fuel",
   "itemHash": 1688602431,
   "itemName": "Sealed Ahamkara Grasps",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738643854512,
+     "lastUpdate": 1739029835090,
      "updatedBy": "Stardust"
     }
    }
@@ -42277,7 +42322,10 @@
     {
      "linesContent": [
       {
-       "text": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED"
+       "text": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. "
+      },
+      {
+       "text": "Grapple Melees do not count."
       }
      ]
     },
@@ -42287,43 +42335,78 @@
     {
      "linesContent": [
       {
-       "text": "Elemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Nightmare Fuel grants ? Handling and ? Airborne Effectiveness."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Readying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Gaining or refreshing the duration of Nightmare Fuel "
+       "text": "Gaining or Nightmare Fuel "
       },
       {
        "text": "refills"
       },
       {
        "text": " the magazine of all stowed weapons from reserves."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Nightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Readying a different weapon after gaining Nightmare Fuel refreshes its duration and grants "
+      },
+      {
+       "text": "35%"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: 20%]"
+      },
+      {
+       "text": " increased weapon damage ("
+      },
+      {
+       "text": "Empowering Buff",
+       "link": "https://url.d2clarity.com/DamageBuffs"
+      },
+      {
+       "text": "). Swapping weapons again removes Nightmare Fuel."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Scoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Nightmare Fuel's damage buff is currently being overridden by both "
+      },
+      {
+       "text": "Radiant and "
+      },
+      {
+       "text": "Well of Radiance."
       }
      ]
     },
@@ -43477,7 +43560,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -45045,7 +45128,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -45108,7 +45191,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -48380,7 +48463,7 @@
  "3244229373": {
   "hash": 3244229373,
   "name": "Tear",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -48684,7 +48767,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -52019,7 +52102,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -52082,7 +52165,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -57683,11 +57766,11 @@
   "name": "Conduction Tines",
   "itemHash": 3381022969,
   "itemName": "Crown of Tempests",
-  "lastUpload": 1719594243302,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1719512456514,
+     "lastUpdate": 1739026292629,
      "updatedBy": "Stardust"
     }
    }
@@ -57710,7 +57793,7 @@
        "text": "Arc Ability and "
       },
       {
-       "text": "Jolt Kills grant Conduction Tines for "
+       "text": "Jolt Kills grant a Stack of Conduction Tines for "
       },
       {
        "text": "7"
@@ -57723,6 +57806,16 @@
       },
       {
        "text": " seconds. Maximum of 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "There is a very short cooldown for acquiring Stacks."
       }
      ]
     },
@@ -58389,11 +58482,11 @@
  "3978468247": {
   "hash": 3978468247,
   "name": "Discord",
-  "lastUpload": 1738975855601,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738955611670,
+     "lastUpdate": 1739025837218,
      "updatedBy": "Stardust"
     }
    }
@@ -58410,7 +58503,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.75?x ADS Animation Duration Multiplier"
+       "text": "• 0.75x ADS Animation Duration Multiplier"
       }
      ]
     },
@@ -59523,11 +59616,11 @@
   "name": "Feast of Light",
   "itemHash": 1001356380,
   "itemName": "Star-Eater Scales",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739031345713,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738686530052,
+     "lastUpdate": 1739030747864,
      "updatedBy": "Stardust"
     }
    }
@@ -59547,7 +59640,7 @@
        "text": "This is decreased to 0.5% if "
       },
       {
-       "text": "Golden Gun is the selected Super Ability."
+       "text": "Golden Gun: Marksman is the selected Super Ability."
       }
      ]
     },

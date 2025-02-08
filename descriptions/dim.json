@@ -570,7 +570,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -624,7 +624,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -1835,21 +1835,42 @@
        "classNames": [ "primary" ]
       },
       {
-       "text": "Primary Weapon is readied:"
+       "text": "Primary Weapon is readied and not Aiming Down Sights:"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants ? Airborne Effectiveness"
+       "text": "• 30 Mobility"
       }
      ]
     },
     {
      "linesContent": [
       {
-       "text": "• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights"
+       "text": "• ? Range, 20? Stability, and 20 Airborne Effectiveness"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• 70% decreased Accuracy Cone Size"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?% increased Precision Aim Cone Angle"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "• ?% increased Aim Assist Falloff Distance (maybe)"
       }
      ]
     },
@@ -1859,10 +1880,13 @@
     {
      "linesContent": [
       {
+       "text": "Scoring multiple "
+      },
+      {
        "classNames": [ "primary" ]
       },
       {
-       "text": "Primary Weapon Multikills grant ?% Class Ability energy."
+       "text": "Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges."
       }
      ]
     },
@@ -1872,13 +1896,31 @@
     {
      "linesContent": [
       {
-       "text": "While your Class Ability is charged, "
+       "text": "Activation progress granted by each "
       },
       {
-       "classNames": [ "primary" ]
+       "text": "Enemy Rank",
+       "link": "https://url.d2clarity.com/combatants"
       },
       {
-       "text": "Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges."
+       "text": ":"
+      }
+     ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Minors: 34% | Elites and higher: ?% | Players: 100%"
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Stop using them with The Last Word in PvP I want to enjoy the game ty"
       }
      ]
     }
@@ -5604,7 +5646,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -5659,7 +5701,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -7128,7 +7170,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -13001,7 +13043,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.75?x ADS Animation Duration Multiplier"
+       "text": "• 0.75x ADS Animation Duration Multiplier"
       }
      ]
     },
@@ -19553,7 +19595,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -19608,7 +19650,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -26090,13 +26132,13 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Bolt Charge or higher, sprinting grants you a Stack of "
+       "text": "Bolt Charge or higher, after having sprinted for at least 3.8 seconds, maintaining sprint grants you a Stack of "
       },
       {
        "classNames": [ "arc" ]
       },
       {
-       "text": "Bolt Charge every ? seconds."
+       "text": "Bolt Charge every 2 seconds."
       }
      ]
     },
@@ -27654,7 +27696,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -29019,7 +29061,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -29073,7 +29115,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -32941,7 +32983,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -36934,7 +36976,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -38052,7 +38094,13 @@
     {
      "linesContent": [
       {
-       "text": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED"
+       "text": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. "
+      },
+      {
+       "classNames": [ "strand" ]
+      },
+      {
+       "text": "Grapple Melees do not count."
       }
      ]
     },
@@ -38062,43 +38110,84 @@
     {
      "linesContent": [
       {
-       "text": "Elemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Nightmare Fuel grants ? Handling and ? Airborne Effectiveness."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Readying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel."
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Gaining or refreshing the duration of Nightmare Fuel "
+       "text": "Gaining or Nightmare Fuel "
       },
       {
        "text": "refills"
       },
       {
        "text": " the magazine of all stowed weapons from reserves."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Nightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Readying a different weapon after gaining Nightmare Fuel refreshes its duration and grants "
+      },
+      {
+       "text": "35%"
+      },
+      {
+       "text": " "
+      },
+      {
+       "text": "[PVP: 20%]"
+      },
+      {
+       "text": " increased weapon damage ("
+      },
+      {
+       "text": "Empowering Buff",
+       "link": "https://url.d2clarity.com/DamageBuffs"
+      },
+      {
+       "text": "). Swapping weapons again removes Nightmare Fuel."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Scoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Nightmare Fuel's damage buff is currently being overridden by both "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Radiant and "
+      },
+      {
+       "classNames": [ "solar" ]
+      },
+      {
+       "text": "Well of Radiance."
       }
      ]
     },
@@ -39118,7 +39207,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -40552,7 +40641,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -40606,7 +40695,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -43676,7 +43765,7 @@
     {
      "linesContent": [
       {
-       "text": "• 60% Splash Damage Resistance against PVE Combatants"
+       "text": "• 80% Splash Damage Resistance against PVE Combatants"
       }
      ]
     }
@@ -46619,7 +46708,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -46673,7 +46762,7 @@
     {
      "linesContent": [
       {
-       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds."
+       "text": "Grants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius."
       }
      ]
     },
@@ -51759,7 +51848,7 @@
        "classNames": [ "arc" ]
       },
       {
-       "text": "Jolt Kills grant Conduction Tines for "
+       "text": "Jolt Kills grant a Stack of Conduction Tines for "
       },
       {
        "text": "7"
@@ -51772,6 +51861,16 @@
       },
       {
        "text": " seconds. Maximum of 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "There is a very short cooldown for acquiring Stacks."
       }
      ]
     },
@@ -52372,7 +52471,7 @@
     {
      "linesContent": [
       {
-       "text": "• 0.75?x ADS Animation Duration Multiplier"
+       "text": "• 0.75x ADS Animation Duration Multiplier"
       }
      ]
     },
@@ -53346,7 +53445,7 @@
        "classNames": [ "solar" ]
       },
       {
-       "text": "Golden Gun is the selected Super Ability."
+       "text": "Golden Gun: Marksman is the selected Super Ability."
       }
      ]
     },
