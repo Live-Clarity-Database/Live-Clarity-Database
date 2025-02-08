@@ -1373,6 +1373,22 @@
     {
      "linesContent": [
       {
+       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants (10% on "
+      },
+      {
+       "text": "Primary, 15% on "
+      },
+      {
+       "text": "Special)."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "🡅",
        "classNames": [ "enhancedArrow" ]
       },
@@ -8366,7 +8382,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739032704660,
+  "lastUpload": 1739033358171,
   "updateTracker": {
    "descriptions": {
     "en": {
@@ -12360,7 +12376,13 @@
     {
      "linesContent": [
       {
-       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants."
+       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants (10% on "
+      },
+      {
+       "text": "Primary, 15% on "
+      },
+      {
+       "text": "Special)."
       }
      ]
     },
@@ -26875,11 +26897,11 @@
  "1774574192": {
   "hash": 1774574192,
   "name": "Osmosis",
-  "lastUpload": 1738687242983,
+  "lastUpload": 1739033358171,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1738606405710,
+     "lastUpdate": 1739033348351,
      "updatedBy": "Stardust"
     }
    }
@@ -26909,7 +26931,13 @@
     {
      "linesContent": [
       {
-       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants."
+       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants (10% on "
+      },
+      {
+       "text": "Primary, 15% on "
+      },
+      {
+       "text": "Special)."
       }
      ]
     },
@@ -35537,11 +35565,11 @@
  "2428997981": {
   "hash": 2428997981,
   "name": "Permeability",
-  "lastUpload": 1731793916910,
+  "lastUpload": 1739033358171,
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1731793481543,
+     "lastUpdate": 1739033336968,
      "updatedBy": "Stardust"
     }
    }
@@ -35562,6 +35590,22 @@
      "linesContent": [
       {
        "text": "Magazine Refill cannot be triggered again without stowing the weapon first."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
+       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants (10% on "
+      },
+      {
+       "text": "Primary, 15% on "
+      },
+      {
+       "text": "Special)."
       }
      ]
     }
@@ -45508,7 +45552,13 @@
     {
      "linesContent": [
       {
-       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants."
+       "text": "Kinetic weapons lose their Passive Damage Bonus against non-Boss PVE Combatants (10% on "
+      },
+      {
+       "text": "Primary, 15% on "
+      },
+      {
+       "text": "Special)."
       }
      ]
     },
