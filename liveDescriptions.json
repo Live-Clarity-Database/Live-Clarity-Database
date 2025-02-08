@@ -903,14 +903,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nGrants a <pve 20% /> <pvp [15%] /> <link Empowering Buff [#DamageBuffs] /> to you and allies inside the Rift.",
+     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\n\nGrants a <pve 20% /> <pvp [15%] /> <link Empowering Buff [#DamageBuffs] /> to you and allies inside the Rift.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219651474,
+      "lastUpdate": 1739030965865,
       "updatedBy": "Stardust"
      }
     },
@@ -920,7 +920,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -930,14 +930,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds.\n\nHeals you and allies in the Rift for 40 HP per second. \n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times.",
+     "main": "Only usable while on the ground. Casting the Rift while sprinting causes you to slide into the cast animation.\n\nGrants 20% Damage Resistance during the cast animation. Rift lasts 15 seconds and has a 4 meter radius.\n\nHeals you and allies in the Rift for 40 HP per second. \n\nIf at full health, the Rift grants 3 HP of Overshield per second, up to a 15 HP Overshield.\n\nStanding in a friendly Healing Rift makes the game count you as having an active Overshield at all times.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1732219660424,
+      "lastUpdate": 1739030976844,
       "updatedBy": "Stardust"
      }
     },
@@ -947,7 +947,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1732219732702,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -1465,7 +1465,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2022,14 +2022,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Grants the followng benefits while a <primary/>Primary Weapon is readied:\n• Grants ? Airborne Effectiveness\n• Grants ? Mobility, ? Range, and ?% decreased Accuracy Cone Size while not Aiming Down Sights\n\n<primary/>Primary Weapon Multikills grant ?% Class Ability energy.\n\nWhile your Class Ability is charged, <primary/>Primary Weapon Multikills grant additional Class Ability charges. Maximum of ? charges.",
+     "main": "Grants the followng benefits while a <primary/>Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range, 20? Stability, and 20 Airborne Effectiveness\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\n\nScoring multiple <primary/>Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\n\nActivation progress granted by each <link Enemy Rank [#CombatantClassifications] />:\nMinors: 34% | Elites and higher: ?% | Players: 100%\n\nStop using them with The Last Word in PvP I want to enjoy the game ty",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738642973464,
+      "lastUpdate": 1739027390202,
       "updatedBy": "Stardust"
      }
     },
@@ -2039,7 +2039,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -2173,7 +2173,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -7729,14 +7729,14 @@
    "type": "Subclass Class",
    "editor": {
     "en": {
-     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after. \n\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\n\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 60% Splash Damage Resistance against PVE Combatants",
+     "main": "Only usable while on the ground.\n\nGrants 20% Damage Resistance during the cast animation and keeps you crouched after. \n\nCreates a short, curved, see-through Barricade that blocks all projectiles fired at it.\n\nLasts 20 seconds, has 500 HP, has 90% Damage Resistance against non-Boss PVE Combatants, and ?% Damage Resistance against Bosses.\n\nEnemies that pass through the Barricade continuously receive ? non-lethal damage every ? seconds. PVE Combatants that pass through the Barricade are temporarily disoriented.\n\nBarricade taunts PVE Combatants that are in front of it and within ? meters.\n\nGrants the following benefits to you and allies while standing behind it:\n• 10% increased Damage Falloff Distance\n• 50% Flinch Resistance\n• 30 Stability\n• 100 Reload Speed with a 0.9x Reload Duration Multiplier\n• 80% Splash Damage Resistance against PVE Combatants",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1734648524131,
+      "lastUpdate": 1739030847825,
       "updatedBy": "Stardust"
      }
     },
@@ -7746,7 +7746,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1735009175023,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8414,7 +8414,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -14760,7 +14760,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -24420,7 +24420,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -29088,139 +29088,139 @@
    "uploadToLive": false
   },
   "1910921744": {
-   "hash": 1910921744,
    "name": "Armaments of Ambition",
+   "hash": 1910921744,
    "type": "Weapon Mod",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738976295213,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739031345713,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1910921745": {
-   "hash": 1910921745,
    "name": "Power of Ambition",
+   "hash": 1910921745,
    "type": "Weapon Mod",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738976306775,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739031345713,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1910921746": {
-   "hash": 1910921746,
    "name": "Armaments of Resolve",
+   "hash": 1910921746,
    "type": "Weapon Mod",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738976299311,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739031345713,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1910921747": {
-   "hash": 1910921747,
    "name": "Power of Resolve",
+   "hash": 1910921747,
    "type": "Weapon Mod",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738976309751,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739031345713,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1910921751": {
-   "hash": 1910921751,
    "name": "Willbreaker Munitions",
+   "hash": 1910921751,
    "type": "Weapon Mod",
-   "lastUpload": 1738951046405,
-   "uploadedBy": "Stardust",
    "editor": {
     "en": {
      "main": "",
-     "secondary": ""
+     "secondary": "import self"
     }
    },
    "updateTracker": {
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1738976313166,
+      "updatedBy": "Stardust"
+     }
+    },
     "stats": {
      "lastUpdate": 0,
      "updatedBy": ""
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "updatedBy": ""
-     }
     }
    },
-   "uploadToLive": false,
-   "inLiveDatabase": false
+   "uploadedBy": "Stardust",
+   "lastUpload": 1739031345713,
+   "inLiveDatabase": true,
+   "uploadToLive": false
   },
   "1919923227": {
    "name": "Overflowing Light",
@@ -29674,14 +29674,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Collecting <arc/>Ionic Traces grants 7% Super Energy with <arc/>Chaos Reach selected.\n\nWhile at 6 Stacks of <arc/>Bolt Charge or higher, sprinting grants you a Stack of <arc/>Bolt Charge every ? seconds.\n\n<arc/>Chaos Reach refunds 10% Super Energy on hit. \n0.75 second cooldown between refunds. This can increase <arc/>Chaos Reach duration by ~120%.",
+     "main": "Collecting <arc/>Ionic Traces grants 7% Super Energy with <arc/>Chaos Reach selected.\n\nWhile at 6 Stacks of <arc/>Bolt Charge or higher, after having sprinted for at least 3.8 seconds, maintaining sprint grants you a Stack of <arc/>Bolt Charge every 2 seconds.\n\n<arc/>Chaos Reach refunds 10% Super Energy on hit. \n0.75 second cooldown between refunds. This can increase <arc/>Chaos Reach duration by ~120%.",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738614639352,
+      "lastUpdate": 1739026509456,
       "updatedBy": "Stardust"
      }
     },
@@ -29691,7 +29691,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -38654,7 +38654,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42609,14 +42609,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "NOTE: EVERYTHING BELOW IS AN ASSUMPTION, TESTING IS REQUIRED\n\nElemental? Melee Kills and Finishers grant Nigthmare Fuel for ? seconds.\n\nNightmare Fuel grants ? Handling and ? Airborne Effectiveness.\n\nReadying a weapon with Nightmare Fuel active grants it ?% increased damage for ? seconds. Scoring Kills with the weapon while the buff is active refreshes the duration of Nightmare Fuel.\n\nGaining or refreshing the duration of Nightmare Fuel <title refills [G_refill] /> the magazine of all stowed weapons from reserves.\n\n#MeleeAbilityDisambiguation",
+     "main": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. <strand/>Grapple Melees do not count.\n\nGaining or Nightmare Fuel <title refills [G_refill] /> the magazine of all stowed weapons from reserves.\n\nNightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active.\n\nReadying a different weapon after gaining Nightmare Fuel refreshes its duration and grants <pve 35% /> <pvp [20%] /> increased weapon damage (<link Empowering Buff [#DamageBuffs] />). Swapping weapons again removes Nightmare Fuel.\n\nScoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill).\n\nNightmare Fuel's damage buff is currently being overridden by both <solar/>Radiant and <solar/>Well of Radiance.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738643854512,
+      "lastUpdate": 1739029835090,
       "updatedBy": "Stardust"
      }
     },
@@ -42626,7 +42626,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -48807,7 +48807,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -57533,14 +57533,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "While you have at least 1 <arc/>Arc Ability equipped:\n<arc/>Arc Ability and <arc/>Jolt Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds. Maximum of 3 Stacks.\n\nConduction Tines 1|2|3 grant the following:\n• 167.5%|335%|502.5% additional Base Grenade, Melee, and Super Regeneration Rate\n• 22%|44%|66% Decreased Passive Super Drain (with the exception of <arc/>Chaos Reach)",
+     "main": "While you have at least 1 <arc/>Arc Ability equipped:\n<arc/>Arc Ability and <arc/>Jolt Kills grant a Stack of Conduction Tines for <pve 7 /> <pvp [4] /> seconds. Maximum of 3 Stacks.\n\nThere is a very short cooldown for acquiring Stacks.\n\nConduction Tines 1|2|3 grant the following:\n• 167.5%|335%|502.5% additional Base Grenade, Melee, and Super Regeneration Rate\n• 22%|44%|66% Decreased Passive Super Drain (with the exception of <arc/>Chaos Reach)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1719512456514,
+      "lastUpdate": 1739026292629,
       "updatedBy": "Stardust"
      }
     },
@@ -57550,7 +57550,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1719594243302,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -58031,14 +58031,14 @@
    "type": "Weapon Trait",
    "editor": {
     "en": {
-     "main": "Grants the following for #e${7+#d} seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75?x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\n\nWeapon Kills while Discord is active fully refill the Magazine of <primary/>Primary Weapons, and refund 1 Ammo for <special/>Special and <heavy/>Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1? second.\n)",
+     "main": "Grants the following for #e${7+#d} seconds upon readying the weapon within 7? seconds of scoring a Kill with a different weapon:\n• 0.75x ADS Animation Duration Multiplier\n• 25% decreased Accuracy Cone Size\n• 30 Airborne Effectiveness\n\nWeapon Kills while Discord is active fully refill the Magazine of <primary/>Primary Weapons, and refund 1 Ammo for <special/>Special and <heavy/>Power Weapons. (Scoring multiple kills with a single shot/burst still only refunds 1 ammo.)\n\nenhanced (\nvar d = 1\n#e Buff Duration is increased by 1? second.\n)",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738955611670,
+      "lastUpdate": 1739025837218,
       "updatedBy": "Stardust"
      }
     },
@@ -58048,7 +58048,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738975855601,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -59352,14 +59352,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Orbs of Power grant an additional 2% Super Energy.\nThis is decreased to 0.5% if <solar/>Golden Gun is the selected Super Ability.\n\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks. \n\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks",
+     "main": "Orbs of Power grant an additional 2% Super Energy.\nThis is decreased to 0.5% if <solar/>Golden Gun: Marksman is the selected Super Ability.\n\nPicking up an Orb of Power with a charged Super Ability grants a Stack of 'Feast of Light'. Maximum of 6 Stacks. \n\nCasting your Super while at 1|2|3|4|5|6 Stacks consumes all Stacks and grants the following benefits:\n• 18.2%|36.4%|54.6%|59.7%|64.8%|70% increased Super damage for 14 seconds\n• Restores ?|?|?|?|?|200 HP\n• 100 HP Overshield for 16 seconds if cast at 6 Stacks",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1738686530052,
+      "lastUpdate": 1739030747864,
       "updatedBy": "Stardust"
      }
     },
@@ -59369,7 +59369,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1738687242983,
+   "lastUpload": 1739031345713,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
