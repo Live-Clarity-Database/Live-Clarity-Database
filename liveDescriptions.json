@@ -8414,7 +8414,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739033358171,
+   "lastUpload": 1739033900947,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -42609,14 +42609,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. <strand/>Grapple Melees do not count.\n\nGaining or Nightmare Fuel <title refills [G_refill] /> the magazine of all stowed weapons from reserves.\n\nNightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active.\n\nReadying a different weapon after gaining Nightmare Fuel refreshes its duration and grants <pve 35% /> <pvp [20%] /> increased weapon damage (<link Empowering Buff [#DamageBuffs] />). Swapping weapons again removes Nightmare Fuel.\n\nScoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill).\n\nNightmare Fuel's damage buff is currently being overridden by both <solar/>Radiant and <solar/>Well of Radiance.\n\n#MeleeAbilityDisambiguation",
+     "main": "Powered Melee Kills and Finishers grant Nightmare Fuel for 7 seconds. <strand/>Grapple Melees do not count.\n\nGaining Nightmare Fuel <title refills [G_refill] /> the magazine of all stowed weapons from reserves.\n\nNightmare Fuel grants ? Handling and 50 Airborne Effectiveness while active.\n\nReadying a different weapon after gaining Nightmare Fuel refreshes its duration and grants <pve 35% /> <pvp [20%] /> increased weapon damage (<link Empowering Buff [#DamageBuffs] />). Swapping weapons again removes Nightmare Fuel.\n\nScoring a Kill with a weapon currently benefiting from the damage buff grants you a fresh instance of Nightmare Fuel (as if you scored another Powered Melee Kill).\n\nNightmare Fuel's damage buff is currently being overridden by both <solar/>Radiant and <solar/>Well of Radiance.\n\n#MeleeAbilityDisambiguation",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1739029835090,
+      "lastUpdate": 1739033895608,
       "updatedBy": "Stardust"
      }
     },
@@ -42626,7 +42626,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739032704660,
+   "lastUpload": 1739033900947,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
