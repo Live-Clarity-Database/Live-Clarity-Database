@@ -1851,6 +1851,22 @@
     {
      "linesContent": [
       {
+       "text": "Passively grants 20 Airborne Effectiveness to "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapons."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
+    {
+     "linesContent": [
+      {
        "text": "Grants the followng benefits while a "
       },
       {
@@ -1871,7 +1887,7 @@
     {
      "linesContent": [
       {
-       "text": "• ? Range, 20? Stability, and 20 Airborne Effectiveness"
+       "text": "• ? Range and 20? Stability"
       }
      ]
     },

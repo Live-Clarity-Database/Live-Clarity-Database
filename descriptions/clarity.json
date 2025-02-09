@@ -1987,11 +1987,27 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1739032704660,
+  "lastUpload": 1739112917377,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
    "en": [
+    {
+     "linesContent": [
+      {
+       "text": "Passively grants 20 Airborne Effectiveness to "
+      },
+      {
+       "classNames": [ "primary" ]
+      },
+      {
+       "text": "Primary Weapons."
+      }
+     ]
+    },
+    {
+     "classNames": [ "spacer" ]
+    },
     {
      "linesContent": [
       {
@@ -2015,7 +2031,7 @@
     {
      "linesContent": [
       {
-       "text": "• ? Range, 20? Stability, and 20 Airborne Effectiveness"
+       "text": "• ? Range and 20? Stability"
       }
      ]
     },
@@ -8318,7 +8334,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739033900947,
+  "lastUpload": 1739112917377,
   "stats": {
    "Guard Charge Rate": [
     {
