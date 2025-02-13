@@ -2171,13 +2171,13 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1739112917377,
+  "lastUpload": 1739485788981,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "updateTracker": {
    "descriptions": {
     "en": {
-     "lastUpdate": 1739112890506,
+     "lastUpdate": 1739485784098,
      "updatedBy": "Stardust"
     }
    }
@@ -2284,16 +2284,6 @@
      "linesContent": [
       {
        "text": "Minors: 34% | Elites and higher: ?% | Players: 100%"
-      }
-     ]
-    },
-    {
-     "classNames": [ "spacer" ]
-    },
-    {
-     "linesContent": [
-      {
-       "text": "Stop using them with The Last Word in PvP I want to enjoy the game ty"
       }
      ]
     }
@@ -9125,7 +9115,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739112917377,
+  "lastUpload": 1739485788981,
   "type": "Armor Mod General",
   "uploadedBy": "Stardust",
   "updateTracker": {

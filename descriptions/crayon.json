@@ -362,11 +362,11 @@
   "name": "The Dance",
   "itemHash": 1702288800,
   "itemName": "Radiant Dance Machines",
-  "lastUpload": 1739112917377,
+  "lastUpload": 1739485788981,
   "type": "Armor Trait Exotic",
   "uploadedBy": "Stardust",
   "descriptions": {
-   "en": "Passively grants 20 Airborne Effectiveness to <:primary:968793055677251604>Primary Weapons.\n\nGrants the followng benefits while a <:primary:968793055677251604>Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range and 20? Stability\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\n\nScoring multiple <:primary:968793055677251604>Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\n\nActivation progress granted by each [Enemy Rank](https://url.d2clarity.com/combatants):\nMinors: 34% | Elites and higher: ?% | Players: 100%\n\nStop using them with The Last Word in PvP I want to enjoy the game ty"
+   "en": "Passively grants 20 Airborne Effectiveness to <:primary:968793055677251604>Primary Weapons.\n\nGrants the followng benefits while a <:primary:968793055677251604>Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range and 20? Stability\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\n\nScoring multiple <:primary:968793055677251604>Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\n\nActivation progress granted by each [Enemy Rank](https://url.d2clarity.com/combatants):\nMinors: 34% | Elites and higher: ?% | Players: 100%"
   }
  },
  "117884138": {
@@ -1635,7 +1635,7 @@
  "531057500": {
   "hash": 531057500,
   "name": "Lucent Blades",
-  "lastUpload": 1739112917377,
+  "lastUpload": 1739485788981,
   "stats": {
    "Guard Charge Rate": [
     {
