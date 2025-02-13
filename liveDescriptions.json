@@ -2022,14 +2022,14 @@
    "type": "Armor Trait Exotic",
    "editor": {
     "en": {
-     "main": "Passively grants 20 Airborne Effectiveness to <primary/>Primary Weapons.\n\nGrants the followng benefits while a <primary/>Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range and 20? Stability\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\n\nScoring multiple <primary/>Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\n\nActivation progress granted by each <link Enemy Rank [#CombatantClassifications] />:\nMinors: 34% | Elites and higher: ?% | Players: 100%\n\nStop using them with The Last Word in PvP I want to enjoy the game ty",
+     "main": "Passively grants 20 Airborne Effectiveness to <primary/>Primary Weapons.\n\nGrants the followng benefits while a <primary/>Primary Weapon is readied and not Aiming Down Sights:\n• 30 Mobility\n• ? Range and 20? Stability\n• 70% decreased Accuracy Cone Size\n• ?% increased Precision Aim Cone Angle\n• ?% increased Aim Assist Falloff Distance (maybe)\n\nScoring multiple <primary/>Primary Weapon Kills within ? seconds of each grants a Class Ability charge. Maximum of 3 charges.\n\nActivation progress granted by each <link Enemy Rank [#CombatantClassifications] />:\nMinors: 34% | Elites and higher: ?% | Players: 100%",
      "secondary": "import self"
     }
    },
    "updateTracker": {
     "descriptions": {
      "en": {
-      "lastUpdate": 1739112890506,
+      "lastUpdate": 1739485784098,
       "updatedBy": "Stardust"
      }
     },
@@ -2039,7 +2039,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739112917377,
+   "lastUpload": 1739485788981,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -8414,7 +8414,7 @@
     }
    },
    "uploadedBy": "Stardust",
-   "lastUpload": 1739112917377,
+   "lastUpload": 1739485788981,
    "inLiveDatabase": true,
    "uploadToLive": false
   },
@@ -20013,6 +20013,33 @@
    "uploadToLive": false,
    "inLiveDatabase": true
   },
+  "1298135794": {
+   "hash": 1298135794,
+   "name": "Subjugation",
+   "type": "Weapon Trait Origin",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false
+  },
   "1298151900": {
    "hash": 1298151900,
    "name": "Deathbringer Catalyst",
@@ -23189,6 +23216,35 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "1524069046": {
+   "hash": 1524069046,
+   "name": "Taken Ambition",
+   "type": "Weapon Trait Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
   "1525239159": {
    "hash": 1525239159,
    "name": "Aggressive Frame",
@@ -23688,6 +23744,35 @@
    "lastUpload": 1680554889429,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "1555922475": {
+   "hash": 1555922475,
+   "name": "Taken Resolution",
+   "type": "Weapon Trait Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
   },
   "1556840489": {
    "name": "Lead from Gold",
@@ -29965,6 +30050,122 @@
    "lastUpload": 1709252348445,
    "inLiveDatabase": true,
    "uploadToLive": false
+  },
+  "1963279224": {
+   "hash": 1963279224,
+   "name": "Panic Response IV",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "1963279225": {
+   "hash": 1963279225,
+   "name": "Panic Response V",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "1963279230": {
+   "hash": 1963279230,
+   "name": "Panic Response II",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "1963279231": {
+   "hash": 1963279231,
+   "name": "Panic Response III",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
   },
   "1964414318": {
    "hash": 1964414318,
@@ -51683,6 +51884,35 @@
    "itemHash": 19024058,
    "itemName": "Prometheus Lens"
   },
+  "3471414563": {
+   "hash": 3471414563,
+   "name": "Taken Divergence",
+   "type": "Weapon Trait Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
   "3472640090": {
    "hash": 3472640090,
    "name": "Lightweight Frame",
@@ -60193,6 +60423,35 @@
    "inLiveDatabase": true,
    "uploadToLive": false
   },
+  "4127881474": {
+   "hash": 4127881474,
+   "name": "Panic Response",
+   "type": "Weapon Frame Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
   "4129855581": {
    "name": "Crossing Over",
    "hash": 4129855581,
@@ -61568,6 +61827,122 @@
    },
    "uploadToLive": false,
    "inLiveDatabase": true
+  },
+  "4204405032": {
+   "hash": 4204405032,
+   "name": "Target Lock Refit",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "4204405033": {
+   "hash": 4204405033,
+   "name": "One for All Refit",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "4204405034": {
+   "hash": 4204405034,
+   "name": "Hatchling Refit",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
+  },
+  "4204405035": {
+   "hash": 4204405035,
+   "name": "High-Impact Reserves Refit",
+   "type": "Weapon Catalyst Exotic",
+   "lastUpload": 1739485788981,
+   "uploadedBy": "Stardust",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "updatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "inLiveDatabase": false,
+   "itemHash": 1481594633,
+   "itemName": "Barrow-Dyad"
   },
   "4207509907": {
    "name": "Killing Wind",
@@ -63376,6 +63751,23 @@
      "has": [
       4004944400,
       1324340508
+     ]
+    },
+    {
+     "name": "Barrow-Dyad",
+     "has": [
+      1963279224,
+      1524069046,
+      1555922475,
+      1963279225,
+      1963279230,
+      1963279231,
+      3471414563,
+      4127881474,
+      4204405032,
+      4204405033,
+      4204405034,
+      4204405035
      ]
     },
     {
